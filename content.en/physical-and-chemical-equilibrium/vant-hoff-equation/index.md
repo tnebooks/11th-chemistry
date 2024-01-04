@@ -35,30 +35,31 @@ Equation 5 is known as integrated form of van’t Hoff equation.
 
 **Problem:**
 
-For an equilibrium reaction Kp = 0.0260 at 25° C ΔH= 32.4 kJmol-1, calculate Kp at 37° C 
+For an equilibrium reaction Kp = 0.0260 at 25° C ΔH= 32.4 kJmol<sup>-1</sup>, calculate Kp at 37° C 
 **Solution :**
 
-T1=25 + 273 = 298 K
+T<sub>1</sub>=25 + 273 = 298 K
 
-T2 = 37 + 273 = 310 K
+T<sub>2</sub> = 37 + 273 = 310 K
 
-ΔH = 32.4 KJmol-1 = 32400 Jmol-1
+ΔH = 32.4 KJmol<sup>-1</sup> = 32400 Jmol<sup>-1</sup>
 
-R=8.314 JK-1 mol-1
+R=8.314 JK<sup>-1</sup> mol<sup>-1</sup>
 
-Kp1 = 0.0260
+Kp<sub>1</sub> = 0.0260
 
-Kp2 = ?
+Kp<sub>2</sub> = ?
 
-**Evaluate Yourself**
-
+**Evaluate Yourself**   
 5) The equilibrium constant for the following reaction is 0.15 at 298 K and 1 atm pressure.
 
-N2O4(g) ⇌ 2NO2(g);
+N<sub>2</sub>O<sub>4</sub>(g) ⇌ 2NO<sub>2</sub>(g); 
 
-ΔHº = 57.32 KJmol-1
+ΔHº<sub>f</sub> = 57.32 KJmol<sup>-1</sup>
 
-The reaction conditions are altered as follows. a) The reaction temperature is altered to 100o C keeping the pressure at 1 atm, Calculate the equilibrium constant.
+The reaction conditions are altered as follows. 
+
+a) The reaction temperature is altered to 100o C keeping the pressure at 1 atm, Calculate the equilibrium constant.
 
 **Do you Know?**
 How does oxygen exchanges between maternal and fetal blood in pregnant women? ![img](fetal.jpg) In a pregnant women, the oxygen supply for fetus is provided by the maternal blood in the placenta where the blood vessels of both mother and fetus are in close proximity. Both fetal and maternal hemoglobin binds to oxygen reversibly as follows. Hb(mother) + O<SUB>2</SUB> ⇌ HbO<SUB>2</SUB> (mother) Hb(fetus) + O<SUB>2</SUB> ⇌ HbO<SUB>2</SUB> (Fetus) In the above two equilibriums, the equilibrium constant value for the oxygenation of fetal hemoglobin is higher, which is due to its higher affinity for oxygen compared to the adult hemoglobin. Hence in placenta, the oxygen from the mother's blood is effectively transferred to the fetal hemoglobin
@@ -95,16 +96,16 @@ Chemical Equilibrium
 
 **I. Choose the best answer.**
 
-1\. If Kb and Kf for a reversible reaction are 0.8 ×10–5 and 1.6 × 10–4 respectively, the value of the equilibrium constant is,
+1\. If K<sub>b</sub> and K<sub>f</sub> for a reversible reaction are 0.8 ×10<sup>-5</sup> and 1.6 × 10<sup>-4</sup> respectively, the value of the equilibrium constant is,
 
-a) 20 b) 0.2 × 10–1
+a) 20 b) 0.2 × 10<sup>-1</sup>
 
 c) 0.05 d) none of these
 
 2\. At a given temperature and pressure, the equilibrium constant values for the equilibriam
-The relation between K1 and K2 is
+The relation between K<sub>1</sub> and K<sub>2</sub> is
 
-3\. The equilibrium constant for a reaction at room temperature is K1 and that at 700 K is K2. If K1 > K2, then
+3\. The equilibrium constant for a reaction at room temperature is K1 and that at 700 K is K<sub>2</sub>. If K<sub>1</sub> > K<sub>2</sub>, then
 
 a) The forward reaction is exothermic
 
@@ -326,7 +327,7 @@ H2 + ½O2 ⇌ H2O ; K3
 
 The equilibrium constant (K) for the reaction ;
 
-| (i) |(ii) |(iii) |(iv) |
+| |(i) |(ii) |(iii) |(iv) |
 |------|------|------|------|------|
 | (a) |1 |2 |3 |4 |
 | (b) |3 |1 |4 |2 |
