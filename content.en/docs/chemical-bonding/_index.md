@@ -1,7 +1,7 @@
 ---
 title: 'Chemical Bonding'
 categories:
-    - science
+    - chemical-bonding
 weight: 10
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'கார மற்றும் காரமூல உலோகங்கள்'
+title: 'Alkali and Alkaline Earth Metals'
 categories:
-    - science
+    - alkali-and-alkaline-earth-metals
 weight: 5
 ---
 
-கார மற்றும் காரமூல உலோகங்கள்
+Alkali and Alkaline Earth Metals

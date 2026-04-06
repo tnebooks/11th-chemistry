@@ -1,8 +1,8 @@
 ---
-title: 'ஹைட்ரஜன்'
+title: 'Hydrogen'
 categories:
-    - science
+    - hydrogen
 weight: 4
 ---
 
-ஹைட்ரஜன்
+Hydrogen

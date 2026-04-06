@@ -1,8 +1,8 @@
 ---
-title: 'ஹேலோஆல்கேன்கள் மற்றும் ஹேலோஅரீன்கள்'
+title: 'Haloalkanes and Haloarenes'
 categories:
-    - science
+    - haloalkanes-and-haloarenes
 weight: 14
 ---
 
-ஹேலோஆல்கேன்கள் மற்றும் ஹேலோஅரீன்கள்
+Haloalkanes and Haloarenes

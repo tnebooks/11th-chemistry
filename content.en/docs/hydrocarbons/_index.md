@@ -1,7 +1,7 @@
 ---
 title: 'Hydrocarbons'
 categories:
-    - science
+    - hydrocarbons
 weight: 13
 ---
 

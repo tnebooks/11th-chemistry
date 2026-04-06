@@ -1,8 +1,8 @@
 ---
-title: 'வேதியியல் இணைப்பு'
+title: 'Chemical Bonding'
 categories:
-    - science
+    - chemical-bonding
 weight: 10
 ---
 
-வேதியியல் இணைப்பு
+Chemical Bonding

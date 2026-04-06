@@ -1,7 +1,7 @@
 ---
 title: 'Environmental Chemistry'
 categories:
-    - science
+    - environmental-chemistry
 weight: 15
 ---
 

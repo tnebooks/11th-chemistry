@@ -1,8 +1,8 @@
 ---
-title: 'வேதியியல் அடிப்படை கருத்துகள் மற்றும் கணக்கீடுகள்'
+title: 'Basic Concepts of Chemistry and Chemical Calculations'
 categories:
-    - science
+    - basic-concepts-of-chemistry-and-chemical-calculations
 weight: 1
 ---
 
-வேதியியல் அடிப்படை கருத்துகள் மற்றும் கணக்கீடுகள்
+Basic Concepts of Chemistry and Chemical Calculations

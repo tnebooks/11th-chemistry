@@ -1,8 +1,8 @@
 ---
-title: 'ஹைட்ரோகார்பன்கள்'
+title: 'Hydrocarbons'
 categories:
-    - science
+    - hydrocarbons
 weight: 13
 ---
 
-ஹைட்ரோகார்பன்கள்
+Hydrocarbons

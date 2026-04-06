@@ -1,7 +1,7 @@
 ---
 title: 'Basic Concepts of Chemistry and Chemical Calculations'
 categories:
-    - science
+    - basic-concepts-of-chemistry-and-chemical-calculations
 weight: 1
 ---
 

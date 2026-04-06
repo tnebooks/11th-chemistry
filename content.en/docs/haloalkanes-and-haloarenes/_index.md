@@ -1,7 +1,7 @@
 ---
 title: 'Haloalkanes and Haloarenes'
 categories:
-    - science
+    - haloalkanes-and-haloarenes
 weight: 14
 ---
 

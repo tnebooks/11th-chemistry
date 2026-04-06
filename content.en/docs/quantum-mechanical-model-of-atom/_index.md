@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Mechanical Model of Atom'
 categories:
-    - science
+    - quantum-mechanical-model-of-atom
 weight: 2
 ---
 

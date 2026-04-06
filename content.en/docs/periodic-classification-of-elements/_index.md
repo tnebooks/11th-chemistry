@@ -1,7 +1,7 @@
 ---
 title: 'Periodic Classification Of Elements'
 categories:
-    - science
+    - periodic-classification-of-elements
 weight: 3
 ---
 
