@@ -1,7 +1,7 @@
 ---
 title: 'Solutions'
 categories:
-    - science
+    - solutions
 weight: 9
 ---
 

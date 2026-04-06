@@ -1,7 +1,7 @@
 ---
 title: 'Fundamentals of Organic Chemistry'
 categories:
-    - science
+    - fundamentals-of-organic-chemistry
 weight: 11
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Gaseous State'
 categories:
-    - science
+    - gaseous-state
 weight: 6
 ---
 

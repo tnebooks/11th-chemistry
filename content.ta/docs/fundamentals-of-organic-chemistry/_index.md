@@ -1,8 +1,8 @@
 ---
-title: 'கரிம வேதியியல் அடிப்படை'
+title: 'Fundamentals of Organic Chemistry'
 categories:
-    - science
+    - fundamentals-of-organic-chemistry
 weight: 11
 ---
 
-கரிம வேதியியல் அடிப்படை
+Fundamentals of Organic Chemistry

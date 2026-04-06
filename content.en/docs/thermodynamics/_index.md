@@ -1,7 +1,7 @@
 ---
 title: 'Thermodynamics'
 categories:
-    - science
+    - thermodynamics
 weight: 7
 ---
 

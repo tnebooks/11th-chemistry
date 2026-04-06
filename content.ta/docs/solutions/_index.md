@@ -1,8 +1,8 @@
 ---
-title: 'தீர்வுகள்'
+title: 'Solutions'
 categories:
-    - science
+    - solutions
 weight: 9
 ---
 
-தீர்வுகள்
+Solutions

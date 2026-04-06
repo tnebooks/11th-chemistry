@@ -1,8 +1,8 @@
 ---
-title: 'வெப்பவியல்'
+title: 'Thermodynamics'
 categories:
-    - science
+    - thermodynamics
 weight: 7
 ---
 
-வெப்பவியல்
+Thermodynamics

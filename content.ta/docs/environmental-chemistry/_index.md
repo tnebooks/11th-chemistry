@@ -1,8 +1,8 @@
 ---
-title: 'சுற்றுச்சூழல் வேதியியல்'
+title: 'Environmental Chemistry'
 categories:
-    - science
+    - environmental-chemistry
 weight: 15
 ---
 
-சுற்றுச்சூழல் வேதியியல்
+Environmental Chemistry

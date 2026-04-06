@@ -1,8 +1,8 @@
 ---
-title: 'தொகுதி அட்டவணை வகைப்படுத்தல்'
+title: 'Periodic Classification Of Elements'
 categories:
-    - science
+    - periodic-classification-of-elements
 weight: 3
 ---
 
-தொகுதி அட்டவணை வகைப்படுத்தல்
+Periodic Classification Of Elements

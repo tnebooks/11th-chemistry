@@ -1,7 +1,7 @@
 ---
 title: 'Hydrogen'
 categories:
-    - science
+    - hydrogen
 weight: 4
 ---
 

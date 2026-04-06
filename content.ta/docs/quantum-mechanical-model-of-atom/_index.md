@@ -1,8 +1,8 @@
 ---
-title: 'அணுவின் குவாண்டம் இயற்பியல் மாதிரி'
+title: 'Quantum Mechanical Model of Atom'
 categories:
-    - science
+    - quantum-mechanical-model-of-atom
 weight: 2
 ---
 
-அணுவின் குவாண்டம் இயற்பியல் மாதிரி
+Quantum Mechanical Model of Atom

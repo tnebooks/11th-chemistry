@@ -1,8 +1,8 @@
 ---
-title: 'இயற்பியல் மற்றும் வேதியியல் சமநிலை'
+title: 'Physical and Chemical Equilibrium'
 categories:
-    - science
+    - physical-and-chemical-equilibrium
 weight: 8
 ---
 
-இயற்பியல் மற்றும் வேதியியல் சமநிலை
+Physical and Chemical Equilibrium

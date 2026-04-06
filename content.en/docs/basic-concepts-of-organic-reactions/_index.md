@@ -1,7 +1,7 @@
 ---
 title: 'Basic concepts of organic reactions'
 categories:
-    - science
+    - basic-concepts-of-organic-reactions
 weight: 12
 ---
 

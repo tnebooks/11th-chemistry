@@ -1,8 +1,8 @@
 ---
-title: 'வாயு நிலை'
+title: 'Gaseous State'
 categories:
-    - science
+    - gaseous-state
 weight: 6
 ---
 
-வாயு நிலை
+Gaseous State

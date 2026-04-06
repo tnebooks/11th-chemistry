@@ -1,7 +1,7 @@
 ---
 title: 'Alkali and Alkaline Earth Metals'
 categories:
-    - science
+    - alkali-and-alkaline-earth-metals
 weight: 5
 ---
 
