@@ -53,11 +53,11 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          git submodule add -f https://github.com/csebooks/hugo-book themes/hugo-book
+          git clone https://github.com/gurukulams/design-system themes/design-system
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-          export QUESTIONS_FOLDER="$PWD/questions" && export PUBLIC_FOLDER="$PWD/public" && npm i --prefix themes/hugo-book/
+          export QUESTIONS_FOLDER="$PWD/questions" && export PUBLIC_FOLDER="$PWD/public" && npm i --prefix themes/design-system/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
