@@ -3,6 +3,8 @@ title: 'Gaseous State'
 categories:
     - gaseous-state
 weight: 6
+summary: "This unit explains the behavior and properties of gases using concepts such as pressure, volume, temperature, and molecular motion. It covers gas laws including Boyle’s law, Charles’ law, Avogadro’s law, and the ideal gas equation along with kinetic theory of gases. The chapter also discusses real gases, deviations from ideal behavior, and liquefaction of gases."
+
 ---
 
 # Unit 6 - Gaseous State
