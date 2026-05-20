@@ -3,6 +3,8 @@ title: 'Basic Concepts of Chemistry and Chemical Calculations'
 categories:
     - basic-concepts-of-chemistry-and-chemical-calculations
 weight: 1
+summary: "This unit introduces the fundamental concepts of chemistry, including matter, atoms, molecules, and chemical reactions. It explains laws of chemical combination, mole concept, atomic and molecular masses, and stoichiometric calculations used in chemistry. The chapter also develops problem-solving skills related to chemical formulas, equations, and numerical calculations."
+
 ---
 
 # Unit 1 - Basic Concepts of Chemistry and Chemical Calculations

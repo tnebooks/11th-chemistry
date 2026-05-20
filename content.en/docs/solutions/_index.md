@@ -3,6 +3,8 @@ title: 'Solutions'
 categories:
     - solutions
 weight: 9
+summary: "This unit explains the formation, types, and properties of solutions along with the factors affecting solubility. It covers concentration terms, vapor pressure, Raoult’s law, colligative properties, and abnormal molecular masses. The chapter also discusses ideal and non-ideal solutions and the applications of solutions in chemistry and daily life."
+
 ---
 
 # 9. Solutions

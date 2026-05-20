@@ -3,6 +3,8 @@ title: 'Physical and Chemical Equilibrium'
 categories:
     - physical-and-chemical-equilibrium
 weight: 8
+summary: "This unit explains the concepts of physical and chemical equilibrium and the conditions required for equilibrium in reversible processes. It covers equilibrium constants, Le Chatelier’s principle, ionic equilibrium, acids, bases, pH, and buffer solutions. The chapter also discusses factors affecting equilibrium and the applications of equilibrium principles in chemical reactions."
+
 ---
 
 # Unit 8 - Chemical Equilibrium
