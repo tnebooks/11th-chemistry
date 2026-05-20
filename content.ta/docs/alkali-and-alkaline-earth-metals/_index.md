@@ -1,5 +1,5 @@
 ---
-title: 'Alkali and Alkaline Earth Metals'
+title: 'ஆல்கலி மற்றும் ஆல்கலைன் எர்த் உலோகங்கள்'
 categories:
     - alkali-and-alkaline-earth-metals
 weight: 5

@@ -1,5 +1,5 @@
 ---
-title: 'Periodic Classification Of Elements'
+title: 'தனிமங்களின் கால அட்டவணை வகைப்பாடு'
 categories:
     - periodic-classification-of-elements
 weight: 3

@@ -1,5 +1,5 @@
 ---
-title: 'Solutions'
+title: 'கரைசல்கள்'
 categories:
     - solutions
 weight: 9

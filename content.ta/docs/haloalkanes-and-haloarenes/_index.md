@@ -1,5 +1,5 @@
 ---
-title: 'Haloalkanes and Haloarenes'
+title: 'ஹாலோஆல்கேன்கள் மற்றும் ஹாலோஅரீன்கள்'
 categories:
     - haloalkanes-and-haloarenes
 weight: 14
