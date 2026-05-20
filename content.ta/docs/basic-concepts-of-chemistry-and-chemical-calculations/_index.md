@@ -1,5 +1,5 @@
 ---
-title: 'Basic Concepts of Chemistry and Chemical Calculations'
+title: 'இரசாயனவியலின் அடிப்படைக் கருத்துகள் மற்றும் இரசாயனக் கணக்கீடுகள்'
 categories:
     - basic-concepts-of-chemistry-and-chemical-calculations
 weight: 1

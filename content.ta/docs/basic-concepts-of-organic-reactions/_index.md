@@ -1,5 +1,5 @@
 ---
-title: 'Basic concepts of organic reactions'
+title: 'கரிம வினைகளின் அடிப்படைக் கருத்துகள்'
 categories:
     - basic-concepts-of-organic-reactions
 weight: 12

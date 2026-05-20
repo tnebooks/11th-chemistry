@@ -1,5 +1,5 @@
 ---
-title: 'Environmental Chemistry'
+title: 'சுற்றுச்சூழல் இரசாயனவியல்'
 categories:
     - environmental-chemistry
 weight: 15

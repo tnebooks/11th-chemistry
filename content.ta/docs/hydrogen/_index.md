@@ -1,5 +1,5 @@
 ---
-title: 'Hydrogen'
+title: 'ஹைட்ரஜன்'
 categories:
     - hydrogen
 weight: 4

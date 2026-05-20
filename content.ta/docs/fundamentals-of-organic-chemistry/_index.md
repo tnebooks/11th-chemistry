@@ -1,5 +1,5 @@
 ---
-title: 'Fundamentals of Organic Chemistry'
+title: 'கரிம இரசாயனவியலின் அடிப்படைகள்'
 categories:
     - fundamentals-of-organic-chemistry
 weight: 11

@@ -1,5 +1,5 @@
 ---
-title: 'Gaseous State'
+title: 'வாயு நிலை'
 categories:
     - gaseous-state
 weight: 6

@@ -1,5 +1,5 @@
 ---
-title: 'Physical and Chemical Equilibrium'
+title: 'இயற்பியல் மற்றும் இரசாயன சமநிலை'
 categories:
     - physical-and-chemical-equilibrium
 weight: 8

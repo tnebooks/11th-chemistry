@@ -1,5 +1,5 @@
 ---
-title: 'Chemical Bonding'
+title: 'இரசாயன பிணைப்பு'
 categories:
     - chemical-bonding
 weight: 10
