@@ -38,6 +38,9 @@ Let us recall the history of the development of atomic models from the previous 
 (ii) some of them were deflected through a small angle and
 (iii) very few \( \alpha \) -particles were reflected back by \( 180^{\circ} \)
 
+
+![](img2.1.png)
+
 <center><strong>Figure 2.1 Rutherford's \( \alpha \) -ray scattering experiment</strong></center>
 
 Based on these observations, he proposed that in an atom there is a tiny positively charged nucleus and the electrons are moving around the nucleus with high speed. The theory of electromagnetic radiation states that a moving charged particle should continuously lose its energy in the form of radiation. Therefore, the moving electron in an atom should continuously lose its energy and finally collide with nucleus resulting in the collapse of the atom. However, this doesn't happen and the atoms are stable. Moreover, this model does not explain the distribution of electrons around the nucleus and their energies.
@@ -180,6 +183,8 @@ $$
 Angular momentum \( = \frac{n\mathrm{h}}{2\pi} \)
 
 The above equation was already predicted by Bohr. Hence, de Broglie and Bohr's concepts are in agreement with each other.
+
+![](img2.2.png)
 
 <center><strong>Figure 2.2 Wave nature of electrons in allowed Bohr orbits</strong></center>
 
@@ -382,6 +387,8 @@ Consider a single electron of hydrogen atom in the ground state for which the qu
 
 The graph shows that as the distance between the electron and the nucleus decreases, the probability of finding the electron increases. At \( r = 0 \) the quantity \( \mathrm{R}(r)^2 \) is maximum i.e., the maximum value for \( |\Psi|^2 \) is at the nucleus. However, probability of finding the electron in a given spherical shell around the nucleus is important. Let us consider the volume \( dV \) bounded by two spheres of radii \( r \) and \( r + dr \).
 
+![](2.3figure.png)
+
 <center><strong>Figure 2.4</strong></center>
 
 Volume of the sphere, \( \mathrm{V} = \frac{4}{3}\pi r^3 \)
@@ -416,20 +423,27 @@ For 2s orbital, as the distance from nucleus \( r \) increases, the probability 
 
 ### Angular Distribution Function
 
-The variation of the probability of locating the electron on a sphere with nucleus at its centre depends on the azimuthal quantum number of the orbital in which the electron is present. For 1s orbital, \( l = 0 \) and \( m = 0 \). \( \mathrm{f}(\theta) = 1/\sqrt{2} \) and \( \mathrm{g}(\phi) = 1/\sqrt{2\pi} \). Therefore, the angular distribution function is equal to \( 1/2\sqrt{\pi} \), i.e., it is independent of the angle \( \theta \) and \( \phi \). Hence, the probability of finding the electron is independent of the direction from the nucleus. The shape of the s orbital is spherical as shown in the figure 2.7.
+The variation of the probability of locating the electron on a sphere with nucleus at its centre depends on the azimuthal quantum number of the orbital in which the electron is present. For 1s\ orbital, \( l = 0 \) and \( m = 0 \). \( \mathrm{f}(\theta) = 1/\sqrt{2} \) and \( \mathrm{g}(\phi) = 1/\sqrt{2\pi} \). Therefore, the angular distribution function is equal to \( 1/2\sqrt{\pi} \), i.e., it is independent of the angle \( \theta \) and \( \phi \). Hence, the probability of finding the electron is independent of the direction from the nucleus. The shape of the s orbital is spherical as shown in the figure 2.7.
+
+![](figure2.6.png)
 
 <center><strong>Figure 2.7 Shapes of 1s, 2s and 3s orbitals</strong></center>
 
 For p orbitals \( l = 1 \) and the corresponding \( m \) values are -1, 0 and \( +1 \). The angular distribution functions are quite complex and are not discussed here. The shape of the p orbital is shown in Figure 2.8. The three different \( m \) values indicates that there are three different orientations possible for p orbitals. These orbitals are designated as \( \mathrm{p_x}, \mathrm{p_y} \) and \( \mathrm{p_z} \) and the angular distribution for these orbitals shows that the lobes are along the \( x, y \) and \( z \) axis respectively. As seen in the Figure 2.8 the 2p orbitals have one nodal plane.
+
+![](img2.14.png)
 
 <center><strong>Figure 2.8 (a) Shapes of 2p orbitals</strong></center>
 <center><strong>Figure 2.8 (b) Cartoon representations of 2p orbitals</strong></center>
 
 For 'd' orbital \( l = 2 \) and the corresponding \( m \) values are -2, -1, 0, +1, +2. The shape of the d orbital looks like a 'clover leaf'. The five \( m \) values give rise to five d orbitals namely \( \mathrm{d_{xy}}, \mathrm{d_{yz}}, \mathrm{d_{zx}}, \mathrm{d_{x^2-y^2}} \) and \( \mathrm{d_{z^2}} \). The 3d orbitals contain two nodal planes as shown in Figure 2.9.
 
+![](figure2.8.png)
 <center><strong>Figure 2.9 Shapes of d orbitals</strong></center>
 
 For f orbital, \( l = 3 \) and the \( m \) values are -3, -2, -1, 0, +1, +2, +3 corresponding to seven f orbitals \( \mathrm{f_{z^3}}, \mathrm{f_{xz^2}}, \mathrm{f_{yz^2}}, \mathrm{f_{xyz}}, \mathrm{f_{z(x^2-y^2)}}, \mathrm{f_{x(x^2-3y^2)}}, \mathrm{f_{y(3x^2-y^2)}} \), which are shown in Figure 2.10. There are 3 nodal planes in the f-orbitals.
+
+![](2.25up.png)
 
 <center><strong>Figure 2.10 Shapes of f-orbitals</strong></center>
 
@@ -601,6 +615,8 @@ Symmetry leads to stability. The half filled and fully filled configurations hav
 <center><strong>Figure 2.13 Half filled and fully filled p, d and f orbitals</strong></center>
 
 The degenerate orbitals such as \( \mathrm{p_x}, \mathrm{p_y} \) and \( \mathrm{p_z} \) have equal energies and their orientation in space are different as shown in Figure 2.14. Due to this symmetrical distribution, the shielding of one electron on the other is relatively small and hence the electrons are attracted more strongly by the nucleus and it increases the stability.
+
+![](img2.14.png)
 
 ### Exchange Energy
 

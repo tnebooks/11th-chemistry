@@ -53,6 +53,8 @@ As chemistry plays an important role in our day-to-day life, it becomes essentia
 
 Look around your classroom. What do you see? You might see your bench, table, blackboard, window etc. What are these things made of? They are all made of matter. Matter is defined as anything that has mass and occupies space. All matter is composed of atoms. This knowledge of matter is useful to explain the experiences that we have with our surroundings. In order to understand the properties of matter better, we need to classify them. There are different ways to classify matter. The two most commonly used methods are classification by their physical state and by chemical composition as described in the chart.
 
+![Classification of Matter](classiification.png)
+
 **Fig. 1.1 Classification of Matter**
 
 ### 1.2.1 Physical Classification of Matter
@@ -99,7 +101,7 @@ Properties of compounds are different from those of their constituent elements. 
 ## 1.3 Atomic and Molecular Masses
 
 ### 1.3.1 Atomic Masses
-
+![](image.png)
 How much does an individual atom weigh? As atoms are too small with diameter of \( 10^{-10} \ \mathrm{m} \) and weigh approximately \( 10^{-27} \ \mathrm{kg} \), it is not possible to measure their mass directly. Hence it is proposed to have relative scale based on a standard atom.
 
 The C-12 atom is considered as standard by the IUPAC (International Union of Pure and Applied Chemistry), and its mass is fixed as 12 amu (or) u. The amu (or) unified atomic mass unit is defined as one twelfth of the mass of a Carbon-12 atom in its ground state.
@@ -171,6 +173,8 @@ Often we use special names to express the quantity of individual items for our c
 
 To understand the mole concept, let us calculate the total number of atoms present in 12 g of carbon-12 isotope or molecules in 158.03 g of potassium permanganate, 294.18 g of potassium dichromate and 180 g of glucose.
 
+![moleconcept](image.png)
+
 **Fig. 1.2 Mole Concept**
 
 **Table 1.2 Calculation of number of entities in one mole of substance**
@@ -214,7 +218,12 @@ Let us calculate the amount of acid neutralised by an antacid that contains 250 
 
 One tablet of above composition will neutralise 0.0182 mole of HCl for a person with gastric acid content of 0.1 mole. One tablet can be used to neutralize the excess acid which will bring the concentration back to normal level. \( (0.1 - 0.018 = 0.082 \ \mathrm{M}) \)
 
+
+
 ### 1.4.1 Avogadro Number
+
+
+![avogadronumber](img4.png)
 
 The total number of entities present in one mole of any substance is equal to \( 6.022 \times 10^{23} \). This number is called Avogadro number which is named after the Italian physicist Amedeo Avogadro who proposed that equal volume of all gases under the same conditions of temperature and pressure contain equal number of molecules. Avogadro number does not have any unit.
 
@@ -433,6 +442,8 @@ $$
 
 ## 1.7 Stoichiometry
 
+![stoichiometry](img5.png)
+
 Have you ever noticed the preparation of kesari at your home? In one of the popular methods for the preparation of kesari, the required ingredients to prepare six cups of kesari are as follows.
 
 1. Rava - 1 cup
@@ -473,6 +484,8 @@ $$
 The symbol \( \equiv \) means 'stoichiometrically equal to'
 
 ### 1.7.1 Stoichiometric Calculations
+
+![](img5.png)
 
 Stoichiometry is the quantitative relationship between reactants and products in a balanced chemical equation in moles. The quantity of reactants and products can be expressed in moles or in terms of mass unit or as volume. These three units are inter convertible.
 
@@ -696,8 +709,8 @@ When an apple is cut, it turns brown after sometime. Do you know the reason behi
 3) Oxidation of carbohydrates, lipids, etc. into \( \mathrm{CO_2} \) and \( \mathrm{H_2O} \) to produce energy in the living organisms.
 
 **Fig.1.4 Oxidation reactions in daily life**
-
-All oxidation reactions are accompanied by reduction reactions and vice versa. Such reactions are called redox reactions. As per the classical concept, addition of oxygen (or) removal of hydrogen is called oxidation and the reverse is called reduction.
+ reduction reactions and vice versa. Such reactions are called redox react![oxitationreactionindailylife](img6.png)
+All oxidation reactions are accompanied byions. As per the classical concept, addition of oxygen (or) removal of hydrogen is called oxidation and the reverse is called reduction.
 
 #### Haemoglobin and oxygen transport
 
@@ -828,6 +841,7 @@ Redox reactions in which an ion (or an atom) in a compound is replaced by an ion
 ##### (i) Metal displacement reactions
 
 Place a zinc metal strip in an aqueous copper sulphate solution taken in a beaker. Observe the solution, the intensity of blue colour of the solution slowly reduced and finally disappeared. The zinc metal strip became coated with brownish metallic copper. This is due to the following metal displacement reaction.
+![](img7.png)
 
 $$
 \mathrm{Zn(s) + CuSO_4(aq) \rightarrow ZnSO_4(aq) + Cu(s)}
@@ -858,6 +872,8 @@ $$
 In metal displacement reactions, we learnt that zinc replaces copper from copper sulphate solution. Let us examine whether the reverse reaction takes place or not. As discussed earlier, place a metallic copper strip in zinc sulphate solution. If copper replaces zinc from zinc sulphate solution, \( \mathrm{Cu^{2+}} \) ions would be released into the solution and the colour of the solution would change to blue. But no such change is observed. Therefore, we conclude that among zinc and copper, zinc has more tendency to release electrons and copper to accept the electrons.
 
 Let us extend the reaction to copper metal and silver nitrate solution. Place a strip of metallic copper in silver nitrate solution taken in a beaker. After some time, the solution slowly turns blue. This is due to the formation of \( \mathrm{Cu^{2+}} \) ions, i.e. copper replaces silver from silver nitrate. The reaction is,
+
+![](img7.png)
 
 $$
 \mathrm{Cu(s) + 2AgNO_3(aq) \rightarrow Cu(NO_3)_2(aq) + 2Ag(s)}
