@@ -483,32 +483,89 @@ On solving equation (1) and (4) the values of \( \mathrm{r}_{\mathrm{C}^{+}} \) 
 
 Let us explain this method by calculating the ionic radii of \( \mathrm{Na}^{+} \) and \( \mathrm{F}^{-} \) in NaF crystal whose interionic distance is equal to 231 pm.
 
-#### 3.5.3 Ionisation Energy
+$$
+d = r_{\text{Na}^+} + r_{\text{F}^-}
+$$
 
-It is defined as the minimum amount of energy required to remove the most loosely bound electron from the valence shell of the isolated neutral gaseous atom in its ground state. It is expressed in kJ mol\(^{-1}\).
+ie. \( r_{\text{Na}^+} + r_{\text{F}^-} = 231 \, \text{pm} \)
 
-For example,
+We know that
 
-\[
-\mathrm{Na}(g) \rightarrow \mathrm{Na}^{+}(g) + e^{-} \quad \Delta H = 496 \ \mathrm{kJ \ mol^{-1}}
-\]
+$$
+\frac{r_{\text{Na}^+}}{r_{\text{F}^-}} = \frac{(Z_{\text{eff}})_{r_{\text{F}^-}}}{(Z_{\text{eff}})_{r_{\text{Na}^+}}} = \frac{Z - S}{9 - 4.15} = 4.85
+$$
 
-The ionisation energy is a measure of the tendency of an atom to lose an electron. Lower the ionisation energy, easier to remove an electron and greater the tendency to form a cation.
+$$
+(Z_{\text{eff}})_{r_{\text{F}^-}} = 11 - 4.15 = 6.85
+$$
 
-##### Factors Affecting Ionisation Energy
+$$
+\therefore \frac{r_{\text{Na}^+}}{r_{\text{F}^-}} = \frac{4.85}{6.85} = 0.71
+$$
 
-1. **Atomic radius:** As the atomic radius increases, the distance between the nucleus and the valence electron increases and the attractive force between them decreases. Hence, ionisation energy decreases.
+$$
+\Rightarrow r_{\text{Na}^+} = 0.71 \times r_{\text{F}^-}
+$$
 
-2. **Nuclear charge:** As the nuclear charge increases, the electrostatic attractive force between the nucleus and the valence electron increases and thus the ionisation energy increases.
+Substituting \( r_{\text{Na}^+} \) in equation
 
-3. **Shielding effect:** The presence of inner electrons shields the valence electron from the nuclear attraction. As the shielding effect increases, the attractive force between the nucleus and valence electron decreases and thus ionisation energy decreases.
+$$
+0.71 \, r_{\text{F}^-} + r_{\text{F}^-} = 231 \, \text{pm}
+$$
 
-4. **Stability of electronic configuration:** The elements with half filled and fully filled electronic configuration have greater stability and thus require higher energy to remove an electron. Hence, they have higher ionisation energy.
+$$
+1.71 \, r_{\text{F}^-} = 231 \, \text{pm}
+$$
 
-##### Periodic variation in a period
+$$
+r_{\text{F}^-} = \frac{231}{1.71} = 135.1 \, \text{pm}
+$$
 
-Ionisation energy generally increases from left to right across a period. This is due to the decrease in atomic radius and the increase in nuclear charge which leads to a stronger attraction between the nucleus and the valence electrons.
+Substituting the value of \( r_{\text{F}^-} \) in equation
 
+$$
+r_{\text{Na}^+} + 135.1 = 231
+$$
+
+$$
+r_{\text{Na}^+} = 95.9 \, \text{pm}
+$$
+
+### Evaluate Yourself
+
+**5.** A student reported the ionic radii of isoelectronic species \( X^{3+} \), \( Y^{2+} \) and \( Z^{-} \) as 136 pm, 64 pm and 49 pm respectively. Is that order correct? Comment.
+
+## 3.5.3 Ionisation Energy
+
+It is defined as the minimum amount of energy required to remove the most loosely bound electron from the valence shell of the isolated neutral gaseous atom in its ground state. It is expressed in kJ mol\(^{-1}\) or in electron volts (eV).
+
+$$
+M_{\text{(g)}} + IE_1 \rightarrow M^{+}_{\text{(g)}} + 1 \, \text{e}^{-}
+$$
+
+Where \( IE_1 \) represents the first ionisation energy.
+
+### Successive Ionisation energies
+
+The minimum amount of energy required to remove an electron from a unipositive cation is called second ionisation energy. It is represented by the following equation.
+
+$$
+M^{+}_{\text{(g)}} + IE_2 \rightarrow M^{2+}_{\text{(g)}} + 1 \, \text{e}^{-}
+$$
+
+In this way we can define the successive ionisation energies such as third, fourth etc.
+
+The total number of electrons are less in the cation than the neutral atom while the nuclear charge remains the same. Therefore the effective nuclear charge of the cation is higher than the corresponding neutral atom. Thus the successive ionisation energies, always increase in the following order
+
+$$
+IE_1 < IE_2 < IE_3 < \ldots
+$$
+
+### Periodic Trends in Ionisation Energy
+
+The ionisation energy usually increases along a period with few exceptions. As discussed earlier, when we move from left to right along a period, the valence electrons are added to the same shell, at the same time protons are added to the nucleus. This successive increase of nuclear charge increases the electrostatic attractive force on the valence electron and more energy is required to remove the valence electron resulting in high ionisation energy.
+
+Let us consider the variation in ionisation energy of second period.
 The plot of atomic number vs ionisation energy is given below.
 
 In the following graph, there are two deviations in the trends of ionisation energy. It is expected that boron has higher ionisation energy than beryllium since it has higher nuclear charge. However, the actual ionisation energies of beryllium and boron are 899 and \( 800 \ \mathrm{kJ \ mol^{-1}} \) respectively contrary to the expectation. It is due to the fact that beryllium with completely filled 2s orbital, is more stable than partially filled valence shell electronic configuration of boron \( (2\mathrm{s}^2 2\mathrm{p}^1) \).
