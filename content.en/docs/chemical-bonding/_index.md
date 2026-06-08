@@ -39,6 +39,18 @@ Why do atoms combine only in certain combinations to form molecules? For example
 
 A logical explanation for chemical bonding was provided by Kossel and Lewis in 1916. Their approach to chemical bonding is based on the inertness of the noble gases which have little or no tendency to combine with other atoms. They proposed that the noble gases are stable due to their completely filled outer shell electronic configuration. Elements other than noble gases, try to attain the completely filled electronic configurations by losing, gaining or sharing one or more electrons from their outer shell. For example, sodium loses one electron to form \( \mathrm{Na^+} \) ion and chlorine accepts that electron to give chloride ion \( \mathrm{Cl^-} \), enabling both atoms to attain the nearest noble gas configuration. The resultant ions, \( \mathrm{Na^+} \) and \( \mathrm{Cl^-} \) are held together by electrostatic attractive forces and the attractive force is called a chemical bond, more specifically an **electrovalent bond**.
 
+\[
+\mathrm{Na} \rightarrow [\mathrm{Ne}] \, 3s^1
+\]
+
+\[
+\mathrm{Cl} \rightarrow [\mathrm{Ne}] \, 3s^2 \, 3p^5
+\]
+
+\[
+\mathrm{Na}^+ + \mathrm{Cl}^- \rightarrow \mathrm{NaCl}
+\]
+
 G. N. Lewis proposed that the attainment of stable electronic configuration in molecules such as diatomic nitrogen, oxygen etc. is achieved by mutual sharing of the electrons. He introduced a simple scheme to represent the chemical bond and the electrons present in the outer shell of an atom, called **Lewis dot structure**. In this scheme, the valence electrons (outer shell electrons) of an element are represented as small dots around the symbol of the element. The first four valence electrons are denoted as single dots around the four sides of the atomic symbol and then the fifth onwards, the electrons are denoted as pairs. For example, the electronic configuration of nitrogen is \( 1s^2, 2s^2, 2p^3 \). It has 5 electrons in its outer shell (valence shell). The Lewis structure of nitrogen is as follows.
 
 <center><strong>Fig 10.1 Lewis Structure of Nitrogen atom</strong></center>
@@ -156,10 +168,56 @@ Where,
 - \( N_f \) = Number of electrons present as lone pairs around the atom in the Lewis structure
 - \( N_b \) = Number of electrons present in bonds around the atom (bond pairs) in the Lewis structure
 
-**Rules for choosing the best Lewis structure:**
+Now let us calculate the formal charge on all atoms in both structures.
 
-1. A structure with small formal charges is preferred over the one with higher formal charges.
-2. A structure in which negative formal charges are placed on the most electronegative atom is preferred.
+**For Structure 1,**
+
+Formal charge on carbon = \( N_v - \left( N_i + \frac{N_k}{2} \right) \)
+
+\[
+= 4 - \left( 0 + \frac{8}{2} \right) = 0
+\]
+
+Formal charge on oxygen = \( 6 - \left( 4 + \frac{4}{2} \right) \)
+
+\[
+= 0 \quad (\text{for both oxygens})
+\]
+
+**For Structure 2**
+
+Formal charge on carbon
+
+\[
+= N_v - \left( N_i + \frac{N_k}{2} \right)
+\]
+
+\[
+= 4 - \left( 0 + \frac{8}{2} \right) = 0
+\]
+
+Formal charge on singly bonded oxygen
+
+\[
+= 6 - \left( 6 + \frac{2}{2} \right) = -1
+\]
+
+Formal charge on triply bonded oxygen
+
+\[
+= 6 - \left( 2 + \frac{6}{2} \right) = +1
+\]
+
+---
+
+\[
+\text{Fig 10.7 (b) two possible structures for carbon dioxide (with formal charges)}
+\]
+
+After calculating the formal charges, the best representation of Lewis structure can be selected by using following guidelines.
+1. A structure in which all formal charges are zero preferred over the one with charges.
+2. A structure with small formal charges is preferred over the one with higher formal charges.
+3. A structure in which negative formal charges are placed on the most electronegative atom is preferred.
 
 In case of \( \mathrm{CO_2} \) structures, the structure with two double bonds is preferred over the structure with one triple bond as it has zero formal charges for all atoms.
 
@@ -369,6 +427,20 @@ The unit for dipole moment is coulomb meter (C m). It is usually expressed in De
 Diatomic molecules such as \( \mathrm{H_2}, \mathrm{O_2}, \mathrm{F_2} \) etc. have zero dipole moment and are called **non-polar molecules** and molecules such as HF, HCl, CO, NO etc. have non-zero dipole moments and are called **polar molecules**.
 
 Molecules having polar bonds will not necessarily have a dipole moment. For example, the linear form of carbon dioxide has zero dipole moment, even though it has two polar bonds. In \( \mathrm{CO_2} \), the dipole moments of two polar bonds (CO) are equal in magnitude but have opposite direction. Hence, the net dipole moment of the \( \mathrm{CO_2} \) is, \( \mu = \mu_1 + \mu_2 = \mu_1 + (-\mu_1) = 0 \).
+
+\[
+\mathrm{O - C - O}
+\]
+
+\[
+\mu_1 \quad \mu_2
+\]
+
+In this case \( \mu = \vec{\mu}_1 + \vec{\mu}_2 \)
+
+\[
+= \vec{\mu}_1 + \vec{(-\mu_2)} = 0
+\]
 
 In case of water, net dipole moment is the vector sum of \( \mu_1 + \mu_2 \) as shown.
 
