@@ -28,6 +28,7 @@ After studying this unit, students will be able to
 ### 15. INTRODUCTION
 
 We are very familiar with the word environment. It includes the air we breathe, the water that covers most of the earth's surface, the plants and animals around us and much more. These days, when we hear people talk about "the environment," they are often referring to the overall condition of our planet, or how healthy it is.
+Environmental chemistry is a branch of chemistry which deals with the study of chemicals and chemical processes. occuring in the enviroment by direct human activities. It also deals with sources, causes and methods of controlling air, water and soil pollution.
 
 #### 15.1 Environmental Pollution
 
@@ -370,64 +371,64 @@ Nitrogen oxides introduced directly into the stratosphere by the supersonic jet 
 
 These oxides are also released by combustion of fossil fuels and nitrogen fertilizers. Inert nitrous oxide in the stratosphere is photochemically converted into more reactive nitric oxide. Oxides of nitrogen catalyse the decomposition of ozone and are themselves regenerated. Ozone gets depleted as shown below.
 
+
 \[
-\mathrm{NO + O_3 \rightarrow NO_2 + O_2}
+\mathrm{NO + O_2 \rightarrow NO_2 + O_2}
 \]
 
 \[
-\mathrm{O_3 \xrightarrow{uv} O_2 + O}
+\mathrm{O_2 \xrightarrow{h\nu} O + O}
 \]
 
 \[
 \mathrm{NO_2 + O \rightarrow NO + O_2}
 \]
 
-The net reaction is \( \mathrm{O_3 + O \rightarrow 2O_2} \)
+Thus NO is regenerated in the chain reaction.
 
-Thus NO acts as a catalyst and depletes ozone layer.
+**Chloro Fluoro Carbons (CFC) Freons**
 
-**Chlorofluorocarbons (CFC's):**
-
-Chlorofluorocarbons (CFC's) are used as refrigerants, aerosol propellants and cleaning solvents. In the stratosphere, CFC's undergo photochemical decomposition to produce chlorine free radicals.
+The chloro fluoro derivatives of methane and ethane are referred by trade name Freons. These Chloro Fluoro Carbon compounds are stable, non-toxic, noncorrosive and non-inflammatory, easily liquefiable and are used in refrigerators, air-conditioners and in the production of plastic foams. CFC's are the exhaust of supersonic aircrafts and jumbo jets flying in the upper atmosphere. They slowly pass from troposphere to stratosphere. They stay for very longer period of 50 - 100 years. In the presence of uv radiation, CFC's break up into chlorine free radical
 
 \[
-\mathrm{CF_2Cl_2 \xrightarrow{uv} \dot{C}l + \dot{C}F_2Cl}
-\]
-
-These chlorine free radicals react with ozone and decompose it.
-
-\[
-\mathrm{Cl + O_3 \rightarrow ClO + O_2}
+\mathrm{CF_2Cl_2 \xrightarrow{h\nu} CF_2Cl + Cl^\cdot}
 \]
 
 \[
-\mathrm{ClO + O \rightarrow Cl + O_2}
+\mathrm{CFCl_3 \xrightarrow{h\nu} CFCl_2 + Cl^\cdot}
 \]
 
-Thus chlorine free radicals are regenerated and cause decomposition of ozone. A single chlorine free radical can destroy about 1,00,000 molecules of ozone.
+\[
+\mathrm{Cl^\cdot + O_3 \rightarrow ClO^\cdot + O_2}
+\]
 
-**Fig 15.6 Ozone hole over Antarctica**
+\[
+\mathrm{ClO^\cdot + O \rightarrow Cl^\cdot + O_2}
+\]
 
-Harmful effects of ozone depletion:
+Chlorine radical is regenerated in the course of reaction. Due to this continuous attack of \( \mathrm{Cl^\cdot} \) thinning of ozone layer takes place which leads to formation of ozone hole.
 
-- Ozone depletion allows UV radiations to reach the earth's surface.
-- UV radiation causes skin cancer, cataracts, sunburn and reduction in the body's ability to fight off diseases.
-- UV radiations can also damage plants and reduce the yield of crops.
-- They cause mutation in the DNA of living organisms.
+It is estimated that for every reactive chlorine atom generated in the stratosphere 1,00,000 molecules of ozone are depleted.
 
-Ozone layer protection day is celebrated on 16th September every year.
+**15.4.2 Environmental Impact of Ozone Depletion**
 
-### 15.5 Water Pollution
+The formation and destruction of ozone is a regular natural process, which never disturbs the equilibrium level of ozone in the stratosphere. Any change in the equilibrium level of the ozone in the atmosphere will adversely affect life in the biosphere in the following ways.
 
-**Fig 15.6 Water Pollution**
+Depletion of ozone layer will allow more UV rays to reach the earth surface and layer would cause skin cancer and also decrease the immunity level in human beings.
 
-Water is the elixir of life. Without water no living beings can survive. It is believed that life originated in water. About three fourths of earth's surface is covered by water. We require pure water for drinking and domestic purposes. Due to human activities, water is getting polluted.
+UV radiation affects plant proteins which leads to harmful mutation of cells.
 
-Thus water pollution may be defined as "the alteration in physical, chemical and biological characteristics of water which may cause harmful effects on human and aquatic life."
+UV radiation affects the growth of phytoplankton, as a result ocean food chain is disturbed and even damages the fish productivity.
 
-**Sources of Water Pollution**
+**15.5 Water Pollution**
 
-The substances that contaminate the water are called water pollutants. The sources of water pollution are classified as point and non-point sources.
+Water is essential for life. Without water life would have been impossible. The slogan, 'Save Water, Water will save you' tells us the importance of water. Such slogans tell us to save water. Apart from saving water, maintaining its quality is also equally important.
+
+**Fig 15.6 water pollution**
+
+Now a days water is getting polluted due to human activities and the availability of potable water in nature is becoming rare day by day. Water pollution is defined as "The addition of foreign substances or factors like heat which degrades the quality of water", so that it becomes health hazard or unfit to use."
+
+The water pollutants originate from both natural and human activities. The source of water pollution is classified as Point and Non-point source.
 
 Easily identified source or place of pollution is called as point source. Example: municipal and industrial discharge pipes.
 

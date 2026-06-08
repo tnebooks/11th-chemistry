@@ -1486,24 +1486,136 @@ Urea on hydrolysis produces ammonia and carbon dioxide. The standard entropies o
 
 #### Entropy change accompanying change of phase
 
-When there is a change of state from solid to liquid (melting), liquid to gas (vapourisation) or solid to gas (sublimation), the entropy increases. For a reversible process at constant temperature and pressure, we can say
+When there is a change of state from solid to liquid (melting), liquid to vapour (evaporation) or solid to vapour
+(sublimation) there is a change in entropy. This change may be carried out at constant temperature reversibly as two phases are in equilibrium during the change. 
 
-\[
-\Delta S_{\text{fusion}} = \frac{\Delta H_{\text{fusion}}}{T_f}
-\]
-\[
-\Delta S_{\text{vap}} = \frac{\Delta H_{\text{vap}}}{T_b}
-\]
+$$
+\Delta S = \frac{q_{\text{evap}}}{T} = \frac{\Delta H_{\text{evap}}}{T} \tag{7.31}
+$$
 
-### 7.11 Gibbs Free Energy (G)
+### Entropy of fusion:
+
+The heat absorbed, when one mole of a solid melts at its melting point reversibly, is called molar heat of fusion. The entropy change for this process is given by
+
+$$
+\Delta S_{\text{re}} = \frac{dq_{\text{evap}}}{T}
+$$
+
+$$
+\Delta S_{\text{fusion}} = \frac{\Delta H_{\text{fusion}}}{T_{\text{f}}} \tag{7.32}
+$$
+
+where \( \Delta H_{\text{fusion}} \) is Molar heat of fusion. \( T_{\text{f}} \) is the melting point.
+
+### Entropy of vapourisation:
+
+The heat absorbed, when one mole of liquid is boiled at its boiling point reversibly, is called molar heat of vapourisation. The entropy change is given by
+
+$$
+\Delta S_{\text{v}} = \frac{\Delta H_{\text{v}}}{T_{\text{b}}} \tag{7.33}
+$$
+
+where \( \Delta H_{\text{v}} \) is Molar heat of vapourisation. \( T_{\text{b}} \) is the boiling point.
+
+### Entropy of transition:
+
+The heat change, when one mole of a solid changes reversibly from one allotropic form to another at its transition temperature is called enthalpy of transition. The entropy change is given
+
+$$
+\Delta S_{\text{t}} = \frac{\Delta H_{\text{t}}}{T_{\text{t}}} \tag{7.34}
+$$
+
+where \( \Delta H_{\text{t}} \) is the molar heat of transition, \( T_{\text{t}} \) is the transition temperature.
+
+### Problem: 7.7
+
+Calculate the entropy change during the melting of one mole of ice into water at 0°C and 1 atm pressure. Enthalpy of fusion of ice is 6008 J mol\(^{-1}\)
+
+### Given:
+
+$$
+\Delta H_{\text{fusion}} = 6008 \, \text{J mol}^{-1}
+$$
+
+$$
+T_{\text{f}} = 0^\circ \, \text{C} = 273 \, \text{K}
+$$
+
+$$
+H_2O(\text{s}) \xrightarrow{273 \, \text{K}} H_2O(\text{l})
+$$
+
+$$
+\Delta S_{\text{fusion}} = \frac{\Delta H_{\text{fusion}}}{T_{\text{f}}}
+$$
+
+$$
+\Delta S_{\text{fusion}} = \frac{6008}{273}
+$$
+
+$$
+\Delta S_{\text{fusion}} = 22.007 \, \text{J K}^{-1} \, \text{mol}^{-1}
+$$
+
+### Evaluate Yourself - 7
+
+Calculate the entropy change when 1 mole of ethanol is evaporated at 351 K. The molar heat of vaporisation of ethanol is 39.84 kJ mol\(^{-1}\)
+
+## 7.11 Gibbs free energy (G)
+
+One of the important applications of the second law of thermodynamics is to predict the spontaneity of a reaction under a specific set of conditions. A reaction that occurs under the given set of conditions without any external driving force is called a spontaneous reaction. Otherwise, it is said to be non-spontaneous. In our day today life, we observe many spontaneous physical and chemical processes, which includes the following examples.
+
+1. A waterfall runs downhill, but never uphill, spontaneously.
+
+2. A lump of sugar dissolves spontaneously in a cup of coffee, but never reappears in its original form spontaneously.
+
+3. Heat flows from hotter object to a colder one, but never flows from colder to hotter object spontaneously.
+
+4. The expansion of a gas into an evacuated bulb is a spontaneous process, the reverse process that is gathering of all molecules into one bulb is not spontaneous.
+
+### Figure 7.9 Spontaneous process illustration
+
+These examples show that the processes that occur spontaneously in one direction, cannot take place in opposite direction spontaneously.
+
+Similarly a large number of exothermic reactions are spontaneous. An example is combustion of methane.
+
+$$
+\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O}
+$$
+
+$$
+\Delta H^\circ = -890.4 \, \text{kJ mol}^{-1}
+$$
+
+Another example is acid-base neutralization reaction:
+
+$$
+\text{H}^+ + \text{OH}^- \rightarrow \text{H}_2\text{O}
+$$
+
+$$
+\Delta H^\circ = -57.32 \, \text{kJ mol}^{-1}
+$$
+
+However, some endothermic processes are also spontaneous. For example ammonium nitrate dissolves in water spontaneously though this dissolution is endothermic.
+
+$$
+\text{NH}_4\text{NO}_3 \xrightarrow{\text{H}_2\text{O}} \text{NH}_4^+ + \text{NO}_3^-
+$$
+
+$$
+\Delta H^\circ = +25 \, \text{kJ mol}^{-1}
+$$
+
+From the above examples we can come to the conclusion that exothermicity favors the spontaneity but does not guarantee it. We cannot decide whether or not a chemical reaction will occur spontaneously solely on the basis of energy changes in the system. We know from second law of thermodynamics that in a spontaneous process, the entropy increases. But not all the processes which are accompanied by an increase in entropy are spontaneous. In order to predict the spontaneity of a reaction, we need some other thermodynamic function.
 
 The second law of thermodynamics introduces another thermodynamic function called Gibbs free energy which finds useful in predicting the spontaneity of a reaction. The Gibbs free energy (G) was developed in the 1870's by Josiah Willard Gibbs. He originally termed this energy as the "available energy" to do work in a system. This quantity is the energy associated with a chemical reaction that can be used to do work.
 
 Gibbs free energy is defined as below
 
-\[
-\mathrm{G = H - TS} \qquad (7.35)
-\]
+$$
+G = H - TS
+$$
 
 Gibbs free energy (G) is an extensive property and it is a single valued state function.
 

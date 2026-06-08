@@ -296,6 +296,13 @@ The gram equivalent mass of zinc \( = 32.69 \ \mathrm{g \ eq^{-1}} \)
 
 Equivalent mass has no unit but gram equivalent mass has the unit \( \mathrm{g \ eq^{-1}} \)
 
+It is not always possible to apply the above mentioned definition which is  based on three references namely hydrogen, oxygen and chlorine, because we can not conceive of reactions involving only with those three references. Therefore, a more useful expression used to calculate gram equivalent mass is given below.
+
+$$\text{Gram equivalent mass} = \frac{\text{Molar mass (g mol}^{-1}\text{)}}{\text{Equivalence factor (eq mol}^{-1}\text{)}}$$
+
+On the basis of the above expression, let us classify chemical entities and find out
+the formula for calculating equivalent mass in the table below.
+
 ### 1.5.1 Equivalent Mass of Acids, Bases, Salts, Oxidising Agents and Reducing Agents
 
 | Chemical entity | Equivalent factor (n) | Formula for calculating equivalent mass (E) | Example |
@@ -388,13 +395,13 @@ The empirical formula is \( \mathrm{CH_2O} \)
 
 5) A Compound on analysis gave the following percentage composition \( \mathrm{C} = 54.55\% \), \( \mathrm{H} = 9.09\% \), \( \mathrm{O} = 36.36\% \). Determine the empirical formula of the compound.
 
-### 1.6.2 Calculation of Molecular Formula from Empirical Formula
-
 Molecular formula of a compound is a whole number multiple of the empirical formula. The whole number can be calculated from the molar mass of the compound using the following expression
 
 $$
 \text{Whole number } (n) = \frac{\text{Molar mass of the compound}}{\text{Calculated empirical formula mass}}
 $$
+
+### 1.6.2 Calculation of Molecular Formula from Empirical Formula
 
 **Table 1.3 Molecular formula from empirical formula**
 
@@ -503,6 +510,8 @@ $$
 | Mass-mass relationship (no. of mole × molar mass) | \( 1 \times 16 = 16 \ \mathrm{g} \) | \( 2 \times 32 = 64 \ \mathrm{g} \) | \( 1 \times 44 = 44 \ \mathrm{g} \) | \( 2 \times 18 = 36 \ \mathrm{g} \) |
 | Mass-volume relationship | 16 g | 64 g | 22.4 L | 44.8 L |
 | Volume-volume relationship (1 mole of any gas occupy 22.4 L at STP) | 22.4 L | 44.8 L | 22.4 L | 44.8 L |
+
+#### Calculations based on Stoichiometry
 
 ### Example 1
 
@@ -666,8 +675,6 @@ When 8 moles of x react with 15 moles of y then
    ii) Calculate the amount of products formed.
    iii) Calculate the amount of excess reactant left at the end of the reaction.
 
-### Example: Urea preparation
-
 Urea, a commonly used nitrogen based fertilizer, is prepared by the reaction between ammonia and carbon dioxide as follows.
 
 $$
@@ -709,10 +716,12 @@ When an apple is cut, it turns brown after sometime. Do you know the reason behi
 3) Oxidation of carbohydrates, lipids, etc. into \( \mathrm{CO_2} \) and \( \mathrm{H_2O} \) to produce energy in the living organisms.
 
 **Fig.1.4 Oxidation reactions in daily life**
- reduction reactions and vice versa. Such reactions are called redox react![oxitationreactionindailylife](img6.png)
+ reduction reactions and vice versa. Such reactions are called redox react
 All oxidation reactions are accompanied byions. As per the classical concept, addition of oxygen (or) removal of hydrogen is called oxidation and the reverse is called reduction.
 
 #### Haemoglobin and oxygen transport
+
+![oxitationreactionindailylife](img6.png)
 
 Even a small amount of oxygen present in air leads to the rusting of iron, i.e. iron is oxidised to \( \mathrm{Fe^{3+}} \).
 
@@ -721,8 +730,6 @@ But the \( \mathrm{Fe^{2+}} \) present in haemoglobin which binds oxygen during 
 **Cyanide poisoning:** While oxygen binds reversibly to haemoglobin, cyanide binds irreversibly to haemoglobin and blocks oxygen binding. As a result the transport of oxygen from the lungs to tissues is stopped. It leads to the quick death of the person.
 
 The answer lies in the structural features of haemoglobin. Haemoglobin contains four sub units each with a porphyrin ring (heme) attached to the protein (globin) molecule. In this structure, the iron \( \mathrm{Fe^{2+}} \) forms a coordination complex with an octahedral geometry. The four positions of the octahedron are occupied by porphyrin rings, fifth position is filled by imidazole ring of a histidine residue and the sixth position is utilized for binding the oxygen molecule. Generally the \( \mathrm{Fe^{2+}} \) in heme is susceptible to oxidation. Since the \( \mathrm{Fe^{2+}} \) ion in haemoglobin is surrounded by the globin protein chain that provides a hydrophobic environment, the oxidation of \( \mathrm{Fe^{2+}} \) becomes difficult. However, \( 3\% \) of haemoglobin is oxidised to methemoglobin (haemoglobin where the iron is present in \( \mathrm{Fe^{3+}} \) state and oxygen does not bind to this) daily. The enzyme methemoglobin reductase reduces it back to haemoglobin.
-
-### 1.8.1 Oxidation Number
 
 Consider the following two reactions.
 
@@ -753,6 +760,8 @@ Oxidation-reduction reactions i.e. redox reactions are not always associated wit
 \( \mathrm{Cu^{2+} + 2e^- \rightarrow Cu} \) (gain of electron - reduction)
 
 Redox reactions can be better explained using oxidation numbers.
+
+### 1.8.1 Oxidation Number
 
 It is defined as the imaginary charge left on the atom when all other atoms of the compound have been removed in their usual oxidation states that are assigned according to set of rules. A term that is often used interchangeably with oxidation number is **oxidation state**.
 

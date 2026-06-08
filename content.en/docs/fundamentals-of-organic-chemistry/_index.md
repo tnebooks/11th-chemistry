@@ -58,6 +58,9 @@ The existing large number of organic compounds and ever-increasing number have m
 
 ### 11.2.1 Classification based on the structure:
 
+
+Based on the above classification let us classify the following compounds. 
+
 1. Classify the following compounds based on the structure
 
 i) \( \mathrm{CH \equiv C - CH_2 - C \equiv CH} \)
@@ -95,6 +98,20 @@ ii) \( \mathrm{CH_3 - CH_2 - CH_2 - CH_2 - CH} \)
 | 13 | Nitro alkane | \( \mathrm{-NO_2} \) | \( \mathrm{R-NO_2} \) |
 | 14 | Amine | \( \mathrm{-NH_2} \) | \( \mathrm{R-NH_2} \) |
 | 15 | Amide | \( \mathrm{-CONH_2} \) | \( \mathrm{R-CONH_2} \) |
+| 16 | Cyanide (Nitrile) | \( -\mathrm{C \equiv N} \) | \( \mathrm{R-CN} \) |
+| 17 | Isocyanide | \( -\mathrm{NC} \) | \( \mathrm{R-NC} \) |
+| 18 | Cyanate | \( -\mathrm{OCN} \) | \( \mathrm{R-OCN} \) |
+| 19 | Isocyanate | \( -\mathrm{NCO} \) | \( \mathrm{R-NCO} \) |
+| 20 | Thiocyanate | \( -\mathrm{SCN} \) | \( \mathrm{R-SCN} \) |
+| 21 | Isothiocyanate | \( -\mathrm{NCS} \) | \( \mathrm{R-NCS} \) |
+| 23 | Thioalcohols or thiols | \( -\mathrm{SH} \) | \( \mathrm{R-SH} \) |
+| 24 | Thioethers | \( -\mathrm{S-R} \) | \( \mathrm{R-S-R'} \) |
+| 25 | Imines | \( -\mathrm{NH} \) | \( \mathrm{R-CH=NH} \) |
+| 26 | Nitroso compounds | \( -\mathrm{NO} \) | \( \mathrm{R-NO} \) |
+| 27 | Hydrazines | \( -\mathrm{NH-NH_2} \) | \( \mathrm{R-NH-NH_2} \) |
+| 28 | Hydrazo compounds | \( -\mathrm{NH-NH} \) | \( \mathrm{R-NH-NH-R} \) |
+| 29 | Phenols | \( -\mathrm{OH} \) | \( \mathrm{C_6H_5OH} \) |
+| 30 | Imide | \( -\mathrm{O-R-C-N-C} \) | \( \mathrm{RCON(R')COR'} \) |
 
 ## 11.3 Nomenclature of organic compounds:
 
@@ -202,7 +219,7 @@ The following steps should be followed for naming an organic compound as per IUP
 
 **"prefix \( + \) root word \( + \) primary suffix \( + \) secondary suffix"**
 
-**IUPAC Naming Conventions:**
+The following are guide lines for writing IUPAC of the organic compound.
 
 1. The IUPAC names are always written as single word, with notable exception of organic salts, acids and acid derivatives.
 
@@ -319,6 +336,8 @@ For further simplification, organic chemists use another way of representing the
 | t-butyl chloride | \( \mathrm{C_4H_9Cl} \) | \( \mathrm{H-C-C-C-Cl} \) | \( \mathrm{CH_3-CCl-CH_3} \) | |
 | 1,3-dimethyl cyclopentane | \( \mathrm{C_7H_{14}} \) | | | |
 
+
+#### Molecular models
 **Fig 11.3 Methane - Molecular Models**
 
 Molecular models are physical devices that are used for a better visualisation and perception of three dimensional shapes of organic molecules. These are made of wood, plastic or metal and are commercially available. (i) Frame work model (ii) Ball and stick model & (iii) space filling model. In the frame work model only the bonds connecting the atoms themselves are shown. This model emphasizes the pattern of bonds of a molecule while ignoring the size of the atom. In the ball and stick model, both the atoms and the bonds are shown. Ball represent atoms and the stick a bond. Compounds containing \( \mathrm{C = C} \) can be best represented by using springs in place of sticks and this model is termed as ball and spring model. The space filling model emphasizes the relative size of each atom based on its vander-waals radius.
@@ -399,11 +418,31 @@ In this type of isomerism, compounds having same molecular formula but differ in
 
 The isomers which have same bond connectivity but different arrangement of groups or atoms in space are known as stereoisomers. This branch of chemistry dealing with the study of three-dimensional nature (spatial arrangement) of molecules is known as stereo chemistry. The metabolic activities in living organisms, natural synthesis and drug synthesis involve various stereoisomers.
 
-**Geometrical isomerism (Cis-Trans isomerism):**
+## Steroisomerism:
 
-Generally the trans isomer is more stable than the corresponding cis isomers. This is because in the cis isomer, the bulky groups are on the same side of the double bond. The steric repulsion of the groups makes the cis isomers less stable than the trans isomers in which bulky groups are on the opposite side. These cis and trans isomers have different chemical property is. They can be separated by fractional distillation, gas chromatography etc., All alkenes with identical substrate do not show geometrical isomerism. Geometrical isomerism is possible only when each double bonded C atom is attached to two different atoms or groups eg. In propene no geometrical isomers are possible because one of the double bonded carbon has two identical H atoms.
+### 11.5.3 Geometrical isomerism:
 
-Cis-trans isomerism is also seen around single bond. For eg: 1,3-butadiene has two double bonds in conjugation. \( \mathrm{CH_2 = CH - CH = CH_2} \). It can exist in infinite number of conformations, but the following two extreme conformations are important.
+Geometrical isomers are the stereoisomers which have different arrangement of groups or atoms around a rigid framework of double bonds. This type of isomerism occurs due to restricted rotation of double bonds, or about single bonds in cyclic compounds.
+
+In alkenes, the carbon-carbon double bond is \( sp^2 \) hybridized. The carbon-carbon double bond consists of a \( \sigma \) bond and a \( \pi \) bond. The \( \sigma \) bond is formed by the head on overlap of \( sp^2 \) hybrid orbitals. The \( \pi \) bond is formed by the side wise overlap of \( p \) orbitals. The presence of the \( \pi \) bond locks the molecule in one position. Hence, rotation around C-C bond is not possible. This restriction of rotation about C-C double bond is responsible for geometrical isomerism in alkenes.
+
+cis-2-butene
+
+trans-2-butene
+
+These two compounds are termed as geometrical isomers and are distinguished from each other by the terms cis and trans. The cis isomer is one in which two similar groups are on the same side of the double bond. The trans isomer is that in which the two similar groups are on the opposite side of the double bond, hence this type of isomerism is often called cis-trans isomerism.
+
+The cis-isomer can be converted to trans isomer or vice versa only if either isomer is heated to a high temperature or absorbs light. The heat supplies the energy (about 62 kcal/mol) to break the \( \pi \) bond so that rotation about \( \sigma \) bond becomes possible. Upon cooling, the reformation of the \( \pi \) bond can take place in two ways giving a mixture of both cis and trans forms of trans-2-butene and cis-2-butene.
+
+Generally the trans isomer is more stable than the corresponding cis isomers. This is because in the cis isomer, the bulky groups are on the same side of the double bond. The steric repulsion of the groups makes the cis isomers less stable than the trans isomers in which bulky groups are on the opposite side. These cis and trans isomers have different chemical properties. They can be separated by fractional distillation, gas chromatography etc. All alkenes with identical substituents do not show geometrical isomerism. Geometrical isomerism is possible only when each double bonded C atom is attached to two different atoms or groups. For example, in propene no geometrical isomers are possible because one of the double bonded carbon has two identical H atoms.
+
+Cis-trans isomerism is also seen around single bond. For example: 1,3-butadiene has two double bonds in conjugation.
+
+\[
+\mathrm{CH_2=CH-CH=CH_2}
+\]
+
+It can exist in infinite number of conformations, but the following two extreme conformations are important.
 
 #### ii) Oximes and azo compounds:
 
@@ -727,27 +766,97 @@ The apparatus used in Dumas method consists of \( \mathrm{CO_2} \) generator, co
 
 **Schiff's nitrometer:** The nitrogen gas obtained by the decomposition of the substance in the combustion tube is mixed with considerable excess of \( \mathrm{CO_2} \). It is estimated by passing through nitrometer when \( \mathrm{CO_2} \) is absorbed by KOH and the nitrogen gets collected in the upper part of graduated tube.
 
-**Procedure:** To start with the tap of nitrometer is left open. \( \mathrm{CO_2} \) is passed through the combustion tube to expel the air in it. When the gas bubbles rising through, the KOH solution become very slow, the flow of \( \mathrm{CO_2} \) is stopped and the tap of nitrometer is closed. The combustion tube is heated strongly. The substance gets decomposed and the products are swept away by the stream of \( \mathrm{CO_2} \). The volume of nitrogen collected in the nitrometer is noted. The aqueous tension is subtracted to get the volume of dry nitrogen at room temperature and pressure. The volume is converted into volume at STP. From the volume of nitrogen at STP, the percentage of nitrogen is calculated.
+**Procedure:** To start with the tap of nitrometer is left open. \( \mathrm{CO_2} \) is passed through the combustion tube to expel the air in it. When the gas bubbles rising through, the potash solution fails to reach the top of it and is completely absorbed it shows that only \( \mathrm{CO_2} \) is coming and that all air has been expelled from the combustion tube. The nitrometer is then filled with KOH solution by lowering the reservoir and the tap is closed. The combustion tube is now heated in the furnace and the temperature rises gradually. The nitrogen set free from the compound collects in the nitrometer. When the combustion is complete a strong current of \( \mathrm{CO_2} \) is sent through the apparatus in order to sweep the last trace of nitrogen from it. The volume of the gas collected is noted after adjusting the reservoir so that the solution in it and the graduated tube is the same. The atmospheric pressure and the temperature are also recorded.
 
-Percentage of nitrogen \( = \left(\frac{28}{22.4}\times \frac{V_0}{W}\right)\times 100 \)
+**Calculations:**
 
-where \( V_0 \) = volume of nitrogen at STP in litres and W = weight of the organic substance.
+Weight of the substance taken = \( w \) g
 
-**Example 3:** In Dumas method 0.1688 g of an organic compound gave 29.58 mL of nitrogen at 303 K and 754 mm of Hg pressure. Calculate the percentage of nitrogen in the compound (Aqueous tension at 303 K is 12 mm)
+Volume of nitrogen = \( V_1 \) L
 
-Given:
+Room Temperature = \( T_1 \) K
 
-Weight of Organic compound \( \mathrm{W} = 0.1688 \mathrm{g} \)
-Volume of moist nitrogen \( \mathrm{V} = 29.58 \mathrm{mL} \)
-Room temperature \( \mathrm{T} = 303 \mathrm{K} \)
-Atmospheric Pressure \( \mathrm{P} = 754 \mathrm{mm} \)
-Aqueous tension at \( 303\mathrm{K} \) \( \mathrm{p} = 12 \mathrm{mm} \)
+Atmospheric Pressure = \( P \) mm of Hg
 
-Pressure of dry nitrogen \( \mathrm{P_1} = 754 - 12 = 742 \mathrm{mm} \)
-\( \mathrm{V_0} = \frac{P_1 \times V \times 273}{760 \times T} = \frac{742 \times 29.58 \times 273}{760 \times 303} = 26.29 \mathrm{mL} = 26.29 \times 10^{-3} \mathrm{L} \)
+Aqueous tension at room temperature = \( P' \) mm of Hg
 
-Percentage of nitrogen \( = \left(\frac{28}{22.4}\times \frac{V_0}{W}\right)\times 100 \)
-\( = \frac{28}{22.4}\times \frac{29.58\times 10^{-3}}{0.1688}\times 100 = 21.90\% \)
+Pressure of dry nitrogen = \( (P - P') = P_1 \) mm of Hg.
+
+Let \( P_0 \), \( V_0 \) and \( T_0 \) be the pressure, volume and temperature respectively of dry nitrogen at STP,
+
+\[
+\text{Then, } \frac{P_0 V_0}{T_0} = \frac{P_1 V_1}{T_1}
+\]
+
+\[
+V_0 = \left( \frac{P_1 V_1}{T_1} \times \frac{273}{760} \right) \text{ L}
+\]
+
+Calculation of percentage of nitrogen. 22.4 L of \( \mathrm{N_2} \) at STP weigh 28 g of \( \mathrm{N_2} \)
+
+\[
+V_0 \text{ L of } \mathrm{N_2} \text{ at STP weigh } \frac{28}{22.4} \times V_0 \text{ g}
+\]
+
+\( w \) g of Organic compound contains
+
+\[
+\frac{28}{22.4} \times \frac{V_0}{w} \text{ g of nitrogen}
+\]
+
+Percentage of nitrogen =
+
+\[
+\left( \frac{28}{22.4} \times \frac{V_0}{w} \right) \times 100
+\]
+
+**Problem:** 0.1688 g when analyzed by the Dumas method yields 31.7 mL of moist nitrogen measured at 14°C and 758 mm mercury pressure. Determine the % of N in the substance (Aqueous tension at 14°C = 12 mm)
+
+Weight of Organic compound = 0.1688 g
+
+Volume of moist nitrogen \( (V_1) \) = 31.7 mL
+
+\[
+= 31.7 \times 10^{-3} \text{ L}
+\]
+
+Temperature \( (T_1) \) = 14°C
+
+\[
+= 14 + 273 = 287 \text{ K}
+\]
+
+Pressure of moist nitrogen \( (P) \) = 758 mm Hg
+
+Aqueous tension at 14°C = 12 mm Hg
+
+Pressure of dry nitrogen = \( (P - P') = 758 - 12 = 746 \) mm Hg
+
+\[
+\frac{P_0 V_0}{T_0} = \frac{P_1 V_1}{T_1}
+\]
+
+\[
+V_0 = \frac{746 \times 31.7 \times 10^{-3}}{287} \times \frac{273}{760}
+\]
+
+\[
+V_0 = 29.58 \times 10^{-3} \text{ L}
+\]
+
+Percentage of nitrogen =
+
+\[
+\left( \frac{28}{22.4} \times \frac{V_0}{W} \right) \times 100
+\]
+
+\[
+= \frac{28}{22.4} \times \frac{29.58 \times 10^{-3}}{0.1688} \times 100
+\]
+
+\[
+= 21.90\%
+\]
 
 #### Kjeldahl's method:
 

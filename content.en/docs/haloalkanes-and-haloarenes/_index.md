@@ -301,6 +301,8 @@ This reaction involves the formation of a transition state in which both the rea
 \( \mathrm{S}_{\mathrm{N}}2 \) reaction of an optically active haloalkane is always accompanied by inversion of configuration at the asymmetric centre. Let us consider the following example
 
 When 2 - Bromooctane is heated with sodium hydroxide, 2 - octanol is formed with inversion of configuration.
+– 2 – Bromo octane is heated with sodium hydroxide (+) – 2 – Octanol is formed in which – OH group occupies a position
+opposite to what bromine had occupied,
 
 a) \( (-) \) 2 - Bromo octane
 (b) Transition State
@@ -372,7 +374,7 @@ The rate of \( \mathrm{E}_{2} \) reaction depends on the concentration of alkyl 
 
 It is therefore, a second order reaction. Generally primary alkyl halide undergoes this reaction in the presence of alcoholic KOH. It is a one step process in which the abstraction of the proton from the \( \beta \) carbon and expulsion of halide from the \( \alpha \) carbon occur simultaneously. The mechanism is shown below.
 
-### \( \mathrm{E}_{1} \) reaction mechanism
+ \( \mathrm{E}_{1} \) reaction mechanism
 
 Generally, tertiary alkyl halide which undergoes elimination reaction by this mechanism in the presence of alcoholic KOH. It follows first order kinetics. Let us consider the following elimination reaction.
 

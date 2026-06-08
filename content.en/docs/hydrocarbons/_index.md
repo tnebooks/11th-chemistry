@@ -546,35 +546,139 @@ Hydrogen adds on to alkenes in the presence of a metal catalyst (Ni, Pd or Pt) t
 
 When alkene is treated with halogens like chlorine or bromine, addition takes place rapidly and forms 1,2-dihalo alkane (or) vicinal dihalide.
 
+\[
+\mathrm{CH_2=CH_2} \xrightarrow{\mathrm{Cl_2}} \mathrm{CH_2Cl-CH_2Cl}
+\]
+
+1,2 dichloroethane
+
 Iodine reacts very slowly to form 1,2-diiodo alkane which are unstable and regenerate the original alkene by elimination of iodine.
 
-**Markovnikov's rule:**
+\[
+\mathrm{CH_2=CH_2} \xrightarrow{\mathrm{I_2}} \mathrm{CH_2I-CH_2I}
+\]
 
-"When an unsymmetrical alkene reacts with hydrogen halide, the hydrogen adds to the carbon that has more number of hydrogens and halogen adds to the carbon having fewer hydrogens". This rule can also be stated as in the addition reaction of alkene/alkyne, the most electronegative part of the reagent adds on to the least hydrogen attached doubly bonded carbon.
-
-**(iii) Addition of water: (Hydration of alkenes)**
-
-Normally, water does not react with alkenes. In the presence of concentrated sulphuric acid, alkenes react with water to form alcohols. This reaction follows carbocation mechanism and Markovnikov's rule.
+1,2-diiodoethane
 
 **TEST FOR ALKENE:**
 
-Bromine in water is reddish brown colour. When small amount of bromine water is added to an alkene, the solution is decolourised as it forms dibromo compound. So, this is the characteristic test for unsaturated compounds.
+Bromine in water is reddish brown colour. When small amount of bromine water is added to an alkene, the solution is decolorised as it forms dibromo compound. So, this is the characteristic test for unsaturated compounds.
+
+**Markownikoff's rule:**
+
+"When an unsymmetrical alkene reacts with hydrogen halide, the hydrogen adds to the carbon that has more number of hydrogens and the halogen adds to the carbon having fewer hydrogens". This rule can also be stated as in the addition reaction of alkene/alkyne, the most electronegative part of the reagent adds to the least hydrogen attached doubly bonded carbon.
+
+**(iii) Addition of water: (Hydration of alkenes)**
+
+Normally, water does not react with alkenes. In the presence of concentrated sulphuric acid, alkene reacts with water to form alcohols. This reaction follows carbocation mechanism and Markownikoff's rule.
+
+\[
+\mathrm{CH_3-C=CH_2} \xrightarrow{\mathrm{H_2O/H^+}} \mathrm{CH_3-C(OH)-CH_3}
+\]
+
+2-methylpropene
 
 **(iv) Addition of hydrohalides: (Hydrohalogenation of Alkenes)**
 
-Hydrogen halides (HCl, HBr and HI) add to alkene to yield alkyl halides. The order of reactivity of different hydrogen halides is HI > HBr > HCl. It is an example for electrophilic addition.
+Hydrogen halides (HCl, HBr and HI) add to alkene to yield alkyl halides. The order of reactivity of different hydrogen halides is \( \mathrm{HI > HBr > HCl} \). It is an example for electrophilic addition.
 
-**(a) Addition of HBr to symmetrical alkene:**
+**(a) Addition of HBr to symmetrical alkenes:**
 
-Addition of HBr to symmetrical alkene (similar groups are attached to double bond) yields alkyl halides (haloalkanes).
+Addition of HBr to symmetrical alkene (similar groups are attached to double bond) yields alkyl halides (haloalkanes)
+
+\[
+\mathrm{CH_2=CH_2 + HBr \rightarrow CH_3-CH_2-Br}
+\]
+
+ethene bromoethane
+
+\[
+\mathrm{CH_2=CH-CH=CH_2 + HBr \rightarrow CH_3-CH_2-CH=CH_2}
+\]
+
+but-2-ene 2-bromoethane
 
 **(b) Addition of HBr to unsymmetrical alkene:**
 
-Addition of HBr to unsymmetrical alkene (different groups are attached to double bond) yields alkyl halides according to Markovnikov's rule.
+In the addition of hydrogen halide to an unsymmetrical alkene, two products are obtained.
 
-**Peroxide effect (Kharasch effect):**
+\[
+\mathrm{CH_2=CH-CH_3 + HBr \rightarrow CH_3-CH_2-CH_2-Br}
+\]
 
-In the presence of organic peroxides, addition of HBr to unsymmetrical alkene gives the anti-Markovnikov product. This is known as peroxide effect or Kharasch effect. This effect is observed only with HBr and not with HCl or HI.
+Propene 1-Bromo propane (minor product)
+
+\[
+\mathrm{CH_2=CH-CH_3 + HBr \rightarrow CH_3-CHBr-CH_3}
+\]
+
+Propene 2-Bromo propane (major product)
+
+**Mechanism:**
+
+Consider addition of HBr to propene
+
+**Step 1: Formation of electrophile:**
+
+In H-Br, Br is more electronegative than H. When bonded electron moves toward Br, polarity is developed and creates an electrophile \( \mathrm{H^+} \) which attacks the double bond to form carbocation, as shown below.
+
+\[
+\mathrm{CH_3-CH=CH_2 + H^+ \rightarrow CH_3-\overset{+}{C}H-CH_3 \quad (2^\circ \text{ carbocation})}
+\]
+
+\[
+\mathrm{CH_3-CH=CH_2 + H^+ \rightarrow CH_3-CH_2-\overset{+}{C}H_2 \quad (1^\circ \text{ carbocation})}
+\]
+
+**Step 2:** Secondary carbocation is more stable than primary carbocation and it predominates over the primary carbocation.
+
+**Step 3:** The \( \mathrm{Br^-} \) ion attacks the \( 2^\circ \) carbocation to form 2-Bromo propane, as the major product.
+
+\[
+\mathrm{CH_3-\overset{+}{C}H-CH_3 + Br^- \rightarrow CH_3-CHBr-CH_3}
+\]
+
+Consider addition of HBr to 3-methyl-1-butene. Here the expected product according to Markovnikov's rule is 2-bromo-3-methyl butane but the actual major product is 2-bromo-2-methyl butane. This is because the secondary carbocation formed during the reaction rearranges to a more stable tertiary carbocation. Attack of \( \mathrm{Br^-} \) on this tertiary carbocation gives the major product 2-bromo-2-methyl butane.
+
+The addition of HBr to an alkene in the presence of organic peroxide gives the anti Markovnikov's product. This effect is called peroxide effect.
+
+\[
+\mathrm{CH_3CH=CH_2 + HBr \rightarrow CH_3CHBrCH_3}
+\]
+
+2-bromo-3-methylbutane (minor product) - *[Note: This equation appears inconsistent with the product name. The correct product from propene + HBr is 2-bromopropane]*
+
+\[
+\mathrm{CH_3CHBrCH_3 + HBr \rightarrow CH_3CHBrCH_2CH_3}
+\]
+
+2-bromo-2-methylbutane (major product) - *[Note: This equation also appears inconsistent. Please verify the original reaction]*
+
+### Mechanism:
+
+The reaction proceeds via free radical mechanism.
+
+#### Step 1:
+
+The weak O-O single bond linkages of peroxides undergo homolytic cleavage to generate free radical.
+
+\[
+\mathrm{C_6H_5CH=CHCH_3 \xrightarrow{\text{homolytic fission}} C_6H_5CH_2CH_2CH_3}
+\]
+
+#### Step 2:
+
+The radical abstracts a hydrogen from HBr thus generating bromine radical.
+
+\[
+\mathrm{C_6H_5CH=CHCH_3 + HBr \rightarrow C_6H_5CH_2CH_2CH_2Br}
+\]
+
+#### Step 3:
+
+The bromine radical adds to the double bond in the way to form more stable allyl free radical.
+
+#### Step 4:
 
 The H-Cl bond is stronger (430.5 kJ/mol) than H-Br bond (363.7 kJ/mol), thus H-Cl is not cleaved by the free radical. The H-I bond is weaker (296.8 kJ/mol) than H-Cl bond. Thus H-I bond breaks easily but iodine free radicals combine to form iodine molecules instead of adding to the double bond and hence peroxide effect is not observed in HCl and HI.
 
