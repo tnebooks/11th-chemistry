@@ -66,9 +66,7 @@ If some ice-cubes and water are placed in a thermos flask (at \( 273 \ \mathrm{K
 
 At equilibrium,
 
-\[
-\frac{\text{Rate of melting of ice}} = \frac{\text{Rate of freezing of water}}
-\]
+Rate of melting of ice = Rate of freezing of water
 
 \[
 \mathrm{H_2O(s) \rightleftharpoons H_2O(l)}
@@ -178,6 +176,11 @@ In the above equilibrium, \( \mathrm{H_2} \), \( \mathrm{I_2} \) and HI are in t
 
 Similarly, for the following reaction, all the reactants and products are in homogeneous solution phase.
 
+
+\[
+\mathrm{CH_3COOCH_3(aq) + H_2O(aq) \rightleftharpoons CH_3COOH(aq) + CH_3OH(aq)}
+\]
+
 ### 8.5.2 Heterogeneous Equilibrium
 
 If the reactants and products of a reaction in equilibrium are in different phases, then it is called as **heterogeneous equilibrium**.
@@ -209,6 +212,8 @@ where \( x \) is the stoichiometric coefficient of the reactant and the square b
 \[
 \text{Active mass} = \left(\frac{n}{V}\right) \ \mathrm{mol \ dm^{-3}} \ \text{(or)} \ \mathrm{mol \ L^{-1}}
 \]
+
+where n is the number of moles and V is the volume of the container (dm3 or L)
 
 ### 8.6.1 Equilibrium Constants \( \mathrm{K_p} \) and \( \mathrm{K_c} \)
 
@@ -251,6 +256,7 @@ k_f [\mathrm{A}]^x [\mathrm{B}]^y = k_b [\mathrm{C}]^l [\mathrm{D}]^m
 where \( \mathbf{K_c} \) is the equilibrium constant in terms of concentration (active mass).
 
 At a given temperature, the ratio of the product of active masses of reaction products raised to the respective stoichiometric coefficients in the balanced chemical equation to that of the reactants is a constant, known as **equilibrium constant**.
+Later when we study chemical kinetics we will learn that this is only approximately true.
 
 If the reactants and products of the above reaction are in gas phase, then the equilibrium constant can be written in terms of partial pressures as indicated below,
 
@@ -280,64 +286,137 @@ and \( K_p \) is,
 K_p = \frac{P_C^l \times P_D^m}{P_A^x \times P_B^y}
 \]
 
-The ideal gas equation is \( PV = nRT \).
+The ideal gas equation is 
 
-Active mass \( = \) molar concentration \( = \frac{n}{V} \)
-
-Since \( \frac{n}{V} = \frac{P}{RT} \), the partial pressure can be expressed as,
 
 \[
-P_A = [A]RT, \quad P_B = [B]RT, \quad P_C = [C]RT, \quad P_D = [D]RT
+PV = nRT
 \]
 
-On substitution,
+or
 
 \[
-K_p = \frac{[C]^l (RT)^l [D]^m (RT)^m}{[A]^x (RT)^x [B]^y (RT)^y} = \frac{[C]^l [D]^m}{[A]^x [B]^y} (RT)^{(l+m)-(x+y)}
+P = \frac{n}{V}RT
 \]
+
+Since
+
+Active mass = molar concentration = \( n/V \)
+
+\[
+P = \text{active mass} \times (RT)
+\]
+
+Based on the above expression the partial pressure of the reactants and products can be expressed as,
+
+\[
+P_A^x = [A]^x (RT)^x
+\]
+
+\[
+P_B^y = [B]^y (RT)^y
+\]
+
+\[
+P_C^z = [C]^z (RT)^z
+\]
+
+\[
+P_D^m = [D]^m (RT)^m
+\]
+
+On substitution in Eqn. 2,
+
+\[
+K_p = \frac{[C]^i [RT]^j [D]^m (RT)^m}{[A]^x [RT]^y [B]^y (RT)^y} \tag{3}
+\]
+
+\[
+K_p = \frac{[C]^i [D]^m (RT)^{i+m}}{[A]^x [B]^y (RT)^{x+y}} \tag{4}
+\]
+
+By comparing equation (1) and (4), we get
 
 \[
 K_p = K_c (RT)^{\Delta n_g} \tag{5}
 \]
 
-where \( \Delta n_g \) is the difference between the sum of number of moles of products and the sum of number of moles of reactants in the gas phase.
+where, \( \Delta n_g \) is the difference between the sum of number of moles of products and the sum of number of moles of reactants in the gas phase.
+
+The following relations become immediately obvious.
+
+When \( \Delta n_g = 0 \)
 
 \[
-\Delta n_g = n_p - n_r
+K_p = K_c (RT)^0
 \]
-
-**When \( \Delta n_g = 0 \)**
 
 \[
 K_p = K_c
 \]
 
-**Examples:**
+### Examples:
 
 1. \( \mathrm{H_2(g) + I_2(g) \rightleftharpoons 2HI(g)} \)
+
 2. \( \mathrm{N_2(g) + O_2(g) \rightleftharpoons 2NO(g)} \)
 
-**When \( \Delta n_g = +ve \)**
+When \( \Delta n_g = +\text{ve} \)
 
 \[
-K_p = K_c (RT)^{+ve} \quad \Rightarrow \quad K_p > K_c
+K_p = K_c (RT)^{+\text{ve}}
 \]
 
-**Examples:**
+\[
+K_p > K_c
+\]
+
+### Examples:
 
 1. \( \mathrm{2NH_3(g) \rightleftharpoons N_2(g) + 3H_2(g)} \)
+
 2. \( \mathrm{PCl_5(g) \rightleftharpoons PCl_3(g) + Cl_2(g)} \)
 
-**When \( \Delta n_g = -ve \)**
+When \( \Delta n_g = -\text{ve} \)
 
 \[
-K_p = K_c (RT)^{-ve} \quad \Rightarrow \quad K_p < K_c
+K_p = K_c (RT)^{-\text{ve}}
 \]
 
-**Examples:**
+\[
+K_p < K_c
+\]
+
+### Examples:
 
 1. \( \mathrm{2H_2(g) + O_2(g) \rightleftharpoons 2H_2O(g)} \)
+
 2. \( \mathrm{2SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \)
+
+Thank you for the clarification. Now I understand that both images together form **a single table** showing the relationship between equilibrium constants for different types of reactions.
+
+Here is the correct combined table format with proper rows and columns:
+
+---
+
+**Table 8.1 Relation between equilibrium constants for some reversible reactions**
+
+| Reaction type | Equilibrium constant |
+|---|---|
+| For the forward reaction \( xA + yB \rightleftharpoons lC + mD \) | \( K_c \) |
+| If the reaction is reversed \( lC + mD \rightleftharpoons xA + yB \) | \( K_c' = \frac{1}{K_c} \) |
+| For the reaction \( A \rightleftharpoons C \) | \( K_1 \) |
+| For the reaction \( B \rightleftharpoons D \) | \( K_2 \) |
+| For the reaction \( B \rightleftharpoons A \) | \( K_3 \) |
+| For the reaction \( C \rightleftharpoons D \) | \( K_4 \) |
+
+\[
+K_4 = K_1 \times K_2 \times K_3
+\]
+
+---
+
+
 
 ### 8.6.3 Equilibrium Constants for Heterogeneous Equilibrium
 
@@ -373,12 +452,30 @@ Since \( \mathrm{H_2O(l)} \) is a pure liquid, the \( K_c \) can be expressed as
 K_c = \frac{[\mathrm{H^+}][\mathrm{HCO_3^-}]}{[\mathrm{CO_2}]}
 \]
 
-### Table 8.1 Relation between equilibrium constants for some reversible reactions
 
-| Reversible reactions | Equilibrium constant |
-|---------------------|---------------------|
-| 1. \( 2\mathrm{SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \) | \( K_c = \frac{[SO_3]^2}{[SO_2]^2[O_2]} \) and \( K_p = \frac{P_{SO_3}^2}{P_{SO_2}^2 \times P_{O_2}} \) |
-| 2. \( 2\mathrm{CO(g) \rightleftharpoons CO_2(g) + C(s)} \) | \( K_c = \frac{[CO_2]}{[CO]^2} \) and \( K_p = \frac{P_{CO_2}}{P_{CO}^2} \) |
+# Example
+
+Write the \( K_p \) and \( K_c \) for the following reactions
+
+1. \( \mathrm{2SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \)
+
+2. \( \mathrm{2CO(g) \rightleftharpoons CO_2(g) + C(s)} \)
+
+**1)**
+
+\[
+K_c = \frac{[\mathrm{SO_3}]^2}{[\mathrm{SO_2}]^2 [\mathrm{O_2}]}
+\]
+
+\[
+K_p = \frac{P_{\mathrm{SO_3}}^2}{P_{\mathrm{SO_2}}^2 \times P_{\mathrm{O_2}}}
+\]
+
+**2)**
+
+\[
+K_c = \frac{[\mathrm{CO_2}]}{[\mathrm{CO}]^2} \quad \text{and} \quad K_p = \frac{P_{\mathrm{CO_2}}}{P_{\mathrm{CO}}}
+\]
 
 ### Evaluate Yourself
 
@@ -427,6 +524,39 @@ A large value of \( \mathrm{K_c} \) indicates that the reaction reaches equilibr
 | Extent of reaction | Reaction makes a little progress in the forward direction | Both the forward and backward reactions make significant progress | Reaction nearly goes to completion |
 | Prediction | Reverse reaction is favoured | Neither forward nor reverse reaction predominates | Forward reaction is favoured |
 | Examples | Decomposition of water at 500 K: \( 2\mathrm{H_2O(g)} \rightleftharpoons 2\mathrm{H_2(g)} + \mathrm{O_2(g)} \); \( K_c = 4.1 \times 10^{-48} \)<br>Oxidation of nitrogen at 1000 K: \( \mathrm{N_2(g)} + \mathrm{O_2(g)} \rightleftharpoons 2\mathrm{NO(g)} \); \( K_c = 1 \times 10^{-30} \) | Dissociation of bromine monochloride at 1000 K: \( 2\mathrm{BrCl(g)} \rightleftharpoons \mathrm{Br_2(g)} + \mathrm{Cl_2(g)} \); \( K_c = 5 \)<br>Formation of HI at 700 K: \( \mathrm{H_2(g)} + \mathrm{I_2(g)} \rightleftharpoons 2\mathrm{HI(g)} \); \( K_c = 57.0 \) | Formation of HCl at 300 K: \( \mathrm{H_2(g)} + \mathrm{Cl_2(g)} \rightleftharpoons 2\mathrm{HCl(g)} \); \( K_c = 4 \times 10^{31} \)<br>Oxidation of carbon monoxide at 1000 K: \( 2\mathrm{CO(g)} + \mathrm{O_2(g)} \rightleftharpoons 2\mathrm{CO_2(g)} \); \( K_c = 2.2 \times 10^{22} \) |
+
+
+# Example
+
+Consider the following equilibrium reactions and relate their equilibrium constants
+
+i) \( \mathrm{N_2 + O_2 \rightleftharpoons 2NO} \); \( K_1 \)
+
+ii) \( \mathrm{2NO + O_2 \rightleftharpoons 2NO_2} \); \( K_2 \)
+
+iii) \( \mathrm{N_2 + 2O_2 \rightleftharpoons 2NO_2} \); \( K_3 \)
+
+\[
+K_1 = \frac{[\mathrm{NO}]^2}{[\mathrm{N_2}][\mathrm{O_2}]}
+\]
+
+\[
+K_2 = \frac{[\mathrm{NO_2}]^2}{[\mathrm{NO}]^2[\mathrm{O_2}]}
+\]
+
+Now
+
+\[
+K_1 \times K_2 = \frac{[\mathrm{NO}]^2}{[\mathrm{N_2}][\mathrm{O_2}]} \times \frac{[\mathrm{NO_2}]^2}{[\mathrm{NO}]^2[\mathrm{O_2}]}
+\]
+
+\[
+= \frac{[\mathrm{NO_2}]^2}{[\mathrm{N_2}][\mathrm{O_2}]^2} = K_3
+\]
+
+\[
+\therefore K_3 = K_1 \times K_2
+\]
 
 ### 8.7.2 Predicting the Direction of a Reaction
 
@@ -621,21 +751,62 @@ K_c = \frac{[NH_3]^2}{[N_2][H_2]^3} = \frac{\left(\frac{2x}{V}\right)^2}{\left(\
 
 The equilibrium constant \( K_p \) can also be calculated as follows:
 
-\( \Delta n_g = n_p - n_r = 2 - 4 = -2 \)
-
 \[
-K_p = K_c (RT)^{-2}
+K_p = K_c(\text{RT})^{\Delta n_g}
 \]
 
-Total number of moles at equilibrium, \( n = a-x + b-3x + 2x = a + b - 2x \)
+\[
+\Delta n_g = n_p - n_r = 2 - 4 = -2
+\]
 
 \[
-K_p = K_c \times \left(\frac{PV}{n}\right)^{-2} = K_c \times \left(\frac{n}{PV}\right)^2
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \, (\text{RT})^{-2}
+\]
+
+Total number of moles at equilibrium,
+
+\[
+n = a-x + b-3x + 2x = a+b-2x
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{PV}{n} \right]^{-2}
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{n}{PV} \right]^2
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{a+b-2x}{PV} \right]^2
+\]
+
+\[
+K_p = \frac{4x^2(a+b-2x)^2}{P^2(a-x)(b-3x)^3}
 \]
 
 **Solved Problems:**
 
 1. The equilibrium concentrations of \( \mathrm{NH_3} \), \( \mathrm{N_2} \) and \( \mathrm{H_2} \) are \( 1.8 \times 10^{-2} \ \mathrm{M} \), \( 1.2 \times 10^{-2} \ \mathrm{M} \) and \( 3 \times 10^{-2} \ \mathrm{M} \) respectively. Calculate the equilibrium constant for the formation of \( \mathrm{NH_3} \) from \( \mathrm{N_2} \) and \( \mathrm{H_2} \). [Hint: M = mol \( \mathrm{L^{-1}} \)]
+
+
+**Given data:**
+
+\[
+[\mathrm{NH_3}] = 1.8 \times 10^{-2} \, \text{M}
+\]
+
+\[
+[\mathrm{N_2}] = 1.2 \times 10^{-2} \, \text{M}
+\]
+
+\[
+[\mathrm{H_2}] = 3 \times 10^{-2} \, \text{M}
+\]
+
+\[
+K_c = ?
+\]
 
 **Solution:**
 
