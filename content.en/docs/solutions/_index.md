@@ -60,7 +60,7 @@ The following table illustrates the different types of solutions based on the ph
 
 ### 9.3 Expressing concentration of solutions
 
-In our life we have come across many solutions of varying strengths or concentrations. The concentration of a solution is defined as the amount of solute present in a given amount (mass or volume) of solution or solvent. The concentration of a solution can be expressed in different ways as listed below.
+In our life we have come across many solutions of varying strengths or concentrations such as mouthwash, antiseptic solutions, household disinfectants etc... Have you ever noticed the concentration of the ingredients present in those solutions? For example, chlorhexidine mouthwash solution contains 0.2% (w/v) chlorhexidine gluconate; The concentration of the commercially available hydrogen peroxide is 3% (w/v). Similarly, other terms such as ppm (TDS of water), molar and normal (laboratory reagents) are used to express the concentration of the solution. The concentration of a solution gives the amount of solute present in a given quantity of solvent. As we have seen, there are different ways of expressing the concentration of a solution. Let us learn the different concentration terms and to prepare a solution of a specific concentration.
 
 **Table 9.2 Different concentration terms with expressions and illustrations**
 
@@ -83,25 +83,27 @@ In our life we have come across many solutions of varying strengths or concentra
 
 4) A litre of sea water weighing about 1.05 kg contains 5 mg of dissolved oxygen \( (\mathrm{O}_{2}) \). Express the concentration of dissolved oxygen in ppm.
 
-The concentration of a solution is expressed in different units. The choice of unit depends on the type of measurement applied. For example, in complexometric titrations involving EDTA, the concentration of solution is expressed in formality because EDTA exists as \( \mathrm{H_4Y} \). In the case of redox titration involving \( \mathrm{KMnO_4} \) vs \( \mathrm{FeSO_4} \), the strength of \( \mathrm{KMnO_4} \) is expressed in normality. Similarly, for the osmotic pressure measurement, we use the molarity of the solution. Hence, we need to learn to convert one concentration unit into another, which we will practice at the end of this chapter.
+The concentration of a solution is expressed in different units. The choice of unit depends on the type of measurement applied. For example, in complexometric titrations involving, EDTA, the reaction between EDTA and the metal ions takes place in the 1:1 mole ratio and hence molar solutions are used in this titrations. In the redox and neutralisation titrations we use normal solutions. The mole fraction is used to calculate the partial pressure of gases and the vapour pressure of solutions. The percentage units are used to express the active ingredients present in therapeutics, and the ppm is used to express the quantity of solutes present in small amounts in solutions.
 
-#### 9.3.1 Dilution of solution
+### 9.3.1 Standard solutions and working standards
 
-The concentration of a solution can be reduced by adding more solvent. This process is called dilution. In the initial solution, the number of moles of solute is \( \mathrm{M_1V_1} \) and in the final solution after dilution it becomes \( \mathrm{M_2V_2} \). Since the number of moles of solute taken remains constant after dilution, we can write
+A standard solution or a stock solution is a solution whose concentration is accurately known. A standard solution of required concentration can be prepared by dissolving a required amount of a solute, in a suitable amount of solvent. It's done by
+
+(i) transferring a known amount of a solute to a standard flask of definite volume.
+
+(ii) a small amount of water is added to the flask and shaken well to dissolve the solute.
+
+(iii) then water is added to the flask to bring the solution level to the mark indicated at the top end of the flask.
+
+(iv) the flask is stoppered and shaken well to make concentration uniform.
+
+At the time of experiment, the solution with required concentration is prepared by diluting the stock solution. This diluted solution is usually called working standard. A known volume of stock solution is transferred to a new container and brought to the calculated volume. The necessary volumes of the stock solution and final volume can be calculated using the following expression.
 
 \[
-\mathrm{M_1V_1 = M_2V_2} \qquad (9.1)
+C_v V_s = C_w V_w \tag{9.1}
 \]
 
-Similarly, for dilution in terms of normality,
-
-\[
-\mathrm{N_1V_1 = N_2V_2} \qquad (9.2)
-\]
-
-This relation is used to prepare a less concentrated solution from a more concentrated solution.
-
-The concentration of the solution can be expressed in different units. The choice of unit depends on the requirement. For example, we express the strength of EDTA as formality because of its complex formula. For redox reactions, we use normality. In some cases, we need to convert one concentration unit to another.
+Where \( C_s \) and \( V_s \) are concentration and volume of the stock solution and \( C_w \) and \( V_w \) are concentration and volume of the working standard, respectively.
 
 #### 9.3.2 Advantages of using standard solutions
 
@@ -134,6 +136,9 @@ We know from the equation (9.1)
 \[
 \mathrm{x = \frac{250}{2} = 125 \ mL}
 \]
+
+Hence, volume of 4M HCl required = 125 mL
+Volume of 2M HCl required = (500 - 125) mL= 375 mL 
 
 ## Evaluate Yourself
 
@@ -567,7 +572,7 @@ M_B = \frac{2 \times 18 \times 1.013}{98 \times 0.009} = 41.3 \ \mathrm{g \ mol^
 
 #### Elevation of boiling point
 
-Boiling point is an important physical property of a liquid. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the atmospheric pressure (1 atm). When a nonvolatile solute is added to a pure solvent at its boiling point, the vapour pressure of the solution is lowered below 1 atm. To bring the vapour pressure again to 1 atm, the temperature of the solution has to be increased. As a result, the solution boils at a higher temperature \( \mathrm{T_b} \) than the boiling point of the pure solvent \( \mathrm{T_b^{\circ}} \). This increase in boiling point is known as elevation of boiling point.
+Boiling point is an important physical property of a liquid. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the atmospheric pressure (1 atm). When a nonvolatile solute is added to a pure solvent at its boiling point, the vapour pressure of the solution is lowered below 1 atm. To bring the vapour pressure again to 1 atm, the temperature of the solution has to be increased. As a result, the solution boils at a higher temperature \( \mathrm{T_b} \) than the boiling point of the pure solvent \( \mathrm{T_b^{\circ}} \). This increase in boiling point is known as elevation of boiling point.. A plot of vapour pressure versus temperature for water and an aqueous solution is given below 
 
 <center>Figure 9.11 Elevation of boiling point and depression in freezing point</center>
 
