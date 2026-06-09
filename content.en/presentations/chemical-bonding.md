@@ -6,3 +6,27 @@ summary: "This unit explains the formation of chemical bonds and the stability o
 # Chemical Bonding
 
 ---
+
+## Learning Objectives
+
+After studying this unit students will be able to
+
+- describe Kossel - Lewis approach to chemical bonding
+- explain the octet rule
+- sketch the Lewis structures of simple molecules
+- describe the formation of different types of bonds and bond parameters
+- sketch the resonance structures for simple molecules
+- apply the concept of electronegativity to explain the polarity of covalent bonds
+- describe VSEPR theory and predict the shapes of simple molecules
+- explain the valence bond approach for the formation of covalent bonds
+- explain the different types of hybridisation involving s, p & d orbitals and sketch shapes of simple covalent molecules
+- explain the molecular orbital theory, calculate the bond order and explain the magnetic properties of \( \mathrm{H_2}, \mathrm{O_2}, \mathrm{N_2} \), CO and NO
+- describe metallic bonding briefly.
+
+---
+
+
+---
+
+
+---

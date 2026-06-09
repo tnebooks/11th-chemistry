@@ -13,18 +13,6 @@ The Nobel Prize in chemistry 2005 was awarded jointly to Yves Chauvin, Robert H.
 
 In 1971 Yves Chauvin explained the types of metal compound that act as catalysts in the reactions. Richard Schrock was the first to produce efficient metal compound catalysts for metathesis in 1990. Two years later Robert Grubbs developed better catalysts, stable in air that was highlighted in many applications.
 
-### Learning Objectives
-
-After studying this unit, students will be able to
-
-- Know the various concepts of environmental chemistry
-- classify the various types of environmental pollutions.
-- recognize the particulate pollutants and their effects.
-- explain the cause and hazardous effects of acid rain, greenhouse effect, ozone depletion and global warming.
-- know the reason for water pollution and recognize the prescribed standard for drinking water.
-- highlight the strategies to control various types of pollution.
-- appreciate the meaning of green chemistry and comprehend the importance of green chemistry in day today life.
-
 ### 15. INTRODUCTION
 
 We are very familiar with the word environment. It includes the air we breathe, the water that covers most of the earth's surface, the plants and animals around us and much more. These days, when we hear people talk about "the environment," they are often referring to the overall condition of our planet, or how healthy it is.

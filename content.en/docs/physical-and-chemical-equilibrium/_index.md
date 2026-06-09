@@ -14,22 +14,6 @@ summary: "This unit explains the concepts of physical and chemical equilibrium a
   <p>studied the mechanism of reversible chemical reaction and developed the theory of chemical equilibria. He also contributed to modern chemical nomenclature. He was the first to demonstrate the bleaching action of chlorine gas, and developed a solution of sodium hypochlorite that acts as a bleaching agent.</p>
 </div>
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- describe the meaning of equilibrium
-- explain the dynamic nature of equilibrium involved in physical and chemical processes
-- state the law of mass action
-- deduce the expression for equilibrium constants, \( \mathrm{K_c} \) and \( \mathrm{K_p} \)
-- establish the relationship between \( \mathrm{K_p} \) and \( \mathrm{K_c} \)
-- predict the extent of reaction using equilibrium constant
-- state Le-Chatelier's principle
-- explain the effect of various factors that affect a system at equilibrium
-- derive Van't Hoff equation
-
----
-
 ## 8.1 Introduction
 
 In our daily life, we observe several chemical and physical changes. For example, a banana gets ripened after few days, silver gets tarnished in few months and iron gets rusted slowly. These processes proceed in one direction. Now let us consider the transport of oxygen by hemoglobin in our body as an illustration for a reversible change. The hemoglobin combines with oxygen in lungs to form oxyhemoglobin. The oxyhemoglobin has a tendency to form hemoglobin by releasing oxygen. In fact, in our lungs all the three species coexist.

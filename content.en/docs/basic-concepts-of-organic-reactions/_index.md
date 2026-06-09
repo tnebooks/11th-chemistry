@@ -9,17 +9,6 @@ summary: "This unit explains the fundamental principles of organic reactions, in
 
 # 12 Basic concepts of organic reactions
 
-**Learning Objectives**
-
-After learning this unit, students will be able to
-
-* understand the concept of organic reaction mechanism
-* describe homolytic and heterolytic fission of bonds
-* identify free radicals, nucleophiles and electrophiles
-* classify organic reactions into substitution, elimination, addition, oxidation and reduction
-* describe electron movement in organic reactions
-* explain the electronic effects in covalent bonds
-
 ## 12.1 Introduction
 
 A chemical reaction can be treated as a process by which some existing bonds in the reacting molecules are broken and new bonds are formed. i.e., in a chemical reaction, a reactant is converted into a product. This conversion involves one or more steps. In general an organic reaction can be represented as

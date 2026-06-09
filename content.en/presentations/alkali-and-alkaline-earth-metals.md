@@ -6,3 +6,25 @@ summary: "This unit explains the properties and trends of alkali and alkaline ea
 # Alkali and Alkaline Earth Metals
 
 ---
+
+## Learning Objectives
+
+After studying this unit, students will be able to
+
+Explain the properties of alkali metals and alkaline earth metals
+
+Recognise the anomalous properties of Li and Be
+
+List the uses of alkali metals and alkaline earth metals
+
+Describe the general characteristics of compounds of alkali metals and alkaline earth metals
+
+Appreciate the biological importance of sodium and potassium, Magnesium and Calcium
+
+Explain the preparation, properties and uses of calcium oxide, calcium hydroxide, gypsum and plaster of paris.
+
+
+---
+
+
+---

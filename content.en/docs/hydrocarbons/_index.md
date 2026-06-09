@@ -13,23 +13,6 @@ summary: "This unit explains the classification, structure, and properties of hy
 
 He is a French organic Chemist. He discovered phosphoryl chlorides. He showed that alkyl halides react with sodium to produce higher alkanes. This reaction was later named as Wurtz reaction. He is also known for his discoveries of ethylamine glycol and aldol condensation reactions.
 
-### Learning Objectives
-
-After studying this unit, the students will be able to
-
-- classify hydrocarbons according to nature of bond between the carbon atoms.
-- name hydrocarbons according to IUPAC system of nomenclature.
-- describe various methods of preparing hydrocarbon.
-- interpret and use the following terminology in organic chemistry like free radicals, initiation, propagation and termination.
-- describe chemistry of alkanes by the following reaction of halogenations, combustion, cracking.
-- predict the formation of addition products of unsymmetrical alkenes which applies both Markovnikov's rule and peroxide effect.
-- deduce acidic hydrogen in alkenes.
-- comprehend the structure of benzene, explain aromaticity and understand mechanism of electrophilic substitutions reactions.
-- predict the directive influence of substituents on mono substituted benzene.
-- recognize the toxicity and carcinogenic nature of aromatic hydrocarbons.
-
-The hydrocarbons are compounds composed entirely of Carbon and Hydrogen. They occur widely in nature. The crude oil consists of complex mixtures of hydrocarbons, mangoes contain cyclohexane, a cyclic hydrocarbon, cockroaches secretes a hydrocarbon, undecane which attract opposite gender of its species. Hydrocarbons are primarily used as fuel. For example, Liquefied mixture of propane and butane is used as Liquefied petrolium gas (LPG). They also finds many applications in industries such as solvents etc. In this unit we will study the classification, preparation, properties and uses of aliphatic and aromatic hydrocarbons.
-
 ## 13.1 Introduction and classification of alkanes
 
 Depending upon the characteristic pattern of bonding between the carbon atoms, hydrocarbons are divided into two main classes: aliphatic and aromatic. The word aliphatic was derived from the Greek word 'aleiphar' meaning fat. Important sources of aliphatic hydrocarbons are oils and fats. The word aroma means odour, which is obtained by chemical treatment of pleasant-smelling plant extracts.

@@ -6,3 +6,21 @@ summary: "This unit explains the composition of the environment and the impact o
 # Environmental Chemistry
 
 ---
+
+## Learning Objectives
+
+After studying this unit, students will be able to
+
+- Know the various concepts of environmental chemistry
+- classify the various types of environmental pollutions.
+- recognize the particulate pollutants and their effects.
+- explain the cause and hazardous effects of acid rain, greenhouse effect, ozone depletion and global warming.
+- know the reason for water pollution and recognize the prescribed standard for drinking water.
+- highlight the strategies to control various types of pollution.
+- appreciate the meaning of green chemistry and comprehend the importance of green chemistry in day today life.
+
+
+---
+
+
+---

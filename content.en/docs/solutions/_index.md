@@ -15,19 +15,6 @@ Francois-Marie Raoult was a French chemist who conducted research into the behav
 
 In his first research paper, he described the action of solutes in depressing the freezing point of the solutions. He also gave a relation between the vapour pressure of the solution with the molecular weight of the solute.
 
-## Learning Objectives
-
-After studying this unit students will be able to
-
-- describe the formation of different types of solutions
-- express the concentration of a solution in different units
-- prepare solutions of required concentrations by diluting the stock solution
-- state Henry's and Raoult's Law
-- explain the deviation of real solutions from Raoult's Law
-- correlate colligative properties of solutions with the molar masses of their solutes
-- explain the abnormal colligative properties
-- define Van't Hoff factor and calculate degree of dissociation / association
-
 ### 9.1 INTRODUCTION
 
 There are many chemicals that play an important role in our daily life. All these chemicals are in different physical forms, viz solid, liquid and gas. If we do close examination on their composition, we could find that most of them are mixtures and rarely pure substances. One more interesting aspect is that most of the mixtures are homogeneous irrespective of their physical state and such homogeneous mixtures are called as solutions.

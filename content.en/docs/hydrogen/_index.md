@@ -16,24 +16,6 @@ summary: "This unit explains the occurrence, preparation, and properties of hydr
   <p>He recognised and named hydrogen and oxygen. He introduced a new system for chemical nomenclature in 1787.</p>
 </div>
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- Justify the position of hydrogen in the periodic table
-- Recognise the different isotopes of hydrogen
-- Explain the methods of preparation of hydrogen
-- Explain the properties of hydrogen
-- Appraise the uses of hydrogen
-- Differentiate various types of hydrides
-- Translate the knowledge of structure of water for explaining its physical and chemical properties
-- Differentiate hard and soft water and select the suitable method for water softening
-- Recognise heavy water and explain its properties
-- Explain the preparation and properties of hydrogen peroxide
-- List the uses of hydrogen peroxide
-
----
-
 ## 4.1 Introduction
 
 Hydrogen is the simplest atom which contains one electron and one proton. In contrast to other elements (except helium) its valence electron is directly in the sphere of action of the nucleus. It is invariably present in most of the compounds we come across in our daily life such as water, carbohydrate, proteins etc. As it has an unpaired electron, it is reactive and exists as a diatomic molecule \( \mathrm{H_2} \). However, the abundance of hydrogen gas in the earth's atmosphere is very small.
