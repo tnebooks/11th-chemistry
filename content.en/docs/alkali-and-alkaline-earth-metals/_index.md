@@ -15,22 +15,6 @@ summary: "This unit explains the properties and trends of alkali and alkaline ea
 
 <center>Spodumene</center>
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-Explain the properties of alkali metals and alkaline earth metals
-
-Recognise the anomalous properties of Li and Be
-
-List the uses of alkali metals and alkaline earth metals
-
-Describe the general characteristics of compounds of alkali metals and alkaline earth metals
-
-Appreciate the biological importance of sodium and potassium, Magnesium and Calcium
-
-Explain the preparation, properties and uses of calcium oxide, calcium hydroxide, gypsum and plaster of paris.
-
 ## 5.1 s-Block Elements
 
 The elements belonging to the group 1 and 2 in the modern periodic table are called s-block elements. The elements belonging to these two groups are commonly known as alkali and alkaline earth metals respectively. In this unit, we study their properties, uses, important compounds and biological importance.

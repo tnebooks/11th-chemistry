@@ -13,23 +13,6 @@ summary: "This unit explains the quantum mechanical model of the atom and the li
 
 Erwin Schrödinger was awarded the Nobel Prize in physics in 1933 for "the discovery of new productive forms of atomic theory". Schrödinger had wide interests starting from chemistry, physics, maths and botany. He was not satisfied with the quantum condition in Bohr's orbit theory and believed that atomic spectra should really be determined by some kind of eigenvalue problem and proposed the wave equation, now named after him.
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- Recognise various atomic models
-- Explain the dual behaviour of matter
-- Derive de Broglie equation and solve numerical problems
-- Explain Heisenberg's uncertainty principle and solve related problems
-- Appreciate the significance of quantum numbers
-- Summarise important features of quantum mechanical model of atom
-- Draw the shapes of various atomic orbitals
-- Explain the Aufbau principle
-- Describe Hund's rule and Pauli's exclusion principle
-- Apply the relevant rules for filling electrons in atoms and write the electronic configuration of various atoms
-
----
-
 ## 2.1 Introduction to Atom Models
 
 Let us recall the history of the development of atomic models from the previous classes. We know that all things are made of matter. The basic unit that makes up all matter is atom. The word 'atom' has been derived from the Greek word 'a-tomo' meaning non-divisible. Atom was considered as non-divisible until the discovery of subatomic particles such as electron, proton and neutron. J. J. Thomson's cathode ray experiment revealed that atoms consist of negatively charged particles called electrons. He proposed that atom is a positively charged sphere in which the electrons are embedded like the seeds in the watermelon. Later, Rutherford's \( \alpha \) - ray scattering experiment results proved that Thomson's model was wrong. Rutherford bombarded a thin gold foil with a stream of fast moving \( \alpha \) - particles. It was observed that

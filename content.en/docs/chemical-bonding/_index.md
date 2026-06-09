@@ -11,24 +11,6 @@ summary: "This unit explains the formation of chemical bonds and the stability o
 
 <center><strong>Linus Carl Pauling was an American chemist, biochemist, peace activist, author and educator. In addition to his contribution to chemistry he also worked with many biologists. He received the Nobel Prize in Chemistry in 1954 for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances.</strong></center>
 
-## Learning Objectives
-
-After studying this unit students will be able to
-
-- describe Kossel - Lewis approach to chemical bonding
-- explain the octet rule
-- sketch the Lewis structures of simple molecules
-- describe the formation of different types of bonds and bond parameters
-- sketch the resonance structures for simple molecules
-- apply the concept of electronegativity to explain the polarity of covalent bonds
-- describe VSEPR theory and predict the shapes of simple molecules
-- explain the valence bond approach for the formation of covalent bonds
-- explain the different types of hybridisation involving s, p & d orbitals and sketch shapes of simple covalent molecules
-- explain the molecular orbital theory, calculate the bond order and explain the magnetic properties of \( \mathrm{H_2}, \mathrm{O_2}, \mathrm{N_2} \), CO and NO
-- describe metallic bonding briefly.
-
----
-
 ## 10.1 Introduction
 
 Diamond is very hard while its allotrope graphite is very soft. Gases like hydrogen and oxygen are diatomic while the inert gases are monoatomic. Carbon combines with chlorine to form carbon tetrachloride, which is a liquid and insoluble (immiscible) in water. Sodium combines with chlorine atom to form sodium chloride, a hard and brittle compound that readily dissolves in water. The possible reason for these observations lies in the type of interaction that exists between the atoms of these molecules and these interactions are responsible for holding the atoms/ions together. The interatomic attractive forces which hold the constituent atoms/ions together in a molecule are called **chemical bonds**.

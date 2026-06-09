@@ -13,24 +13,6 @@ summary: "This unit explains the behavior and properties of gases using concepts
 
 <center><strong>Jacques Charles (1746-1823)</strong></center>
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- State the laws governing an ideal gas
-- Demonstrate gas laws in various real life situations
-- Derive ideal gas equation and perform calculations using it
-- State the deviations from ideal behavior
-- Derive van der Waals equation
-- Define Graham's law of diffusion
-- Define compressibility factor
-- Explain critical phenomena
-- Derive critical constants in terms of van der Waal's constants
-- Explain Andrew's isotherms of carbon dioxide
-- Describe Joule-Thomson effect and liquefaction of gases
-
----
-
 ## 6.1 Introduction
 
 We can survive for weeks without food, days without water, but only minutes without air. Thus, we inhale a lungful of air every few seconds, keep some of the molecules for our own end, and some of the molecules that our body no longer needs, and exhale the mixture back into the surrounding air. The air around us is in the gaseous state, which is the simplest of the states of matter. Although the chemical behaviour of gases depends on their composition, all the gases have remarkably similar physical behaviour.

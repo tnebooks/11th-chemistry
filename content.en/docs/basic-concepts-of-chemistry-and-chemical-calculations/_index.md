@@ -11,28 +11,6 @@ summary: "This unit introduces the fundamental concepts of chemistry, including 
 
 We think there is colour, we think there is sweet, we think there is bitter, but in reality there are atoms and a void.
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- explain the importance of chemistry in different spheres of life.
-- classify different substances into elements, compounds and mixtures.
-- define atomic mass and molecular mass.
-- define the amount of substance using SI unit 'mole'.
-- describe Avogadro number.
-- explain the relationship among mass, moles and number of atoms (or) molecules and perform calculations relating to the conversions.
-- define equivalent mass and calculate equivalent mass of acid, base and oxidising/reducing agents.
-- deduce empirical and molecular formula of a compound from experimental data.
-- solve numerical problems based on stoichiometric calculations.
-- identify the limiting reagent and calculate the amount of reactants and products in a reaction.
-- define the terms oxidation, reduction, oxidant and reductant.
-- predict the oxidation states of elements in various compounds.
-- explain the process involved in a redox reaction and describe the electron transfer process.
-- classify redox reactions into different types.
-- formulate a balanced redox reaction from two half-reactions.
-
----
-
 ## 1.1 Chemistry - the Centre of Life
 
 'Unna unavu, udukka udai, irukka idam' - in Tamil classical language means food to eat, cloth to wear and place to live. These are the three basic needs of human life. Chemistry plays a major role in providing these needs and also helps us to improve the quality of life. Chemistry has produced many compounds such as fertilizers, insecticides etc. that could enhance the agricultural production. We build better and stronger buildings that sustain different weather conditions with modern cements, concrete mixtures and better quality steel. We also have better quality fabrics.
