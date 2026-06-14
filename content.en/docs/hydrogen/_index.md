@@ -11,6 +11,8 @@ summary: "This unit explains the occurrence, preparation, and properties of hydr
 
 <center><strong>Hydrogen, third most abundant on the surface of the Universe, is being visualised as the major source of energy</strong></center>
 
+<center>{{< figure src="Author.png" width="200" >}}</center>
+
 <div class="chemist-box">
   <strong>Antoine - Laurent de Lavoisier (1743-1794)</strong>
   <p>He recognised and named hydrogen and oxygen. He introduced a new system for chemical nomenclature in 1787.</p>
@@ -45,6 +47,8 @@ Since hydrogen has similarities with alkali metals as well as the halogens, it i
 
 Hydrogen has three naturally occurring isotopes, viz., protium \( \mathrm{_1H^1} \) or \( \mathrm{H} \), deuterium \( \mathrm{_1H^2} \) or D and tritium \( \mathrm{_1H^3} \) or T. Protium \( \mathrm{_1H^1} \) is the predominant form (99.985%) and it is the only isotope that does not contain a neutron.
 
+<center>{{< figure src="4.1.png" width="200" >}}</center>
+
 <center><strong>Figure 4.1 Isotopes of hydrogen</strong></center>
 
 Deuterium, also known as heavy hydrogen, constitutes about 0.015%. The third isotope, tritium is a radioactive isotope of hydrogen which occurs only in traces \( \sim 1 \) atom per \( 10^{18} \) hydrogen atoms). Due to the existence of these isotopes naturally occurring hydrogen exists as \( \mathrm{H_2} \), HD, \( \mathrm{D_2} \), HT, \( \mathrm{T_2} \), and DT. The properties of these isotopes are shown in Table 4.1.
@@ -73,6 +77,8 @@ Deuterium, also known as heavy hydrogen, constitutes about 0.015%. The third iso
 
 In the hydrogen atom, the nucleus has a spin. When molecular hydrogen is formed, the spins of two hydrogen nuclei can be in the same direction or in the opposite direction as shown in the figure. These two forms of hydrogen molecules are called ortho and para hydrogens respectively.
 
+<center>{{< figure src="Ortho-para.png" width="200" >}}</center>
+
 At room temperature, normal hydrogen consists of about 75% ortho-form and 25% para-form. As the ortho-form is more stable than para-form, the conversion of one isomer into the other is a slow process. However, the equilibrium shifts in favour of para hydrogen when the temperature is lowered. The para-form can be catalytically transformed into ortho-form using platinum or iron. Alternatively, it can also be converted by passing an electric discharge, heating above \( 800^\circ \mathrm{C} \) and mixing with paramagnetic molecules such as \( \mathrm{O_2}, \mathrm{NO}, \mathrm{NO_2} \) or with nascent/atomic hydrogen.
 
 Ortho and para hydrogen are similar in chemical properties but differ in some of the physical properties. For example, the melting point of para hydrogen is \( 13.83 \ \mathrm{K} \) while that of ortho hydrogen \( 13.95 \ \mathrm{K} \); boiling point of para hydrogen is \( 20.26 \ \mathrm{K} \) while that of ortho hydrogen \( 20.39 \ \mathrm{K} \). Since the nuclear spins are in opposite directions the magnetic moment of para hydrogen is zero and ortho hydrogen has magnetic moment twice that of a proton.
@@ -94,6 +100,8 @@ $$
 ### 4.2.1 Laboratory Preparation
 
 Hydrogen is conveniently prepared in laboratory by the reaction of metals, such as zinc, iron, tin with dilute acid.
+
+<center>{{< figure src="4.2.png" width="200" >}}</center>
 
 <center><strong>Figure 4.2 Laboratory preparation of hydrogen</strong></center>
 
@@ -257,6 +265,8 @@ $$
 
 7. Hydrogen is also used in fuel cells for generating electrical energy. The reversible uptake of hydrogen in metals is also attractive for rechargeable metal hydride battery.
 
+<center>{{< figure src="4.3.png" width="200" >}}</center>
+
 <center><strong>Figure 4.3: Application of rocket fuel</strong></center>
 
 ---
@@ -266,6 +276,8 @@ $$
 ### 4.5.1 Water
 
 Water is one of the most abundant compounds of hydrogen and our earth's surface contains approximately 70% of ocean which is the major source of water. However, sea water contains many dissolved salts hence it cannot be used directly. Water is essential for all living things and our body contains about 65% water.
+
+<center>{{< figure src="water.png" width="200" >}}</center>
 
 Water exists in the interstellar clouds and icy satellites of the solar system. In particular, the ortho- to- para ratio (OPR) of water in space has recently received attention. Like hydrogen, water can also be classified into ortho- \( \mathrm{H_2O} \) in which the spin directions of the nuclei of the hydrogen atoms are parallel, and para- \( \mathrm{H_2O} \) in which the directions are antiparallel. OPR of \( \mathrm{H_2} \) (300 K) on earth should be 3:1. OPR of \( \mathrm{H_2O} \) (50 K) in interstellar clouds and comets should be 2.5:1.
 
@@ -358,6 +370,8 @@ Examples:
 - \( \mathrm{BaCl_2 \cdot 2H_2O} \) - Both the water molecules are present in interstitial positions
 - \( \mathrm{CuSO_4 \cdot 5H_2O} \) - In this compound four water molecules form coordinate bonds while the fifth water molecule, present outside the coordination, can form intermolecular hydrogen bond with another molecule. \( [\mathrm{Cu(H_2O)_4]SO_4 \cdot H_2O} \)
 
+<center>{{< figure src="4.4.png" width="200" >}}</center>
+
 <center><strong>Figure 4.4 Structure of copper sulphate pentahydrate</strong></center>
 
 ### 4.5.4 Hard and Soft Water
@@ -415,6 +429,8 @@ When exhausted, the materials can be regenerated by treating with aqueous sodium
 $$
 \text{M-Z} + 2 \text{NaCl} \rightarrow \text{Na}_2\text{-Z} + \text{MCl}_2
 $$
+
+<center>{{< figure src="Permanent Hardness.png" width="200" >}}</center>
 
 ## 4.6 Heavy Water
 
@@ -486,6 +502,8 @@ $$
 
 On an industrial scale, hydrogen peroxide is now prepared exclusively by autoxidation of 2-alkyl anthraquinol.
 
+<center>{{< figure src="Hydrogen Peroxide.png" width="200" >}}</center>
+
 ### 4.7.1 Physical Properties
 
 Pure hydrogen peroxide is almost a colorless liquid (pale blue), less volatile and more viscous than water.
@@ -540,6 +558,8 @@ $$
 
 Both in gas-phase and solid-phase, the molecule adopts a skew conformation due to repulsive interaction of the OH bonds with lone-pairs of electrons on each oxygen atom. Indeed, it is the smallest molecule known to show hindered rotation about a single bond.
 
+<center>{{< figure src="4.5.png" width="200" >}}</center>
+
 <center><strong>Figure 4.5 Structure of \( \mathrm{H_2O_2} \)</strong></center>
 
 \( \mathrm{H_2O_2} \) has a non-planar structure. The molecular dimensions in the gas phase and solid phase differ as shown in figure 4.5. Structurally, \( \mathrm{H_2O_2} \) is represented by the dihydroxyl formula in which the two OH groups do not lie in the same plane. One way of explaining the shape of hydrogen peroxide is that the hydrogen atoms would lie on the pages of a partly opened book, and the oxygen atoms along the spine. In the solid phase of molecule, the dihedral angle reduces to \( 90.2^\circ \) due to hydrogen bonding and the O-O-H angle expands from \( 94.8^\circ \) to \( 101.9^\circ \).
@@ -572,6 +592,8 @@ It is weaker than covalent bond \( (> 100 \ \mathrm{kJ \ mol^{-1}}) \) but stron
 
 Intramolecular hydrogen bonds are those which occur within a single molecule.
 
+<center>{{< figure src="4.6.png" width="200" >}}</center>
+
 <center><strong>Figure 4.6 Intramolecular hydrogen bonding</strong></center>
 
 ### Intermolecular Hydrogen Bond
@@ -582,10 +604,17 @@ Water molecules form strong hydrogen bonds with one another. For example, each w
 
 In ice, each atom is surrounded tetrahedrally by four water molecules through hydrogen bonds. That is, the presence of two hydrogen atoms and two lone pairs of electron on oxygen atoms in each water molecule allows formation of a three-dimensional structure. This arrangement creates an open structure, which accounts for the lower density of ice compared with water at \( 0^\circ \mathrm{C} \). While in liquid water, unlike ice where hydrogen bonding occurs over a long-range, the strong hydrogen bonding prevails only in a short range and therefore the denser packing.
 
+<center>{{< figure src="4.7(a).png" width="200" >}}</center>
+
 <center><strong>Figure 4.7 (a) Structure of Ice</strong></center>
+
+<center>{{< figure src="4.7(b).png" width="200" >}}</center>
+
 <center><strong>Figure 4.7 (b) Hydrogen bonding in water</strong></center>
 
 Hydrogen bond occurs not only in simple molecules but also in complex biomolecules such as proteins, and they are crucial for biological processes. For example, hydrogen bonds play an important role in the structure of deoxyribonucleic acid (DNA), since they hold together the two helical nucleic acid chains (strands).
+
+<center>{{< figure src="4.8.png" width="200" >}}</center>
 
 <center><strong>Figure 4.8 Hydrogen bonding in DNA molecules</strong></center>
 
@@ -629,6 +658,8 @@ Hydrogen bond occurs not only in simple molecules but also in complex biomolecul
 
 ## Metal Hydride (Hydrogen Sponge)
 
+<center>{{< figure src="DYK(1).png" width="200" >}}</center>
+
 The best studied binary hydrides are the palladium-hydrogen system. Hydrogen interacts with palladium in a unique way, and forms a limiting monohydride, PdH. Upon heating, H atoms diffuse through the metal to the surface and recombine to form molecular hydrogen. Since no other gas behaves this way with palladium, this process has been used to separate hydrogen gas from other gases:
 
 $$
@@ -642,6 +673,8 @@ Technically, the formation of metal hydride is by chemical reaction but it behav
 ---
 
 ## The Hydrogen - Future Fuel
+
+<center>{{< figure src="DYK(2).png" width="200" >}}</center>
 
 The depletion of fossil fuel reserves and the threat of global warming make the world to shift toward alternative fuels. In this regard, hydrogen is often considered as a potential candidate for this purpose as it is a clean burning fuel as it does not produce any pollutants upon burning. Hence, hydrogen can directly be used as a fuel and can replace existing gasoline (petrol)/diesel/kerosene powered engines, and/or indirectly be used with oxygen in fuel cells to generate electricity. However, there are some difficulties needs to be overcome. The production cost is high and also uses more fossil fuels. Due to its volatile and flammable nature in its native form, it is difficult to store and transport. Being the smallest molecule it is prone to leakage.
 

@@ -17,6 +17,8 @@ Halogen substituted organic compounds are widely spread in nature and find appli
 
 ## 14.2 Classification of organic halogen compounds
 
+![](0.png)
+
 ## 14.3 Haloalkanes
 
 Mono halogen derivatives of alkanes are called haloalkanes. Haloalkanes are represented by general formula \( \mathrm{R - X} \), Where, R is an alkyl group \( \mathrm{(C_{n}H_{2n + 1})} \) and X is a halogen atom \( \mathrm{(X = F, Cl, Br} \) or I). Haloalkanes are further classified into primary, secondary, tertiary haloalkane on the basis of type of carbon atom to which the halogen is attached.
@@ -25,9 +27,15 @@ Mono halogen derivatives of alkanes are called haloalkanes. Haloalkanes are repr
 
 ### Examples:
 
+<center>{{< figure src="1.png" width="200" >}}</center>
+
 ### Secondary haloalkane
 
+<center>{{< figure src="2.png" width="200" >}}</center>
+
 ### Tertiary haloalkane
+
+<center>{{< figure src="3.png" width="200" >}}</center>
 
 #### 14.3.1 Nomenclature
 
@@ -41,6 +49,9 @@ Let us write the IUPAC name for the below mentioned haloalkanes by applying the 
 
 1) Write the IUPAC name of the following
 
+![](4.png)
+![](5.png)
+
 ### Evaluate Yourself
 
 2) Write the structure of the following compounds
@@ -52,6 +63,8 @@ iii) 2-Chloro-3-methyl pentane
 #### 14.3.2 Nature of C - X bond in haloalkane
 
 Carbon halogen bond is a polar bond as halogens are more electro negative than carbon. The carbon atom exhibits a partial positive charge \( (\delta^{+}) \) and halogen atom a partial negative charge \( (\delta^{-}) \)
+
+<center>{{< figure src="6.png" width="200" >}}</center>
 
 The C - X bond is formed by overlap of \( \mathrm{sp}^3 \) orbital of carbon atom with half filled p-orbital of the halogen atom. The atomic size of halogen increases from fluorine to iodine, which increases the C - X bond length. Larger the size, greater is the bond length, and weaker is the bond formed. The bond strength of C - X decreases from C - F to C - I in \( \mathrm{CH}_3\mathrm{X} \). The changes in the value of bond length, bond enthalpy and bond polarity, as we move from C - F to C - I, is given in the table.
 
@@ -74,7 +87,11 @@ Alcohols can be converted into halo alkanes by reacting it with any one of the f
 
 #### a) Reaction with hydrogen halide
 
+<center>{{< figure src="7.png" width="200" >}}</center>
+
 Mixture of con.HCl and anhydrous \( \mathrm{ZnCl}_2 \) is called Lucas reagent.
+
+<center>{{< figure src="8.png" width="200" >}}</center>
 
 The order of reactivity of halo acids with alcohol is in the order \( \mathrm{HI} > \mathrm{HBr} > \mathrm{HCl} \). The order of reactivity of alcohols with halo acid is tertiary \( > \) secondary \( > \) primary.
 
@@ -84,10 +101,13 @@ Alcohols react with \( \mathrm{PX}_5 \) or \( \mathrm{PX}_3 \) to form haloalkan
 
 ### Example
 
+<center>{{< figure src="9.png" width="200" >}}</center>
+
 #### c) Reaction with thionyl chloride (Sulphonyl chloride)
 
 ### Example
 
+<center>{{< figure src="10.png" width="200" >}}</center>
 This reaction is known as Darzen's halogenation
 
 ### 2) From alkenes
@@ -102,11 +122,15 @@ Alkanes react with halogens \( \mathrm{Cl}_{2} \) or \( \mathrm{Br}_{2} \) in th
 
 Chlorination of methane gives different products which have differences in the boiling points. Hence, these can be separated by fractional distillation.
 
+<center>{{< figure src="11.png" width="200" >}}</center>
+
 ### 4) Halogen exchange reactions
 
 #### a) Finkelstein reaction
 
 Chloro or bromoalkane on heating with a concentrated solution of sodium iodide in dry acetone gives iodo alkanes. This reaction is called Finkelstein reaction, \( \mathrm{(S_{N}2} \) reaction).
+
+<center>{{< figure src="12.png" width="200" >}}</center>
 
 #### b) Swarts reaction
 
@@ -114,9 +138,13 @@ Chloro or bromo alkanes on heating with metallic fluorides like AgF, \( \mathrm{
 
 ### Example
 
+<center>{{< figure src="13.png" width="200" >}}</center>
+
 ### 5) From silver salts of fatty acids (Hunsdicker reaction)
 
 Silver salts of fatty acids when refluxed with bromine in \( \mathrm{CCl}_{4} \) gives bromo alkane
+
+<center>{{< figure src="14.png" width="200" >}}</center>
 
 #### 14.3.4 Physical Properties
 
@@ -140,21 +168,19 @@ iii) The boiling points of chloro, bromo and iodo alkanes increase with the incr
 
 ### For Example:
 
-\[
-\mathrm{CCl_4 > CHCl_3 > CH_2Cl_2 > CH_3Cl}
-\]
+<center>{{< figure src="15.png" width="200" >}}</center>
 
 iv) The boiling point and melting point of mono haloalkane increase with the increase in the number of carbon atoms.
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2CH_2Cl > CH_3CH_2Cl > CH_3Cl}
-\]
+<center>{{< figure src="16.png" width="200" >}}</center>
 
 v) Among isomeric alkyl halides the boiling point decreases with the increase in branching in the alkyl group; with increase in branching, the molecule attains spherical shape with less surface area. As a result the inter molecular forces become weak, resulting in lower boiling points.
 
 ### Example
+
+<center>{{< figure src="17.png" width="200" >}}</center>
 
 ### 4. Solubility
 
@@ -187,13 +213,18 @@ Haloalkane reacts with aqueous solution of KOH or moist silver oxide \( \mathrm{
 
 ### Example
 
+<center>{{< figure src="18.png" width="200" >}}</center>
+
 #### i) Reaction with alcoholic ammonia (Ammonolysis)
 
 Haloalkanes react with alcoholic ammonia solution to form alkyl amines.
 
 ### Example
+<center>{{< figure src="19.png" width="200" >}}</center>
 
 However, with excess of halo alkane, secondary and tertiary amines along with quaternary ammonium salts are obtained
+
+<center>{{< figure src="20.png" width="200" >}}</center>
 
 ### Ambient Nucleophiles
 
@@ -201,14 +232,11 @@ Nucleophiles such as cyanide and nitrite ion which can attack nucleophilic centr
 
 #### ii) Reaction with alcoholic KCN
 
-Haloalkanes react with alcoholic KCN solution to form alkyl cyanides.
+Haloalkanes react with alcoholic KCN solution to form alkyl cyanides
 
 ### Example
 
-\[
-\mathrm{CH_3 - CH_2 - Br + KCN \rightarrow CH_3 - CH_2 - CN + KBr}
-\]
-(Bromoethane) (Ethyl cyanide)
+<center>{{< figure src="21.png" width="200" >}}</center>
 
 #### iii) Reaction with alcoholic AgCN
 
@@ -216,10 +244,7 @@ Haloalkanes react with alcoholic AgCN solution to form alkyl isocyanide.
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2Br + AgCN \longrightarrow CH_3CH_2NC + AgBr}
-\]
-(Bromoethane) (Ethyl isocyanide)
+<center>{{< figure src="22.png" width="200" >}}</center>
 
 #### iv) Reaction with sodium or potassium nitrite
 
@@ -227,10 +252,7 @@ Haloalkanes react with alcoholic solution of \( \mathrm{NaNO_2} \) or \( \mathrm
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2Br + KNO_2 \longrightarrow CH_3CH_2 - O - N = O + KBr}
-\]
-(Bromoethane) (Ethyl nitrite)
+<center>{{< figure src="23.png" width="200" >}}</center>
 
 #### v) Reaction with silver nitrite
 
@@ -238,10 +260,7 @@ Haloalkanes react with alcoholic solution of \( \mathrm{AgNO_2} \) to form nitro
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2Br + AgNO_2 \longrightarrow CH_3CH_2NO_2 + AgBr}
-\]
-(Bromoethane) (Nitro ethane)
+<center>{{< figure src="24.png" width="200" >}}</center>
 
 #### vi) Reaction with sodium or potassium hydrogen sulphide
 
@@ -249,10 +268,7 @@ Haloalkanes react with sodium or potassium hydrogen sulphide to form thio alcoho
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2Br + NaSH \xrightarrow{H_2O} CH_3CH_2SH + NaBr}
-\]
-(Bromoethane) (Ethanethiol)
+<center>{{< figure src="25.png" width="200" >}}</center>
 
 #### vii) Williamson ether synthesis
 
@@ -261,6 +277,8 @@ Haloalkane, when boiled with sodium alkoxide gives corresponding ethers.
 ### Example
 
 This method can be used to prepare mixed (unsymmetrical) ethers also.
+
+<center>{{< figure src="26.png" width="200" >}}</center>
 
 ### Mechanism of Nucleophilic substitution reaction
 
@@ -273,6 +291,8 @@ a) Bimolecular Nucleophilic substitution reaction (SN2)
 b) Unimolecular Nucleophilic substitution reaction \( (\mathrm{SN}_1) \)
 
 ### \( \mathbf{S}_{\mathrm{N}}2 \) Mechanism
+
+<center>{{< figure src="27.png" width="200" >}}</center>
 
 The rate of \( \mathrm{S}_{\mathrm{N}}2 \) reaction depends upon the concentration of both alkyl halide and the nucleophile.
 
@@ -289,6 +309,8 @@ This reaction involves the formation of a transition state in which both the rea
 When 2 - Bromooctane is heated with sodium hydroxide, 2 - octanol is formed with inversion of configuration.
 – 2 – Bromo octane is heated with sodium hydroxide (+) – 2 – Octanol is formed in which – OH group occupies a position
 opposite to what bromine had occupied,
+
+<center>{{< figure src="28.png" width="200" >}}</center>
 
 a) \( (-) \) 2 - Bromo octane
 (b) Transition State
@@ -314,17 +336,23 @@ This \( \mathrm{S}_{\mathrm{N}}1 \) reaction follows first order kinetics and oc
 
 We understand \( \mathrm{S}_{\mathrm{N}}1 \) reaction mechanism by taking a reaction between tertiary butyl bromide with aqueous KOH.
 
+<center>{{< figure src="29.png" width="200" >}}</center>
+
 This reaction takes place in two steps as shown below
 
 ### Step-1 Formation of carbocation
 
 The polar C-Br bond breaks forming a carbocation and bromide ion. This step is slow and hence it is the rate determining step.
 
+<center>{{< figure src="30.png" width="200" >}}</center>
+
 The carbocation has 2 equivalent lobes of the vacant 2p orbital, so it can react equally rapidly from either face
 
 ### Step-2
 
 The nucleophile immediately reacts with the carbocation. This step is fast and hence does not affect the rate of the reactions.
+
+<center>{{< figure src="31.png" width="200" >}}</center>
 
 As shown above, the nucleophilic reagent \( \mathrm{OH}^{-} \) can attack carbocation from both the sides.
 
@@ -340,13 +368,13 @@ The order of reactivity of haloalkanes towards \( \mathrm{S}_{\mathrm{N}}1 \) an
 
 When a haloalkane containing a hydrogen on \( \beta \) carbon is treated with an ethanolic solution of potassium hydroxide, an alkene is formed. In this reaction a double bond between a and \( \beta \) carbon is formed by releasing a halogen attached to a \( \alpha \) carbon and a hydrogen to a \( \beta \) carbon of halo alkane. This reaction is called \( \beta \) elimination reaction (dehydrohalogenation).
 
-\[
-\mathrm{CH_3CH_2Br + KOH \xrightarrow{ethanol} CH_2 = CH_2 + KBr + H_2O}
-\]
+<center>{{< figure src="32.png" width="200" >}}</center>
 
 Some haloalkanes yield a mixture of olefins in different amounts. It is explained by Saytzeff's Rule, which states that In a dehydrohalogenation reaction, the preferred product is that alkene which has more number of alkyl groups attached to the doubly bonded carbon (more substituted double bond is formed)
 
 ### Example
+
+<center>{{< figure src="34.png" width="200" >}}</center>
 
 Elimination reactions may proceed through two different mechanisms namely \( \mathrm{E}_{1} \) and \( \mathrm{E}_{2} \)
 
@@ -360,13 +388,21 @@ The rate of \( \mathrm{E}_{2} \) reaction depends on the concentration of alkyl 
 
 It is therefore, a second order reaction. Generally primary alkyl halide undergoes this reaction in the presence of alcoholic KOH. It is a one step process in which the abstraction of the proton from the \( \beta \) carbon and expulsion of halide from the \( \alpha \) carbon occur simultaneously. The mechanism is shown below.
 
+<center>{{< figure src="35.png" width="200" >}}</center>
+
  \( \mathrm{E}_{1} \) reaction mechanism
 
 Generally, tertiary alkyl halide which undergoes elimination reaction by this mechanism in the presence of alcoholic KOH. It follows first order kinetics. Let us consider the following elimination reaction.
 
+<center>{{< figure src="36.png" width="200" >}}</center>
+
 ### Step - 1 Heterolytic fission to yield a carbocation
 
+<center>{{< figure src="37.png" width="200" >}}</center>
+
 ### Step - 2 Elimination of a proton from the \( \beta \)-carbon to produce an alkene
+
+<center>{{< figure src="38.png" width="200" >}}</center>
 
 ### 3) Reaction with metals
 
@@ -378,18 +414,23 @@ When a solution of halo alkane in ether is treated with magnesium, we get alkyl 
 
 ### Example
 
-\[
-\mathrm{CH_3CH_2Br + Mg \xrightarrow{Dry\ ether} CH_3CH_2MgBr}
-\]
+<center>{{< figure src="39.png" width="200" >}}</center>
+
+
 (Ethyl bromide) (Ethyl magnesium bromide)
 
 #### b) Reaction with active metals like sodium, lead etc
 
 Halohalkane reacts with active metals like sodium, lead etc in the presence of dry ether to form organo metallic compounds.
 
+<center>{{< figure src="40.png" width="200" >}}</center>
+
+
 ### 4) Reduction reactions
 
 Halohalkanes are reduced to alkanes by treating with \( \mathrm{H}_{2} \) in the presence of metal catalyst like nickel, palladium etc or with hydroiodic acid in the presence of red phosphorous.
+
+<center>{{< figure src="41.png" width="200" >}}</center>
 
 #### 14.3.6 Uses of halohalkane
 
@@ -429,6 +470,8 @@ When a solution of alkyl halide in ether is allowed to stand over pieces of magn
 
 ### Example
 
+<center>{{< figure src="42.png" width="200" >}}</center>
+
 ### Evaluate Yourself
 
 5) Why Grignard reagent should be prepared in anhydrous condition?
@@ -441,21 +484,26 @@ Grignard reagents are synthetically very useful compounds. These reagents are co
 
 Formaldehyde reacts with Grignard reagent to give addition products which on hydrolysis yields primary alcohol.
 
+<center>{{< figure src="43.png" width="200" >}}</center>
+
 ### 2) Preparation of secondary alcohol
 
 Aldehydes other than formaldehyde, react with Grignard reagent to give addition product which on hydrolysis yields secondary alcohol.
+
+<center>{{< figure src="44.png" width="200" >}}</center>
 
 ### 3) Preparation of Tertiary alcohol
 
 Ketone reacts with Grignard reagent to give an addition product which on hydrolysis yields tertiary alcohols.
 
 ### Example
-
+<center>{{< figure src="46.png" width="200" >}}</center>
 ### (4) Preparation of aldehyde
 
 Ethyl formate reacts with Grignard reagent to form aldehyde. However, with excess of Grignard reagent it forms secondary alcohol.
 
 ### Example
+<center>{{< figure src="47.png" width="200" >}}</center>
 
 ### (5) Preparation of ketone
 
@@ -463,17 +511,21 @@ Acid chloride reacts with Grignard reagent to form ketones. However, with excess
 
 ### Example
 
+<center>{{< figure src="48.png" width="200" >}}</center>
+
 ### (6) Preparation of carboxylic acids
 
 Solid carbon dioxide reacts with Grignard reagent to form addition product which on hydrolysis yields carboxylic acids.
 
 ### For Example
+<center>{{< figure src="49.png" width="200" >}}</center>
 
 ### 7) Preparation of esters
 
 Ethylchloroformate reacts with Grignard reagent to form esters.
 
 ### Example
+<center>{{< figure src="50.png" width="200" >}}</center>
 
 ### 8) Preparation of higher ethers
 
@@ -481,11 +533,15 @@ Lower halogenated ether reacts with Grignard reagent to form higher ethers.
 
 ### Example
 
+<center>{{< figure src="51.png" width="200" >}}</center>
+
 ### 9) Preparation of alkyl cyanide
 
 Grignard reagent reacts with cyanogen chloride to form alkyl cyanide
 
 ### Example
+
+<center>{{< figure src="52.png" width="200" >}}</center>
 
 ### 10) Preparation of Alkanes
 
@@ -493,7 +549,13 @@ Compounds like water, alcohols and amines which contain active hydrogen atom rea
 
 ### Example
 
+<center>{{< figure src="53.png" width="200" >}}</center>
+
+#### 14.5 Haloarenes
+
 Haloarenes are the compounds in which the halogen is directly attached to the benzene ring.
+
+<center>{{< figure src="54.png" width="200" >}}</center>
 
 #### 14.5.1. Nomenclature of haloarenes
 
@@ -503,13 +565,7 @@ For poly haloarenes the numbering should be done in such a way that the lowest p
 
 Nomenclature can be well understood from the following examples.
 
-| Compound | IUPAC NAME |
-|---|---|
-| 1,2-Dichlorobenzene | 1,2-Dichlorobenzene |
-| 1,3-Dibromobenzene | 1,3-Dibromobenzene |
-| 1,3,5-tribromobenzene | 1,3,5-Tribromobenzene |
-| 1-Bromo-4-fluoro-2-iodobenzene | 1-Bromo-4-fluoro-2-iodobenzene |
-| 1-Bromo-2-chloro-4-iodobenzene | 1-Bromo-2-chloro-4-iodobenzene |
+<center>{{< figure src="56.png" width="200" >}}</center>
 
 #### 14.5.2 Nature of C-X bond in haloarenes
 
@@ -517,13 +573,21 @@ In halo arenes the carbon atom is sp\(^2\) hybridised. The sp\(^2\) hybridised o
 
 Halogen atom contains p-orbital with lone pair of electrons which interacts with \( \pi \)-orbitals of benzene ring to form extended conjugated system of \( \pi \)-orbitals. The delocalisation of these electrons give double bond character to C - X bond. The resonance structure of halobenzene is given as
 
+<center>{{< figure src="57.png" width="200" >}}</center>
+
 Due to this double bond character of C-X bond in haloarenes, the C-X bond is short and strong.
+
+### Example
+
+<center>{{< figure src="58.png" width="200" >}}</center>
 
 ### 14.5.3 Methods of preparation of haloarenes
 
 #### 1) Direct halogenation
 
 Chlorobenzene is prepared by the direct chlorination of benzene in the presence of lewis acid catalyst like \( \mathrm{FeCl}_3 \)
+
+<center>{{< figure src="59.png" width="200" >}}</center>
 
 #### 2) From benzene diazonium chloride
 
@@ -533,22 +597,25 @@ Chloro benzene is prepared by Sandmeyer reaction or Gattermann reaction using be
 
 When aqueous solution of benzene diazonium chloride is warmed with \( \mathrm{Cu}_2\mathrm{Cl}_2 \) in HCl gives chloro benzene
 
+<center>{{< figure src="60.png" width="200" >}}</center>
+
 #### 3) Preparation of iodobenzene
 
 Iodobenzene is prepared by warming benzene diazonium chloride with aqueous KI solution.
 
-\[
-\mathrm{C_6H_5N_2Cl + KI \xrightarrow{warm} C_6H_5I + N_2 + KCl}
-\]
-(Benzene diazonium chloride) (Iodo benzene)
+<center>{{< figure src="61.png" width="200" >}}</center>
 
 #### 4) Preparation of fluorobenzene
 
 Fluoro benzene is prepared by treating benzenediazonium chloride with fluoro boric acid. This reaction produces diazonium fluoroborate which on heating produces fluorobenzene. This reaction is called Balz-Schiemann reaction.
 
+<center>{{< figure src="62.png" width="200" >}}</center>
+
 #### 5) Commercial preparation of chloro benzene (Raschig process)
 
 Chloro benzene is commercially prepared by passing a mixture of benzene vapour, air and HCl over heated cupric chloride. This reaction is called Raschig process.
+
+<center>{{< figure src="63.png" width="200" >}}</center>
 
 ### 14.5.4 Physical properties
 
@@ -586,7 +653,10 @@ The halogen of haloarenes can be substituted by \( \mathrm{OH}^{-} \), \( \mathr
 
 ### For Example
 
+<center>{{< figure src="64.png" width="200" >}}</center>
+
 This reaction is known as Dow's Process
+<center>{{< figure src="65.png" width="200" >}}</center>
 
 ##### 2. Reaction with metals
 
@@ -594,18 +664,13 @@ This reaction is known as Dow's Process
 
 Halo arenes reacts with halo alkanes when heated with sodium in ether solution to form alkyl benzene. This reaction is called Wurtz Fittig reaction.
 
-\[
-\mathrm{C_6H_5Cl + 2Na + ClC_2H_5 \xrightarrow{Et_2O} C_6H_5C_2H_5 + 2NaCl}
-\]
+<center>{{< figure src="66.png" width="200" >}}</center>
 
 #### b) Fittig reaction
 
 Haloarenes react with sodium metal in dry ether, two aryl groups combine to give biaryl products. This reaction is called Fittig reaction
 
-\[
-\mathrm{C_6H_5Cl + 2Na + Cl - C_6H_5 \xrightarrow{Et_2O} C_6H_5 - C_6H_5 + 2NaCl}
-\]
-(Chlorobenzene) (Biphenyl)
+<center>{{< figure src="67.png" width="200" >}}</center>
 
 #### B) Reaction involving aromatic ring
 
@@ -613,23 +678,19 @@ Haloarenes react with sodium metal in dry ether, two aryl groups combine to give
 
 Haloarenes undergo aromatic electrophilic substitution reactions. The rate of electrophilic substitution of halobenzene is lower than that of benzene. halogen is deactivating due to -I effect of halogen. The lone pair of electrons on the chlorine involves in resonance with the ring. It increases the electron density at ortho and para position (refer figure no 14.1). The halogen attached to the benzene ring withdraw electron and thereby and hence the halogen which is attached to the benzene directs the incoming electrophile either to ortho or to para position in electrophilic substitution reaction
 
+<center>{{< figure src="68.png" width="200" >}}</center>
+
 ##### 4) Reduction
 
 Haloarenes on reduction with NiAl alloy in the presence of NaOH gives corresponding arenes.
 
-\[
-\mathrm{C_6H_5Cl + 2(H) \xrightarrow{Ni - Al} C_6H_6 + HCl}
-\]
-(Chloro benzene) (Benzene)
+<center>{{< figure src="69.png" width="200" >}}</center>
 
 ##### 5) Formation of Grignard reagent
 
 Haloarenes reacts with magnesium to form Grignard reagent in tetra hydrofuran (THF).
 
-\[
-\mathrm{C_6H_5Cl + Mg \xrightarrow{THF} C_6H_5MgCl}
-\]
-(Chloro benzene) (Phenyl magnesium chloride)
+<center>{{< figure src="70.png" width="200" >}}</center>
 
 #### 14.5.6 Uses of Chloro benzene
 
@@ -649,9 +710,13 @@ They are classified as
 
 #### a) gem-dihalides
 
+<center>{{< figure src="71.png" width="200" >}}</center>
+
 #### b) vic-dihalides
 
 ### For Example
+
+<center>{{< figure src="72.png" width="200" >}}</center>
 
 #### 14.6.1 Preparation
 
@@ -661,7 +726,11 @@ Ethylidene dichloride (1,1-Dichloro ethane) is prepared by
 
 (i) Treating acetaldehyde with \( \mathrm{PCl}_5 \)
 
+<center>{{< figure src="73.png" width="200" >}}</center>
+
 (ii) Adding hydrogen chloride to acetylene
+
+<center>{{< figure src="74.png" width="200" >}}</center>
 
 #### b) vic-dihalides
 
@@ -669,7 +738,11 @@ Ethylene dichloride (1,2-Dichloro ethane) is prepared by the following methods.
 
 i) Addition of chlorine to ethylene
 
+<center>{{< figure src="75.png" width="200" >}}</center>
+
 ii) Action of \( \mathrm{PCl}_5 \) (or HCl) on ethylene glycol
+
+<center>{{< figure src="76.png" width="200" >}}</center>
 
 ### Properties
 
@@ -683,15 +756,21 @@ i) They are sweet smelling, colourless liquids having relatively high boiling po
 
 Gem-Dihalides, on hydrolysis with aqueous KOH give an aldehyde or a ketone vic-Dihalides, on hydrolysis with aqueous KOH gives glycols.
 
+<center>{{< figure src="77.png" width="200" >}}</center>
+
 This reaction can be used to distinguish the gem-Dihalides and vic-Dihalides.
 
 #### 2) Reaction with Zinc (Dehalogenation)
 
 Gem-Dihalides and vic-Dihalides on treatment with zinc dust in methanol give alkenes.
 
+<center>{{< figure src="78.png" width="200" >}}</center>
+
 #### 3) Reaction with Alcoholic KOH (Dehydrohalogenation)
 
 gem-Dihalides and vic-Dihalides on treatment with alcoholic KOH give alkynes.
+
+<center>{{< figure src="79.png" width="200" >}}</center>
 
 ### Methylene chloride (Di chloromethane)
 
@@ -703,11 +782,17 @@ Methylene chloride is prepared by the following methods
 
 a) Reduction of chloroform in the presence of \( \mathrm{Zn + HCl} \) gives methylene chloride.
 
+<center>{{< figure src="80.png" width="200" >}}</center>
+
 b) Reduction of chloroform using \( \mathrm{H_2 / Ni} \)
+
+<center>{{< figure src="81.png" width="200" >}}</center>
 
 2) Chlorination of methane
 
 Chlorination of methane gives methylene chloride
+
+<center>{{< figure src="82.png" width="200" >}}</center>
 
 ### Uses of methylene chloride
 
@@ -768,9 +853,7 @@ Chloroform is prepared in the laboratory by the reaction between ethyl alcohol w
 
 Chloroform undergoes oxidation in the presence of light and air to form phosgene (carbonyl chloride)
 
-\[
-\mathrm{CHCl}_3 + \frac{1}{2}\mathrm{O}_2 \xrightarrow{\mathrm{air}} \mathrm{COCl}_2 + \mathrm{HCl}
-\]
+<center>{{< figure src="83.png" width="200" >}}</center>
 
 Since phosgene is very poisonous, its presence makes chloroform unfit for use as anaesthetic.
 
@@ -778,19 +861,21 @@ Since phosgene is very poisonous, its presence makes chloroform unfit for use as
 
 Chloroform undergoes reduction with zinc and HCl in the presence of ethyl alcohol to form methylene chloride.
 
-\[
-\mathrm{CHCl}_3 + 2[\mathrm{H}] \xrightarrow{\mathrm{Zn}} \mathrm{CH}_2\mathrm{Cl}_2 + \mathrm{HCl}
-\]
+<center>{{< figure src="84.png" width="200" >}}</center>
 
 #### 3) Nitration
 
 Chloroform reacts with nitric acid to form chloropicrin (Trichloro nitro methane)
+
+<center>{{< figure src="85.png" width="200" >}}</center>
 
 It used as an insecticide and soil sterilising agent.
 
 #### 4) Carbylamine reaction
 
 Chloroform reacts with aliphatic or aromatic primary amine and alcoholic caustic potash, to give foul smelling alkyl isocyanide (carbylamines)
+
+<center>{{< figure src="86.png" width="200" >}}</center>
 
 This reaction is used to test primary amine.
 
@@ -819,10 +904,7 @@ The reaction of methane with excess of chlorine in the presence of sunlight will
 
 Carbon disulphide reacts with chlorine gas in the presence of anhydrous \( \mathrm{AlCl}_3 \) as catalyst giving carbon tetrachloride
 
-\[
-\mathrm{CS}_2 + 3\mathrm{Cl}_2 \xrightarrow{\mathrm{AlCl}_3} \mathrm{CCl}_4 + \mathrm{S}_2\mathrm{Cl}_2
-\]
-(Carbon disulphide) (Carbon tetrachloride)
+<center>{{< figure src="87.png" width="200" >}}</center>
 
 ### Physical properties
 
@@ -836,9 +918,13 @@ Carbon disulphide reacts with chlorine gas in the presence of anhydrous \( \math
 
 Carbon tetrachloride reacts with hot water or with hot water vapour producing the poisonous gas, phosgene.
 
+<center>{{< figure src="88.png" width="200" >}}</center>
+
 #### (ii) Reduction
 
 Carbon tetrachloride is reduced by iron powder in dilute HCl medium to form chloroform
+
+<center>{{< figure src="89.png" width="200" >}}</center>
 
 #### 14.6.4 Freons (CFC)
 
@@ -854,14 +940,11 @@ Where \( c = \) number of carbon atoms - 1
 
 ### Example
 
-| Formula | c (C-1) | b (H+1) | a (F atoms) | Name |
-|---|---|---|---|---|
-| \( \mathrm{CFCl_3} \) | 1-1=0 | 0+1=1 | 1 | Freon-11 |
-| \( \mathrm{CF_2Cl_2} \) | 1-1=0 | 0+1=1 | 2 | Freon-12 |
-| \( \mathrm{C_2F_2Cl_4} \) | 2-1=1 | 0+1=1 | 2 | Freon-112 |
-| \( \mathrm{C_2F_3Cl_3} \) | 2-1=1 | 0+1=1 | 3 | Freon-113 |
+<center>{{< figure src="90.png" width="200" >}}</center>
 
 Freon-12 is prepared by the action of hydrogen fluoride on carbon tetrachloride in the presence of catalytic amount of antimony pentachloride. This is called Swarts reaction.
+
+<center>{{< figure src="91.png" width="200" >}}</center>
 
 ### Physical properties
 
@@ -878,6 +961,8 @@ Freons are highly stable, unreactive, non corrosive, non toxic, easily liquefiab
 DDT, the first chlorinated organic pesticide was prepared in 1873, and in 1939 Paul Muller discovered the effectiveness of DDT as an insecticide. He was awarded Noble prize in medicine and physiology in 1948 for this discovery.
 
 DDT can be prepared by heating a mixture of chlorobenzene with chloral (Trichloro acetaldehyde) in the presence of \( \mathrm{Conc.H_2SO_4} \)
+
+<center>{{< figure src="92.png" width="200" >}}</center>
 
 ### Evaluate Yourself
 
@@ -966,14 +1051,16 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
    d) Fluoromethane
 
 7. In the reaction X is
+{{< figure src="93.png" width="200" >}}
+{{< figure src="94.png" width="200" >}}
 
 8. Which of the following compounds will give racemic mixture on nucleophilic substitution by OH\(^{-}\) ion?
 
+{{< figure src="95.png" width="200" >}}
+
 9. The treatment of ethyl formate with excess of RMgX gives
-   a) \( \mathrm{R - C - R} \)
-   b) \( \mathrm{R - CH - R} \)
-   c) R-CHO
-   d) R-O-R
+{{< figure src="96.png" width="200" >}}
+{{< figure src="97.png" width="200" >}}
 
 10. Benzene reacts with \( \mathrm{Cl}_2 \) in the presence of \( \mathrm{FeCl}_3 \) and in absence of sunlight to form
     a) Chlorobenzene
@@ -995,12 +1082,7 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
 
 13. Match the compounds given in Column I with suitable items given in Column II
 
-| Column I (Compound) | Column II (Uses) |
-|---|---|
-| A. Iodoform | 1. Refrigerant |
-| B. Carbon tetrachloride | 2. Fire extinguisher |
-| C. CFC | 3. Antiseptic |
-| D. DDT | 4. Insecticide |
+{{< figure src="98.png" width="200" >}}
 
 14. Assertion: In mono haloarenes, electrophilic substitution occurs at ortho and para positions.
     Reason: Halogen atom is a ring deactivator
@@ -1045,6 +1127,8 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
 
 20. Which one of the following is most reactive towards nucleophilic substitution reaction?
 
+{{< figure src="99.png" width="200" >}}
+
 21. Ethylidene chloride on treatment with aqueous KOH gives
     a) acetaldehyde
     b) ethylene glycol
@@ -1076,10 +1160,7 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
     d) chloro propane
 
 26. Classify the following compounds in the form of alkyl, allylic, vinyl, benzylic halides
-    a) \( \mathrm{CH_3 - CH = CH - Cl} \)
-    b) \( \mathrm{C_6H_5CH_2I} \)
-    c) \( \mathrm{CH_3 - CH - CH_3} \) with Br
-    d) \( \mathrm{CH_2 = CH - Cl} \)
+{{< figure src="100.png" width="200" >}}
 
 ### II. Write brief answer to the following questions.
 
@@ -1088,6 +1169,8 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
 28. How will you prepare n propyl iodide from n-propyl bromide?
 
 29. Which alkyl halide from the following pair is i) chiral ii) undergoes faster \( \mathrm{S}_{\mathrm{N}}2 \) reaction?
+
+{{< figure src="101.png" width="200" >}}
 
 30. How does chlorobenzene react with sodium in the presence of ether? What is the name of the reaction?
 
@@ -1111,6 +1194,8 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
 38. Compare \( \mathrm{S}_{\mathrm{N}}1 \) and \( \mathrm{S}_{\mathrm{N}}2 \) reaction mechanisms.
 
 39. Reagents and the conditions used in the reactions are given below. Complete the table by writing down the product and the name of the reaction.
+
+{{< figure src="102.png" width="200" >}}
 
 40. Discuss the aromatic nucleophilic substitutions reaction of chlorobenzene.
 
@@ -1148,6 +1233,8 @@ DDT is used an effective insecticide. Now a days it is banned because of its lon
     v) Methyl cyanide
 
 49. Complete the following reactions
+
+{{< figure src="103.png" width="200" >}}
 
 50. Explain the preparation of the following compounds
     i) DDT

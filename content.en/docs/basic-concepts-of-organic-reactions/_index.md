@@ -31,6 +31,8 @@ All organic molecules contain covalent bonds which are formed by the mutual shar
 
 Homolytic cleavage is the process in which a covalent bond breaks symmetrically in such way that each of the bonded atoms retains one electron. It is denoted by a half headed arrow (fish hook arrow). This type of cleavage occurs under high temperature or in the presence of UV light in a compound containing non polar covalent bond formed between atoms of similar electronegativity. In such molecules, the cleavage of bonds results into free radicals. They are short lived and are highly reactive. The type of reagents that promote homolytic cleavage in substrate are called as free radical initiators. For example Azobisisobutyronitrile (AIBN) and peroxides such as benzoyl peroxide are used as free radical initiators in polymerisation reactions.
 
+![](1.png)
+
 As a free radical with an unpaired electron is neutral and unstable, it has a tendency to gain an electron to attain stability. Organic reactions involve homolytic fission of C-C bonds to form alkyl free radicals. The stability of alkyl free radicals is in the following order
 
 \[
@@ -43,17 +45,28 @@ Heterolytic cleavage is the process in which a covalent bond breaks unsymmetrica
 
 For example, in tert-butyl bromide, the C-Br bond is polar as bromine is more electronegative than carbon. The bonding electrons of the C-Br bond are attracted more by bromine than carbon. Hence, the C-Br undergoes heterolytic cleavage to form a tert-butyl cation during hydrolysis.
 
+<center>{{< figure src="2.png" width="200" >}}</center>
+
+
 Let us consider the cleavage in a carbon-hydrogen (C-H) bond of aldehydes or ketones. We know that the carbon is more electronegative than hydrogen and hence the heterolytic cleavage of C-H bonds results in the formation of carbanion (carbon bears a negative charge). For example in aldol condensation the OH⁻ ion abstracts a α-hydrogen from the aldehyde, which leads to the formation of the below mentioned carbanion.
+
+<center>{{< figure src="3.png" width="200" >}}</center>
 
 #### Hybridisation of carbon in carbocation:
 
 In a carbocation, the carbon bearing positive charge is \( \mathrm{sp}^2 \) hybridised and hence it has a planar structure. In the reaction involving such a carbocation, the attack of a negatively charged species (nucleophiles) take place on either side of the carbocation as shown below.
 
+<center>{{< figure src="4.png" width="200" >}}</center>
+
 **Fig 12.1(a) Shape of Carbocation**
 
 The carbanions are generally pyramidal in shape and the lone pair occupies one of the \( \mathrm{sp}^3 \) hybridised orbitals. An alkyl free radical may be either pyramidal or planar.
 
+<center>{{< figure src="5.png" width="200" >}}</center>
+
 **Fig 12.1(b) Shape of Carbanion**
+
+<center>{{< figure src="6.png" width="200" >}}</center>
 
 **Fig 12.1(c) Shape of Carbon radical**
 
@@ -77,26 +90,12 @@ The energy required to bring about homolytic splitting is greater than that of h
 
 Nucleophiles are reagents that has high affinity for electro positive centers. They possess an atom which has an unshared pair of electrons, and hence it is in search for an electro positive centre where it can have an opportunity to share its electrons to form a covalent bond, and gets stabilised. They are usually negatively charged ions or electron rich neutral molecules (contains one or more lone pair of electrons). All Lewis bases act as nucleophiles.
 
-| Type | Examples | Electron rich site |
-|---|---|---|
-| Neutral molecules having unshared pair of electron | Ammonia (\( \mathrm{NH_3} \)) and amines (\( \mathrm{RNH_2} \)) | N: |
-| | Water (\( \mathrm{H_2O} \)), alcohols (\( \mathrm{ROH} \)) and ethers (\( \mathrm{R-O-R} \)) | :O: |
-| | Hydrogen sulphide (\( \mathrm{H_2S} \)) and thiols (\( \mathrm{RSH} \)) | :S: |
-| Negatively charged nucleophiles | Chlorides (\( \mathrm{Cl^-} \)), bromides (\( \mathrm{Br^-} \)) and iodides (\( \mathrm{I^-} \)) | X: |
-| | Hydroxide (\( \mathrm{HO^-} \)), alkoxide (\( \mathrm{RO^-} \)) and Carboxylate ions (\( \mathrm{RCOO^-} \)) | O: |
-| | Cyanide (\( \mathrm{CN^-} \)) | N: |
+<center>{{< figure src="7.png" width="200" >}}</center>
+
 
 Electrophiles are reagents that are attracted towards negative charge or electron rich center. They are either positively charged ions or electron deficient neutral molecules. All Lewis acids act as electrophiles. Neutral molecules like \( \mathrm{SnCl_4} \) can also act as an electrophile, as it has vacant d-orbitals which can accommodate the electrons from others.
 
-| Type | Examples | Electron deficient entity |
-|---|---|---|
-| Neutral electrophiles | Carbon dioxide (\( \mathrm{CO_2} \)), dichlorocarbene (\( \mathrm{CCl_2} \)) | C |
-| | Aluminium chloride (\( \mathrm{AlCl_3} \)), boron trifluoride (\( \mathrm{BF_3} \)) and ferric chloride (\( \mathrm{FeCl_3} \)) | Metal (M) |
-| Positively charged electrophiles | Carbocations (\( \mathrm{R^+} \)) | \( \mathrm{C^+} \) |
-| | Proton (\( \mathrm{H^+} \)) | \( \mathrm{H^+} \) |
-| | Alkyl halides (\( \mathrm{RX} \)) | \( \mathrm{X^+} \) |
-| | Nitrosonium ion (\( \mathrm{NO^+} \)) | \( \mathrm{O^+} \) |
-| | Nitronium ion (\( \mathrm{NO_2^+} \)) | \( \mathrm{N^+} \) |
+<center>{{< figure src="8.png" width="200" >}}</center>
 
 ### 12.1.4 Electron movement in organic reactions
 
@@ -109,10 +108,14 @@ There are three types of electron movement viz.,
 - a bond breaks and becomes another bond.
 
 **Type 1: A lone pair to a bonding pair**
+<center>{{< figure src="9.png" width="200" >}}</center>
 
 **Type 2: A bonding pair to a lone pair**
+<center>{{< figure src="10.png" width="200" >}}</center>
 
 **Type 3: A bonding pair to an another bonding pair**
+
+<center>{{< figure src="11.png" width="200" >}}</center>
 
 ### 12.1.5 Electron displacement effects in covalent bonds
 
@@ -124,9 +127,7 @@ Inductive effect is defined as the change in the polarisation of a covalent bond
 
 Let us explain the inductive effect by considering ethane and ethylchloride as examples. The C-C bond in ethane is non polar while the C-C bond in ethyl chloride is polar. We know that chlorine is more electronegative than carbon, and hence it attracts the shared pair of electron between C-Cl in ethyl chloride towards itself. This develops a slight negative charge on chlorine and a slight positive charge on carbon to which chlorine is attached. To compensate it, the \( \mathrm{C_1} \) draws the shared pair of electron between itself and \( \mathrm{C_2} \). This polarisation effect is called inductive effect. This effect is greatest for the adjacent bonds, but they also be felt farther away. However, the magnitude of the charge separation decreases rapidly, as we move away from \( \mathrm{C_1} \) and is observed maximum for 2 carbons and almost insignificant after 4 bonds from the active group.
 
-\[
-\mathrm{CH_3-CH_2-Cl} \quad (\delta^+ \quad \delta^+ \quad \delta^-)
-\]
+<center>{{< figure src="12.png" width="200" >}}</center>
 
 It is important to note that the inductive effect does not transfer electrons from one atom to another but the displacement effect is permanent. The inductive effect represents the ability of a particular atom or a group to either withdraw or donate electron density to the attached carbon. Based on this ability the substituents are classified as +I groups and -I groups. Their ability to release or withdraw the electron through sigma covalent bond is called +I effect and -I effect respectively.
 
@@ -154,6 +155,8 @@ Let us understand the influence of inductive effect on some properties of organi
 
 When a highly electronegative atom such as halogen is attached to a carbon then it makes the C-X bond polar. In such cases the -I effect of halogen facilitates the attack of an incoming nucleophile at the polarised carbon, and hence increases the reactivity.
 
+<center>{{< figure src="13.png" width="200" >}}</center>
+
 If a -I group is attached nearer to a carbonyl carbon, it decreases the availability of electron density on the carbonyl carbon, and hence increases the rate of the nucleophilic addition reaction.
 
 **Acidity of carboxylic acids:**
@@ -162,11 +165,11 @@ When a halogen atom is attached to the carbon which is nearer to the carboxylic 
 
 Trichloro acetic acid > Dichloro acetic acid > Chloro acetic acid > Acetic acid
 
+<center>{{< figure src="14.png" width="200" >}}</center>
+
 Similarly, the following order of acidity in the carboxylic acids is due to the +I effect of alkyl group.
 
-\[
-\mathrm{HCOOH} > \mathrm{CH_3COOH} > \mathrm{C_2H_5COOH} > (\mathrm{CH_3})_2\mathrm{CHCOOH}
-\]
+<center>{{< figure src="15.png" width="200" >}}</center>
 
 #### Electromeric effect (E)
 
@@ -176,15 +179,23 @@ Let us consider two different compounds (i) compounds containing carbonyl group 
 
 When a nucleophile approaches the carbonyl compound, the π electrons between C and O is instantaneously shifted to the more electronegative oxygen. This makes the carbon electron deficient and thus facilitating the formation of a new bond between the incoming nucleophile and the carbonyl carbon atom.
 
+<center>{{< figure src="16.png" width="200" >}}</center>
+
 On the other hand when an electrophile such as \( \mathrm{H^+} \) approaches an alkene molecule, the π electrons are instantaneously shifted to the electrophile and a new bond is formed between carbon and hydrogen. This makes the other carbon electron deficient and hence it acquires a positive charge.
+
+<center>{{< figure src="17.png" width="200" >}}</center>
 
 The electromeric effect is denoted as E effect. Like the inductive effect, the electromeric effect is also classified as +E and -E based on the direction in which the pair of electron is transferred to form a new bond with the attacking agent.
 
 When the π electron is transferred towards the attacking reagent, it is called +E (positive electromeric) effect.
 
+<center>{{< figure src="18.png" width="200" >}}</center>
+
 The addition of \( \mathrm{H^+} \) to alkene as shown above is an example of +E effect.
 
 When the π electron is transferred away from the attacking reagent, it is called -E (negative electromeric) effect.
+
+<center>{{< figure src="19.png" width="200" >}}</center>
 
 The attack of \( \mathrm{CN^-} \) on a carbonyl carbon, as shown above, is an example of -E effect.
 
@@ -196,11 +207,11 @@ For example, the structure of aromatic compounds such as benzene and conjugated 
 
 In 1,3-butadiene, it is expected that the bond between \( \mathrm{C^1-C^2} \) and \( \mathrm{C^3-C^4} \) should be shorter than that of \( \mathrm{C^2-C^3} \), but the observed bond lengths are same. This property cannot be explained by a simple structure in which two π bonds localised between \( \mathrm{C^1-C^2} \) and \( \mathrm{C^3-C^4} \). Actually the π electrons are delocalised as shown below.
 
+<center>{{< figure src="20.png" width="200" >}}</center>
+
 These resonating structures are called canonical forms and the actual structure lies between these three resonating structures, and is called a resonance hybrid. The resonance hybrid is represented as below.
 
-\[
-\mathrm{H_2C \Longleftrightarrow CH \Longleftrightarrow CH \Longleftrightarrow CH_2}
-\]
+<center>{{< figure src="21.png" width="200" >}}</center>
 
 Similar to the other electron displacement effect, mesomeric effect is also classified into positive mesomeric effect (+M or +R) and negative mesomeric effect (-M or -R) based on the nature of the functional group present adjacent to the multiple bond.
 
@@ -214,6 +225,8 @@ Negative resonance effect occurs, when the electrons move towards the substituen
 
 Resonance is useful in explaining certain properties such as acidity of phenol. The phenoxide ion is more stabilised than phenol by resonance effect (+M effect) and hence resonance favours ionisation of phenol to form \( \mathrm{H^+} \) and shows acidity.
 
+<center>{{< figure src="22.png" width="200" >}}</center>
+
 The above structures shows that there is a charge separation in the resonance structure of phenol which needs energy, whereas there is no such hybrid structures in the case of phenoxide ion. This increased stability accounts for the acidic character of phenol.
 
 #### Hyper conjugation
@@ -226,15 +239,21 @@ It requires an α-CH group or a lone pair on atom like N, O adjacent to a π bon
 
 In propene, the σ-electrons of C-H bond of methyl group can be delocalised into the π-orbital of doubly bonded carbon as represented below.
 
+<center>{{< figure src="23.png" width="200" >}}</center>
+
 In the above structure the sigma bond is involved in resonance and breaks in order to supply electrons for delocalisation giving rise to 3 new canonical forms. In the contributing canonical structures: (II), (III) & (IV) of propene, there is no bond between an α-carbon and one of the hydrogen atoms. Hence the hyperconjugation is also known as "no bond resonance" or "Baker-Nathan effect". The structures (II), (III) & (IV) are polar in nature.
 
 **Example 2:**
 
 Hyper conjugation effect is also observed when atoms / groups having lone pair of electrons are attached by a single bond, and in conjugation with a π bond. The lone pair of electrons enters into resonance and displaces π electrons resulting in more than one structure.
 
+<center>{{< figure src="24.png" width="200" >}}</center>
+
 **Example 3:**
 
 When electronegative atoms or group of atoms are in conjugation with a π-bond, they pull π-electrons from the multiple bond.
+
+<center>{{< figure src="25.png" width="200" >}}</center>
 
 In case of carbocations, greater the number of alkyl groups attached to the carbon bearing positive charge, greater is the number of hyper conjugate structures. Thus the stability of various carbocations decreases in the order
 
@@ -265,33 +284,25 @@ iii) Free radical substitution
 
 This reaction can be represented as
 
-\[
-\mathrm{R-X + Y^- \rightarrow R-Y + X^-}
-\]
+<center>{{< figure src="26.png" width="200" >}}</center>
 
 Here \( \mathrm{Y^-} \) is the incoming nucleophile or attacking species and \( \mathrm{X^-} \) is the leaving group.
 
 Example: Hydrolysis of alkyl halides
 
-\[
-\mathrm{CH_3CH_2Br + KOH \rightarrow CH_3CH_2OH + KBr}
-\]
+<center>{{< figure src="27.png" width="200" >}}</center>
 
 Aliphatic nucleophilic substitution reactions take places either by \( \mathrm{S_N1} \) or \( \mathrm{S_N2} \) mechanism. Detailed study of the mechanisms is given in unit 14.
 
 #### Electrophilic Substitution
 
-\[
-\mathrm{R-X + Y^+ \rightarrow R-Y + X^+}
-\]
+<center>{{< figure src="28.png" width="200" >}}</center>
 
 Here \( \mathrm{Y^+} \) is an electrophile.
 
 Example: Nitration of Benzene
 
-\[
-\mathrm{C_6H_6 + HNO_3 \xrightarrow{H_2SO_4} C_6H_5NO_2 + H_2O}
-\]
+<center>{{< figure src="29.png" width="200" >}}</center>
 
 Mechanism of aromatic electrophilic substitution reactions (EAS) is discussed in detail in unit 13.
 
@@ -317,27 +328,33 @@ A general aliphatic electrophilic substitution is represented as
 
 It is a characteristic reaction of an unsaturated compound (compounds containing C-C localised double or triple bond). In this reaction two molecules combine to give a single product. Like substitution this reaction also can be classified as nucleophilic, electrophilic and free radical addition reactions depending the type of reagent which initiates the reaction. During the addition reaction the hybridisation of the substrate changes (from \( \mathrm{sp^2} \rightarrow \mathrm{sp^3} \) in the addition reaction of alkenes or \( \mathrm{sp} \rightarrow \mathrm{sp^2} \) in the addition reaction of alkynes) as only one bond breaks and two new bonds are formed.
 
+<center>{{< figure src="30.png" width="200" >}}</center>
+
 #### Electrophilic Addition reaction
 
 A general electrophilic addition reaction can be represented as below.
 
+<center>{{< figure src="31.png" width="200" >}}</center>
+
 Bromination of alkene to give bromo alkane is an example for this reaction.
 
-\[
-\mathrm{CH_2=CH_2 + Br_2 \rightarrow CH_2Br-CH_2Br}
-\]
+<center>{{< figure src="32.png" width="200" >}}</center>
 
 #### Nucleophilic addition reaction
 
+<center>{{< figure src="33.png" width="200" >}}</center>
+
 Example: addition of HCN to acetaldehyde
 
-\[
-\mathrm{CH_3CHO + HCN \rightarrow CH_3CH(OH)CN}
-\]
+<center>{{< figure src="35.png" width="200" >}}</center>
 
 #### Free radical addition Reaction:
 
 A general free radical addition reaction can be represented as below.
+
+<center>{{< figure src="36.png" width="200" >}}</center>
+
+<center>{{< figure src="37.png" width="200" >}}</center>
 
 In the above reaction, Benzoyl peroxide acts as a radical initiator. The mechanism involves free radicals.
 
@@ -347,9 +364,7 @@ In this reaction two substituents are eliminated from the molecule, and a new \(
 
 Example: n-Propyl bromide on reaction with alcoholic KOH gives propene. In this reaction hydrogen and Br are eliminated.
 
-\[
-\mathrm{CH_3CH_2CH_2Br + KOH \xrightarrow{\text{alc.}} CH_3CH=CH_2 + KBr + H_2O}
-\]
+<center>{{< figure src="38.png" width="200" >}}</center>
 
 ### Oxidation and reduction reactions:
 
@@ -357,9 +372,9 @@ Many oxidation and reduction reactions of organic compounds fall into one of the
 
 **Examples:**
 
-Oxidation: \( \mathrm{CH_3CH_2OH \xrightarrow{[O]} CH_3CHO} \)
+<center>{{< figure src="39.png" width="200" >}}</center>
 
-Reduction: \( \mathrm{CH_3CHO \xrightarrow{[H]} CH_3CH_2OH} \)
+<center>{{< figure src="40.png" width="200" >}}</center>
 
 Apples contain an enzyme called polyphenol oxidase (PPO), also known as tyrosinase. Cutting an apple exposes its cells to the atmospheric oxygen and oxidizes the phenolic compounds present in apples. This is called the enzymatic browning that turns a cut apple brown. In addition to apples, enzymatic browning is also evident in bananas, pears, avocados and even potatoes.
 
@@ -369,6 +384,7 @@ Organic synthesis involves functional group inter conversions. A particular func
 
 Some of the important functional group interconversions of Organic compounds are summarised in the below mentioned Flow chart.
 
+<center>{{< figure src="41.png" width="200" >}}</center>
 ---
 
 ## I. Choose the best answer.
@@ -378,6 +394,8 @@ Some of the important functional group interconversions of Organic compounds are
 (A) \( \mathrm{CH_3CH_2CH_2Br + KOH \rightarrow CH_3-CH=CH_2 + KBr + H_2O} \)
 
 (B) \( \mathrm{(CH_3)_3CBr + KOH \rightarrow (CH_3)_3COH + KBr} \)
+
+<center>{{< figure src="42.png" width="200" >}}</center>
 
 Which of the following statement is correct?
 

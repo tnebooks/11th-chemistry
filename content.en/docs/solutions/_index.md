@@ -51,14 +51,9 @@ In our life we have come across many solutions of varying strengths or concentra
 
 **Table 9.2 Different concentration terms with expressions and illustrations**
 
-| S. No. | Concentration term | Expression | Illustration |
-|---|---|---|---|
-| 1 | Molarity (M) | \( \frac{\text{Number of moles of solute}}{\text{Volume of solution in L}} \) | 5.85 g of sodium chloride is dissolved in water and the solution was made up to 500 mL using a standard flask. The strength of the solution in molarity is \( \frac{5.85}{58.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{M} \) |
-| 2 | Molality (m) | \( \frac{\text{Number of moles of solute}}{\text{Mass of solvent in kg}} \) | 5.85 g of NaCl is dissolved in 500 g of water. The strength of the solution in molality is \( \frac{5.85}{58.5 \times 0.5 \mathrm{kg}} = 0.2 \mathrm{m} \) |
-| 3 | Normality (N) | \( \frac{\text{Number of gram equivalents of solute}}{\text{Volume of solution in L}} \) | 3.65 g of HCl is dissolved in water and the solution was made up to 500 mL. The strength of the solution in normality is \( \frac{3.65}{36.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{N} \) |
-| 4 | Formality (F) | \( \frac{\text{Number of formula mass of solute}}{\text{Volume of solution in L}} \) | 5.85 g of sodium chloride is dissolved in water and the solution was made up to 500 mL using a standard flask. The strength of the solution in formality is \( \frac{5.85}{58.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{F} \) |
-| 5 | Mole fraction (of a component) (x) | \( \frac{\text{Number of moles of the component}}{\text{Total number of moles of all the components present in solution}} \) | Consider a solution containing two components A and B whose mole fractions are \( x_A \) and \( x_B \), respectively. Let the number of moles of the two components A and B be \( n_A \) and \( n_B \), respectively. \( x_A = \frac{n_A}{n_A + n_B} \) and \( x_B = \frac{n_B}{n_A + n_B} \). Now, \( x_A + x_B = \frac{n_A}{n_A + n_B} + \frac{n_B}{n_A + n_B} = 1 \). 0.5 mole of ethanol is mixed with 1.5 moles of water. The mole fraction of ethanol in the above solution is \( \frac{0.5}{0.5 + 1.5} = \frac{0.5}{2.0} = 0.25 \). The mole fraction of water in the above solution is \( \frac{1.5}{2.0} = 0.75 \). |
-| 6 | Mass percentage (% w/w) | \( \frac{\text{Mass of the solute (in g)}}{\text{Mass of solution (in g)}} \times 100 \) | Neomycin, aminoglycoside antibiotic cream contains 300 mg of neomycin sulphate the active ingredient, in 30 g of ointment base. The mass percentage of neomycin is \( \frac{0.3 \mathrm{g}}{30 \mathrm{g}} \times 100 = 1\% \ \mathrm{w/w} \) |
+![](img1.png)
+![](img2.png)
+![](img3.png)
 
 ## Evaluate Yourself
 
@@ -159,6 +154,7 @@ When a solid is added to a solvent, it begins to dissolve. i.e. the solute leave
 
 According to Le-Chatelier principle, if the dissolution process is endothermic, the increase in temperature will shift the equilibrium towards right i.e solubility increases. For an exothermic reaction, the increase in temperature decreases the solubility. The solubilities of ammonium nitrate, calcium chloride, ceric sulphate nano-hydrate and sodium chloride in water at different temperatures are given in the following graph.
 
+<center>{{< figure src="img4.png" width="200" >}}</center>
 <center>Figure 9.1 Plot of solubility versus temperature for selective compounds</center>
 
 The following conclusions are drawn from the above graph.
@@ -175,6 +171,8 @@ In the case of gaseous solute in liquid solvent, the solubility decreases with i
 ## Activity
 
 Open the soda bottle and put a balloon over it. The balloon will inflate with the released carbon dioxide from the soda. Carry out the same experiment by placing the soda bottle in a container of hot water. You will observe the balloon is inflated much faster now. This shows the decrease in solubility of gases in solution with increase in temperature. In the rivers where hot water is discharged from industrial plants, the aquatic lives are less sustained due to the decreased availability of dissolved oxygen.
+
+<center>{{< figure src="img5.png" width="200" >}}</center>
 
 <center>Figure 9.2 Effect of pressure on solubility</center>
 
@@ -204,6 +202,8 @@ Henry's law can be expressed as,
 \]
 
 Here, \( \mathrm{P_{solute}} \) represents the partial pressure of the gas in vapour state which is commonly called as vapour pressure. \( \mathbf{x}_{\mathrm{solute}} \) in solution represents the mole fraction of solute in the solution. \( \mathrm{K}_{\mathrm{H}} \) is an empirical constant with the dimensions of pressure. The value of \( \mathrm{K}_{\mathrm{H}} \) depends on the nature of the gaseous solute and solvent. The above equation is a straight-line in the form of \( \mathrm{y = mx} \). The plot of partial pressure of the gas against its mole fraction in a solution will give a straight line as shown in fig 9.3. The slope of the straight line gives the value of \( \mathrm{K}_{\mathrm{H}} \).
+
+<center>{{< figure src="img6.png" width="200" >}}</center>
 
 <center>Figure 9.3 Solubility of HCl gas in cyclohexane at 293 K.</center>
 
@@ -266,6 +266,8 @@ Generally, liquids have a tendency to evaporate. If the kinetic energy of molecu
 If evaporation is carried out in a closed container then the vapour remains in contact with the surface of the liquid. These vapour molecules are in continuous random motion during which they collide with each other and also with the walls of the container. As the collision is inelastic, they lose their energy and as result the vapour returns back to liquid state. This process is called as 'condensation'.
 
 Evaporation and condensation are continuous processes. If the process is carried out in a closed system, a stage is reached when the rate of evaporation becomes equal to the rate of condensation. Thus, an equilibrium is established between liquid and its vapour. The pressure of the vapour in equilibrium with its liquid is called vapour pressure of the liquid at the given temperature. The vapour pressure of a liquid depends on its nature, temperature and the surface area. The following simple apparatus demonstrates the measurement of vapour pressure of a liquid.
+
+<center>{{< figure src="img7.png" width="200" >}}</center>
 
 <center>Figure 9.4: a) A closed round bottomed flask in which ethanol is in equilibrium with its vapour. b) In the same setup the vapour is allowed to escape through a U tube filled with mercury. The escaped vapour pushes the mercury in the U tube and the difference in mercury level gives the vapour pressure of ethanol present in the RB flask.</center>
 
@@ -331,6 +333,8 @@ The above equation is of the straight-line equation form \( \mathrm{y = mx + c} 
 
 Let us consider the liquid solution containing toluene (solute) in benzene (solvent).
 
+<center>{{< figure src="img8.png" width="200" >}}</center>
+
 <center>Figure 9.5 Solution of benzene in toluene obeying Raoult's law.</center>
 
 The vapour pressures of pure toluene and pure benzene are 22.3 and \( 74.7 \ \mathrm{mmHg} \), respectively. The above graph shows, the partial vapour pressure of the pure components increases linearly with the increase in the mole fraction of the respective components. The total pressure at any composition of the solute and solvent is given by the following straight line (represented as red line) equation.
@@ -344,6 +348,8 @@ The vapour pressures of pure toluene and pure benzene are 22.3 and \( 74.7 \ \ma
 When a nonvolatile solute is dissolved in a pure solvent, the vapour pressure of the pure solvent will decrease. In such solutions, the vapour pressure of the solution will depend only on the solvent molecules as the solute is nonvolatile.
 
 For example, when sodium chloride is added to the water, the vapour pressure of the salt solution is lowered. The vapour pressure of the solution is determined by the number of molecules of the solvent present in the surface at any time and is proportional to the mole fraction of the solvent.
+
+<center>{{< figure src="img9.png" width="200" >}}</center>
 
 <center>Figure 9.6 Rate of vaporisation reduced by presence of nonvolatile solute.</center>
 
@@ -428,6 +434,8 @@ Let us understand the positive deviation by considering a solution of ethyl alco
 
 Examples for non-ideal solutions showing positive deviations: Ethyl alcohol & cyclohexane, Benzene & acetone, Carbon tetrachloride & chloroform, Acetone & ethyl alcohol, Ethyl alcohol & water.
 
+<center>{{< figure src="img10.png" width="200" >}}</center>
+
 <center>Figure 9.7 Positive deviations from Raoult's law. The dotted line (---) is ideal behavior and the solid lines ( ) is actual behaviour</center>
 
 ##### Non-ideal solutions - negative deviation from Raoult's Law
@@ -435,6 +443,8 @@ Examples for non-ideal solutions showing positive deviations: Ethyl alcohol & cy
 Let us consider a case where the attractive forces between solute (A) and solvent (B) are stronger than the intermolecular attractive forces between the individual components (A-A & B-B). Here, the escaping tendency of A and B will be lower when compared with an ideal solution formed by A and B. Hence, the vapour pressure of such solutions will be lower than the sum of the vapour pressure of A and B. This type of deviation is called negative deviation. For the negative deviation \( \mathrm{p_A < p_A^{\circ} x_A} \) and \( \mathrm{p_B < p_B^{\circ} x_B} \).
 
 Let us consider a solution of phenol and aniline. Both phenol and aniline form hydrogen bonding interactions amongst themselves. However, when mixed with aniline, the phenol molecule forms hydrogen bonding interactions with aniline, which are stronger than the hydrogen bonds formed amongst themselves. Formation of new hydrogen bonds considerably reduce the escaping tendency of phenol and aniline from the solution. As a result, the vapour pressure of the solution is less and there is a slight decrease in volume ( \( \Delta \mathrm{V_{mixing} < 0} \) ) on mixing. During this process evolution of heat takes place i.e. \( \Delta \mathrm{H_{mixing} < 0} \) (exothermic).
+
+<center>{{< figure src="img11.png" width="200" >}}</center>
 
 <center>Figure 9.8 Negative deviation from Raoult's law. The dotted line (---) is ideal behavior and the solid lines ( ) is actual behaviour</center>
 
@@ -455,6 +465,8 @@ For example, a solution of potassium chloride in water deviates from ideal behav
 ##### iii) Association of solute
 
 Association of solute molecules can also cause deviation from ideal behaviour. For example, in solution, acetic acid exists as a dimer by forming intermolecular hydrogen bonds, and hence deviates from Raoult's law.
+
+<center>{{< figure src="img12.png" width="200" >}}</center>
 
 <center>Figure 9.9 Acetic acid (dimer)</center>
 
@@ -483,6 +495,8 @@ Pure water is tasteless. When you add sugar it becomes sweet, while addition of 
 The vapour pressure of a solution containing a nonvolatile, non-electrolyte solute is always lower than the vapour pressure of the pure solvent. Consider a closed system in which a pure solvent is in equilibrium with its vapour. At equilibrium the molar Gibbs free energies of solvent in the liquid and gaseous phase are equal (\( \Delta G = 0 \)). When a solute is added to this solvent, the dissolution takes place and its free energy (G) decreases due to increase in entropy. In order to maintain the equilibrium, the free energy of the vapour phase must also decrease. At a given temperature, the only way to lower the free energy of the vapour is to reduce its pressure. Thus the vapour pressure of the solution must decrease to maintain the equilibrium.
 
 We know that from the Raoult's law the relative lowering of the vapour pressure is equal to the mole fraction of the solute (equation 9.16)
+
+<center>{{< figure src="img13.png" width="200" >}}</center>
 
 <center>Figure 9.10 Measuring relative lowering of vapour pressure</center>
 
@@ -560,6 +574,8 @@ M_B = \frac{2 \times 18 \times 1.013}{98 \times 0.009} = 41.3 \ \mathrm{g \ mol^
 #### Elevation of boiling point
 
 Boiling point is an important physical property of a liquid. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the atmospheric pressure (1 atm). When a nonvolatile solute is added to a pure solvent at its boiling point, the vapour pressure of the solution is lowered below 1 atm. To bring the vapour pressure again to 1 atm, the temperature of the solution has to be increased. As a result, the solution boils at a higher temperature \( \mathrm{T_b} \) than the boiling point of the pure solvent \( \mathrm{T_b^{\circ}} \). This increase in boiling point is known as elevation of boiling point.. A plot of vapour pressure versus temperature for water and an aqueous solution is given below 
+
+<center>{{< figure src="img14.png" width="200" >}}</center>
 
 <center>Figure 9.11 Elevation of boiling point and depression in freezing point</center>
 
@@ -738,6 +754,8 @@ The temperature at which ice will begin to separate is the freezing point of wat
 
 Many biological processes depend on osmosis, which is a spontaneous process by which the solvent molecules pass through a semi permeable membrane from a solution of lower concentration to a solution of higher concentration. The name osmosis is derived from the Greek word 'osmós' which means 'to push'. It is also important to know that the semipermeable membrane selectively allows certain molecules in the solution to pass through it but not others.
 
+<center>{{< figure src="img15.png" width="200" >}}</center>
+
 <center>Figure 9.12 Osmosis and osmotic pressure</center>
 
 Let us consider a simple apparatus as shown in the above figure. A semipermeable membrane separates a chamber into two compartments. Water (pure solvent) is added to the first compartment and the aqueous NaCl (solution) is added to the second compartment such that the liquid levels on the both sides are equal. Since there is a difference in concentration between the liquids present in the two compartments, the water molecules move from first compartment to second compartment through the semipermeable membrane. The membrane allows only water molecules to pass through it in either direction but not NaCl. The net flow of water is into the sodium chloride solution and hence increases its volume. This decreases its concentration and also creates a pressure difference between the compartments. This pressure difference pushes some of the water molecules back to the solvent side through the semipermeable membrane until an equilibrium is established. At the equilibrium, the rate of movement of solvent molecules in both directions are equal. The pressure difference at the equilibrium is called osmotic pressure \( (\pi) \). Thus, osmotic pressure can be defined as "the pressure that must be applied to the solution to stop the influx of the solvent (to stop osmosis) through the semipermeable membrane".
@@ -797,6 +815,7 @@ From the equation 9.33, molar mass of the solute can be calculated.
 ##### Isotonic solutions
 
 Two solutions having same osmotic pressure at a given temperature are called isotonic solutions. When such solutions are separated by a semipermeable membrane, solvent flow between one to the other on either direction is same, i.e. the net solvent flow between the two isotonic solutions is zero.
+<center>{{< figure src="img16.png" width="200" >}}</center>
 
 <center>Figure 9.13 Isotonic solutions</center>
 
@@ -805,6 +824,8 @@ The osmotic pressure of the blood cells is approximately equal to 7 atm at \( 37
 ### 9.10 Reverse osmosis (RO)
 
 Let us consider the experimental setup discussed in the osmosis. The pure water moves through the semipermeable membrane to the NaCl solution due to osmosis. This process can be reversed by applying pressure greater than the osmotic pressure to the solution side. Now the pure water moves from the solution side to the solvent side and this process is called reverse osmosis. It can be defined as a process in which a solvent passes through a semipermeable membrane in the opposite direction of osmosis, when subjected to a hydrostatic pressure greater than the osmotic pressure.
+
+<center>{{< figure src="img17.png" width="200" >}}</center>
 
 <center>Figure 9.14 Osmosis & Reverse osmosis</center>
 
