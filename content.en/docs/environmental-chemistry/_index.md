@@ -77,6 +77,8 @@ Atmospheric pollution is generally studied as tropospheric pollution. Different 
 
 Any undesirable change in air which adversely affects living organisms is called air pollution. Air pollution is limited to troposphere and stratosphere. Air pollution is mainly due to the excessive discharge of undesirable foreign matter into the atmospheric air.
 
+<center>{{< figure src="1.png" width="200" >}}</center>
+
 **Fig 15.1 Air Pollution**
 
 ##### Types of air pollutants
@@ -147,6 +149,8 @@ They are potential cancer causing (carcinogenic) agents. For example, polynuclea
 
 In 1987, Jean Baptiste Fourier a French mathematician and scientist coined the term "Greenhouse Effect" for trapping of heat in the atmosphere by certain gases.
 
+<center>{{< figure src="2.png" width="200" >}}</center>
+
 **Fig 15.2 Greenhouse effect**
 
 The earth's atmosphere allows most of the visible light from the Sun to pass through and reach Earth's surface. As Earth's surface is heated by sunlight, it radiates part of this energy back toward space as longer wavelengths (IR).
@@ -190,6 +194,8 @@ Some harmful effects are discussed below.
 (iv) It corrodes water pipes resulting in the leaching of heavy metals such as iron, lead and copper into drinking water which have toxic effects.
 
 (v) It causes respiratory ailment in humans and animals.
+
+<center>{{< figure src="3.png" width="200" >}}</center>
 
 **Fig 15.3. Effect Of Acid Rain On Tajmahal**
 
@@ -254,6 +260,8 @@ The particulates from air can be removed by using electrostatic precipitators, g
 #### 15.3.3 Smog
 
 Smog is a combination of smoke and fog which forms droplets that remain suspended in the air.
+
+<center>{{< figure src="4.png" width="200" >}}</center>
 
 **Fig 15.4 classical smog**
 
@@ -347,6 +355,8 @@ Ozone gas is thermodynamically unstable and readily decomposes to molecular oxyg
 
 #### 15.4.1 Depletion of Ozone Layer (Ozone hole)
 
+<center>{{< figure src="5.png" width="200" >}}</center>
+
 **Fig 15.5 Ozone Depletion**
 
 In recent years, a gradual depletion of this protective ozone layer has been reported. Nitric oxide and CFC are found to be most responsible for depletion of ozone layer.
@@ -411,6 +421,8 @@ UV radiation affects the growth of phytoplankton, as a result ocean food chain i
 **15.5 Water Pollution**
 
 Water is essential for life. Without water life would have been impossible. The slogan, 'Save Water, Water will save you' tells us the importance of water. Such slogans tell us to save water. Apart from saving water, maintaining its quality is also equally important.
+
+<center>{{< figure src="6.png" width="200" >}}</center>
 
 **Fig 15.6 water pollution**
 
@@ -526,6 +538,8 @@ Use of drinking water having concentration of nitrate higher than 45 ppm may cau
 Most of the salts are soluble in water. It includes cations like calcium, magnesium, sodium, potassium, iron and anions like carbonate, bicarbonate, chloride, sulphate, phosphate and nitrate. Use of drinking water having total dissolved solids concentration higher than 500 ppm causes possibilities of irritation in stomach and intestine.
 
 ### 15.8 Soil Pollution
+
+<center>{{< figure src="7.png" width="200" >}}</center>
 
 **Fig 15.7 soil pollution**
 
