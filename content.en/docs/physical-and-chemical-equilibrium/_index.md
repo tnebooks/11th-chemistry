@@ -29,11 +29,11 @@ It is desirable to know the three crucial aspects of chemical reactions namely t
 ## 8.2 Physical and Chemical Equilibrium
 
 There are different types of equilibrium. For example, if two persons with same weight sit on opposite sides of a see-saw at equal distance from the fulcrum, then the see-saw will be stationary and straight and it is said to be in equilibrium.
-
+<center>{{< figure src="1.png" width="200" >}}</center>
 <center><strong>Fig. 8.1 Illustration of equilibrium</strong></center>
 
 Another example of a state of equilibrium is the game of "tug-of-war." In this game a rope is pulled taut between two teams. There may be a situation when both the teams are pulling the rope with equal force and the rope is not moving in either direction. This state is said to be in equilibrium.
-
+<center>{{< figure src="2.png" width="200" >}}</center>
 <center><strong>Fig. 8.2 Tug-of War</strong></center>
 
 In reversible processes, the rate of two opposing reactions equals at a particular stage. At this stage the concentration of reactants and products do not change with time. This condition is not static and is **dynamic**, because both the forward and reverse reactions are still occurring with the same rate.
@@ -93,7 +93,9 @@ Consider a closed system in which the solid sublimes to vapour. In this process 
 #### Solid in Liquids
 
 When you add sugar to water at a particular temperature, it dissolves to form sugar solution. If you continue to add much sugar, you will reach a stage at which the added sugar remains as solid and the resulting solution is called a **saturated solution**. Here, as in the previous cases a dynamic equilibrium is established between the solute molecules in the solid phase and in the solution phase.
-
+\[
+\mathrm{Sugar(Solid) \rightleftharpoons Sugar(Solution)}
+\]
 In this process,
 
 \[
@@ -125,7 +127,7 @@ Similar to physical processes chemical reactions gradually attain a state of equ
 \]
 
 Initially only A and B are present. Soon, a few molecules of the products C and D are formed by the forward reaction. As the concentration of the products increases, more products collide and react in the backward direction. This leads to an increase in the rate of backward reaction. As the rate of reverse reaction increases, the rate of the forward reaction decreases. Eventually, the rate of both reactions becomes equal.
-
+<center>{{< figure src="3.png" width="200" >}}</center>
 <center><strong>Figure 8.3 Attainment of equilibrium state for the variation of the rates of forward and backward reactions with time.</strong></center>
 
 ---
@@ -565,7 +567,7 @@ As the reaction proceeds, there is a continuous change in the concentration of r
 - If \( Q = K_c \), the reaction is in equilibrium state.
 - If \( Q > K_c \), the reaction will proceed in the reverse direction i.e., formation of reactants.
 - If \( Q < K_c \), the reaction will proceed in the forward direction i.e., formation of products.
-
+<center>{{< figure src="4.png" width="200" >}}</center>
 <center><strong>Fig 8.4 Predicting the direction of a reaction</strong></center>
 
 **Example 1**
@@ -898,15 +900,7 @@ K_c = \frac{[HI]^2}{[H_2][I_2]} = \frac{1 \times 1}{0.2 \times 0.1} = 50
 \]
 
 The equilibrium was disturbed by adding 0.1 M iodine to the reaction mixture. After sometime, the concentration of HI is found to be 1.092 M. Let us verify whether the system proceeds to re-establish the equilibrium according to Le Chatelier's principle.
-
-| | \( \mathrm{H_2} \) | \( \mathrm{I_2} \) | \( \mathrm{HI} \) |
-|---|---|---|---|
-| Concentration at equilibrium | 0.2 | 0.1 | 1 |
-| Disturbance (Addition of 0.1 M iodine) | | +0.1 | |
-| Concentration immediately after the addition of iodine | 0.2 | 0.2 | 1 |
-| Change in concentration | -x | -x | +2x |
-| New concentration | 0.2 - x | 0.2 - x | 1 + 2x |
-
+![](5.png)
 Now,
 
 Concentration of \( \mathrm{HI} = 1 + 2x = 1.092 \ \mathrm{M} \)
@@ -933,6 +927,7 @@ Q = \frac{[HI]^2}{[H_2][I_2]} = \frac{1.092 \times 1.092}{0.154 \times 0.154} \a
 
 The Q value is equal to K value. So, we can conclude that the system has re-established the equilibrium at this stage and the addition of iodine results in the increase in the HI concentration.
 
+<center>{{< figure src="6.png" width="200" >}}</center>
 <center><strong>Figure 8.5 Effect of addition of iodine on formation of HI</strong></center>
 
 In the large scale production of CaO from \( \mathrm{CaCO_3} \), constant removal of \( \mathrm{CO_2} \) from the kiln drives the reaction to completion. As in the case of manufacture of \( \mathrm{NH_3} \) by the Haber's process, \( \mathrm{NH_3} \) is liquefied and removed so that the reaction keeps moving in forward direction.
@@ -949,6 +944,7 @@ Let us consider the synthesis of ammonia from nitrogen and hydrogen.
 
 Let the system be allowed to attain equilibrium in a cylinder with a piston. If we press the piston down to increase the pressure, the volume decreases. The system responds to this effect by reducing the number of gas molecules. i.e., it favours the formation of ammonia. If we pull the piston upwards to reduce the pressure, the volume increases. It favours the decomposition of ammonia.
 
+<center>{{< figure src="7.png" width="200" >}}</center>
 <center><strong>Figure 8.6 Effect of pressure on ammonia synthesis.</strong></center>
 
 However, when the total number of the moles of the gaseous reactants and the gaseous products are equal, the change in pressure has no effect on system at equilibrium.
@@ -1127,19 +1123,7 @@ a) The reaction temperature is altered to \( 100^{\circ} \mathrm{C} \) keeping t
 ---
 
 ## Clinical Correlate: Hemoglobin and Oxygen Transport
-
-In a pregnant woman, the oxygen supply for fetus is provided by the maternal blood in the placenta where the blood vessels of both mother and fetus are in close proximity. Both fetal and maternal hemoglobin binds to oxygen reversibly as follows.
-
-\[
-\mathrm{Hb(mother) + O_2 \rightleftharpoons HbO_2(mother)}
-\]
-
-\[
-\mathrm{Hb(fetus) + O_2 \rightleftharpoons HbO_2(fetus)}
-\]
-
-In the above two equilibria, the equilibrium constant value for the oxygenation of fetal hemoglobin is higher, which is due to its higher affinity for oxygen compared to the adult hemoglobin. Hence in placenta, the oxygen from the mother's blood is effectively transferred to the fetal hemoglobin.
-
+![](8.png)
 ---
 
 ## Summary

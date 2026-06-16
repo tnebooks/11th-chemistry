@@ -49,6 +49,7 @@ Pressure is defined as force divided by the area to which the force is applied. 
 ### 6.2.1 Boyle's Law: Pressure-Volume Relationship
 
 Robert Boyle performed a series of experiments to study the relation between the pressure and volume of gases. The schematic of the apparatus used by him is shown in figure 6.1.
+<center>{{< figure src="1.png" width="200" >}}</center>
 
 <center><strong>Figure 6.1 Boyle's law experiment</strong></center>
 
@@ -57,7 +58,7 @@ Mercury was added through the open end of the apparatus such that the mercury le
 Mathematically, the Boyle's law can be written as
 
 \[
-\mathrm{V} \propto \frac{1}{\mathrm{P}} \tag{6.1}
+\mathrm{V} \propto \frac{1}{\mathrm{P}}  \tag{6.1}
 \]
 
 (\( T \) and \( n \) are fixed, \( T \)- temperature, \( n \)- number of moles)
@@ -79,8 +80,11 @@ Boyle's law is applicable to all gases regardless of their chemical identity (pr
 \[
 \mathrm{P_1V_1} = \mathrm{P_2V_2} = k \tag{6.3}
 \]
+<center>{{< figure src="2.png" width="200" >}}</center>
 
 <center><strong>Figure 6.2a Graphical representation of Boyle's law (equation 6.2)</strong></center>
+<center>{{< figure src="3.png" width="200" >}}</center>
+
 <center><strong>Figure 6.2b Graphical representation of Boyle's law (equation 6.2a)</strong></center>
 
 The \( PV \) relationship can be understood as follows. The pressure is due to the force of the gas particles on the walls of the container. If a given amount of gas is compressed to half of its volume, the density is doubled and the number of particles hitting the unit area of the container will be doubled. Hence, the pressure would increase twofold.
@@ -112,6 +116,7 @@ Similarly, the effect of drop in pressure is felt as a little pain in the ears b
 Underwater divers are advised not to hold the breath unnecessarily while diving. Do you know why?
 
 In figure (6.3) let us find the missing parameters (volume in 6.3(b) and pressure in 6.3(c))
+<center>{{< figure src="4.png" width="200" >}}</center>
 
 <center><strong>Figure 6.3 Effect of pressure on volume of the gas to verify Boyle's law</strong></center>
 
@@ -170,6 +175,7 @@ If the temperature of the gas increases, the volume also increases in direct pro
 \]
 
 For example, if a balloon is moved from an ice cold water bath to a boiling water bath, the temperature of the gas increases. As a result, the gas molecules inside the balloon move faster and gas expands. Hence, the volume increases.
+<center>{{< figure src="5.png" width="200" >}}</center>
 
 <center><strong>Figure 6.4 Air filled balloon in ice cold and hot water</strong></center>
 
@@ -210,6 +216,7 @@ V = V_0(\alpha T + 1) \tag{6.9}
 \]
 
 Charles found that the coefficient of expansion is approximately equal to \( 1/273 \). It means that at constant pressure for a given mass, for each degree rise in temperature, all gases expand by \( 1/273 \) of their volume at \( 0^{\circ}\mathrm{C} \).
+<center>{{< figure src="6.png" width="200" >}}</center>
 
 <center><strong>Figure 6.5 Plot of volume vs temperature for an ideal gas</strong></center>
 
@@ -223,6 +230,7 @@ If we extrapolate the straight line in the figure 6.5 beyond the experimental me
 **Example:**
 
 In figure 6.6 let us find the missing parameters (volume in 6.6(b) and temperature in 6.6(c))
+<center>{{< figure src="7.png" width="200" >}}</center>
 
 <center><strong>Fig. 6.6 Effect of temperature on volume of the gas to verify Charles law</strong></center>
 
@@ -276,15 +284,7 @@ If \( \mathrm{P_1} \) and \( \mathrm{P_2} \) are the pressures at temperatures \
 \frac{\mathrm{P_1}}{\mathrm{T_1}} = \frac{\mathrm{P_2}}{\mathrm{T_2}}
 \]
 
-### Activity - 1
-
-The table below contains the values of pressure measured at different temperatures for 1 mole of an ideal gas. Plot the values in a graph and verify the Gay Lussac's law. [Lines in the pressure vs temperature graph are known as isochores (constant volume) of a gas.]
-
-| Temperature (in °C) | 32 | 69 | 94 | 130 | 154 | 191 |
-|---------------------|----|----|----|-----|-----|-----|
-| Pressure in 50 L container (atm) | 0.51 | 0.56 | 0.60 | 0.66 | 0.70 | 0.76 |
-| Pressure in 75 L container (atm) | 0.34 | 0.37 | 0.40 | 0.44 | 0.47 | 0.51 |
-
+![](8.png)
 ### 6.2.4 Avogadro's Hypothesis
 
 Avogadro hypothesised that equal volumes of all gases under the same conditions of temperature and pressure contain equal number of molecules. The mathematical form of Avogadro's hypothesis may be expressed as
@@ -482,6 +482,7 @@ The oxygen gas was collected by downward displacement of water at \( 295 \ \math
 ### 6.4.1 Graham's Law of Diffusion
 
 Gases have a tendency to occupy all the available space. When two non-reactive gases are allowed to mix, the gas molecules migrate from region of higher concentration to a region of lower concentration. This property of gas which involves the movement of the gas molecules through another gases is called **diffusion**. **Effusion** is another process in which a gas escapes from a container through a very small hole.
+<center>{{< figure src="10.png" width="200" >}}</center>
 
 <center><strong>Figure 6.7 Diffusion and effusion of gases</strong></center>
 
@@ -550,8 +551,10 @@ Z = \frac{\mathrm{PV}}{\mathrm{nRT}}
 \]
 
 For ideal gases \( \mathrm{PV = nRT} \), hence the compressibility factor, \( Z = 1 \) at all temperatures and pressures. For these gases the plot of \( Z \) vs \( P \) should be a straight line parallel to the pressure axis. When a gas deviates from ideal behaviour, its \( Z \) value deviates from unity. For all gases, at very low pressures and very high temperature the compressibility factor approaches unity and they tend to behave ideally. The plot of the compressibility factor vs pressure for some common gases are shown in Figure 6.8.
+<center>{{< figure src="11.png" width="200" >}}</center>
 
 <center><strong>Figure 6.8 Plot of compressibility factor(Z) vs pressure for some common gases</strong></center>
+<center>{{< figure src="12.png" width="200" >}}</center>
 
 <center><strong>Figure 6.9 Compressibility factor vs pressure at different temperatures for Nitrogen</strong></center>
 
@@ -586,6 +589,7 @@ J. D. Van der Waals made the first mathematical analysis of real gases. His trea
 #### Pressure Correction
 
 The pressure of a gas is directly proportional to the force created by the bombardment of molecules on the walls of the container. The speed of a molecule moving towards the wall of the container is reduced by the attractive forces exerted by its neighbours. Hence, the measured gas pressure is lower than the ideal pressure of the gas. Hence, van der Waals introduced a correction term to this effect.
+<center>{{< figure src="13.png" width="200" >}}</center>
 
 <center><strong>Figure 6.10 Inter-molecular forces of attraction</strong></center>
 
@@ -620,6 +624,7 @@ P_{\text{ideal}} = P + \frac{an^2}{V^2} \tag{6.20}
 #### Volume Correction
 
 As every individual molecule of a gas occupies a certain volume, the actual volume is less than the volume of the container, V. Van der Waals introduced a correction factor \( V' \) to this effect. Let us calculate the correction term by considering gas molecules as spheres.
+<center>{{< figure src="14.png" width="200" >}}</center>
 
 <center><strong>Figure 6.11 Excluded volume</strong></center>
 
@@ -672,6 +677,7 @@ The constants \( a \) and \( b \) are van der Waals constants and their values v
 Thomas Andrew gave the first complete data on pressure-volume-temperature of a substance in the gaseous and liquid states. He plotted isotherms of carbon dioxide at different temperatures which is shown in Figure 6.12. From the plots we can infer the following.
 
 At low temperature isotherms, for example, at \( 13^{\circ}\mathrm{C} \) as the pressure increases, the volume decreases along AB and is a gas until the point B is reached. At B, a liquid separates along the line BC, both the liquid and gas co-exist and the pressure remains constant. At C, the gas is completely converted into liquid. If the pressure is higher than at C, only the liquid is compressed so, there is no significant change in the volume. The successive isotherms shows similar trend with the shorter flat region. i.e., the volume range in which the liquid and gas coexist becomes shorter. At the temperature of \( 31.1^{\circ}\mathrm{C} \) the length of the shorter portion is reduced to zero at point P. In other words, the \( \mathrm{CO_2} \) gas is liquefied completely at this point. This temperature is known as the **liquefaction temperature** or **critical temperature** of \( \mathrm{CO_2} \). At this point the pressure is 73 atm. Above this temperature \( \mathrm{CO_2} \) remains as a gas at all pressure values. It is then proved that many real gases behave in a similar manner to carbon dioxide.
+<center>{{< figure src="15.png" width="200" >}}</center>
 
 <center><strong>Figure 6.12 Isotherms of Carbon dioxide at different temperatures</strong></center>
 
