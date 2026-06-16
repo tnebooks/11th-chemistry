@@ -11,6 +11,8 @@ summary: "This unit explains the periodic classification of elements based on th
 
 "An awareness of the periodic table is essential to anyone who wishes to disentangle the world and see how it is built up from the fundamental building blocks of the chemistry, the chemical elements" - Glenn T. Seaborg
 
+![](img3.png)
+
 <center>Glenn T. Seaborg </center>
 
 Glenn Theodore Seaborg received Nobel Prize in 1951 in chemistry for the discoveries of trans-uranium elements. He was the co-discoverer of plutonium and other trans-uranium elements. He along with his colleagues has discovered over a hundred isotopes of other elements. He demonstrated that actinide elements are analogues to rare earth series of lanthanide elements.
@@ -73,6 +75,8 @@ During same period Dmitri Mendeleev independently proposed that "the properties 
 
 **3.4 Mendeleev's periodic table**
 
+![](imgtable.png)
+
 As shown in the periodic table, he left some blank spaces since there were no known elements with the appropriate properties at that time. He and others predicted the physical and chemical properties of the missing elements. Eventually these missing elements were discovered and found to have the predicted properties. For example, Gallium (Ga) of group III and germanium (Ge) of group IV were unknown at that time. But Mendeleev predicted their existence and properties. He referred the predicted elements as eka-aluminium and eka-silicon. After discovery of the actual elements, their properties were found to match closely to those predicted by Mendeleev (Table 3.4).
 
 **Table 3.5 Properties predicted for Eka-aluminium and Eka-silicon**
@@ -125,6 +129,8 @@ Each period starts with the element having general outer electronic configuratio
 ## Evaluate Yourself
 
 1. What is the basic difference in approach between Mendeleev's periodic table and modern periodic table?
+
+![](imgperiod.png)
 
 ### 3.3 Nomenclature of Elements with Atomic Number Greater than 100
 
@@ -244,13 +250,13 @@ Atomic radius of an atom is defined as the distance between the centre of its nu
 
 It is not possible to measure the radius of an isolated atom directly. Except for noble gases, usually atomic radius is referred to as covalent radius or metallic radius depending upon the nature of bonding between the concerned atoms.
 
-**Figure 3.1 (a) Atomic radius**
+![](imgatom.png)
 
 ##### Covalent radius
 
 It is one-half of the internuclear distance between two identical atoms linked together by a single covalent bond. Inter nuclear distance can be determined using x-ray diffraction studies.
 
-**Figure 3.1 (b) Atomic and covalent radius**
+![](imgcov.png)
 
 **Example:**
 
@@ -269,7 +275,7 @@ The experimental internuclear distance in \( \mathrm{Cl}_2 \) molecule is \( 1.9
 \Rightarrow \mathrm{r}_{\mathrm{Cl}} = \frac{1.98}{2} = 0.99\mathrm{\AA}
 \]
 
-**Figure 3.1 (c) Covalent radius of Cl**
+![](imgrad.png)
 
 The formation of covalent bond involves the overlapping of atomic orbitals and it reduces the expected internuclear distance. Therefore covalent radius is always shorter than the actual atomic radius.
 
@@ -418,6 +424,8 @@ In the periodic table, the atomic radius of elements increases down the group. A
 
 **Table 3.14 Variation of covalent radius of group 1 elements**
 
+![](imggraph.png)
+
 | Element | Outermost shell containing valence electron | Covalent radius (Å) |
 |---|---|---|
 | Li | L (n=2) | 1.34 |
@@ -555,7 +563,7 @@ The plot of atomic number vs ionisation energy is given below.
 In the following graph, there are two deviations in the trends of ionisation energy. It is expected that boron has higher ionisation energy than beryllium since it has higher nuclear charge. However, the actual ionisation energies of beryllium and boron are 899 and \( 800 \ \mathrm{kJ \ mol^{-1}} \) respectively contrary to the expectation. It is due to the fact that beryllium with completely filled 2s orbital, is more stable than partially filled valence shell electronic configuration of boron \( (2\mathrm{s}^2 2\mathrm{p}^1) \).
 
 **Figure 3.2 Variation of Ionisation energy along the II period**
-
+![](img3.2.png)
 The electronic configuration of beryllium \( (Z = 4) \) in its ground state is \( 1\mathrm{s}^2 2\mathrm{s}^2 \) and that of boron is \( (Z = 5) \ 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^1 \).
 
 Similarly, nitrogen with \( 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^3 \) electronic configuration has higher ionisation energy \( (1402 \ \mathrm{kJ \ mol^{-1}}) \) than oxygen \( (1314 \ \mathrm{kJ \ mol^{-1}}) \). Since the half filled electronic configuration is more stable, it requires higher energy to remove an electron from \( 2\mathrm{p} \) orbital of nitrogen. Whereas the removal of one \( 2\mathrm{p} \) electron from oxygen leads to a stable half filled configuration. This makes comparatively easier to remove \( 2\mathrm{p} \) electron from oxygen.
@@ -571,6 +579,7 @@ As we move down a group, the number of inner shell electrons increases which in 
 Let us understand this trend by considering the ionisation energy of alkali metals.
 
 **Figure 3.3 Variation of Ionisation energy down the I Group**
+![](img3.3.png)
 
 6. The first ionisation energy \( \mathrm{IE}_{1} \) and second ionisation energy \( \mathrm{IE}_{2} \) of elements X, Y and Z are given below.
 
@@ -595,6 +604,7 @@ A + e^{-} \rightarrow A^{-} + EA
 The variation of electron affinity is not as systematic as in the case of ionisation energy. As we move from alkali metals to halogens in a period, generally electron affinity increases, i.e. the amount of energy released will be more. This is due to an increase in the nuclear charge and decrease in size of the atoms. However, in case of elements such as beryllium \( (1\mathrm{s}^2 2s^2) \), nitrogen \( (1\mathrm{s}^2 2s^2 2\mathrm{p}^3) \) the addition of extra electron will disturb their stable electronic configuration and they have almost zero electron affinity.
 
 **Figure 3.4 Variation of electron affinity (electron gain energy) along II period**
+![](img3.4.png)
 
 Noble gases have stable \( \mathrm{ns}^2 \mathrm{np}^6 \) configuration, and the addition of further electron is unfavourable and requires energy. Halogens having the general electronic configuration of \( \mathrm{ns}^2 \mathrm{np}^5 \) readily accept an electron to get the stable noble gas electronic configuration \( (\mathrm{ns}^2 \mathrm{np}^6) \) and therefore in each period the halogen has high electron affinity (high negative values).
 
@@ -603,6 +613,7 @@ Noble gases have stable \( \mathrm{ns}^2 \mathrm{np}^6 \) configuration, and the
 As we move down a group, generally the electron affinity decreases. It is due to increase in atomic size and the shielding effect of inner shell electrons. However, oxygen and fluorine have lower affinity than sulphur and chlorine respectively. The sizes of oxygen and fluorine atoms are comparatively small and they have high electron density. Moreover, the extra electron added to oxygen and fluorine has to be accommodated in the 2p orbital which is relatively compact compared to the 3p orbital of sulphur and chlorine, so oxygen and fluorine have lower electron affinity than their respective group elements sulphur and chlorine.
 
 **Figure 3.5 Variation of Electron Affinity (electron gain energy) along \( 17^{\mathrm{th}} \) group**
+![](img3.5.png)
 
 ## Evaluate Yourself
 
@@ -627,14 +638,18 @@ The electronegativity of any given element is not a constant and its value depen
 The electronegativity generally increases across a period from left to right. As discussed earlier, the atomic radius decreases in a period, as the attraction between the valence electron and the nucleus increases. Hence the tendency to attract shared pair of electrons increases. Therefore, electronegativity also increases in a period.
 
 **Figure 3.6 Variation of Electronegativity along II period**
+![](img3.6.png)
 
-**Figure 3.7 Variation of electronegativity along I group**
+![](imgtable3.15.png)
 
 ##### Variation of Electronegativity in a group
 
 The electronegativity generally decreases down a group. As we move down a group the atomic radius increases and the nuclear attractive force on the valence electron decreases. Hence, the electronegativity decreases.
 
 Noble gases are assigned zero electronegativity. The electronegativity values of the elements of s-block show the expected decreasing order in a group. Except \( 13^{\mathrm{th}} \) and \( 14^{\mathrm{th}} \) group all other p-block elements follow the expected decreasing trend in electronegativity.
+
+**Figure 3.7 Variation of electronegativity along I group**
+![](img3.7.png)
 
 ### 3.6 Periodic Trends in Chemical Properties
 
@@ -679,7 +694,7 @@ As we know, the elements of the same group show similar physical and chemical pr
 
 On moving diagonally across the periodic table, the second and third period elements show certain similarities. Even though the similarity is not same as we see in a group, it is quite pronounced in the following pair of elements.
 
-Li - Mg, Be - Al, B - Si
+![](imgline.png)
 
 The similarity in properties existing between the diagonally placed elements is called diagonal relationship.
 
