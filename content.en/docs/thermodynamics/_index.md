@@ -9,10 +9,10 @@ summary: "This unit explains the principles of thermodynamics and the energy cha
 
 # 7. Thermodynamics
 
-<center>Classical thermodynamics... is the only physical theory of universal physical theory of universal content which I am convinced... will never be overthrown.</center>
-
+Classical thermodynamics... is the only physical theory of universal physical theory of universal content which I am convinced... will never be overthrown.
 <center>Albert Einstein</center>
 
+![](Rudolf.png)
 <center>Rudolf Clausius (1822-1888)</center>
 
 ## 7.1 Introduction
@@ -33,6 +33,7 @@ Before studying the laws of thermodynamics and their applications, it is importa
 
 The universe is divided into two parts, the system and its surroundings. The system is the part of universe which is under thermodynamic consideration. It is separated from the rest of the universe by real or imaginary boundaries.
 
+![](img7.1.png)
 <center>Figure 7.1 System, surrounding & boundary Homogeneous and heterogeneous systems</center>
 
 **Example:** The system may be water in a beaker, a balloon filled with air, an aqueous solution of glucose etc.
@@ -55,6 +56,7 @@ Anything which separates the system from its surrounding is called boundary.
 
 There are three types of thermodynamic systems depending on the nature of the boundary.
 
+![](img7.2.png)
 <center>Figure 7.2 Types of Systems</center>
 
 ##### Isolated system
@@ -226,6 +228,7 @@ In this case, the work is done on the system \( (+w) \). It can be calculated as
 
 where dx is the distance moved by the piston during the compression and F is the force acting on the gas.
 
+![](img7.3.png)
 <center>Figure 7.3 showing work involved in compression processes</center>
 
 \[
@@ -270,6 +273,7 @@ In an expansion process, the external pressure is always less than the pressure 
 
 i.e. \( \mathrm{P_{ext} = (P_{int} - dP)} \).
 
+![](img7.4.png)
 <center>Figure 7.4</center>
 
 When pressure is not constant and changes in infinitesimally small steps (reversible conditions) during compression from \( \mathrm{V}_{\mathrm{i}} \) to \( \mathrm{V}_{\mathrm{f}} \), the P-V plot looks like in fig 7.4. Work done on the gas is represented by the shaded area.
@@ -316,6 +320,7 @@ If \( \mathrm{V}_{\mathrm{f}} < \mathrm{V}_{\mathrm{i}} \) (compression) the sig
 
 The zeroth law of thermodynamics, also known as the law of thermal equilibrium, was put forward much after the establishment of the first and second laws of thermodynamics. It is placed before the first and second laws as it provides a logical basis for the concept of temperature of the system.
 
+![](img7.5.png)
 <center>Figure 7.5 Zeroth law of thermodynamics</center>
 
 The law states that 'If two systems are separately in thermal equilibrium with a third one, then they tend to be in thermal equilibrium with themselves'.
@@ -898,6 +903,7 @@ Calorimeter is used for measuring the amount of heat change in a chemical or phy
 
 For chemical reactions, heat evolved at constant volume, is measured in a bomb calorimeter.
 
+![](img7.6.png)
 <center>Figure 7.6 Bomb calorimeter</center>
 
 A weighed amount of the substance is taken in a platinum cup connected with electrical wires for striking an arc instantly to kindle combustion. The bomb is then tightly closed and pressurized with excess oxygen. The bomb is immersed in water, in the inner volume of the calorimeter. A stirrer is placed in the space between the wall of the calorimeter and the bomb, so that water can be stirred, uniformly. The reaction is started by striking the substance through electrical heating.
@@ -955,6 +961,7 @@ q = \mathrm{m}_{\mathrm{w}} \mathrm{C}_{\mathrm{w}} \Delta \mathrm{T}
 
 where \( \mathrm{m}_{\mathrm{w}} \) is the mass of water and \( \mathrm{C}_{\mathrm{w}} \) is the specific heat capacity of water (4.184 J g\(^{-1}\) K\(^{-1}\))
 
+![](img7.7.png)
 <center>Figure 7.7 Coffee cup Calorimeter</center>
 
 **Problem 7.4**
@@ -1421,6 +1428,7 @@ The entropy (S) is equal to heat energy exchanged (q) divided by the temperature
 
 Careful examination shows that in each of the processes viz., melting of ice and evaporation of water, there is an increase in randomness or disorder of the system. The water molecules in ice are arranged in a highly organised crystal pattern which permits little movement. As the ice melts, the water molecules become disorganised and can move more freely. The movement of molecules becomes freer in the liquid phase and even more free in the vapour phase. In other words, we can say that the randomness of the water molecules increases, as ice melts into water or water evaporates. Both are spontaneous processes which result in an increase in randomness (entropy).
 
+![](img7.8.png)
 <center>Figure 7.8 Illustration showing an increase in disorder.</center>
 
 #### Standard Entropy Change \( (\Delta S^0) \)
@@ -1556,7 +1564,8 @@ One of the important applications of the second law of thermodynamics is to pred
 
 4. The expansion of a gas into an evacuated bulb is a spontaneous process, the reverse process that is gathering of all molecules into one bulb is not spontaneous.
 
-### Figure 7.9 Spontaneous process illustration
+![](img7.9.png)
+**Figure 7.9 Spontaneous process illustration**
 
 These examples show that the processes that occur spontaneously in one direction, cannot take place in opposite direction spontaneously.
 
@@ -1834,6 +1843,7 @@ Thus the third law of thermodynamics states that the entropy of pure crystalline
 
 \( \lim_{T \to 0} S = 0 \) for a perfectly ordered crystalline state.
 
+![](img7.10.png)
 <center>Figure 7.10 Third law of Thermodynamics</center>
 
 Crystals with defects (imperfection) at absolute zero, have entropy greater than zero. Absolute entropy of a substance can never be negative.
