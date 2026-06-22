@@ -195,9 +195,13 @@ Work is defined as the force (F) multiplied by the displacement \( (x) \).
 The negative sign \( (-) \) is introduced to indicate that the work has been done by the system by spending a part of its internal energy.
 
 The work,
+
 (i) is a path function.
+
 (ii) appears only at the boundary of the system.
+
 (iii) appears during the change in the state of the system.
+
 (iv) In thermodynamics, surroundings is so large that macroscopic changes to surroundings do not happen.
 
 **Units of work:** The SI unit of work is joule (J), which is defined as the work done by a force of one Newton through a displacement of one meter (\( J = \mathrm{Nm} \)). We often use kilojoule (\( kJ \)) for large quantities of work. \( 1 \mathrm{kJ} = 1000 \mathrm{J} \).
@@ -346,9 +350,13 @@ Where \( \mathrm{q} \) - the amount of heat supplied to the system; w - work don
 **Other statements of first law of thermodynamics**
 
 (1) Whenever an energy of a particular type disappears, an equivalent amount of another type must be produced.
+
 (2) The total energy of a system and surrounding remains constant (or conserved)
+
 (3) "Energy can neither be created nor destroyed, but may be converted from one form to another".
+
 (4) "The change in the internal energy of a closed system is equal to the energy that passes through its boundary as heat or work".
+
 (5) "Heat and work are two ways of changing a system's internal energy".
 
 #### 7.4.1 Mathematical statement of the first law
@@ -600,10 +608,15 @@ The standard heats of formation of some compounds are given in Table 7.4.
 A thermochemical equation is a balanced stoichiometric chemical equation that includes the enthalpy change \( (\Delta \mathrm{H}) \). The following conventions are adopted in thermochemical equations:
 
 (i) The coefficients in a balanced thermochemical equation refer to number of moles of reactants and products involved in the reaction.
+
 (ii) The enthalpy change of the reaction \( \Delta \mathrm{H}_{\mathrm{r}} \) has to be specified with appropriate sign and unit.
+
 (iii) When the chemical reaction is reversed, the value of \( \Delta \mathrm{H} \) is reversed in sign with the same magnitude.
+
 (iv) The physical states (gas, liquid, aqueous, solid in brackets) of all species are important and must be specified in a thermochemical reaction, since \( \Delta \mathrm{H} \) depends on the physical state of reactants and products.
+
 (v) If the thermochemical equation is multiplied throughout by a number, the enthalpy change is also multiplied by the same number.
+
 (vi) The negative sign of \( \Delta \mathrm{H}_{\mathrm{r}} \) indicates that the reaction is exothermic and the positive sign of \( \Delta \mathrm{H}_{\mathrm{r}} \) indicates an endothermic reaction.
 
 For example, consider the following reaction,
@@ -1184,6 +1197,7 @@ This generalisation is known as Hess's law and stated as:
 
 The enthalpy change of a reaction either at constant volume or constant pressure is the same whether it takes place in a single or multiple steps provided the initial and final states are same.
 
+![](image.png)
 \[
 \Delta \mathrm{H}_{\mathrm{r}} = \Delta \mathrm{H}_{1} + \Delta \mathrm{H}_{2} + \Delta \mathrm{H}_{3}
 \]
@@ -1194,6 +1208,9 @@ However, enthalpy for the oxidation of graphite to \( \mathrm{CO}_{2} \) and \( 
 
 From these data the enthalpy of combustion of graphite to \( \mathrm{CO} \) can be calculated by applying Hess's law.
 
+The reactions involved in this process can
+be expressed as follows 
+![](image-1.png)
 According to Hess law,
 
 \[
@@ -1225,6 +1242,7 @@ The Born-Haber cycle is an approach to analyse reaction energies. It was named a
 
 Born-Haber cycle is primarily used in calculating lattice energy, which cannot be measured directly. The Born-Haber cycle applies Hess's law to calculate the lattice enthalpy. For example consider the formation of a simple ionic solid such as an alkali metal halide \( \mathrm{MX} \), the following steps are considered.
 
+![](image-2.png)
 \( \Delta H_{1} \) - enthalpy change for the sublimation \( \mathrm{M(s)} \) to \( \mathrm{M(g)} \)
 
 \( \Delta H_{2} \) - enthalpy change \( \frac{1}{2} \mathrm{X}_{2}(g) \) to \( \mathrm{X}(g) \) for the dissociation
@@ -1249,9 +1267,7 @@ Since the reaction is carried out with reactants in elemental forms and products
 
 Let us calculate the lattice energy of sodium chloride using Born-Haber cycle
 
-\[
-\mathrm{Na(s) + \frac{1}{2}Cl_2 \rightarrow NaCl(s)}
-\]
+![](image-3.png)
 
 \( \Delta \mathrm{H}_{\mathrm{f}} = \) heat of formation of sodium chloride \( = -411.3 \ \mathrm{kJ \ mol^{-1}} \)
 
@@ -1925,279 +1941,3 @@ Standard free energy change and equilibrium constants are related by the equatio
 ### Third law
 
 The entropy of a perfectly crystalline material at absolute zero is zero.
-
-## Evaluate Yourself
-
-1. The amount of heat exchanged with the surrounding at constant pressure is given by the quantity
-   a) \( \Delta \mathrm{E} \)
-   b) \( \Delta \mathrm{H} \)
-   c) \( \Delta \mathrm{S} \)
-   d) \( \Delta \mathrm{G} \)
-
-2. All the naturally occurring processes proceed spontaneously in a direction which leads to
-   a) decrease in entropy
-   b) increase in enthalpy
-   c) increase in free energy
-   d) decrease in free energy
-
-3. In an adiabatic process, which of the following is true?
-   a) \( \mathrm{q} = \mathrm{w} \)
-   b) \( \mathrm{q} = 0 \)
-   c) \( \Delta \mathrm{E} = \mathrm{q} \)
-   d) \( \mathrm{P} \Delta \mathrm{V} = 0 \)
-
-4. In a reversible process, the change in entropy of the universe is
-   a) \( > 0 \)
-   b) \( \geq 0 \)
-   c) \( < 0 \)
-   d) \( = 0 \)
-
-5. In an adiabatic expansion of an ideal gas
-   a) \( \mathrm{w} = -\Delta \mathrm{u} \)
-   b) \( \mathrm{w} = \Delta \mathrm{u} + \Delta \mathrm{H} \)
-   c) \( \Delta \mathrm{u} = 0 \)
-   d) \( \mathrm{w} = 0 \)
-
-6. The intensive property among the quantities below is
-   a) mass
-   b) volume
-   c) enthalpy
-   d) \( \frac{\text{mass}}{\text{volume}} \)
-
-7. An ideal gas expands from the volume of \( 1 \times 10^{-3} \ \mathrm{m}^{3} \) to \( 1 \times 10^{-2} \ \mathrm{m}^{3} \) at \( 300 \ \mathrm{K} \) against a constant pressure at \( 1 \times 10^{5} \ \mathrm{N \ m}^{-2} \). The work done is
-   a) \( -900 \ \mathrm{J} \)
-   b) \( 900 \ \mathrm{kJ} \)
-   c) \( 270 \ \mathrm{kJ} \)
-   d) \( -900 \ \mathrm{kJ} \)
-
-8. Heat of combustion is always
-   a) positive
-   b) negative
-   c) zero
-   d) either positive or negative
-
-9. The heat of formation of CO and \( \mathrm{CO}_{2} \) are \( -26.4 \ \mathrm{kCal} \) and \( -94 \ \mathrm{kCal} \), respectively. Heat of combustion of carbon monoxide will be
-   a) \( +26.4 \ \mathrm{kcal} \)
-   b) \( -67.6 \ \mathrm{kcal} \)
-   c) \( -120.6 \ \mathrm{kcal} \)
-   d) \( +52.8 \ \mathrm{kcal} \)
-
-10. \( \mathrm{C(diamond) \rightarrow C(graphite)} \), \( \Delta H = -\text{ve} \), this indicates that
-    a) graphite is more stable than diamond
-    b) graphite has more energy than diamond
-    c) both are equally stable
-    d) stability cannot be predicted
-
-11. The enthalpies of formation of \( \mathrm{Al}_2\mathrm{O}_3 \) and \( \mathrm{Cr}_2\mathrm{O}_3 \) are -1596 kJ and -1134 kJ, respectively. \( \Delta H \) for the reaction \( 2\mathrm{Al} + \mathrm{Cr}_2\mathrm{O}_3 \rightarrow 2\mathrm{Cr} + \mathrm{Al}_2\mathrm{O}_3 \) is
-    a) -1365 kJ
-    b) 2730 kJ
-    c) -2730 kJ
-    d) -462 kJ
-
-12. Which of the following is not a thermodynamic function?
-    a) internal energy
-    b) enthalpy
-    c) entropy
-    d) frictional energy
-
-13. If one mole of ammonia and one mole of hydrogen chloride are mixed in a closed container to form ammonium chloride gas, then
-    a) \( \Delta H > \Delta U \)
-    b) \( \Delta H - \Delta U = 0 \)
-    c) \( \Delta H + \Delta U = 0 \)
-    d) \( \Delta H < \Delta U \)
-
-14. Change in internal energy, when 4 kJ of work is done on the system and 1 kJ of heat is given out by the system is
-    a) +1 kJ
-    b) -5 kJ
-    c) +3 kJ
-    d) -3 kJ
-
-15. The work done by the liberated gas when 55.85 g of iron (molar mass 55.85 g mol\(^{-1}\)) reacts with hydrochloric acid in an open beaker at 25°C
-    a) -2.48 kJ
-    b) -2.22 kJ
-    c) +2.22 kJ
-    d) +2.48 kJ
-
-16. The value of \( \Delta H \) for cooling 2 moles of an ideal monatomic gas from 125°C to 25°C at constant pressure will be given \( C_P = \frac{5}{2} R \)
-    a) -250 R
-    b) -500 R
-    c) 500 R
-    d) +250 R
-
-17. Given that \( \mathrm{C(g) + O_2(g) \rightarrow CO_2(g)} \ \Delta H^0 = -a \ \mathrm{kJ} \); \( 2\mathrm{CO(g) + O_2(g) \rightarrow 2CO_2(g)} \ \Delta H^0 = -b \ \mathrm{kJ} \); Calculate the \( \Delta H^0 \) for the reaction \( \mathrm{C(g) + \frac{1}{2}O_2(g) \rightarrow CO(g)} \)
-    a) \( \frac{a}{2} - b \)
-    b) \( 2a - b \)
-    c) \( \frac{b - 2a}{2} \)
-    d) \( a - 2b \)
-
-18. When 15.68 litres of a gas mixture of methane and propane are fully combusted at \( 0^{\circ}\mathrm{C} \) and 1 atmosphere, 32 litres of oxygen at the same temperature and pressure are consumed. The amount of heat released from this combustion in kJ is \( (\Delta H_{\mathrm{C}}(\mathrm{CH}_{4}) = -890 \ \mathrm{kJ \ mol^{-1}} \) and \( \Delta H_{\mathrm{C}}(\mathrm{C}_{3}\mathrm{H}_{8}) = -2220 \ \mathrm{kJ \ mol^{-1}} \)
-    a) -889 kJ
-    b) -1390 kJ
-    c) -3180 kJ
-    d) -632.68 kJ
-
-19. The bond dissociation energy of methane and ethane are \( 360 \ \mathrm{kJ \ mol^{-1}} \) and \( 620 \ \mathrm{kJ \ mol^{-1}} \) respectively. Then, the bond dissociation energy of C-C bond is
-    a) \( 170 \ \mathrm{kJ \ mol^{-1}} \)
-    b) \( 50 \ \mathrm{kJ \ mol^{-1}} \)
-    c) \( 80 \ \mathrm{kJ \ mol^{-1}} \)
-    d) \( 220 \ \mathrm{kJ \ mol^{-1}} \)
-
-20. The correct thermodynamic conditions for the spontaneous reaction at all temperature is (NEET Phase - I)
-    a) \( \Delta H < 0 \) and \( \Delta S > 0 \)
-    b) \( \Delta H < 0 \) and \( \Delta S < 0 \)
-    c) \( \Delta H > 0 \) and \( \Delta S = 0 \)
-    d) \( \Delta H > 0 \) and \( \Delta S > 0 \)
-
-21. The temperature of the system, decreases in an
-    a) Isothermal expansion
-    b) Isothermal Compression
-    c) adiabatic expansion
-    d) adiabatic compression
-
-22. In an isothermal reversible compression of an ideal gas the sign of q, \( \Delta S \) and w are respectively
-    a) \( +, -, - \)
-    b) \( -, +, - \)
-    c) \( +, -, + \)
-    d) \( -, -, + \)
-
-23. Molar heat of vapourisation of a liquid is \( 4.8 \ \mathrm{kJ \ mol^{-1}} \). If the entropy change is \( 16 \ \mathrm{J \ mol^{-1} \ K^{-1}} \), the boiling point of the liquid is
-    a) \( 323 \ \mathrm{K} \)
-    b) \( 27^{\circ} \mathrm{C} \)
-    c) \( 164 \ \mathrm{K} \)
-    d) \( 0.3 \ \mathrm{K} \)
-
-24. \( \Delta S \) is expected to be maximum for the reaction
-
-25. The values of \( \Delta \mathrm{H} \) and \( \Delta \mathrm{S} \) for a reaction are respectively \( 30 \ \mathrm{kJ \ mol^{-1}} \) and \( 100 \ \mathrm{J \ K^{-1} \ mol^{-1}} \). Then the temperature above which the reaction will become spontaneous is
-    a) \( 30 \ \mathrm{K} \)
-    b) \( 300 \ \mathrm{K} \)
-    c) \( 300^{\circ} \mathrm{C} \)
-    d) \( 20^{\circ} \mathrm{C} \)
-
-### I. Write brief answer to the following questions
-
-26. State the first law of thermodynamics.
-
-27. Define Hess's law of constant heat summation.
-
-28. Explain intensive properties with two equivalent states.
-
-29. Define the following terms:
-    a) adiabatic process
-    b) isobaric process
-    c) isochoric process
-
-30. What is the usual definition of entropy? What is the unit of entropy?
-
-31. Predict the feasibility of a reaction when
-    i) both \( \Delta \mathrm{H} \) and \( \Delta \mathrm{S} \) negative
-    ii) \( \Delta \mathrm{H} \) decreases but \( \Delta \mathrm{S} \) increases
-
-32. Define enthalpy of neutralization.
-
-33. Define molar heat capacity.
-
-34. Define the calorific value of food.
-
-35. What is lattice energy?
-
-36. What are state and path functions? Give two examples.
-
-37. Give Kelvin statement of second law of thermodynamics.
-
-38. State the third law of thermodynamics.
-
-39. Write down the Born-Haber cycle for the formation of \( \mathrm{CaCl}_{2} \)
-
-40. Identify the state and path functions out of the following: a) Enthalpy b) Entropy c) Heat d) Temperature e) Work f) Free energy.
-
-41. State the various statements of second law of thermodynamics.
-
-42. What are spontaneous reactions? What are the conditions for the spontaneity of a process?
-
-43. List the characteristics of internal energy.
-
-44. Explain how heat absorbed at constant volume is measured using bomb calorimeter with a neat diagram.
-
-45. Calculate the work involved in expansion and compression process.
-
-46. Derive the relation between \( \Delta \mathrm{H} \) and \( \Delta \mathrm{U} \) for an ideal gas. Explain each term involved in the equation.
-
-47. Suggest and explain an indirect method to calculate lattice enthalpy of sodium chloride crystal.
-
-48. List the characteristics of Gibbs free energy.
-
-49. Calculate the work done when 2 moles of an ideal gas expands reversibly and isothermally from a volume of \( 500 \ \mathrm{ml} \) to a volume of \( 2 \ \mathrm{L} \) at \( 25^{\circ} \mathrm{C} \) and normal pressure.
-
-50. In a constant volume calorimeter, \( 3.5 \ \mathrm{g} \) of a gas with molecular weight 28 was burnt in excess oxygen at \( 298 \ \mathrm{K} \). The temperature of the calorimeter was found to increase from \( 298 \ \mathrm{K} \) to \( 298.45 \ \mathrm{K} \) due to the combustion process. Given that the calorimeter constant is \( 2.5 \ \mathrm{kJ \ K^{-1}} \). Calculate the enthalpy of combustion of the gas in \( \mathrm{kJ \ mol^{-1}} \).
-
-51. Calculate the entropy change in the system, and surroundings, and the total entropy change in the universe during a process in which \( 245 \ \mathrm{J} \) of heat flow out of the system at \( 77^{\circ} \mathrm{C} \) to the surrounding at \( 33^{\circ} \mathrm{C} \).
-
-52. 1 mole of an ideal gas, maintained at \( 4.1 \ \mathrm{atm} \) and at a certain temperature, absorbs heat \( 3710 \ \mathrm{J} \) and expands to 2 litres. Calculate the entropy change in expansion process.
-
-53. \( 30.4 \ \mathrm{kJ} \) is required to melt one mole of sodium chloride. The entropy change during melting is 28.4 \( \mathrm{J \ K^{-1} \ mol^{-1}} \). Calculate the melting point of sodium chloride.
-
-54. Calculate the standard heat of formation of propane, if its heat of combustion is \( -2220.2 \ \mathrm{kJ \ mol^{-1}} \). the heats of formation of \( \mathrm{CO}_{2}(g) \) and \( \mathrm{H}_{2}\mathrm{O}(l) \) are \( -393.5 \) and \( -285.8 \ \mathrm{kJ \ mol^{-1}} \) respectively.
-
-55. You are given normal boiling points and standard enthalpies of vapourisation. Calculate the entropy of vapourisation of liquids listed below.
-
-| S. No | Liquid | Boiling points (°C) | \( \Delta H \) (kJ mol\(^{-1}\)) |
-|---|---|---|---|
-| 1. | Ethanol | 78.4 | +42.4 |
-| 2. | Toluene | 110.6 | +35.2 |
-
-56. For the reaction \( \mathrm{Ag}_2\mathrm{O(s) \rightarrow 2Ag(s) + \frac{1}{2}O_2(g)} \): \( \Delta \mathrm{H} = 30.56 \ \mathrm{kJ \ mol^{-1}} \) and \( \Delta \mathrm{S} = 6.66 \ \mathrm{J \ K^{-1} \ mol^{-1}} \) (at 1 atm). Calculate the temperature at which \( \Delta \mathrm{G} \) is equal to zero. Also predict the direction of the reaction (i) at this temperature and (ii) below this temperature.
-
-57. What is the equilibrium constant \( K_{eq} \) for the following reaction at 400K.
-    \[
-    2\mathrm{NOCl(g) \rightleftharpoons 2NO(g) + Cl_2(g)},
-    \]
-    given that \( \Delta \mathrm{H}^0 = 77.2 \ \mathrm{kJ \ mol^{-1}} \); and \( \Delta \mathrm{S}^0 = 122 \ \mathrm{J \ K^{-1} \ mol^{-1}} \).
-
-58. Cyanamide \( (\mathrm{NH}_2\mathrm{CN}) \) is completely burnt in excess oxygen in a bomb calorimeter, \( \Delta \mathrm{U} \) was found to be \( -742.4 \ \mathrm{kJ \ mol^{-1}} \), calculate the enthalpy change of the reaction at \( 298 \ \mathrm{K} \)
-    \[
-    \mathrm{NH}_2\mathrm{CN(s) + \frac{3}{2} O_2(g) \rightarrow N_2(g) + CO_2(g) + H_2O(l)} \quad \Delta \mathrm{H} = ?
-    \]
-
-59. Calculate the enthalpy of hydrogenation of ethylene from the following data. Bond energies of \( \mathrm{C - H} \), \( \mathrm{C - C} \), \( \mathrm{C = C} \) and \( \mathrm{H - H} \) are 414, 347, 618 and \( 435 \ \mathrm{kJ \ mol^{-1}} \).
-
-60. Calculate the lattice energy of \( \mathrm{CaCl}_2 \) from the given data
-    \[
-    \mathrm{Ca(s) + Cl_2(g) \rightarrow CaCl_2(s)} \quad \Delta H_1^0 = -795 \ \mathrm{kJ \ mol^{-1}}
-    \]
-    Sublimation: \( \mathrm{Ca(s) \rightarrow Ca(g)} \)
-    Ionisation: \( \mathrm{Ca(g) \rightarrow Ca^{2+}(g) + 2e^{-}} \)
-    Dissociation: \( \mathrm{Cl_2(g) \rightarrow 2Cl(g)} \)
-    Electron affinity: \( \mathrm{Cl(g) + e^{-} \rightarrow Cl^{-}(g)} \)
-
-61. Calculate the enthalpy change for the reaction \( \mathrm{Fe}_2\mathrm{O}_3 + 3\mathrm{CO} \rightarrow 2\mathrm{Fe} + 3\mathrm{CO}_2 \) from the following data.
-    \[
-    2\mathrm{Fe} + \frac{3}{2}\mathrm{O}_2 \rightarrow \mathrm{Fe}_2\mathrm{O}_3; \quad \Delta \mathrm{H} = -741 \ \mathrm{kJ}
-    \]
-    \[
-    \mathrm{C} + \frac{1}{2}\mathrm{O}_2 \rightarrow \mathrm{CO}; \quad \Delta \mathrm{H} = -137 \ \mathrm{kJ}
-    \]
-    \[
-    \mathrm{C} + \mathrm{O}_2 \rightarrow \mathrm{CO}_2; \quad \Delta \mathrm{H} = -394.5 \ \mathrm{kJ}
-    \]
-
-62. When 1-pentyne (A) is treated with 4N alcoholic KOH at \( 175^{\circ}C \), it is converted slowly into an equilibrium mixture of \( 1.3\% \) 1-pentyne(A), \( 95.2\% \) 2-pentyne(B) and \( 3.5\% \) of 1,2 pentadiene (C) the equilibrium was maintained at \( 175^{\circ}C \), calculate \( \Delta G^{0} \) for the following equilibria.
-    \[
-    \mathrm{B \rightleftharpoons A} \qquad \Delta G_1^0 = ?
-    \]
-    \[
-    \mathrm{B \rightleftharpoons C} \qquad \Delta G_2^0 = ?
-    \]
-
-63. At \( 33 \ \mathrm{K} \), \( \mathrm{N}_2\mathrm{O}_4 \) is fifty percent dissociated. Calculate the standard free energy change at this temperature and at one atmosphere.
-
-64. The standard enthalpies of formation of \( \mathrm{SO}_2 \) and \( \mathrm{SO}_3 \) are \( -297 \ \mathrm{kJ \ mol^{-1}} \) and \( -396 \ \mathrm{kJ \ mol^{-1}} \) respectively. Calculate the standard enthalpy of reaction for the reaction: \( \mathrm{SO}_2 + \frac{1}{2}\mathrm{O}_2 \rightleftharpoons \mathrm{SO}_3 \)
-
-65. For the reaction at \( 298 \ \mathrm{K} \): \( 2\mathrm{A} + \mathrm{B} \rightleftharpoons \mathrm{C} \)
-    \( \Delta \mathrm{H} = 400 \ \mathrm{KJ \ mol^{-1}} \), \( \Delta \mathrm{S} = 0.2 \ \mathrm{KJ \ K^{-1} \ mol^{-1}} \). Determine the temperature at which the reaction would be spontaneous.
-
-66. Find out the value of equilibrium constant for the following reaction at \( 298 \ \mathrm{K} \)
-    \( 2\mathrm{NH}_3(g) + \mathrm{CO}_2(g) \rightleftharpoons \mathrm{NH}_2\mathrm{CONH}_2(aq) + \mathrm{H}_2\mathrm{O}(l) \)
-    Standard Gibbs energy change, \( \Delta G_{r}^{0} \) at the given temperature is \( -13.6 \ \mathrm{kJ \ mol^{-1}} \)
-
-67. A gas mixture of 3.67 lit of ethylene and methane on complete combustion at \( 25^{\circ}C \) and at 1 atm pressure produce 6.11 lit of carbon dioxide. Find out the amount of heat evolved in kJ, during this combustion. \( (\Delta \mathrm{H}_{\mathrm{C}}(\mathrm{CH}_4) = -890 \ \mathrm{kJ \ mol^{-1}} \) and \( (\Delta \mathrm{H}_{\mathrm{C}}(\mathrm{C}_2\mathrm{H}_4) = -1423 \ \mathrm{kJ \ mol^{-1}}) \)

@@ -267,8 +267,6 @@ $$
 
 <center>{{< figure src="4.3.png" width="200" >}}</center>
 
-<center><strong>Figure 4.3: Application of rocket fuel</strong></center>
-
 ---
 
 ## 4.5 Compounds of Hydrogen
@@ -279,7 +277,11 @@ Water is one of the most abundant compounds of hydrogen and our earth's surface 
 
 <center>{{< figure src="water.png" width="200" >}}</center>
 
+**Do You Know**
+
 Water exists in the interstellar clouds and icy satellites of the solar system. In particular, the ortho- to- para ratio (OPR) of water in space has recently received attention. Like hydrogen, water can also be classified into ortho- \( \mathrm{H_2O} \) in which the spin directions of the nuclei of the hydrogen atoms are parallel, and para- \( \mathrm{H_2O} \) in which the directions are antiparallel. OPR of \( \mathrm{H_2} \) (300 K) on earth should be 3:1. OPR of \( \mathrm{H_2O} \) (50 K) in interstellar clouds and comets should be 2.5:1.
+
+![](image.png)
 
 ### 4.5.2 Physical Properties
 
@@ -372,8 +374,6 @@ Examples:
 
 <center>{{< figure src="4.4.png" width="200" >}}</center>
 
-<center><strong>Figure 4.4 Structure of copper sulphate pentahydrate</strong></center>
-
 ### 4.5.4 Hard and Soft Water
 
 Hard water contains high amounts of mineral ions. The most common ions found in hard water are the soluble metal cations such as magnesium and calcium, though iron, aluminium, and manganese may also be found in certain areas. Presence of these metal salts in the form of bicarbonate, chloride and sulphate in water makes water ‘hard’. When hard water is boiled carbonates of magnesium and calcium present in it gets precipitated. On the other hand, water free from soluble salts of calcium and magnesium is called soft water. The hardness of water is of two types, viz., temporary hardness and permanent hardness.
@@ -437,6 +437,8 @@ $$
 Heavy water \( \mathrm{D_2O} \) is the oxide of heavy hydrogen. One part of heavy water is present in 5000 parts of ordinary water. It is mainly obtained as the product of electrolysis of water, as \( \mathrm{D_2O} \) does not undergo electrolysis as easily as \( \mathrm{H_2O} \).
 
 \( \mathrm{D_2O} \) is a colorless, odorless and tasteless liquid. However, there is a marked difference between physical properties of water and heavy water as shown in Table 4.2.
+
+![](image-1.png)
 
 ### 4.6.1 Chemical Properties of Heavy Water
 
@@ -560,8 +562,6 @@ Both in gas-phase and solid-phase, the molecule adopts a skew conformation due t
 
 <center>{{< figure src="4.5.png" width="200" >}}</center>
 
-<center><strong>Figure 4.5 Structure of \( \mathrm{H_2O_2} \)</strong></center>
-
 \( \mathrm{H_2O_2} \) has a non-planar structure. The molecular dimensions in the gas phase and solid phase differ as shown in figure 4.5. Structurally, \( \mathrm{H_2O_2} \) is represented by the dihydroxyl formula in which the two OH groups do not lie in the same plane. One way of explaining the shape of hydrogen peroxide is that the hydrogen atoms would lie on the pages of a partly opened book, and the oxygen atoms along the spine. In the solid phase of molecule, the dihedral angle reduces to \( 90.2^\circ \) due to hydrogen bonding and the O-O-H angle expands from \( 94.8^\circ \) to \( 101.9^\circ \).
 
 ---
@@ -594,8 +594,6 @@ Intramolecular hydrogen bonds are those which occur within a single molecule.
 
 <center>{{< figure src="4.6.png" width="200" >}}</center>
 
-<center><strong>Figure 4.6 Intramolecular hydrogen bonding</strong></center>
-
 ### Intermolecular Hydrogen Bond
 
 Intermolecular hydrogen bonds occur between two separate molecules. They can occur between any numbers of like or unlike molecules as long as hydrogen donors and acceptors are present in positions which enable the hydrogen bonding interactions. For example, intermolecular hydrogen bonds can occur between ammonia molecule themselves or between water molecules themselves or between ammonia and water.
@@ -606,17 +604,11 @@ In ice, each atom is surrounded tetrahedrally by four water molecules through hy
 
 <center>{{< figure src="4.7(a).png" width="200" >}}</center>
 
-<center><strong>Figure 4.7 (a) Structure of Ice</strong></center>
-
 <center>{{< figure src="4.7(b).png" width="200" >}}</center>
-
-<center><strong>Figure 4.7 (b) Hydrogen bonding in water</strong></center>
 
 Hydrogen bond occurs not only in simple molecules but also in complex biomolecules such as proteins, and they are crucial for biological processes. For example, hydrogen bonds play an important role in the structure of deoxyribonucleic acid (DNA), since they hold together the two helical nucleic acid chains (strands).
 
 <center>{{< figure src="4.8.png" width="200" >}}</center>
-
-<center><strong>Figure 4.8 Hydrogen bonding in DNA molecules</strong></center>
 
 ---
 
@@ -656,9 +648,11 @@ Hydrogen bond occurs not only in simple molecules but also in complex biomolecul
 
 ---
 
+**Do You Know**
+
 ## Metal Hydride (Hydrogen Sponge)
 
-<center>{{< figure src="DYK(1).png" width="200" >}}</center>
+<center>{{< figure src="DYK(2).png" width="200" >}}</center>
 
 The best studied binary hydrides are the palladium-hydrogen system. Hydrogen interacts with palladium in a unique way, and forms a limiting monohydride, PdH. Upon heating, H atoms diffuse through the metal to the surface and recombine to form molecular hydrogen. Since no other gas behaves this way with palladium, this process has been used to separate hydrogen gas from other gases:
 
@@ -674,7 +668,7 @@ Technically, the formation of metal hydride is by chemical reaction but it behav
 
 ## The Hydrogen - Future Fuel
 
-<center>{{< figure src="DYK(2).png" width="200" >}}</center>
+<center>{{< figure src="DYK(3).png" width="200" >}}</center>
 
 The depletion of fossil fuel reserves and the threat of global warming make the world to shift toward alternative fuels. In this regard, hydrogen is often considered as a potential candidate for this purpose as it is a clean burning fuel as it does not produce any pollutants upon burning. Hence, hydrogen can directly be used as a fuel and can replace existing gasoline (petrol)/diesel/kerosene powered engines, and/or indirectly be used with oxygen in fuel cells to generate electricity. However, there are some difficulties needs to be overcome. The production cost is high and also uses more fossil fuels. Due to its volatile and flammable nature in its native form, it is difficult to store and transport. Being the smallest molecule it is prone to leakage.
 
@@ -691,197 +685,3 @@ Hydrogen reacts with nonmetals like oxygen and halogens to form water and hydrog
 Water is an important amphoteric oxide of hydrogen and used a universal solvent. It hydrolyses oxides and forms metal hydroxides with metals such as sodium and barium. Due to the presence of soluble salts of calcium and magnesium in water, the water shows hardness. Clark's method can be used to remove temporary hardness. Like water, another important oxide is hydrogen peroxide. It is used as a mild antiseptic and as a bleaching agent in textile and paper industries. Hydrogen bound to strong electronegative atoms such as fluorine, nitrogen or oxygen atoms, forms a peculiar type of electrostatic interactions with another strong electronegative atom. This is called hydrogen bond. This is one of important interactions observed in many biological molecules such as proteins, DNA etc.
 
 ---
-
-## Questions
-
-### I. Choose the correct answer
-
-1. Which of the following statements about hydrogen is incorrect? (NEET - 2016)
-   a) Hydrogen ion, \( \mathrm{H_3O^+} \) exists freely in solution.
-   b) Dihydrogen acts as a reducing agent.
-   c) Hydrogen has three isotopes of which tritium is the most common.
-   d) Hydrogen never acts as cation in ionic salts.
-
-2. Water gas is
-   a) \( \mathrm{H_2O(g)} \)
-   b) \( \mathrm{CO} + \mathrm{H_2O} \)
-   c) \( \mathrm{CO} + \mathrm{H_2} \)
-   d) \( \mathrm{CO} + \mathrm{N_2} \)
-
-3. Which one of the following statements is incorrect with regard to ortho and para dihydrogen?
-   a) They are nuclear spin isomers
-   b) Ortho isomer has zero nuclear spin whereas the para isomer has one nuclear spin
-   c) The para isomer is favoured at low temperatures
-   d) The thermal conductivity of the para isomer is 50% greater than that of the ortho isomer
-
-4. Ionic hydrides are formed by
-   a) halogens
-   b) chalcogens
-   c) inert gases
-   d) group one elements
-
-5. Tritium nucleus contains
-   a) \( 1p + 0n \)
-   b) \( 2p + 1n \)
-   c) \( 1p + 2n \)
-   d) none of these
-
-6. Non-stoichiometric hydrides are formed by
-   a) palladium, vanadium
-   b) carbon, nickel
-   c) manganese, lithium
-   d) nitrogen, chlorine
-
-7. Assertion: Permanent hardness of water is removed by treatment with washing soda.
-   Reason: Washing soda reacts with soluble calcium and magnesium chlorides and sulphates in hard water to form insoluble carbonates.
-   a) Both assertion and reason are true and reason is the correct explanation of assertion.
-   b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-   c) Assertion is true but reason is false
-   d) Both assertion and reason are false
-
-8. If a body of a fish contains 1.2 g hydrogen in its total body mass, if all the hydrogen is replaced with deuterium then the increase in body weight of the fish will be
-   a) 1.2 g
-   b) 2.4 g
-   c) 3.6 g
-   d) 4.8 g
-
-9. The hardness of water can be determined by volumetrically using the reagent
-   a) sodium thiosulphate
-   b) potassium permanganate
-   c) hydrogen peroxide
-   d) EDTA
-
-10. The cause of permanent hardness of water is due to
-    a) \( \mathrm{Ca(HCO_3)_2} \)
-    b) \( \mathrm{Mg(HCO_3)_2} \)
-    c) \( \mathrm{CaCl_2} \)
-    d) \( \mathrm{MgCO_3} \)
-
-11. Zeolite used to soften hardness of water is hydrated
-    a) Sodium aluminium silicate
-    b) Calcium aluminium silicate
-    c) Zinc aluminium borate
-    d) Lithium aluminium hydride
-
-12. A commercial sample of hydrogen peroxide marked as 100 volume \( \mathrm{H_2O_2} \), it means that
-    a) 1 ml of \( \mathrm{H_2O_2} \) will give 100 ml \( \mathrm{O_2} \) at STP
-    b) 1 L of \( \mathrm{H_2O_2} \) will give 100 ml \( \mathrm{O_2} \) at STP
-    c) 1 L of \( \mathrm{H_2O_2} \) will give 22.4 L \( \mathrm{O_2} \)
-    d) 1 ml of \( \mathrm{H_2O_2} \) will give 1 mole of \( \mathrm{O_2} \) at STP
-
-13. When hydrogen peroxide is shaken with an acidified solution of potassium dichromate in presence of ether, the ethereal layer turns blue due to the formation of
-    a) \( \mathrm{Cr_2O_3} \)
-    b) \( \mathrm{CrO_4^{2-}} \)
-    c) \( \mathrm{CrO(O_2)_2} \)
-    d) none of these
-
-14. For decolourisation of 1 mole of acidified \( \mathrm{KMnO_4} \), the moles of \( \mathrm{H_2O_2} \) required is
-    a) \( \frac{1}{2} \)
-    b) \( \frac{3}{2} \)
-    c) \( \frac{5}{2} \)
-    d) \( \frac{7}{2} \)
-
-15. Volume strength of \( 1.5 \ \mathrm{N} \ \mathrm{H_2O_2} \) is
-    a) 1.5
-    b) 4.5
-    c) 16.8
-    d) 8.4
-
-16. The hybridisation of oxygen atom in \( \mathrm{H_2O} \) and \( \mathrm{H_2O_2} \) are, respectively
-    a) \( sp^2 \) and \( sp^3 \)
-    b) \( sp^3 \) and \( sp^3 \)
-    c) \( sp^3 \) and \( sp^2 \)
-    d) \( sp^2 \) and \( sp^2 \)
-
-17. The reaction \( \mathrm{H_3PO_2 + D_2O \rightarrow H_2DPO_2 + HDO} \) indicates that hypophosphorus acid is
-    a) tribasic acid
-    b) dibasic acid
-    c) monobasic acid
-    d) none of these
-
-18. In solid ice, oxygen atom is surrounded
-    a) tetrahedrally by 4 hydrogen atoms
-    b) octahedrally by 2 oxygen and 4 hydrogen atoms
-    c) tetrahedrally by 2 hydrogen and 2 oxygen atoms
-    d) octahedrally by 6 hydrogen atoms
-
-19. The type of H-bonding present in ortho nitrophenol and p-nitrophenol are respectively
-    a) intermolecular H-bonding and intramolecular H-bonding
-    b) intramolecular H-bonding and intermolecular H-bonding
-    c) intramolecular H-bonding and no H-bonding
-    d) intramolecular H-bonding and intramolecular H-bonding
-
-20. Heavy water is used as
-    a) moderator in nuclear reactions
-    b) coolant in nuclear reactions
-    c) both (a) and (b)
-    d) none of these
-
-21. Water is a
-    a) basic oxide
-    b) acidic oxide
-    c) amphoteric oxide
-    d) none of these
-
----
-
-### II. Write brief answer to the following questions
-
-22. Explain why hydrogen is not placed with the halogen in the periodic table.
-
-23. Discuss the three types of Covalent hydrides.
-
-24. Predict which of the following hydrides is a gas or a solid (a) HCl (b) NaH. Give your reason.
-
-25. Write the expected formulas for the hydrides of 4th period elements. What is the trend in the formulas? In what way the first two members of the series different from the others?
-
-26. Write chemical equation for the following reactions.
-    i) reaction of hydrogen with tungsten (VI) oxide on heating.
-    ii) hydrogen gas and chlorine gas.
-
-27. Complete the following chemical reactions and classify them into (a) hydrolysis (b) redox (c) hydration reactions.
-    i) \( \mathrm{KMnO_4 + H_2O_2 \rightarrow} \)
-    ii) \( \mathrm{CrCl_3 + H_2O \rightarrow} \)
-    iii) \( \mathrm{CaO + H_2O \rightarrow} \)
-
-28. Hydrogen peroxide can function as an oxidising agent as well as reducing agent. Substantiate this statement with suitable examples.
-
-29. Do you think that heavy water can be used for drinking purposes?
-
-30. What is water-gas shift reaction?
-
-31. Justify the position of hydrogen in the periodic table.
-
-32. What are isotopes? Write the names of isotopes of hydrogen.
-
-33. Give the uses of heavy water.
-
-34. Explain the exchange reactions of deuterium.
-
-35. How do you convert para hydrogen into ortho hydrogen?
-
-36. Mention the uses of deuterium.
-
-37. Explain preparation of hydrogen using electrolysis.
-
-38. A group-1 metal (A) which is present in common salt reacts with (B) to give compound (C) in which hydrogen is present in -1 oxidation state. (B) on reaction with a gas (C) to give universal solvent (D). The compound (D) on reacts with (A) to give (E), a strong base. Identify A, B, C, D and E. Explain the reactions.
-
-39. An isotope of hydrogen (A) reacts with diatomic molecule of element which occupies group number 16 and period number 2 to give compound (B) which is used as a moderator in nuclear reaction. (A) adds on to a compound (C), which has the molecular formula \( \mathrm{C_3H_6} \) to give (D). Identify A, B, C and D.
-
-40. \( \mathrm{NH_3} \) has exceptionally high melting point and boiling point as compared to those of the hydrides of the remaining element of group 15 - Explain.
-
-41. Why interstitial hydrides have a lower density than the parent metal?
-
-42. How do you expect the metallic hydrides to be useful for hydrogen storage?
-
-43. Arrange \( \mathrm{NH_3, H_2O} \) and HF in the order of increasing magnitude of hydrogen bonding and explain the basis for your arrangement.
-
-44. Compare the structures of \( \mathrm{H_2O} \) and \( \mathrm{H_2O_2} \).
-
----
-
-### III. Types of Hydrides
-
-1. Covalent
-2. Ionic
-3. Metallic
