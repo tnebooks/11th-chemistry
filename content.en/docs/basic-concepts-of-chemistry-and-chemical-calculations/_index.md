@@ -10,7 +10,9 @@ summary: "This unit introduces the fundamental concepts of chemistry, including 
 # Unit 1 - Basic Concepts of Chemistry and Chemical Calculations
 
 We think there is colour, we think there is sweet, we think there is bitter, but in reality there are atoms and a void.
+**– Democritus**
 
+![](img1.png)
 ## 1.1 Chemistry - the Centre of Life
 
 'Unna unavu, udukka udai, irukka idam' - in Tamil classical language means food to eat, cloth to wear and place to live. These are the three basic needs of human life. Chemistry plays a major role in providing these needs and also helps us to improve the quality of life. Chemistry has produced many compounds such as fertilizers, insecticides etc. that could enhance the agricultural production. We build better and stronger buildings that sustain different weather conditions with modern cements, concrete mixtures and better quality steel. We also have better quality fabrics.
@@ -79,7 +81,7 @@ Properties of compounds are different from those of their constituent elements. 
 ## 1.3 Atomic and Molecular Masses
 
 ### 1.3.1 Atomic Masses
-![](image.png)
+
 How much does an individual atom weigh? As atoms are too small with diameter of \( 10^{-10} \ \mathrm{m} \) and weigh approximately \( 10^{-27} \ \mathrm{kg} \), it is not possible to measure their mass directly. Hence it is proposed to have relative scale based on a standard atom.
 
 The C-12 atom is considered as standard by the IUPAC (International Union of Pure and Applied Chemistry), and its mass is fixed as 12 amu (or) u. The amu (or) unified atomic mass unit is defined as one twelfth of the mass of a Carbon-12 atom in its ground state.
@@ -151,9 +153,8 @@ Often we use special names to express the quantity of individual items for our c
 
 To understand the mole concept, let us calculate the total number of atoms present in 12 g of carbon-12 isotope or molecules in 158.03 g of potassium permanganate, 294.18 g of potassium dichromate and 180 g of glucose.
 
-![moleconcept](image.png)
-
-**Fig. 1.2 Mole Concept**
+![](image.png)
+![](mole.png)
 
 **Table 1.2 Calculation of number of entities in one mole of substance**
 
@@ -166,7 +167,9 @@ To understand the mole concept, let us calculate the total number of atoms prese
 
 From the calculations we come to know that \( 12 \ \mathrm{g} \) of carbon-12 contains \( 6.022 \times 10^{23} \) carbon atoms and same numbers of molecules are present in 158.03 g of potassium permanganate and \( 294.18 \ \mathrm{g} \) of potassium dichromate. Similar to the way we use the term 'dozen' to represent 12 entities, we can use the term 'mole' to represent \( 6.022 \times 10^{23} \) entities (atoms or molecules or ions).
 
-**One mole is the amount of substance of a system, which contains as many elementary particles as there are atoms in \( 12 \ \mathrm{g} \) of carbon-12 isotope.** The elementary particles can be molecules, atoms, ions, electrons or any other specified particles.
+One mole is the amount of substance of a system, which contains as many elementary particles as there are atoms in \( 12 \ \mathrm{g} \) of carbon-12 isotope. The elementary particles can be molecules, atoms, ions, electrons or any other specified particles.
+
+**Do You Know**
 
 #### Gastric acid and antacids
 
@@ -200,9 +203,6 @@ One tablet of above composition will neutralise 0.0182 mole of HCl for a person 
 
 ### 1.4.1 Avogadro Number
 
-
-![avogadronumber](img4.png)
-
 The total number of entities present in one mole of any substance is equal to \( 6.022 \times 10^{23} \). This number is called Avogadro number which is named after the Italian physicist Amedeo Avogadro who proposed that equal volume of all gases under the same conditions of temperature and pressure contain equal number of molecules. Avogadro number does not have any unit.
 
 In a chemical reaction, atoms or molecules react in a specific ratio. Let us consider the following examples
@@ -216,6 +216,14 @@ $$
 $$
 
 In the first reaction, one carbon atom reacts with one oxygen molecule to give one carbon dioxide molecule. In the second reaction, one molecule of methane burns with two molecules of oxygen to give one molecule of carbon dioxide and two molecules of water. It is clear that the ratio of reactants is based on the number of molecules. Even though the ratio is based on the number of molecules it is practically difficult to count the number of molecules. Because of this reason it is beneficial to use 'mole' concept rather than the actual number of molecules to quantify the reactants and the products. We can explain the first reaction as one mole of carbon reacts with one mole of oxygen to give one mole of carbon dioxide and the second reaction as one mole of methane burns with two moles of oxygen to give one mole of carbon dioxide and two moles of water. When only atoms are involved, scientists also use the term one gram atom instead of one mole.
+
+
+![](img4.png)
+Lorenzo Romano  
+Amedeo Carlo  
+Avogadro (1776-1856)  
+
+He is known for the Avogadro's hypothesis. In honour of his contributions, the number of fundamental particles in a mole of substance was named as Avogadro number. Though Avogadro didn't predict the number of particles in equal volumes of gas, his hypothesis did lead to the eventual determination of the number as \( 6.022 \times 10^{23} \). Rudolf Clausius, with his kinetic theory of gases, provided evidence for Avogadro's law.
 
 ### 1.4.2 Molar Mass
 
@@ -427,8 +435,6 @@ $$
 
 ## 1.7 Stoichiometry
 
-![stoichiometry](img5.png)
-
 Have you ever noticed the preparation of kesari at your home? In one of the popular methods for the preparation of kesari, the required ingredients to prepare six cups of kesari are as follows.
 
 1. Rava - 1 cup
@@ -439,6 +445,8 @@ Have you ever noticed the preparation of kesari at your home? In one of the popu
 Otherwise, 1 cup rava + 2 cups sugar + \( \frac{1}{2} \) cup ghee + \( \frac{1}{4} \) cup nuts and dry fruits → 6 cups kesari.
 
 From the above information, we will be able to calculate the amount of ingredients that are required for the preparation of 3 cups of kesari as follows
+
+![](img5.png)
 
 $$
 \frac{1 \ \text{cup rava}}{6 \ \text{cups kesari}} \times 3 \ \text{cups kesari} = \frac{1}{2} \ \text{cup rava}
@@ -470,9 +478,9 @@ The symbol \( \equiv \) means 'stoichiometrically equal to'
 
 ### 1.7.1 Stoichiometric Calculations
 
-![](img5.png)
-
 Stoichiometry is the quantitative relationship between reactants and products in a balanced chemical equation in moles. The quantity of reactants and products can be expressed in moles or in terms of mass unit or as volume. These three units are inter convertible.
+
+![](img13.png)
 
 Let us explain these conversions by considering the combustion reaction of methane as an example. The balanced chemical equation is,
 
@@ -543,6 +551,8 @@ $$
 
 As per the stoichiometric equation, 1 mole \( (100 \ \mathrm{g}) \) \( \mathrm{CaCO_3} \) on heating produces 1 mole \( \mathrm{CO_2} \)
 
+![](img14.png)
+
 At STP, 1 mole of \( \mathrm{CO_2} \) occupies a volume of 22.7 litres
 
 At STP, \( 50 \ \mathrm{g} \) of \( \mathrm{CaCO_3} \) on heating produces,
@@ -594,6 +604,8 @@ $$
 i.e. percentage of magnesium \( = 28.57\% \)
 
 \( 84 \ \mathrm{g} \ \mathrm{MgCO_3} \) contain \( 12 \ \mathrm{g} \) of carbon
+
+![](img15.png)
 
 \( 100 \ \mathrm{g} \ \mathrm{MgCO_3} \) contain
 
@@ -664,14 +676,11 @@ In a process, 646 g of ammonia is allowed to react with 1.144 kg of \( \mathrm{C
 1) If the entire quantity of all the reactants is not consumed in the reaction which is the limiting reagent?
 2) Calculate the quantity of urea formed and unreacted quantity of the excess reagent.
 
-| | Reactants | | Products | |
-|--------|--------|------|--------|------|
-| | \( \mathrm{NH_3} \) | \( \mathrm{CO_2} \) | Urea | \( \mathrm{H_2O} \) |
-| Stoichiometric coefficients | 2 | 1 | 1 | 1 |
-| Number of moles of reactants allowed to react | \( n = \frac{646}{17} = 38 \ \text{moles} \) | \( n = \frac{1144}{44} = 26 \ \text{moles} \) | — | — |
-| Actual number of moles consumed during reaction Ratio (2 : 1) | 38 moles | 19 moles | — | — |
-| No. of moles of product thus formed | — | — | 19 moles | 19 moles |
-| No. of moles of reactant left at the end of the reaction | — | 7 moles | — | — |
+The balanced equation is
+
+$$
+2 \, \text{NH}_3 + \text{CO}_2 \rightarrow \text{H}_2\text{NCONH}_2 + \text{H}_2\text{O}
+$$
 
 **Answer:**
 
@@ -685,6 +694,15 @@ Amount of carbon dioxide leftover = number of moles of \( \mathrm{CO_2} \) left 
 
 ---
 
+| | Reactants | | Products | |
+|--------|--------|------|--------|------|
+| | \( \mathrm{NH_3} \) | \( \mathrm{CO_2} \) | Urea | \( \mathrm{H_2O} \) |
+| Stoichiometric coefficients | 2 | 1 | 1 | 1 |
+| Number of moles of reactants allowed to react | \( n = \frac{646}{17} = 38 \ \text{moles} \) | \( n = \frac{1144}{44} = 26 \ \text{moles} \) | — | — |
+| Actual number of moles consumed during reaction Ratio (2 : 1) | 38 moles | 19 moles | — | — |
+| No. of moles of product thus formed | — | — | 19 moles | 19 moles |
+| No. of moles of reactant left at the end of the reaction | — | 7 moles | — | — |
+
 ## 1.8 Redox Reactions
 
 When an apple is cut, it turns brown after sometime. Do you know the reason behind this colour change? It is because of a chemical reaction called oxidation. We come across oxidation reactions in our daily life. For example
@@ -693,21 +711,23 @@ When an apple is cut, it turns brown after sometime. Do you know the reason behi
 2) rusting of iron
 3) Oxidation of carbohydrates, lipids, etc. into \( \mathrm{CO_2} \) and \( \mathrm{H_2O} \) to produce energy in the living organisms.
 
-**Fig.1.4 Oxidation reactions in daily life**
+![](img16.png)
  reduction reactions and vice versa. Such reactions are called redox react
 All oxidation reactions are accompanied byions. As per the classical concept, addition of oxygen (or) removal of hydrogen is called oxidation and the reverse is called reduction.
 
+**Do You Know**
+
 #### Haemoglobin and oxygen transport
 
-![oxitationreactionindailylife](img6.png)
+![](img6.png)
 
 Even a small amount of oxygen present in air leads to the rusting of iron, i.e. iron is oxidised to \( \mathrm{Fe^{3+}} \).
 
 But the \( \mathrm{Fe^{2+}} \) present in haemoglobin which binds oxygen during transport of oxygen from lungs to tissues never gets oxidised. Do you know why?
 
-**Cyanide poisoning:** While oxygen binds reversibly to haemoglobin, cyanide binds irreversibly to haemoglobin and blocks oxygen binding. As a result the transport of oxygen from the lungs to tissues is stopped. It leads to the quick death of the person.
-
 The answer lies in the structural features of haemoglobin. Haemoglobin contains four sub units each with a porphyrin ring (heme) attached to the protein (globin) molecule. In this structure, the iron \( \mathrm{Fe^{2+}} \) forms a coordination complex with an octahedral geometry. The four positions of the octahedron are occupied by porphyrin rings, fifth position is filled by imidazole ring of a histidine residue and the sixth position is utilized for binding the oxygen molecule. Generally the \( \mathrm{Fe^{2+}} \) in heme is susceptible to oxidation. Since the \( \mathrm{Fe^{2+}} \) ion in haemoglobin is surrounded by the globin protein chain that provides a hydrophobic environment, the oxidation of \( \mathrm{Fe^{2+}} \) becomes difficult. However, \( 3\% \) of haemoglobin is oxidised to methemoglobin (haemoglobin where the iron is present in \( \mathrm{Fe^{3+}} \) state and oxygen does not bind to this) daily. The enzyme methemoglobin reductase reduces it back to haemoglobin.
+
+**Cyanide poisoning:** While oxygen binds reversibly to haemoglobin, cyanide binds irreversibly to haemoglobin and blocks oxygen binding. As a result the transport of oxygen from the lungs to tissues is stopped. It leads to the quick death of the person.
 
 Consider the following two reactions.
 
@@ -801,6 +821,8 @@ During redox reactions, the oxidation number of elements changes. A reaction in 
 
 Consider the following reaction
 
+![](img17.png)
+
 In this reaction, manganese in potassium permanganate \( (\mathrm{KMnO_4}) \) favours the oxidation of ferrous sulphate \( (\mathrm{FeSO_4}) \) into ferric sulphate \( (\mathrm{Fe_2(SO_4)_3}) \) by gaining electrons and thereby gets reduced. Such reagents are called **oxidising agents or oxidants**. Similarly, the reagents which facilitate reduction by releasing electrons and get oxidised are called **reducing agents**.
 
 ### 1.8.2 Types of Redox Reactions
@@ -813,13 +835,15 @@ Redox reactions in which two substances combine to form a single compound are ca
 
 **Example:**
 
-$$
-\mathrm{C(s) + O_2(g) \xrightarrow{\Delta} CO_2(g)}
-$$
+![](img18.png)
 
 #### 2. Decomposition reactions
 
 Redox reactions in which a compound breaks down into two or more components are called decomposition reactions. These reactions are opposite to combination reactions. In these reactions, the oxidation number of the different elements in the same substance is changed.
+
+**Example**
+
+![](img19.png)
 
 #### 3. Displacement reactions
 
@@ -830,15 +854,11 @@ Redox reactions in which an ion (or an atom) in a compound is replaced by an ion
 Place a zinc metal strip in an aqueous copper sulphate solution taken in a beaker. Observe the solution, the intensity of blue colour of the solution slowly reduced and finally disappeared. The zinc metal strip became coated with brownish metallic copper. This is due to the following metal displacement reaction.
 ![](img7.png)
 
-$$
-\mathrm{Zn(s) + CuSO_4(aq) \rightarrow ZnSO_4(aq) + Cu(s)}
-$$
+![](img20.png)
 
 ##### (ii) Non-metal displacement
 
-$$
-\mathrm{Cl_2(g) + 2KBr(aq) \rightarrow 2KCl(aq) + Br_2(l)}
-$$
+![](img21.png)
 
 #### 4. Disproportionation reaction (Auto redox reactions)
 
@@ -846,13 +866,7 @@ In some redox reactions, the same compound can undergo both oxidation and reduct
 
 **Examples:**
 
-$$
-\mathrm{2H_2O_2(aq) \rightarrow 2H_2O(l) + O_2(g)}
-$$
-
-$$
-\mathrm{2Cu^+ (aq) \rightarrow Cu^{2+}(aq) + Cu(s)}
-$$
+![](img22.png)
 
 #### 5. Competitive electron transfer reaction
 
@@ -862,9 +876,7 @@ Let us extend the reaction to copper metal and silver nitrate solution. Place a 
 
 ![](img7.png)
 
-$$
-\mathrm{Cu(s) + 2AgNO_3(aq) \rightarrow Cu(NO_3)_2(aq) + 2Ag(s)}
-$$
+![](img23.png)
 
 It indicates that between copper and silver, copper has the tendency to release electrons and silver to accept electrons.
 
@@ -897,6 +909,8 @@ $$
 
 Using oxidation number concept, identify the reactants (atom) which undergo oxidation and reduction.
 
+![](img24.png)
+
 a) The oxidation number of Mn in \( \mathrm{KMnO_4} \) changes from \( +7 \) to \( +2 \) by gaining five electrons.
 
 b) The oxidation number of Fe in \( \mathrm{FeSO_4} \) changes from \( +2 \) to \( +3 \) by losing one electron.
@@ -905,13 +919,14 @@ b) The oxidation number of Fe in \( \mathrm{FeSO_4} \) changes from \( +2 \) to 
 
 Since, the total number of electrons lost is equal to the total number of electrons gained, equate the number of electrons, by cross multiplication of the respective formula with suitable integers on reactant side as below. Here, the product \( \mathrm{Fe_2(SO_4)_3} \) contains 2 moles of iron. So, the coefficients \( 1e^- \) & \( 5e^- \) are multiplied by the number '2'
 
-$$
-10\mathrm{FeSO_4} + 2\mathrm{KMnO_4} + \mathrm{H_2SO_4} \rightarrow \mathrm{Fe_2(SO_4)_3} + \mathrm{MnSO_4} + \mathrm{K_2SO_4} + \mathrm{H_2O}
-$$
+![](img25.png)
 
 **Step 3**
 
 Balance the reactant / Product - Oxidised / reduced. Now, based on the reactant side, balance the products (i.e. oxidised and reduced). The above equation becomes
+
+10FeSO4+2KMnO4+H2SO4 → 5Fe2(SO4)3
+ +2MnSO4 + K2SO4 + H2O
 
 **Step 4**
 
@@ -966,6 +981,8 @@ $$
 
 The ionic form of this reaction is,
 
+![](img26.png)
+
 The two half reactions are,
 
 $$
@@ -998,17 +1015,7 @@ Equate both half reactions such that the number of electrons lost is equal to nu
 
 Addition of two half reactions gives the balanced equation represented by equation (6).
 
-$$
-(1) \times 5: \quad 5\mathrm{Fe^{2+} \rightarrow 5Fe^{3+} + 5e^-} \tag{4}
-$$
-
-$$
-(3) \times 1: \quad \mathrm{MnO_4^- + 5e^- + 8H^+ \rightarrow Mn^{2+} + 4H_2O} \tag{5}
-$$
-
-$$
-(4) + (5): \quad 5\mathrm{Fe^{2+} + MnO_4^- + 8H^+ \rightarrow 5Fe^{3+} + Mn^{2+} + 4H_2O} \tag{6}
-$$
+![](img27.png)
 
 **Evaluate Yourself**
 
@@ -1061,289 +1068,3 @@ $$
 The equation of redox reaction is balanced either by oxidation number method or by ion-electron method.
 
 ---
-
-## Questions
-
-### I. Choose the best answer
-
-1. 40 ml of methane is completely burnt using 80 ml of oxygen at room temperature. The volume of gas left after cooling to room temperature is
-
-   (a) \( 40 \ \mathrm{ml} \ \mathrm{CO_2} \) gas
-   (b) \( 40 \ \mathrm{ml} \ \mathrm{CO_2} \) gas and \( 80 \ \mathrm{ml} \ \mathrm{H_2O} \) gas
-   (c) \( 60 \ \mathrm{ml} \ \mathrm{CO_2} \) gas and \( 60 \ \mathrm{ml} \ \mathrm{H_2O} \) gas
-   (d) \( 120 \ \mathrm{ml} \ \mathrm{CO_2} \) gas
-
-2. An element X has the following isotopic composition \( ^{200}\mathrm{X} = 90\% \), \( ^{199}\mathrm{X} = 8\% \) and \( ^{202}\mathrm{X} = 2\% \). The weighted average atomic mass of the element X is closest to
-
-   (a) 201 u
-   (b) 202 u
-   (c) 199 u
-   (d) 200 u
-
-3. Assertion: Two mole of glucose contains \( 12.044 \times 10^{23} \) molecules of glucose.
-   Reason: Total number of entities present in one mole of any substance is equal to \( 6.02 \times 10^{22} \).
-
-   (a) both assertion and reason are true and the reason is the correct explanation of assertion
-   (b) both assertion and reason are true but reason is not the correct explanation of assertion
-   (c) assertion is true but reason is false
-   (d) both assertion and reason are false
-
-4. Carbon forms two oxides, namely carbon monoxide and carbon dioxide. The equivalent mass of which element remains constant?
-
-   (a) Carbon
-   (b) oxygen
-   (c) both carbon and oxygen
-   (d) neither carbon nor oxygen
-
-5. The equivalent mass of a trivalent metal element is \( 9 \ \mathrm{g \ eq^{-1}} \). The molar mass of its anhydrous oxide is
-
-   (a) 102 g
-   (b) 27 g
-   (c) 270 g
-   (d) 78 g
-
-6. The number of water molecules in a drop of water weighing 0.018 g is
-
-   (a) \( 6.022 \times 10^{26} \)
-   (b) \( 6.022 \times 10^{23} \)
-   (c) \( 6.022 \times 10^{20} \)
-   (d) \( 9.9 \times 10^{22} \)
-
-7. 1 g of an impure sample of magnesium carbonate (containing no thermally decomposable impurities) on complete thermal decomposition gave 0.44 g of carbon dioxide gas. The percentage of impurity in the sample is
-
-   (a) \( 0\% \)
-   (b) \( 4.4\% \)
-   (c) \( 16\% \)
-   (d) \( 8.4\% \)
-
-8. When 6.3 g of sodium bicarbonate is added to 30 g of acetic acid solution, the residual solution is found to weigh 33 g. The number of moles of carbon dioxide released in the reaction is
-
-   (a) 3
-   (b) 0.75
-   (c) 0.075
-   (d) 0.3
-
-9. When 22.4 litres of \( \mathrm{H_2(g)} \) is mixed with 11.2 litres of \( \mathrm{Cl_2(g)} \), each at 273 K at 1 atm, the moles of HCl(g) formed is equal to
-
-   (a) 2 moles of HCl(g)
-   (b) 0.5 moles of HCl(g)
-   (c) 1.5 moles of HCl(g)
-   (d) 1 moles of HCl(g)
-
-10. Hot concentrated sulphuric acid is a moderately strong oxidising agent. Which of the following reactions does not show oxidising behaviour?
-
-    (a) \( \mathrm{Cu + 2H_2SO_4 \rightarrow CuSO_4 + SO_2 + 2H_2O} \)
-    (b) \( \mathrm{C + 2H_2SO_4 \rightarrow CO_2 + 2SO_2 + 2H_2O} \)
-    (c) \( \mathrm{BaCl_2 + H_2SO_4 \rightarrow BaSO_4 + 2HCl} \)
-    (d) none of the above
-
-11. Choose the disproportionation reaction among the following redox reactions.
-
-    (a) \( \mathrm{3Mg(s) + N_2(g) \rightarrow Mg_3N_2(s)} \)
-    (b) \( \mathrm{P_4(s) + 3NaOH + 3H_2O \rightarrow PH_3(g) + 3NaH_2PO_2(aq)} \)
-    (c) \( \mathrm{Cl_2(g) + 2KI(aq) \rightarrow 2KCl(aq) + I_2} \)
-    (d) \( \mathrm{Cr_2O_3(s) + 2Al(s) \rightarrow Al_2O_3(s) + 2Cr(s)} \)
-
-12. The equivalent mass of potassium permanganate in alkaline medium is
-
-    \( \mathrm{MnO_4^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-} \)
-
-    (a) 31.6
-    (b) 52.7
-    (c) 79
-    (d) None of these
-
-13. Which one of the following represents 180 g of water?
-
-    (a) 5 Moles of water
-    (b) 90 moles of water
-    (c) \( \frac{6.022 \times 10^{23}}{180} \) molecules of water
-    (d) \( 6.022 \times 10^{24} \) molecules of water
-
-14. 7.5 g of a gas occupies a volume of 5.6 litres at 0°C and 1 atm pressure. The gas is
-
-    (a) NO
-    (b) N₂O
-    (c) CO
-    (d) CO₂
-
-15. Total number of electrons present in 1.7 g of ammonia is
-
-    (a) \( 6.022 \times 10^{23} \)
-    (b) \( \frac{6.022 \times 10^{22}}{1.7} \)
-    (c) \( \frac{6.022 \times 10^{24}}{1.7} \)
-    (d) \( \frac{6.022 \times 10^{23}}{1.7} \)
-
-16. The correct increasing order of the oxidation state of sulphur in the anions \( \mathrm{SO_4^{2-}}, \mathrm{SO_3^{2-}}, \mathrm{S_2O_4^{2-}}, \mathrm{S_2O_6^{2-}} \) is
-
-    (a) \( \mathrm{SO_3^{2-} < SO_4^{2-} < S_2O_4^{2-} < S_2O_6^{2-}} \)
-    (b) \( \mathrm{SO_4^{2-} < S_2O_4^{2-} < S_2O_6^{2-} < SO_3^{2-}} \)
-    (c) \( \mathrm{S_2O_4^{2-} < SO_3^{2-} < S_2O_6^{2-} < SO_4^{2-}} \)
-    (d) \( \mathrm{S_2O_6^{2-} < S_2O_4^{2-} < SO_4^{2-} < SO_3^{2-}} \)
-
-17. The equivalent mass of ferrous oxalate is
-
-    (a) \( \frac{\text{molar mass of ferrous oxalate}}{1} \)
-    (b) \( \frac{\text{molar mass of ferrous oxalate}}{2} \)
-    (c) \( \frac{\text{molar mass of ferrous oxalate}}{3} \)
-    (d) none of these
-
-18. If Avogadro number were changed from \( 6.022 \times 10^{23} \) to \( 6.022 \times 10^{20} \), this would change
-
-    (a) the ratio of chemical species to each other in a balanced equation
-    (b) the ratio of elements to each other in a compound
-    (c) the definition of mass in units of grams
-    (d) the mass of one mole of carbon
-
-19. Two 22.4 litre containers A and B contains 8 g of \( \mathrm{O_2} \) and 8 g of \( \mathrm{SO_2} \) respectively at 273 K and 1 atm pressure, then
-
-    (a) Number of molecules in A and B are same
-    (b) Number of molecules in B is more than that in A
-    (c) The ratio between the number of molecules in A to number of molecules in B is 2:1
-    (d) Number of molecules in B is three times greater than the number of molecules in A
-
-20. What is the mass of precipitate formed when 50 ml of 8.5% solution of \( \mathrm{AgNO_3} \) is mixed with 100 ml of 1.865% potassium chloride solution?
-
-    (a) \( 3.59 \ \mathrm{g} \)
-    (b) \( 7 \ \mathrm{g} \)
-    (c) \( 14 \ \mathrm{g} \)
-    (d) \( 28 \ \mathrm{g} \)
-
-21. The mass of a gas that occupies a volume of 612.5 ml at room temperature and pressure \( (25^\circ \mathrm{C} \text{ and } 1 \ \mathrm{atm} \text{ pressure}) \) is 1.1 g. The molar mass of the gas is
-
-    (a) \( 66.25 \ \mathrm{g \ mol^{-1}} \)
-    (b) \( 44 \ \mathrm{g \ mol^{-1}} \)
-    (c) \( 24.5 \ \mathrm{g \ mol^{-1}} \)
-    (d) \( 662.5 \ \mathrm{g \ mol^{-1}} \)
-
-22. Which of the following contain same number of carbon atoms as in 6 g of carbon-12?
-
-    (a) \( 7.5 \ \mathrm{g} \) ethane
-    (b) \( 8 \ \mathrm{g} \) methane
-    (c) both (a) and (b)
-    (d) none of these
-
-23. Which of the following compound(s) has/have percentage of carbon same as that in ethylene \( (\mathrm{C_2H_4}) \)
-
-    (a) propene
-    (b) ethylene
-    (c) benzene
-    (d) ethane
-
-24. Which of the following is/are true with respect to carbon-12?
-
-    (a) relative atomic mass is \( 12 \ \mathrm{u} \)
-    (b) oxidation number of carbon is \( +4 \) in all its compounds
-    (c) 1 mole of carbon-12 contain \( 6.022 \times 10^{22} \) carbon atoms
-    (d) all of these
-
-25. Which one of the following is used as a standard for atomic mass?
-
-    (a) \( 6\mathrm{C}^{12} \)
-    (b) \( 7\mathrm{C}^{12} \)
-    (c) \( 6\mathrm{C}^{13} \)
-    (d) \( 6\mathrm{C}^{14} \)
-
----
-
-### II. Write brief answer to the following questions
-
-26) Define relative atomic mass.
-
-27) What do you understand by the term mole.
-
-28) Define equivalent mass.
-
-29) What do you understand by the term oxidation number.
-
-30) Distinguish between oxidation and reduction.
-
-31) Calculate the molar mass of the following compounds.
-
-    i) Urea \( [\mathrm{CO(NH_2)_2}] \)
-    ii) Acetone \( [\mathrm{CH_3COCH_3}] \)
-    iii) Boric acid \( [\mathrm{H_3BO_3}] \)
-    iv) Sulphuric acid \( [\mathrm{H_2SO_4}] \)
-
-32) The density of carbon dioxide is equal to \( 1.965 \ \mathrm{kg \ m^{-3}} \) at 273 K and 1 atm pressure. Calculate the molar mass of \( \mathrm{CO_2} \).
-
-33) Which contains the greatest number of moles of oxygen atoms?
-
-    i) 1 mol of ethanol
-    ii) 1 mol of formic acid
-    iii) 1 mol of \( \mathrm{H_2O} \)
-
-34) Calculate the average atomic mass of naturally occurring magnesium using the following data
-
-| Isotope | Isotopic atomic mass | Abundance (%) |
-|---------|---------------------|---------------|
-| Mg²⁴ | 23.99 | 78.99 |
-| Mg²⁵ | 24.99 | 10.00 |
-| Mg²⁶ | 25.98 | 11.01 |
-
-35) In a reaction \( \mathrm{x + y + z_2 \rightarrow xyz_2} \) identify the limiting reagent if any, in the following reaction mixtures.
-
-    (a) 200 atoms of x + 200 atoms of y + 50 molecules of \( \mathrm{z_2} \)
-    (b) 1 mol of x + 1 mol of y + 3 mol of \( \mathrm{z_2} \)
-    (c) 50 atoms of x + 25 atoms of y + 50 molecules of \( \mathrm{z_2} \)
-    (d) 2.5 mol of x + 5 mol of y + 5 mol of \( \mathrm{z_2} \)
-
-36) Mass of one atom of an element is \( 6.645 \times 10^{-23} \) g. How many moles of element are there in 0.320 kg.
-
-37) What is the difference between molecular mass and molar mass? Calculate the molecular mass and molar mass for carbon monoxide.
-
-38) What is the empirical formula of the following?
-
-    i) Fructose \( (\mathrm{C_6H_{12}O_6}) \) found in honey
-    ii) Caffeine \( (\mathrm{C_8H_{10}N_4O_2}) \) a substance found in tea and coffee.
-
-39) The reaction between aluminium and ferric oxide can generate temperatures up to 3273 K and is used in welding metals. (Atomic mass of Al = 27 u, Atomic mass of O = 16 u)
-
-    \( 2\mathrm{Al} + \mathrm{Fe_2O_3} \rightarrow \mathrm{Al_2O_3} + 2\mathrm{Fe} \)
-
-    If, in this process, 324 g of aluminium is allowed to react with 1.12 kg of ferric oxide.
-
-    i) Calculate the mass of \( \mathrm{Al_2O_3} \) formed.
-    ii) How much of the excess reagent is left at the end of the reaction?
-
-40) How many moles of ethane is required to produce 44 g of \( \mathrm{CO_2(g)} \) after combustion.
-
-41) Hydrogen peroxide is an oxidising agent. It oxidises ferrous ion to ferric ion and reduced itself to water. Write a balanced equation.
-
-42) Calculate the empirical and molecular formula of a compound containing 76.6% carbon, 6.38% hydrogen and rest oxygen. Its vapour density is 47.
-
-43) A compound on analysis gave Na = 14.31%, S = 9.97%, H = 6.22% and O = 69.5%. Calculate the molecular formula of the compound, if all the hydrogen in the compound is present in combination with oxygen as water of crystallization. (Molecular mass of the compound is 322).
-
-44) Balance the following equations by oxidation number method
-
-    I) \( \mathrm{K_2Cr_2O_7 + KI + H_2SO_4 \rightarrow K_2SO_4 + Cr_2(SO_4)_3 + I_2 + H_2O} \)
-    II) \( \mathrm{KMnO_4 + Na_2SO_3 \rightarrow MnO_2 + Na_2SO_4 + KOH} \)
-    III) \( \mathrm{Cu + HNO_3 \rightarrow Cu(NO_3)_2 + NO_2 + H_2O} \)
-    IV) \( \mathrm{KMnO_4 + H_2C_2O_4 + H_2SO_4 \rightarrow K_2SO_4 + MnSO_4 + CO_2 + H_2O} \)
-
-45) Balance the following equations by ion electron method.
-
-    I) \( \mathrm{KMnO_4 + SnCl_2 + HCl \rightarrow MnCl_2 + SnCl_4 + H_2O + KCl} \)
-    II) \( \mathrm{C_2O_4^{2-} + Cr_2O_7^{2-} \rightarrow Cr^{3+} + CO_2 \ (in \ acid \ medium)} \)
-    III) \( \mathrm{Na_2S_2O_3 + I_2 \rightarrow Na_2S_4O_6 + NaI} \)
-    IV) \( \mathrm{Zn + NO_3^- \rightarrow Zn^{2+} + NO \ (in \ acid \ medium)} \)
-
----
-
-## ICT Corner
-
-### Calculation of Empirical and Molecular Formula
-
-By using this tool you will be able to calculate the empirical and molecular formula from the percentage composition of elements.
-
-Please go to the URL https://ggbm.at/FbUwkmUw (or) Scan the QR code.
-
-**Step-1:** Open the Browser and type the URL given (or) Scan the QR Code. You can see a GeoGebra Workbook named "11th Standard Chemistry". Open the worksheet named "Empirical Formula".
-
-**Step-2:** Find the serial number of the elements of the compound under examination from the table present on the right side of the page and enter it in the space provided (1). And enter their percentage of composition in the corresponding space (2).
-
-**Step-3:** Now you can see the molar mass, relative no. of moles and the simplest ratio all automatically calculated and filled in the corresponding boxes. If the simplest ratio contains fractions then use the slider (3) to choose a smallest number to bring the simplest ratio to whole number.
-
-You can now see the calculated empirical formula (4).
-
-**Step-4:** In order to calculate the Molecular formula, enter the molar mass in the corresponding box (5). Now the 'n' will be displayed (6) and Molecular formula is displayed at the bottom (7).

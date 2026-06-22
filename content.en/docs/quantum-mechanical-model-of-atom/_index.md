@@ -9,6 +9,7 @@ summary: "This unit explains the quantum mechanical model of the atom and the li
 
 # Unit 2 - Quantum Mechanical Model of Atom
 
+![](img2.png)
 <center><strong>Erwin Schrödinger (1887 - 1961)</strong></center>
 
 Erwin Schrödinger was awarded the Nobel Prize in physics in 1933 for "the discovery of new productive forms of atomic theory". Schrödinger had wide interests starting from chemistry, physics, maths and botany. He was not satisfied with the quantum condition in Bohr's orbit theory and believed that atomic spectra should really be determined by some kind of eigenvalue problem and proposed the wave equation, now named after him.
@@ -18,7 +19,9 @@ Erwin Schrödinger was awarded the Nobel Prize in physics in 1933 for "the disco
 Let us recall the history of the development of atomic models from the previous classes. We know that all things are made of matter. The basic unit that makes up all matter is atom. The word 'atom' has been derived from the Greek word 'a-tomo' meaning non-divisible. Atom was considered as non-divisible until the discovery of subatomic particles such as electron, proton and neutron. J. J. Thomson's cathode ray experiment revealed that atoms consist of negatively charged particles called electrons. He proposed that atom is a positively charged sphere in which the electrons are embedded like the seeds in the watermelon. Later, Rutherford's \( \alpha \) - ray scattering experiment results proved that Thomson's model was wrong. Rutherford bombarded a thin gold foil with a stream of fast moving \( \alpha \) - particles. It was observed that
 
 (i) most of the \( \alpha \) -particles passed through the foil
+
 (ii) some of them were deflected through a small angle and
+
 (iii) very few \( \alpha \) -particles were reflected back by \( 180^{\circ} \)
 
 
@@ -366,6 +369,7 @@ As we know, the \( \Psi \) itself has no physical meaning and the square of the 
 
 Consider a single electron of hydrogen atom in the ground state for which the quantum numbers are \( n = 1 \) and \( l = 0 \), i.e., it occupies 1s orbital. The plot of \( \mathrm{R}(r)^2 \) versus \( r \) for 1s orbital is given in Figure 2.3.
 
+![](1.png)
 <center><strong>Figure 2.3 Plot of \( \mathrm{R}(r)^2 \) versus \( r \) for 1s orbital of hydrogen</strong></center>
 
 The graph shows that as the distance between the electron and the nucleus decreases, the probability of finding the electron increases. At \( r = 0 \) the quantity \( \mathrm{R}(r)^2 \) is maximum i.e., the maximum value for \( |\Psi|^2 \) is at the nucleus. However, probability of finding the electron in a given spherical shell around the nucleus is important. Let us consider the volume \( dV \) bounded by two spheres of radii \( r \) and \( r + dr \).
@@ -390,16 +394,21 @@ $$
 
 The plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) is given below.
 
+![](2.png)
 <center><strong>Figure 2.5 Plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 1s orbital of hydrogen</strong></center>
 
 The above plot shows that the maximum probability occurs at distance of \( 0.52 \ \mathrm{\AA} \) from the nucleus. This is equal to the Bohr radius. It indicates that the maximum probability of finding the electron around the nucleus is at this distance. However, there is a probability to find the electron at other distances also. The radial distribution function of 2s, 3s, 3p and 3d orbitals of the hydrogen atom are represented as follows.
 
+![](3.png)
 <center><strong>Figure 2.6 (a) - Plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 2s orbitals of hydrogen</strong></center>
 
+![](4.png)
 <center><strong>Figure 2.6 (b) - Plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 3s orbitals of hydrogen</strong></center>
 
+![](5.png)
 <center><strong>Figure 2.6 (c) - Plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 3p orbitals of hydrogen</strong></center>
 
+![](6.png)
 <center><strong>Figure 2.6 (d) - Plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 3d orbitals of hydrogen</strong></center>
 
 For 2s orbital, as the distance from nucleus \( r \) increases, the probability density first increases, reaches a small maximum followed by a sharp decrease to zero and then increases to another maximum, after that decreases to zero. The region where this probability density function reduces to zero is called **nodal surface** or a **radial node**. In general, it has been found that ns-orbital has \( (n-1) \) nodes. In other words, number of radial nodes for 2s orbital is one, for 3s orbital it is two and so on. The plot of \( 4\pi r^2 \cdot \mathrm{R}(r)^2 \) versus \( r \) for 3p and 3d orbitals shows similar pattern but the number of radial nodes are equal to \( (n - l - 1) \) (where \( n \) is principal quantum number and \( l \) is azimuthal quantum number of the orbital).
@@ -414,14 +423,15 @@ The variation of the probability of locating the electron on a sphere with nucle
 
 For p orbitals \( l = 1 \) and the corresponding \( m \) values are -1, 0 and \( +1 \). The angular distribution functions are quite complex and are not discussed here. The shape of the p orbital is shown in Figure 2.8. The three different \( m \) values indicates that there are three different orientations possible for p orbitals. These orbitals are designated as \( \mathrm{p_x}, \mathrm{p_y} \) and \( \mathrm{p_z} \) and the angular distribution for these orbitals shows that the lobes are along the \( x, y \) and \( z \) axis respectively. As seen in the Figure 2.8 the 2p orbitals have one nodal plane.
 
-![](img2.14.png)
+![](figure2.7.png)
 
 <center><strong>Figure 2.8 (a) Shapes of 2p orbitals</strong></center>
-<center><strong>Figure 2.8 (b) Cartoon representations of 2p orbitals</strong></center>
 
 For 'd' orbital \( l = 2 \) and the corresponding \( m \) values are -2, -1, 0, +1, +2. The shape of the d orbital looks like a 'clover leaf'. The five \( m \) values give rise to five d orbitals namely \( \mathrm{d_{xy}}, \mathrm{d_{yz}}, \mathrm{d_{zx}}, \mathrm{d_{x^2-y^2}} \) and \( \mathrm{d_{z^2}} \). The 3d orbitals contain two nodal planes as shown in Figure 2.9.
 
 ![](figure2.8.png)
+![](figure2.8goind.png)
+
 <center><strong>Figure 2.9 Shapes of d orbitals</strong></center>
 
 For f orbital, \( l = 3 \) and the \( m \) values are -3, -2, -1, 0, +1, +2, +3 corresponding to seven f orbitals \( \mathrm{f_{z^3}}, \mathrm{f_{xz^2}}, \mathrm{f_{yz^2}}, \mathrm{f_{xyz}}, \mathrm{f_{z(x^2-y^2)}}, \mathrm{f_{x(x^2-3y^2)}}, \mathrm{f_{y(3x^2-y^2)}} \), which are shown in Figure 2.10. There are 3 nodal planes in the f-orbitals.
@@ -485,6 +495,7 @@ As we know there are three different orientations in space that are possible for
 
 In a multi-electron atom, in addition to the electrostatic attractive force between the electron and nucleus, there exists a repulsive force among the electrons. These two forces are operating in the opposite direction. This results in the decrease in the nuclear force of attraction on electron. The net charge experienced by the electron is called **effective nuclear charge**. The effective nuclear charge depends on the shape of the orbitals and it decreases with increase in azimuthal quantum number \( l \). The order of the effective nuclear charge felt by an electron in an orbital within the given shell is \( s > p > d > f \). Greater the effective nuclear charge, greater is the stability of the orbital. Hence, within a given energy level, the energy of the orbitals are in the following order: \( s < p < d < f \).
 
+![](7.png)
 <center><strong>Figure 2.11 Energy levels of atomic orbitals</strong></center>
 
 The energies of same orbital decrease with an increase in the atomic number. For example, the energy of the 2s orbital of hydrogen atom is greater than that of 2s orbital of lithium and that of lithium is greater than that of sodium and so on, that is,
@@ -507,6 +518,7 @@ In an atom, the electrons are filled in various orbitals according to **Aufbau p
 
 The word Aufbau in German means 'building up'. In the ground state of the atoms, the orbitals are filled in the order of their increasing energies. That is the electrons first occupy the lowest energy orbital available to them. Once the lower energy orbitals are completely filled, then the electrons enter the next higher energy orbitals. The order of filling of various orbitals as per the Aufbau principle is given in the figure 2.12 which is in accordance with \( (n + l) \) rule.
 
+![](8.png)
 <center><strong>Figure 2.12 Aufbau principle</strong></center>
 
 ### 2.6.2 Pauli Exclusion Principle
@@ -538,6 +550,10 @@ We know that there are three p orbitals, five d orbitals and seven f orbitals. A
 
 For example, consider the carbon atom which has six electrons. According to Aufbau principle, the electronic configuration is \( 1s^2, 2s^2, 2p^2 \)
 
+It can be represented as below,
+
+![](9.png)
+
 In this case, in order to minimise the electron-electron repulsion, the sixth electron enters the unoccupied \( 2\mathrm{p_y} \) orbital as per Hund's rule. i.e., it does not get paired with the fifth electron already present in the \( 2\mathrm{p_x} \) orbital.
 
 ### Evaluate Yourself
@@ -549,6 +565,11 @@ In this case, in order to minimise the electron-electron repulsion, the sixth el
 The distribution of electrons into various orbitals of an atom is called its **electronic configuration**. It can be written by applying the Aufbau principle, Pauli exclusion principle and Hund's rule. The electronic configuration is written as \( nl^x \), where \( n \) represents the principal quantum number, \( l \) represents the letter designation of the orbital [s(l=0), p(l=1), d(l=2) and f(l=3)] and 'x' represents the number of electrons present in that orbital.
 
 Let us consider the hydrogen atom which has only one electron and it occupies the lowest energy orbital i.e., 1s according to Aufbau principle. In this case \( n = 1 \); \( l = s \); \( x = 1 \). Hence the electronic configuration is \( 1s^1 \). (read as one-ess-one).
+
+The orbital diagram for this
+configuration is, 
+
+![](image.png)
 
 The electronic configuration and orbital diagram for the elements up to atomic number 10 are given below:
 
@@ -595,6 +616,7 @@ The exactly half filled and completely filled orbitals have greater stability th
 
 Symmetry leads to stability. The half filled and fully filled configurations have symmetrical distribution of electrons (Figure 2.13) and hence they are more stable than the unsymmetrical configurations.
 
+![](image-1.png)
 <center><strong>Figure 2.13 Half filled and fully filled p, d and f orbitals</strong></center>
 
 The degenerate orbitals such as \( \mathrm{p_x}, \mathrm{p_y} \) and \( \mathrm{p_z} \) have equal energies and their orientation in space are different as shown in Figure 2.14. Due to this symmetrical distribution, the shielding of one electron on the other is relatively small and hence the electrons are attracted more strongly by the nucleus and it increases the stability.
@@ -607,7 +629,10 @@ If two or more electrons with the same spin are present in degenerate orbitals, 
 
 For example, in chromium the electronic configuration is \( [\mathrm{Ar}] 3d^5 4s^1 \). The 3d orbital is half filled and there are ten possible exchanges as shown in Figure 2.15. On the other hand only six exchanges are possible for \( [\mathrm{Ar}] 3d^4 4s^2 \) configuration. Hence, exchange energy for the half filled configuration is more. This increases the stability of half filled 3d orbitals.
 
+![](image-2.png)
 <center><strong>Figure 2.15 (a) Possible exchanges in d⁵ configuration (10 exchanges)</strong></center>
+
+![](image-3.png)
 <center><strong>Figure 2.15 (b) Possible exchanges in d⁴ configuration (6 exchanges)</strong></center>
 
 The exchange energy is the basis for Hund's rule, which allows maximum multiplicity, that is electron pairing is possible only when all the degenerate orbitals contain one electron each.
@@ -643,205 +668,3 @@ The exchange energy is the basis for Hund's rule, which allows maximum multiplic
 - In degenerate orbitals, the completely filled and half filled configurations are more stable than the partially filled configurations. This is due to the symmetry and exchange energies.
 
 ---
-
-## Questions
-
-### I. Choose the correct answer
-
-1. Electronic configuration of species \( \mathrm{M}^{2+} \) is \( 1s^2 2s^2 2p^6 3s^2 3p^6 3d^6 \) and its atomic weight is 56. The number of neutrons in the nucleus of species M is
-   a) 26
-   b) 22
-   c) 30
-   d) 24
-
-2. The energy of light of wavelength \( 45 \ \mathrm{nm} \) is
-   a) \( 6.67 \times 10^{15} \ \mathrm{J} \)
-   b) \( 6.67 \times 10^{11} \ \mathrm{J} \)
-   c) \( 4.42 \times 10^{-15} \ \mathrm{J} \)
-   d) \( 4.42 \times 10^{-18} \ \mathrm{J} \)
-
-3. The energies \( \mathrm{E}_1 \) and \( \mathrm{E}_2 \) of two radiations are \( 25 \ \mathrm{eV} \) and \( 50 \ \mathrm{eV} \) respectively. The relation between their wavelengths \( \lambda_1 \) and \( \lambda_2 \) will be
-   a) \( \lambda_1 = \lambda_2 \)
-   b) \( \lambda_1 = 2\lambda_2 \)
-   c) \( \lambda_1 = \sqrt{25 \times 50} \ \lambda_2 \)
-   d) \( 2\lambda_1 = \lambda_2 \)
-
-4. Splitting of spectral lines in an electric field is called
-   a) Zeeman effect
-   b) Shielding effect
-   c) Compton effect
-   d) Stark effect
-
-5. Based on equation \( \mathrm{E} = -2.178 \times 10^{-18} \ \mathrm{J} \left( \frac{z^2}{n^2} \right) \), certain conclusions are written. Which of them is not correct? (NEET)
-   a) Equation can be used to calculate the change in energy when the electron changes orbit
-   b) For \( n = 1 \), the electron has a more negative energy than it does for \( n = 6 \) which means that the electron is more loosely bound in the smallest allowed orbit
-   c) The negative sign in equation simply means that the energy of electron bound to the nucleus is lower than it would be if the electrons were at the infinite distance from the nucleus
-   d) Larger the value of \( n \), the larger is the orbit radius
-
-6. According to the Bohr Theory, which of the following transitions in the hydrogen atom will give rise to the least energetic photon?
-   a) \( n = 6 \) to \( n = 1 \)
-   b) \( n = 5 \) to \( n = 4 \)
-   c) \( n = 5 \) to \( n = 3 \)
-   d) \( n = 6 \) to \( n = 5 \)
-
-7. Assertion: The spectrum of \( \mathrm{He}^+ \) is expected to be similar to that of hydrogen.
-   Reason: \( \mathrm{He}^+ \) is also one electron system.
-   a) If both assertion and reason are true and reason is the correct explanation of assertion.
-   b) If both assertion and reason are true but reason is not the correct explanation of assertion.
-   c) If assertion is true but reason is false
-   d) If both assertion and reason are false
-
-8. Which of the following pairs of d-orbitals will have electron density along the axes? (NEET Phase - II)
-   a) \( d_{z^2}, d_{xz} \)
-   b) \( d_{xz}, d_{yz} \)
-   c) \( d_{z^2}, d_{x^2-y^2} \)
-   d) \( d_{xy}, d_{x^2-y^2} \)
-
-9. Two electrons occupying the same orbital are distinguished by
-   a) azimuthal quantum number
-   b) spin quantum number
-   c) magnetic quantum number
-   d) orbital quantum number
-
-10. The electronic configuration of Eu (Atomic no. 63), Gd (Atomic no. 64) and Tb (Atomic no. 65) are (NEET - Phase II)
-    a) \( [\mathrm{Xe}] 4f^6 5d^1 6s^2, [\mathrm{Xe}] 4f^7 5d^1 6s^2, [\mathrm{Xe}] 4f^8 5d^1 6s^2 \)
-    b) \( [\mathrm{Xe}] 4f^7 6s^2, [\mathrm{Xe}] 4f^7 5d^1 6s^2, [\mathrm{Xe}] 4f^9 6s^2 \)
-    c) \( [\mathrm{Xe}] 4f^7 6s^2, [\mathrm{Xe}] 4f^8 6s^2, [\mathrm{Xe}] 4f^8 5d^1 6s^2 \)
-    d) \( [\mathrm{Xe}] 4f^6 5d^1 6s^2, [\mathrm{Xe}] 4f^7 5d^1 6s^2, [\mathrm{Xe}] 4f^9 6s^2 \)
-
-11. The maximum number of electrons in a subshell is given by the expression
-    a) \( 2n^2 \)
-    b) \( 2l + 1 \)
-    c) \( 4l + 2 \)
-    d) none of these
-
-12. For d-electron, the orbital angular momentum is
-    a) \( \frac{2h}{2\pi} \)
-    b) \( \frac{2h}{2\pi} \)
-    c) \( \frac{2 \times 4h}{2\pi} \)
-    d) \( \frac{\sqrt{6}h}{2\pi} \)
-
-13. What is the maximum number of electrons that can be associated with the following set of quantum numbers? \( n = 3, l = 1 \) and \( m = -1 \)
-    a) 4
-    b) 6
-    c) 2
-    d) 10
-
-14. Assertion: Number of radial and angular nodes for 3p orbital are 1, 1 respectively.
-    Reason: Number of radial and angular nodes depends only on principal quantum number.
-    a) both assertion and reason are true and reason is the correct explanation of assertion.
-    b) both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false
-    d) both assertion and reason are false
-
-15. The total number of orbitals associated with the principal quantum number \( n = 3 \) is
-    a) 9
-    b) 8
-    c) 5
-    d) 7
-
-16. If \( n = 6 \), the correct sequence for filling of electrons will be,
-    a) \( ns \rightarrow (n-2)f \rightarrow (n-1)d \rightarrow np \)
-    b) \( ns \rightarrow (n-1)d \rightarrow (n-2)f \rightarrow np \)
-    c) \( ns \rightarrow (n-2)f \rightarrow np \rightarrow (n-1)d \)
-    d) none of these are correct
-
-17. Consider the following sets of quantum numbers:
-
-| | n | l | m | s |
-|---|---|---|---|---|
-| (i) | 3 | 0 | 0 | +1/2 |
-| (ii) | 2 | 2 | 1 | -1/2 |
-| (iii) | 4 | 3 | -2 | +1/2 |
-| (iv) | 1 | 0 | -1 | +1/2 |
-| (v) | 3 | 4 | 3 | -1/2 |
-
-Which of the following sets of quantum number(s) is/are not valid?
-a) (i), (ii) & (iii)
-b) (ii), (iv) & (v)
-c) (i) & (iii)
-d) (ii), (iii) & (v)
-
----
-
-### II. Answer the following questions
-
-26. Which quantum number reveal information about the shape, energy, orientation and size of orbitals?
-
-27. How many orbitals are possible for \( n = 4 \)?
-
-28. How many radial nodes for 2s, 4p, 5d and 4f orbitals exhibit? How many angular nodes?
-
-29. The stabilisation of a half filled d-orbital is more pronounced than that of the p-orbital why?
-
-30. Consider the following electronic arrangements for the \( d^5 \) configuration.
-    (i) which of these represents the ground state
-    (ii) which configuration has the maximum exchange energy.
-
-31. State and explain Pauli exclusion principle.
-
-32. Define orbital. What are the n and l values for \( 3p_x \) and \( 4d_{x^2-y^2} \) electron?
-
-33. Explain briefly the time independent Schrödinger wave equation.
-
-34. Calculate the uncertainty in position of an electron, if \( \Delta v = 0.1\% \) and \( v = 2.2 \times 10^6 \ \mathrm{ms^{-1}} \).
-
-35. Determine the values of all the four quantum numbers of the \( 8^{\text{th}} \) electron in O-atom and \( 15^{\text{th}} \) electron in Cl atom.
-
-36. The quantum mechanical treatment of the hydrogen atom gives the energy value:
-
-$$
-\mathrm{E}_n = \frac{-13.6}{n^2} \ \mathrm{eV \ atom}^{-1}
-$$
-
-i) use this expression to find \( \Delta \mathrm{E} \) between \( n = 3 \) and \( n = 4 \)
-ii) Calculate the wavelength corresponding to the above transition.
-
-37. How fast must a \( 54 \ \mathrm{g} \) tennis ball travel in order to have a de Broglie wavelength that is equal to that of a photon of green light \( 5400 \ \mathrm{\AA} \)?
-
-38. For each of the following, give the sub level designation, the allowable m values and the number of orbitals:
-    i) \( n = 4, l = 2 \)
-    ii) \( n = 5, l = 3 \)
-    iii) \( n = 7, l = 0 \)
-
-39. Give the electronic configuration of \( \mathrm{Mn}^{2+} \) and \( \mathrm{Cr}^{3+} \).
-
-40. Describe the Aufbau principle.
-
-41. An atom of an element contains 35 electrons and 45 neutrons. Deduce:
-    i) the number of protons
-    ii) the electronic configuration for the element
-    iii) all the four quantum numbers for the last electron
-
-42. Show that the circumference of the Bohr orbit for the hydrogen atom is an integral multiple of the de Broglie wavelength associated with the electron revolving around the nucleus.
-
-43. Calculate the energy required for the process:
-
-$$
-\mathrm{He}^{+}(\mathrm{g}) \rightarrow \mathrm{He}^{2+}(\mathrm{g}) + \mathrm{e}^-
-$$
-
-The ionisation energy for the H atom in its ground state is -13.6 eV atom \( ^{-1} \).
-
-44. An ion with mass number 37 possesses unit negative charge. If the ion contains \( 11.1\% \) more neutrons than electrons. Find the symbol of the ion.
-
-45. The \( \mathrm{Li}^{2+} \) ion is a hydrogen like ion that can be described by the Bohr model. Calculate the Bohr radius of the third orbit and calculate the energy of an electron in \( 4^{\text{th}} \) orbit.
-
-46. Protons can be accelerated in particle accelerators. Calculate the wavelength (in \( \mathrm{\AA} \)) of such accelerated proton moving at \( 2.85 \times 10^8 \ \mathrm{ms^{-1}} \) (the mass of proton is \( 1.673 \times 10^{-27} \ \mathrm{kg} \)).
-
-47. What is the de Broglie wavelength (in cm) of a \( 160 \ \mathrm{g} \) cricket ball travelling at \( 140 \ \mathrm{km \ hr^{-1}} \)?
-
-48. Suppose that the uncertainty in determining the position of an electron in an orbit is 0.6 Å. What is the uncertainty in its momentum?
-
-49. Show that if the measurement of the uncertainty in the location of the particle is equal to its de Broglie wavelength, the minimum uncertainty in its velocity \( (\Delta v) \) is equal to \( \frac{1}{4\pi} \) of its velocity (v).
-
-50. What is the de Broglie wavelength of an electron, which is accelerated from rest, through a potential difference of \( 100 \ \mathrm{V} \)?
-
-51. Identify the missing quantum numbers and the sub energy level:
-
-| n | l | m | Sub energy level |
-|---|---|---|---|
-| ? | ? | 0 | 4d |
-| 3 | 1 | 0 | ? |
-| ? | ? | ? | 5p |
-| ? | 2 | -2 | 3d |

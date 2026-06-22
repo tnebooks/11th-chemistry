@@ -11,11 +11,15 @@ summary: "This unit explains the behavior and properties of gases using concepts
 
 <center><strong>So many properties of matter, especially when in gaseous form, can be deduced from hypothesis that their minute parts are in rapid motion, the velocity increasing with temperature, that the precise nature of this motion becomes a subject of rational curiosity.</strong></center>
 
-<center><strong>Jacques Charles (1746-1823)</strong></center>
+**- James Clerk Maxwell**
 
+![](image.png)
+<center><strong>Jacques Charles (1746-1823)</strong></center>
 ## 6.1 Introduction
 
 We can survive for weeks without food, days without water, but only minutes without air. Thus, we inhale a lungful of air every few seconds, keep some of the molecules for our own end, and some of the molecules that our body no longer needs, and exhale the mixture back into the surrounding air. The air around us is in the gaseous state, which is the simplest of the states of matter. Although the chemical behaviour of gases depends on their composition, all the gases have remarkably similar physical behaviour.
+
+**Do You Know**
 
 **Do you know the difference between gas and vapour?**
 
@@ -109,7 +113,13 @@ where "m" is the mass, \( \mathrm{d_1} \) and \( \mathrm{d_2} \) are the densiti
 
 In other words, the density of a gas is directly proportional to pressure.
 
+**Do You Know**
+
+**All the passenger aeroplane cabins have to be artificially pressurised. do you know why?**
+
 Most commercial aeroplanes fly at about 30,000 feet altitude. The pressure decreases with the increase in altitude as there are fewer molecules per unit volume of air. Hence, while at air, the pressure around the aeroplane will be so low that one could pass out for lack of oxygen. For this reason aeroplanes cabins are artificially pressurized.
+
+![](image-1.png)
 
 Similarly, the effect of drop in pressure is felt as a little pain in the ears by a person while ascending a mountain in a plain. Though the external pressure drops, the internal pressure within the ear cavities remains the same. This creates an imbalance. The greater internal pressure forces the eardrum to bulge outward causing pain. The excess air within the ear cavities escapes after some time and with the help of yawning and thereby equalizing the internal and external pressure to relieve the pain.
 
@@ -508,6 +518,14 @@ When diffusing gases are at different pressures \( (\mathrm{P_A}, \mathrm{P_B}) 
 
 where \( r_{\mathrm{A}} \) and \( r_{\mathrm{B}} \) are the rates of diffusion of A and B and \( M_{\mathrm{A}} \) and \( M_{\mathrm{B}} \) are their respective molar masses.
 
+**Do You Know**
+
+Graham’s Law forms the
+basis of the process of
+enriching the isotopes
+of U235 from other
+isotopes
+
 **Example:**
 
 1. An unknown gas diffuses at a rate of 0.5 time that of nitrogen at the same temperature and pressure. Calculate the molar mass of the unknown gas.
@@ -887,266 +905,3 @@ T_c = \frac{8a}{27Rb}, \quad P_c = \frac{a}{27b^2} \quad \text{and} \quad V_c = 
 When a gas is made to expand adiabatically from a region of high pressure into a region of low pressure, the temperature of the gas is reduced rapidly and this is known as Joule-Thomson effect. This effect is used in the liquefaction of gases.
 
 ---
-
-## Questions
-
-### I. Choose the best answer
-
-1. Gases deviate from ideal behavior at high pressure. Which of the following statement(s) is correct for non-ideality?
-   a) at high pressure the collision between the gas molecule become enormous
-   b) at high pressure the gas molecules move only in one direction
-   c) at high pressure, the volume of gas become insignificant
-   d) at high pressure the intermolecular interactions become significant
-
-2. Rate of diffusion of a gas is
-   a) directly proportional to its density
-   b) directly proportional to its molecular weight
-   c) directly proportional to its square root of its molecular weight
-   d) inversely proportional to the square root of its molecular weight
-
-3. Which of the following is the correct expression for the equation of state of van der Waals gas?
-   a) \( \left(P + \frac{a}{n^2V^2}\right)(V - nb) = nRT \)
-   b) \( \left(P + \frac{na}{n^2V^2}\right)(V - nb) = nRT \)
-   c) \( \left(P + \frac{an^2}{V^2}\right)(V - nb) = nRT \)
-   d) \( \left(P + \frac{n^2a^2}{V^2}\right)(V - nb) = nRT \)
-
-4. When an ideal gas undergoes unrestrained expansion, no cooling occurs because the molecules
-   a) are above inversion temperature
-   b) exert no attractive forces on each other
-   c) do work equal to the loss in kinetic energy
-   d) collide without loss of energy
-
-5. Equal weights of methane and oxygen are mixed in an empty container at 298 K. The fraction of total pressure exerted by oxygen is
-   a) \( \frac{1}{3} \)
-   b) \( \frac{1}{2} \)
-   c) \( \frac{2}{3} \)
-   d) \( \frac{1}{3} \times \frac{273}{298} \)
-
-6. The temperature at which real gases obey the ideal gas laws over a wide range of pressure is called
-   a) Critical temperature
-   b) Boyle temperature
-   c) Inversion temperature
-   d) Reduced temperature
-
-7. In a closed room of \( 1000 \ \mathrm{m^3} \) a perfume bottle is opened up. The room develops a smell. This is due to which property of gases?
-   a) Viscosity
-   b) Density
-   c) Diffusion
-   d) None
-
-8. A bottle of ammonia and a bottle of HCl connected through a long tube are opened simultaneously at both ends. The white ammonium chloride ring first formed will be
-   a) At the center of the tube
-   b) Near the hydrogen chloride bottle
-   c) Near the ammonia bottle
-   d) Throughout the length of the tube
-
-9. The value of universal gas constant depends upon
-   a) Temperature of the gas
-   b) Volume of the gas
-   c) Number of moles of the gas
-   d) units of Pressure and volume
-
-10. The value of the gas constant R is
-    a) \( 0.082 \ \mathrm{dm^3 \ atm} \)
-    b) \( 0.987 \ \mathrm{cal \ mol^{-1} \ K^{-1}} \)
-    c) \( 8.3 \ \mathrm{J \ mol^{-1} \ K^{-1}} \)
-    d) \( 8 \ \mathrm{erg \ mol^{-1} \ K^{-1}} \)
-
-11. Use of hot air balloon in sports and meteorological observation is an application of
-    a) Boyle's law
-    b) Newton's law
-    c) Kelvin's law
-    d) Brown's law
-
-12. The table indicates the value of van der Waals constant 'a' in \( (\mathrm{dm^3})^2 \ \mathrm{atm \ mol^{-2}} \)
-
-| Gas | \( \mathrm{O_2} \) | \( \mathrm{N_2} \) | \( \mathrm{NH_3} \) | \( \mathrm{CH_4} \) |
-|-----|------|------|------|------|
-| a | 1.360 | 1.390 | 4.170 | 2.253 |
-
-The gas which can be most easily liquefied is
-a) \( \mathrm{O_2} \)
-b) \( \mathrm{N_2} \)
-c) \( \mathrm{NH_3} \)
-d) \( \mathrm{CH_4} \)
-
-13. Consider the following statements
-    i) Atmospheric pressure is less at the top of a mountain than at sea level
-    ii) Gases are much more compressible than solids or liquids
-    iii) When the atmospheric pressure increases the height of the mercury column rises
-    Select the correct statement
-    a) I and II
-    b) II and III
-    c) I and III
-    d) I, II and III
-
-14. Compressibility factor for \( \mathrm{CO_2} \) at \( 400 \ \mathrm{K} \) and \( 71.0 \ \mathrm{bar} \) is \( 0.8697 \). The molar volume of \( \mathrm{CO_2} \) under these conditions is
-    a) \( 22.04 \ \mathrm{dm^3} \)
-    b) \( 2.24 \ \mathrm{dm^3} \)
-    c) \( 0.41 \ \mathrm{dm^3} \)
-    d) \( 19.5 \ \mathrm{dm^3} \)
-
-15. If temperature and volume of an ideal gas is increased to twice its values, the initial pressure P becomes
-    a) 4P
-    b) 2P
-    c) P
-    d) 3P
-
-16. At identical temperature and pressure, the rate of diffusion of hydrogen gas is \( 3\sqrt{3} \) times that of a hydrocarbon having molecular formula \( \mathrm{C_nH_{2n-2}} \). What is the value of n?
-    a) 8
-    b) 4
-    c) 3
-    d) 1
-
-17. Equal moles of hydrogen and oxygen gases are placed in a container, with a pin-hole through which both can escape what fraction of oxygen escapes in the time required for one-half of the hydrogen to escape. (NEET phase I)
-    a) \( \frac{3}{8} \)
-    b) \( \frac{1}{2} \)
-    c) \( \frac{1}{8} \)
-    d) \( \frac{1}{4} \)
-
-18. The variation of volume V, with temperature T, keeping pressure constant is called the coefficient of thermal expansion i.e., \( \alpha = \frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_p \). For an ideal gas \( \alpha \) is equal to
-    a) T
-    b) \( \frac{1}{T} \)
-    c) P
-    d) none of these
-
-19. Four gases P, Q, R and S have almost same values of 'b' but their 'a' values (a, b are Vander Waals Constants) are in the order \( Q < R < S < P \). At a particular temperature, among the four gases the most easily liquefiable one is
-    a) P
-    b) Q
-    c) R
-    d) S
-
-20. Maximum deviation from ideal gas is expected from (NEET)
-    a) \( \mathrm{CH_4(g)} \)
-    b) \( \mathrm{NH_3(g)} \)
-    c) \( \mathrm{H_2(g)} \)
-    d) \( \mathrm{N_2(g)} \)
-
-21. The units of Vander Waals constants 'b' and 'a' respectively
-    a) \( \mathrm{mol \ L^{-1}} \) and \( \mathrm{L \ atm^2 \ mol^{-1}} \)
-    b) \( \mathrm{mol \ L} \) and \( \mathrm{L \ atm \ mol^2} \)
-    c) \( \mathrm{mol^{-1} \ L} \) and \( \mathrm{L^2 \ atm \ mol^{-2}} \)
-    d) none of these
-
-22. Assertion: Critical temperature of \( \mathrm{CO_2} \) is 304 K, it can be liquefied above 304 K.
-    Reason: For a given mass of gas, volume is directly proportional to pressure at constant temperature
-    a) both assertion and reason are true and reason is the correct explanation of assertion
-    b) both assertion and reason are true but reason is not the correct explanation of assertion
-    c) assertion is true but reason is false
-    d) assertion is false but reason is true
-
-23. What is the density of \( \mathrm{N_2} \) gas at \( 227^{\circ}\mathrm{C} \) and \( 5.00 \ \mathrm{atm} \) pressure? \( \mathrm{R} = 0.082 \ \mathrm{L \ atm \ K^{-1} \ mol^{-1}} \)
-    a) \( 1.40 \ \mathrm{g/L} \)
-    b) \( 2.81 \ \mathrm{g/L} \)
-    c) \( 3.41 \ \mathrm{g/L} \)
-    d) \( 0.29 \ \mathrm{g/L} \)
-
-24. Which of the following diagrams correctly describes the behaviour of a fixed mass of an ideal gas? (T is measured in K)
-
-25. \( 25 \ \mathrm{g} \) of each of the following gases are taken at \( 27^{\circ}\mathrm{C} \) and \( 600 \ \mathrm{mmHg} \) pressure. Which of these will have the least volume?
-    a) HBr
-    b) HCl
-    c) HF
-    d) HI
-
----
-
-### II. Answer the following questions
-
-26. State Boyle's law.
-
-27. Name two items that can serve as a model for Gay Lussac's law and explain.
-
-28. Give the mathematical expression that relates gas volume and moles.
-
-29. What are ideal gases? In what way real gases differ from ideal gases.
-
-30. Can a Van der Waals gas with \( a = 0 \) be liquefied? explain.
-
-31. Suppose there is a tiny sticky area on the wall of a container of gas. Molecules hitting this area stick there permanently. Is the pressure greater or less than on the ordinary area of walls?
-
-32. Explain the following observations
-    a) Aerated water bottles are kept under water during summer
-    b) Liquid ammonia bottle is cooled before opening the seal
-    c) The tyre of an automobile is inflated to slightly lesser pressure in summer than in winter
-    d) The size of a weather balloon becomes larger and larger as it ascends up into larger altitude
-
-33. Give suitable explanation for the following facts about gases.
-    a) Gases don't settle at the bottom of a container
-    b) Gases diffuse through all the space available to them
-
-34. Suggest why there is no hydrogen \( \mathrm{(H_2)} \) in our atmosphere. Why does the moon have no atmosphere?
-
-35. Explain whether a gas approaches ideal behavior or deviates from ideal behaviour if
-    a) it is compressed to a smaller volume at constant temperature.
-    b) the temperature is raised while keeping the volume constant
-    c) more gas is introduced into the same volume and at the same temperature
-
-36. Which of the following gases would you expect to deviate from ideal behaviour under conditions of low temperature \( \mathrm{F_2} \), \( \mathrm{Cl_2} \) or \( \mathrm{Br_2} \)? Explain.
-
-37. Distinguish between diffusion and effusion.
-
-38. Aerosol cans carry clear warning of heating of the can. Why?
-
-39. Would it be easier to drink water with a straw on the top of Mount Everest?
-
-40. Write the Van der Waals equation for a real gas. Explain the correction term for pressure and volume.
-
-41. Derive the values of critical constants in terms of van der Waals constants.
-
-42. Why do astronauts have to wear protective suits when they are on the surface of moon?
-
-43. When ammonia combines with HCl, \( \mathrm{NH_4Cl} \) is formed as white dense fumes. Why do more fumes appear near HCl?
-
-44. A sample of gas at \( 15^{\circ}\mathrm{C} \) at 1 atm has a volume of \( 2.58 \ \mathrm{dm^3} \). When the temperature is raised to \( 38^{\circ}\mathrm{C} \) at 1 atm does the volume of the gas increase? If so, calculate the final volume.
-
-45. A sample of gas has a volume of \( 8.5 \ \mathrm{dm^3} \) at an unknown temperature. When the sample is submerged in ice water at \( 0^{\circ}\mathrm{C} \), its volume gets reduced to \( 6.37 \ \mathrm{dm^3} \). What is its initial temperature?
-
-46. Of two samples of nitrogen gas, sample A contains 1.5 moles of nitrogen in a vessel of volume \( 37.6 \ \mathrm{dm^3} \) at \( 298 \ \mathrm{K} \), and the sample B is in a vessel of volume \( 16.5 \ \mathrm{dm^3} \) at \( 298 \ \mathrm{K} \). Calculate the number of moles in sample B.
-
-47. Sulphur hexafluoride is a colourless, odourless gas; calculate the pressure exerted by 1.82 moles of the gas in a steel vessel of volume \( 5.43 \ \mathrm{dm^3} \) at \( 69.5^{\circ}\mathrm{C} \), assuming ideal gas behaviour.
-
-48. Argon is an inert gas used in light bulbs to retard the vaporization of the tungsten filament. A certain light bulb containing argon at 1.2 atm and \( 18^{\circ}\mathrm{C} \) is heated to \( 85^{\circ}\mathrm{C} \) at constant volume. Calculate its final pressure in atm.
-
-49. A small bubble rises from the bottom of a lake where the temperature and pressure are \( 6^{\circ}\mathrm{C} \) and 4 atm to the water surface, where the temperature is \( 25^{\circ}\mathrm{C} \) and pressure is 1 atm. Calculate the final volume in (mL) of the bubble, if its initial volume is \( 1.5 \ \mathrm{mL} \).
-
-50. Hydrochloric acid is treated with a metal to produce hydrogen gas. Suppose a student carries out this reaction and collects a volume of \( 154.4 \times 10^{-3} \ \mathrm{dm^3} \) of a gas at a pressure of \( 742 \ \mathrm{mm} \) of Hg at a temperature of \( 298 \ \mathrm{K} \). What mass of hydrogen gas (in mg) did the student collect?
-
-51. It takes 192 sec for an unknown gas to diffuse through a porous wall and 84 sec for \( \mathrm{N_2} \) gas to effuse at the same temperature and pressure. What is the molar mass of the unknown gas?
-
-52. A tank contains a mixture of \( 52.5 \ \mathrm{g} \) of oxygen and \( 65.1 \ \mathrm{g} \) of \( \mathrm{CO_2} \) at \( 300 \ \mathrm{K} \). The total pressure in the tank is 9.21 atm. Calculate the partial pressure (in atm) of each gas in the mixture.
-
-53. A combustible gas is stored in a metal tank at a pressure of 2.98 atm at \( 25^{\circ}\mathrm{C} \). The tank can withstand a maximum pressure of 12 atm after which it will explode. The building in which the tank has been stored catches fire. Now predict whether the tank will blow up first or start melting? (Melting point of the metal \( = 1100 \ \mathrm{K} \)).
-
----
-
-### Summary of Gas Laws
-
-1. Boyle's Law - \( P \propto \frac{1}{V} \) (\( T, n \) constant)
-2. Charles Law - \( V \propto T \) (\( P, n \) constant)
-3. Gay Lussac - \( P \propto T \) (\( V, n \) constant)
-4. Avogadro's Hypothesis - \( V \propto n \) (\( T, P \) constant)
-5. Ideal gas equation - \( PV = nRT \)
-
----
-
-## ICT Corner
-
-### Properties of Gases
-
-By using this tool you will be able to understand the relationship between T, P and V of gases and verify the gas laws.
-
-Please go to the URL https://phet.colorado.edu/en/simulation/gas-properties (or) Scan the QR code.
-
-**Step-1:** Open the Browser and type the URL given (or) Scan the QR Code. In the website click the gas properties applet, then you will see a Java applet named 'gas properties' opening up as shown in the figure.
-
-**Set up instructions:**
-- In the chamber you can pump some gas molecules by using the pump handle.
-- The temperature and pressure of the gas molecules in the chamber can be monitored by using the corresponding gauges.
-- The volume of the chamber can be altered by moving the left side wall.
-- The temperature of the chamber can be altered by heating or cooling using the slider.
-- Any of the three properties can be kept as constant by making appropriate selections in the box.
-
-**Verifying the gas laws:**
-
-By using the above instructions you can understand the gas laws. To understand the Boyle's law, keep the temperature constant and pump few molecules of gas and keep it as constant. Now reduce the volume by pushing the left side wall then you can see that the pressure of the gas increases. Similarly the other two gas laws can also be verified.

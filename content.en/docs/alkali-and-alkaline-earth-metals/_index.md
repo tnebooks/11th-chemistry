@@ -9,11 +9,7 @@ summary: "This unit explains the properties and trends of alkali and alkaline ea
 
 # 5. s-Block Elements
 
-<center>Rock salt</center>
-
-<center>Sylvite</center>
-
-<center>Spodumene</center>
+![](image.png)
 
 ## 5.1 s-Block Elements
 
@@ -338,7 +334,9 @@ Sodium carbonate, commonly known as washing soda, crystallises as decahydrate wh
 ##### Uses
 
 i. Sodium carbonate known as washing soda and is used mainly for laundering.
+
 ii. It is also used in water treatment to convert the hard water to soft water.
+
 iii. It is used in the manufacturing of glass, paper, paint etc.
 
 ##### Sodium chloride NaCl (Cooking salt or Table salt)
@@ -350,6 +348,7 @@ Sodium chloride melts at \( 1081\mathrm{K} \). It has a solubility of \( 36.0\ma
 ##### Uses
 
 (i) It is used as a common salt or table salt for domestic purpose.
+
 (ii) It is used for the preparation of many inorganic compounds such as NaOH and \( \mathrm{Na}_{2}\mathrm{CO}_{3} \).
 
 ##### Sodium hydroxide
@@ -368,7 +367,11 @@ Sodium hydroxide is a white, translucent and deliquescent solid, that dissolves 
 
 ##### Uses
 
-Sodium hydroxide is used in the purification of bauxite (ore of Aluminium) and petroleum refining. It is used in the textile industries for mercerising cotton fabrics. It is used in the manufacture of soap, paper and artificial silks.
+- Sodium hydroxide is used in the purification of bauxite (ore of Aluminium) and petroleum refining.
+
+- It is used in the textile industries for mercerising cotton fabrics.
+ 
+- It is used in the manufacture of soap, paper and artificial silks.
 
 ##### Sodium bicarbonate \( \mathrm{NaHCO}_{3} \) (Baking soda)
 
@@ -376,7 +379,11 @@ Sodium hydroxide carbonate or sodium bicarbonate is used in baking cakes pastrie
 
 ##### Uses
 
-Primarily used as an ingredient in baking. Sodium hydrogen carbonate is a mild antiseptic for skin infections. It is also used in fire extinguishers.
+- Primarily used as an ingredient in baking.
+
+- Sodium hydrogen carbonate is a mild antiseptic for skin infections.
+
+- It is also used in fire extinguishers.
 
 ### 5.4 Biological importance of sodium and potassium
 
@@ -401,7 +408,10 @@ Group 2 in the modern periodic table contains the elements beryllium, magnesium,
 
 Beryllium is rare and radium is the rarest of all comprising only \( 10\% \) of igneous rocks. Magnesium and calcium are very common in the earth's crust, with calcium the fifth-most-abundant element, and magnesium the eighth. Magnesium and calcium are found in many rocks and minerals: magnesium in carnallite, magnesite, dolomite and calcium in chalk, limestone, gypsum. Most strontium is found in the minerals celestite and strontianite. Barium is slightly less common, much of it in the mineral barite. Radium, being a decay product of uranium, is found in all uranium-bearing ores.
 
-Colours, such as strontium and barium, are the colourful stars of a fireworks show. Combined with the element chlorine, barium sends up a green spark, calcium gives orange and lithium gives medium red. Strontium carbonate gives a bright red colour. Nitrates of sodium gives orange, potassium and rubidium gives violet colour and caesium gives indigo colour. The burning "excites" the electrons, pushing them into higher than normal energy level; they release their extra energy as a colourful burst of light.
+**Do You Know**
+
+![](image-1.png)
+Many alkalineand alkaline earth metals are used in creating Colours, such as strontium and barium, are the colourful stars of a fireworks show. Combined with the element chlorine, barium sends up a green spark, calcium gives orange and lithium gives medium red. Strontium carbonate gives a bright red colour. Nitrates of sodium gives orange, potassium and rubidium gives violet colour and caesium gives indigo colour. The burning "excites" the electrons, pushing them into higher than normal energy level; they release their extra energy as a colourful burst of light.
 
 The blue fireworks are the hardest to make, since the compound copper chloride breaks down in a hot flame. In recent years, fireworks experts have used magnalium - a mixture of the alkaline earth metal magnesium and aluminium - to boost all firework colours. Magnalium has made the blues brighter, but pyro technicians are still searching for a blue as brilliant as the red, green and yellow colours.
 
@@ -446,6 +456,7 @@ Due to a fairly large size of the atoms, alkaline earth metals have low ionisati
 | Density (g cm\(^{-3}\)) | 1.84 | 1.74 | 1.55 | 2.63 | 3.59 |
 | Standard Potential \( E^\circ \) for \( M^+/M \) (V) | -1.97 | -2.36 | -2.84 | -2.89 | -2.92 |
 | Electronegativity (Paulings scale) | 1.6 | 1.2 | 1.0 | 1.0 | 0.9 |
+
 ![](5.9.png)
 <center>Figure 5.6 Variation of ionisation energy - Alkaline earth metals</center>
 
@@ -481,9 +492,10 @@ When the alkaline earth metal salts moistened with concentrated hydrochloric aci
 
 The heat in the flame excites the valence electron to a higher energy level. When it drops back to its actual energy level, the excess energy is emitted as light, whose wavelength is in the visible region as shown in the above table.
 
-#### 5.5.2 Distinctive behavior of beryllium
 ![](5.10.png)
 <center>Figure 5.7: Flame colours of alkaline earth metal salts</center>
+
+#### 5.5.2 Distinctive behavior of beryllium
 
 ![](5.11.png)
 The anomalous properties of beryllium is mainly due to its small size, high electronegativity, high ionisation energy and high polarising power compared to the other elements in the block. The anomalous properties of beryllium compared to other elements of the group are mentioned in Table 5.11
@@ -577,8 +589,9 @@ All the elements except beryllium, combine with hydrogen on heating to form thei
 ##### Uses of strontium
 
 1. \( ^{90}\mathrm{Sr} \) is used in cancer therapy.
-2. \( ^{87}\mathrm{Sr} / ^{86}\mathrm{Sr} \) ratios are commonly used in dating of rocks.
-3. As a radioactive tracer in determining the source of ancient archaeological materials such as timbers and coins.
+2. \( ^{87}\mathrm{Sr} / ^{86}\mathrm{Sr} \) ratios are commonly used in marine investigations as well as in teeth, tracking    animal migrations or in criminal forensics.
+3. Dating of rocks.
+4. As a radioactive tracer in determining the source of ancient archaeological materials such as timbers and coins.
 
 ##### Uses of Barium
 
@@ -728,8 +741,11 @@ Calcium oxide is a white amorphous solid. It has a melting point of \( 2870\math
 Calcium oxide is used
 
 (i) to manufacture cement, mortar and glass.
+
 (ii) in the manufacture of sodium carbonate and slaked lime.
+
 (iii) in the purification of sugar.
+
 (iv) as a drying agent.
 
 #### 5.6.2 Calcium hydroxide
@@ -765,7 +781,9 @@ Milk of lime reacts with chlorine to form hypochlorite, a constituent of bleachi
 Calcium hydroxide is used
 
 (i) in the preparation of mortar, a building material.
+
 (ii) in white wash due to its disinfectant nature.
+
 (iii) in glass making, in tanning industry, in the preparation of bleaching powder and for the purification of sugar.
 
 #### 5.6.3 Gypsum \( \mathrm{CaSO_4 \cdot 2H_2O} \)
@@ -847,219 +865,3 @@ The alkali metals are soft and silvery white in colour with low melting points. 
 The chemistry of alkaline earth metals is similar to alkali metals. However, we observe some differences because of their reduced atomic and ionic sizes and increased cationic charges. Their oxides and hydroxides are less basic than the alkali metal oxides and hydroxides. They also form hydrides and halides with hydrogen and halogens respectively. Industrially important compounds of calcium include calcium oxide (lime), calcium hydroxide (slaked lime), calcium sulphate hemihydrate (Plaster of Paris), calcium carbonate (limestone) and cement. Portland cement is an important constructional material. It is manufactured by heating a pulverised mixture of limestone and clay in a rotary kiln. The clinker thus obtained is mixed with some gypsum \( (2-3\%) \) to give a fine powder of cement. All these substances find variety of uses in different areas.
 
 Monovalent sodium and potassium ions and divalent magnesium and calcium ions are found in large proportions in biological fluids. These ions perform important biological functions such as maintenance of ion balance and nerve impulse conduction.
-
-## Evaluate Yourself
-
-1. For alkali metals, which one of the following trends is incorrect?
-   a) Hydration energy: Li > Na > K > Rb
-   b) Ionisation energy: Li > Na > K > Rb
-   c) Density: Li < Na < K < Rb
-   d) Atomic size: Li < Na < K < Rb
-
-2. Which of the following statements is incorrect?
-   a) \( \mathrm{Li^+} \) has minimum degree of hydration among alkali metal cations.
-   b) The oxidation state of K in \( \mathrm{KO}_2 \) is +1
-   c) Sodium is used to make \( \mathrm{Na / Pb} \) alloy
-   d) \( \mathrm{MgSO}_4 \) is readily soluble in water
-
-3. Which of the following compounds will not evolve \( \mathrm{H}_2 \) gas on reaction with alkali metals?
-   a) ethanoic acid
-   b) ethanol
-   c) phenol
-   d) none of these
-
-4. Which of the following has the highest tendency to give the reaction \( \mathrm{M}^{+}(\mathrm{g}) \xrightarrow{\mathrm{Aqueous}} \mathrm{M}^{+}(\mathrm{aq}) \)
-   a) Na
-   b) Li
-   c) Rb
-   d) K
-
-5. Sodium is stored in
-   a) alcohol
-   b) water
-   c) kerosene
-   d) none of these
-
-6. \( \mathrm{RbO}_2 \) is
-   a) superoxide and paramagnetic
-   b) peroxide and diamagnetic
-   c) superoxide and diamagnetic
-   d) peroxide and paramagnetic
-
-7. Find the wrong statement
-   a) sodium metal is used in organic qualitative analysis
-   b) sodium carbonate is soluble in water and it is used in inorganic qualitative analysis
-   c) potassium carbonate can be prepared by solvay process
-   d) potassium bicarbonate is acidic salt
-
-8. Lithium shows diagonal relationship with
-   a) sodium
-   b) magnesium
-   c) calcium
-   d) aluminium
-
-9. In case of alkali metal halides, the ionic character increases in the order
-   a) \( \mathrm{MF < MCl < MBr < MI} \)
-   b) \( \mathrm{MI < MBr < MCl < MF} \)
-   c) \( \mathrm{MI < MBr < MF < MCl} \)
-   d) none of these
-
-10. In which process, fused sodium hydroxide is electrolysed for extraction of sodium?
-    a) Castner's process
-    b) Cyanide process
-    c) Down process
-    d) All of these
-
-11. The product obtained as a result of a reaction of nitrogen with \( \mathrm{CaC}_2 \) is (NEET - Phase I)
-    a) \( \mathrm{Ca(CN)_3} \)
-    b) \( \mathrm{CaN_2} \)
-    c) \( \mathrm{Ca(CN)_2} \)
-    d) \( \mathrm{Ca_3N_2} \)
-
-12. Which of the following has highest hydration energy
-    a) \( \mathrm{MgCl}_2 \)
-    b) \( \mathrm{CaCl}_2 \)
-    c) \( \mathrm{BaCl}_2 \)
-    d) \( \mathrm{SrCl}_2 \)
-
-13. Match the flame colours of the alkali and alkaline earth metal salts in the bunsen burner
-
-    (p) Sodium (1) Brick red
-
-16. Which is the correct sequence of solubility of carbonates of alkaline earth metals?
-
-    a) \( \mathrm{BaCO_3 > SrCO_3 > CaCO_3 > MgCO_3} \)
-    b) \( \mathrm{MgCO_3 > CaCO_3 > SrCO_3 > BaCO_3} \)
-    c) \( \mathrm{CaCO_3 > BaCO_3 > SrCO_3 > MgCO_3} \)
-    d) \( \mathrm{BaCO_3 > CaCO_3 > SrCO_3 > MgCO_3} \)
-
-17. In context with beryllium, which one of the following statements is incorrect? (NEET Phase - 2)
-    a) It is rendered passive by nitric acid
-    b) It forms \( \mathrm{Be_2C} \)
-    c) Its salts are rarely hydrolysed
-    d) Its hydride is electron deficient and polymeric
-
-18. The suspension of slaked lime in water is known as (NEET Phase - II)
-    a) lime water
-    b) quick lime
-    c) milk of lime
-    d) aqueous solution of slaked lime
-
-19. A colourless solid substance (A) on heating evolved \( \mathrm{CO}_2 \) and also gave a white residue, soluble in water. Residue also gave \( \mathrm{CO}_2 \) when treated with dilute HCl.
-    a) \( \mathrm{Na_2CO_3} \)
-    b) \( \mathrm{NaHCO_3} \)
-    c) \( \mathrm{CaCO_3} \)
-    d) \( \mathrm{Ca(HCO_3)_2} \)
-
-20. The compound (X) on heating gives a colourless gas and a residue that is dissolved in water to obtain (B). Excess of \( \mathrm{CO}_2 \) is bubbled through aqueous solution of B, C is formed. Solid (C) on heating gives back X. (B) is
-    a) \( \mathrm{CaCO_3} \)
-    b) \( \mathrm{Ca(OH)_2} \)
-    c) \( \mathrm{Na_2CO_3} \)
-    d) \( \mathrm{NaHCO_3} \)
-
-21. Which of the following statement is false? (NEET - Phase - I)
-    a) \( \mathrm{Ca}^{2+} \) ions are not important in maintaining the regular beating of the heart
-    b) \( \mathrm{Mg}^{2+} \) ions are important in the green parts of the plants
-    c) \( \mathrm{Mg}^{2+} \) ions form a complex with ATP
-    d) \( \mathrm{Ca}^{2+} \) ions are important in blood clotting
-
-22. The name 'Blue John' is given to which of the following compounds?
-    a) \( \mathrm{CaH}_2 \)
-    b) \( \mathrm{CaF}_2 \)
-    c) \( \mathrm{Ca_3(PO_4)_2} \)
-    d) CaO
-
-23. Formula of Gypsum is
-    a) \( \mathrm{CaSO_4 \cdot 2H_2O} \)
-    b) \( \mathrm{CaSO_4 \cdot 1/2H_2O} \)
-    c) \( \mathrm{3CaSO_4 \cdot H_2O} \)
-    d) \( \mathrm{2CaSO_4 \cdot 2H_2O} \)
-
-24. When \( \mathrm{CaC}_2 \) is heated in atmospheric nitrogen in an electric furnace the compound formed is
-    a) \( \mathrm{Ca(CN)_2} \)
-    b) CaNCN
-    c) \( \mathrm{CaC_2N_2} \)
-    d) \( \mathrm{CaNC_2} \)
-
-25. Among the following the least thermally stable is
-    a) \( \mathrm{K_2CO_3} \)
-    b) \( \mathrm{Na_2CO_3} \)
-    c) \( \mathrm{BaCO_3} \)
-    d) \( \mathrm{Li_2CO_3} \)
-
-### II. Write brief answer to the following questions
-
-26. Why sodium hydroxide is much more water soluble than sodium chloride?
-
-27. Write the chemical equations for the reactions involved in solvay process of preparation of sodium carbonate.
-
-28. An alkali metal (x) forms a hydrated sulphate, \( \mathrm{X_2SO_4 \cdot 10H_2O} \). Is the metal more likely to be sodium (or) potassium.
-
-29. Write balanced chemical equation for each of the following chemical reactions.
-    (i) Lithium metal with nitrogen gas
-    (ii) heating solid sodium bicarbonate
-    (iii) Rubidum with oxygen gas
-    (iv) solid potassium hydroxide with \( \mathrm{CO}_2 \)
-    (v) heating calcium carbonate
-    (vi) heating calcium with oxygen
-
-30. Discuss briefly the similarities between Lithium and Magnesium.
-
-31. Give the systematic names for the following
-    (i) milk of magnesia
-    (ii) lye
-    (iii) lime
-    (iv) Caustic potash
-    (v) washing soda
-    (vi) soda ash
-    (vii) trona
-
-32. Substantiate Lithium fluoride has the lowest solubility among group one metal fluorides.
-
-33. Mention the uses of plaster of paris
-
-34. Beryllium halides are covalent whereas magnesium halides are ionic why?
-
-35. Alkaline earth metal (A), belongs to 3rd period reacts with oxygen and nitrogen to form compound (B) and (C) respectively. It undergoes metal displacement reaction with \( \mathrm{AgNO_3} \) solution to form compound (D). Identify A, B, C and D.
-
-36. Write balanced chemical equation for the following processes
-    (a) heating calcium in oxygen
-    (b) heating calcium carbonate
-    (c) evaporating a solution of calcium hydrogen carbonate
-    (d) heating calcium oxide with carbon
-
-37. Explain the important common features of Group 2 elements.
-
-38. Discuss the similarities between beryllium and aluminium.
-
-39. Why alkaline earth metals are harder than alkali metals.
-
-40. How is plaster of paris prepared?
-
-41. Give the uses of gypsum.
-
-42. Describe briefly the biological importance of Calcium and magnesium.
-
-43. Which would you expect to have a higher melting point, magnesium oxide or magnesium fluoride? Explain your reasoning.
-
-## ICT Corner
-
-# Flame test of alkali and alkaline earth elements (Virtual Lab)
-
-By using this virtual lab you can perform the flame test of different alkali and alkali earth metals and see the colour of the flame produced.
-
-Please go to the URL https://www.newpathonline.com/free-curriculumresources/virtual_lab/Flame_Test/9,12,13,14/1914 (or) Scan the QR code on the right side
-
-## Step-1
-
-Open the Browser and type the URL given (or) Scan the QR Code. Just click the view button on the Flame test panel. This will open a flame test window as shown in the figure.
-
-## Step-2
-
-Follow the instructions to perform a virtual flame test.
-
-1. Click on the wire loop (1).
-2. Move the wire loop to the cleaning solution (2). Click on the cleaning solution. The wire must be cleaned before each test to ensure there is no other salt on the loop.
-3. Move the wire loop to the salt solution you want to test (3). Click on the salt solution.
-4. Move the wire loop to the flame (4) and click on it.
-5. You will see the characteristic colour change in the flame with respect to the metal ion.
