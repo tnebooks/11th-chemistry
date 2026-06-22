@@ -9,7 +9,8 @@ summary: "This unit explains the formation, types, and properties of solutions a
 
 # 9. Solutions
 
-<center>Francois-Marie Raoult</center>
+![](image.png)
+**Francois-Marie Raoult**
 
 Francois-Marie Raoult was a French chemist who conducted research into the behaviour of solutions, especially their physical properties.
 
@@ -207,9 +208,13 @@ Here, \( \mathrm{P_{solute}} \) represents the partial pressure of the gas in va
 
 <center>Figure 9.3 Solubility of HCl gas in cyclohexane at 293 K.</center>
 
+**Do You Know**
+
 ## Why the carbonated drinks are stored in a pressurized container?
 
 We all know that the carbonated beverages contain carbon dioxide dissolved in them. To dissolve the carbon dioxide in these drinks, the \( \mathrm{CO}_{2} \) gas is bubbled through them under high pressure. These containers are sealed to maintain the pressure. When we open these containers at atmospheric pressure, the pressure of the \( \mathrm{CO}_{2} \) drops to the atmospheric level and hence bubbles of \( \mathrm{CO}_{2} \) rapidly escape from the solution and show effervescence. The burst of bubbles is even more noticeable, if the soda bottle is in warm condition.
+
+**Do You Know**
 
 ## Why deep-sea divers use air diluted with helium gas in their air tanks?
 
@@ -547,7 +552,7 @@ From the equation (9.22) the molar mass of the solute \( \mathrm{(M_B)} \) can b
 
 ## Example Problem 3
 
-An aqueous solution of \( 2\% \) nonvolatile solute exerts a pressure of 1.004 bar at \( 100^{\circ}C \). What is the molar mass of the solute?
+An aqueous solution of \( 2\% \) nonvolatile solute exerts a pressure of 1.004 bar at the boiling point of the solvent. What is the molar mass of the solute when PA is 1.013 bar?
 
 \[
 \frac{\Delta P}{P_A^0} = \frac{W_B \times M_A}{M_B \times W_A}
@@ -985,246 +990,3 @@ Osmotic pressure \( (\pi) \) is the pressure which must be applied to the soluti
 #### Abnormal colligative properties
 
 If solutes undergo any association or dissociation in a solution, they exhibit abnormal colligative properties. Van't Hoff factor explains quantitatively the extent of association or dissociation of solutes in solvent.
-
-## Evaluation
-
-### I. Choose the best answer.
-
-1. The molality of a solution containing \( 1.8 \ \mathrm{g} \) of glucose dissolved in \( 250 \ \mathrm{g} \) of water is
-   a) \( 0.2 \ \mathrm{M} \)
-   b) \( 0.01 \ \mathrm{M} \)
-   c) \( 0.02 \ \mathrm{M} \)
-   d) \( 0.04 \ \mathrm{M} \)
-
-2. Which of the following concentration terms is / are independent of temperature
-   a) molality
-   b) molarity
-   c) mole fraction
-   d) (a) and (c)
-
-3. Stomach acid, a dilute solution of HCl can be neutralised by reaction with Aluminium hydroxide
-   \[
-   \mathrm{Al(OH)_3 + 3HCl(aq) \rightarrow AlCl_3 + 3H_2O}
-   \]
-   How many millilitres of \( 0.1 \ \mathrm{M} \ \mathrm{Al(OH)_3} \) solution are needed to neutralise \( 21 \ \mathrm{mL} \) of \( 0.1 \ \mathrm{M} \ \mathrm{HCl} \)?
-   a) \( 14 \ \mathrm{mL} \)
-   b) \( 7 \ \mathrm{mL} \)
-   c) \( 21 \ \mathrm{mL} \)
-   d) none of these
-
-4. The partial pressure of nitrogen in air is 0.76 atm and its Henry's law constant is \( 7.6 \times 10^{4} \) atm at \( 300 \ \mathrm{K} \). What is the mole fraction of nitrogen gas in the solution obtained when air is bubbled through water at \( 300 \ \mathrm{K} \)?
-   a) \( 1 \times 10^{-4} \)
-   b) \( 1 \times 10^{-6} \)
-   c) \( 2 \times 10^{-5} \)
-   d) \( 1 \times 10^{-5} \)
-
-5. The Henry's law constant for the solubility of Nitrogen gas in water at \( 350 \ \mathrm{K} \) is \( 8 \times 10^{4} \) atm. The mole fraction of nitrogen in air is 0.5. The number of moles of Nitrogen from air dissolved in 10 moles of water at \( 350 \ \mathrm{K} \) and 4 atm pressure is
-   a) \( 4 \times 10^{-4} \)
-   b) \( 4 \times 10^{4} \)
-   c) \( 2 \times 10^{-2} \)
-   d) \( 2.5 \times 10^{-4} \)
-
-6. Which one of the following is incorrect for ideal solution?
-   a) \( \Delta \mathrm{H_{mix}} = 0 \)
-   b) \( \Delta \mathrm{U_{mix}} = 0 \)
-   c) \( \Delta \mathrm{P} = \mathrm{P_{observed}} - \mathrm{P_{calculated \ by \ Raoults \ law}} = 0 \)
-   d) \( \Delta \mathrm{G_{mix}} = 0 \)
-
-7. Which one of the following gases has the lowest value of Henry's law constant?
-   a) \( \mathrm{N_2} \)
-   b) \( \mathrm{He} \)
-   c) \( \mathrm{CO_2} \)
-   d) \( \mathrm{H_2} \)
-
-8. \( \mathrm{P_1} \) and \( \mathrm{P_2} \) are the vapour pressures of pure liquid components, 1 and 2 respectively of an ideal binary solution if \( \mathbf{x_1} \) represents the mole fraction of component 1, the total pressure of the solution formed by 1 and 2 will be
-   a) \( \mathrm{P_1 + x_1(P_2 - P_1)} \)
-   b) \( \mathrm{P_2 - x_1(P_2 + P_1)} \)
-   c) \( \mathrm{P_1 - x_2(P_1 - P_2)} \)
-   d) \( \mathrm{P_1 + x_2(P_1 - P_2)} \)
-
-9. Osmotic pressure \( (\pi) \) of a solution is given by the relation
-   a) \( \pi = \mathrm{nRT} \)
-   b) \( \pi \mathrm{V} = \mathrm{nRT} \)
-   c) \( \pi \mathrm{RT} = \mathrm{n} \)
-   d) none of these
-
-10. Which one of the following binary liquid mixtures exhibits positive deviation from Raoults law?
-    a) Acetone + chloroform
-    b) Water + nitric acid
-    c) HCl + water
-    d) ethanol + water
-
-11. The Henry's law constants for two gases A and B are \( \mathbf{x} \) and \( \mathbf{y} \) respectively. The ratio of mole fractions of A to B is 0.2. The ratio of mole fraction of B and A dissolved in water will be
-    a) \( \frac{2x}{y} \)
-    b) \( \frac{y}{0.2x} \)
-    c) \( \frac{0.2x}{y} \)
-    d) \( \frac{5x}{y} \)
-
-12. At \( 100^{\circ}C \) the vapour pressure of a solution containing \( 6.5 \ \mathrm{g} \) a solute in \( 100 \ \mathrm{g} \) water is \( 732 \ \mathrm{mm} \). If \( \mathrm{K_b} = 0.52 \), the boiling point of this solution will be
-    a) \( 102^{\circ}C \)
-    b) \( 100^{\circ}C \)
-    c) \( 101^{\circ}C \)
-    d) \( 100.52^{\circ}C \)
-
-13. According to Raoults law, the relative lowering of vapour pressure for a solution is equal to
-    a) mole fraction of solvent
-    b) mole fraction of solute
-    c) number of moles of solute
-    d) number of moles of solvent
-
-14. At same temperature, which pair of the following solutions are isotonic?
-    a) \( 0.2 \ \mathrm{M} \ \mathrm{BaCl_2} \) and \( 0.2 \ \mathrm{M} \) urea
-    b) \( 0.1 \ \mathrm{M} \) glucose and \( 0.2 \ \mathrm{M} \) urea
-    c) \( 0.1 \ \mathrm{M} \) NaCl and \( 0.1 \ \mathrm{M} \ \mathrm{K_2SO_4} \)
-    d) \( 0.1 \ \mathrm{M} \ \mathrm{Ba(NO_3)_2} \) and \( 0.1 \ \mathrm{M} \ \mathrm{Na_2SO_4} \)
-
-15. The empirical formula of a non-electrolyte(X) is \( \mathrm{CH_2O} \). A solution containing six gram of X exerts the same osmotic pressure as that of \( 0.025 \ \mathrm{M} \) glucose solution at the same temperature. The molecular formula of X is
-    a) \( \mathrm{C_2H_4O_2} \)
-    b) \( \mathrm{C_8H_{16}O_8} \)
-    c) \( \mathrm{C_4H_8O_4} \)
-    d) \( \mathrm{CH_2O} \)
-
-16. The \( \mathrm{K_H} \) for the solution of oxygen dissolved in water is \( 4 \times 10^{4} \) atm at a given temperature. If the partial pressure of oxygen in air is 0.4 atm, the mole fraction of oxygen in solution is
-    a) \( 4.6 \times 10^{3} \)
-    b) \( 1.6 \times 10^{4} \)
-    c) \( 1 \times 10^{-5} \)
-    d) \( 1 \times 10^{5} \)
-
-17. Normality of \( 1.25 \ \mathrm{M} \) sulphuric acid is
-    a) \( 1.25 \ \mathrm{N} \)
-    b) \( 3.75 \ \mathrm{N} \)
-    c) \( 2.5 \ \mathrm{N} \)
-    d) \( 2.25 \ \mathrm{N} \)
-
-18. Two liquids X and Y on mixing gives a warm solution. The solution is
-    a) ideal
-    b) non-ideal and shows positive deviation from Raoults law
-    c) ideal and shows negative deviation from Raoults Law
-    d) non-ideal and shows negative deviation from Raoults Law
-
-19. The relative lowering of vapour pressure of a sugar solution in water is \( 3.5 \times 10^{-3} \). The mole fraction of water in that solution is
-    a) \( 0.0035 \)
-    b) \( 0.35 \)
-    c) \( 0.0035 / 18 \)
-    d) \( 0.9965 \)
-
-20. The mass of a non-volatile solute (molar mass \( 80 \ \mathrm{g \ mol^{-1}} \)) which should be dissolved in \( 92 \ \mathrm{g} \) of toluene to reduce its vapour pressure to \( 90\% \)
-    a) \( 10 \ \mathrm{g} \)
-    b) \( 20 \ \mathrm{g} \)
-    c) \( 9.2 \ \mathrm{g} \)
-    d) \( 8.89 \ \mathrm{g} \)
-
-21. For a solution, the plot of osmotic pressure \( (\pi) \) verses the concentration (c in mol \( \mathrm{L^{-1}} \)) gives a straight line with slope \( 310 \mathrm{R} \) where 'R' is the gas constant. The temperature at which osmotic pressure measured is
-    a) \( 310 \times 0.082 \ \mathrm{K} \)
-    b) \( 310^{\circ}C \)
-    c) \( 37^{\circ}C \)
-    d) \( \frac{310}{0.082} \ \mathrm{K} \)
-
-22. \( 200 \ \mathrm{ml} \) of an aqueous solution of a protein contains \( 1.26 \ \mathrm{g} \) of protein. At \( 300 \ \mathrm{K} \), the osmotic pressure of this solution is found to be \( 2.52 \times 10^{-3} \) bar. The molar mass of protein will be \( (\mathrm{R} = 0.083 \ \mathrm{L \ bar \ mol^{-1} \ K^{-1}}) \)
-    a) \( 62.22 \ \mathrm{Kg \ mol^{-1}} \)
-    b) \( 12444 \ \mathrm{g \ mol^{-1}} \)
-    c) \( 300 \ \mathrm{g \ mol^{-1}} \)
-    d) none of these
-
-23. The Van't Hoff factor (i) for a dilute aqueous solution of the strong electrolyte barium hydroxide is (NEET)
-    a) 0
-    b) 1
-    c) 2
-    d) 3
-
-24. What is the molality of a \( 10\% \ \mathrm{W/W} \) aqueous sodium hydroxide solution?
-    a) 2.778
-    b) 2.5
-    c) 10
-    d) 0.4
-
-25. The correct equation for the degree of an associating solute, 'n' molecules of which undergoes association in solution, is
-    a) \( \alpha = \frac{n(i - 1)}{n - 1} \)
-    b) \( \alpha^2 = \frac{n(i - 1)}{(n - 1)} \)
-    c) \( \alpha = \frac{n(i - 1)}{1 - n} \)
-    d) \( \alpha = \frac{n(1 - i)}{n(1 - i)} \)
-
-26. Which of the following aqueous solutions has the highest boiling point?
-    a) \( 0.1 \ \mathrm{M} \ \mathrm{KNO_3} \)
-    b) \( 0.1 \ \mathrm{M} \ \mathrm{Na_3PO_4} \)
-    c) \( 0.1 \ \mathrm{M} \ \mathrm{BaCl_2} \)
-    d) \( 0.1 \ \mathrm{M} \ \mathrm{K_2SO_4} \)
-
-27. The freezing point depression constant for water is \( 1.86^{\circ} \mathrm{K \ kg \ mol^{-1}} \). If \( 5 \ \mathrm{g} \ \mathrm{Na_2SO_4} \) is dissolved in \( 45 \ \mathrm{g} \) water, the depression in freezing point is \( 3.64^{\circ}C \). The Van't Hoff factor for \( \mathrm{Na_2SO_4} \) is
-    a) 2.50
-    b) 2.63
-    c) 3.64
-    d) 5.50
-
-28. Equimolal aqueous solutions of NaCl and KCl are prepared. If the freezing point of NaCl is \( -2^{\circ}C \), the freezing point of KCl solution is expected to be
-    a) \( -2^{\circ}C \)
-    b) \( -4^{\circ}C \)
-    c) \( -1^{\circ}C \)
-    d) \( 0^{\circ}C \)
-
-29. Phenol dimerises in benzene having van't Hoff factor 0.54. What is the degree of association?
-    a) 0.46
-    b) 92
-    c) 46
-    d) 0.92
-
-30. Assertion: An ideal solution obeys Raoults Law
-    Reason: In an ideal solution, solvent-solvent as well as solute-solute interactions are similar to solute-solvent interactions.
-    a) both assertion and reason are true and reason is the correct explanation of assertion
-    b) both assertion and reason are true but reason is not the correct explanation of assertion
-    c) assertion is true but reason is false
-    d) both assertion and reason are false
-
-### II. Write brief answer to the following questions
-
-31. Define (i) molality (ii) Normality
-
-32. What is a vapour pressure of liquid? What is relative lowering of vapour pressure?
-
-33. State and explain Henry's law
-
-34. State Raoult law and obtain expression for lowering of vapour pressure when nonvolatile solute is dissolved in solvent.
-
-35. What is molal depression constant? Does it depend on nature of the solute?
-
-36. What is osmosis?
-
-37. Define the term 'isotonic solution'.
-
-38. You are provided with a solid 'A' and three solutions of A dissolved in water - one saturated, one unsaturated, and one super saturated. How would you determine which solution is which?
-
-39. Explain the effect of pressure on the solubility.
-
-40. A sample of 12 M Concentrated hydrochloric acid has a density 1.2 g L\(^{-1}\). Calculate the molality.
-
-41. A 0.25 M glucose solution at 370.28 K has approximately the same osmotic pressure as blood does. What is the osmotic pressure of blood?
-
-42. Calculate the molality of a solution containing \( 7.5 \ \mathrm{g} \) of glycine \( (\mathrm{NH_2 - CH_2 - COOH}) \) dissolved in \( 500 \ \mathrm{g} \) of water.
-
-43. Which solution has the lower freezing point? \( 10 \ \mathrm{g} \) of methanol \( (\mathrm{CH_3OH}) \) in \( 100 \ \mathrm{g} \) of water (or) \( 20 \ \mathrm{g} \) of ethanol \( (\mathrm{C_2H_5OH}) \) in \( 200 \ \mathrm{g} \) of water.
-
-44. How many moles of solute particles are present in one litre of \( 10^{-4} \ \mathrm{M} \) potassium sulphate?
-
-45. Henry's law constant for solubility of methane in benzene is \( 4.2 \times 10^{-5} \ \mathrm{mm} \ \mathrm{Hg} \) at a particular constant temperature. At this temperature, calculate the solubility of methane at i) \( 750 \ \mathrm{mm} \ \mathrm{Hg} \) ii) \( 840 \ \mathrm{mm} \ \mathrm{Hg} \)
-
-46. The observed depression in freezing point of water for a particular solution is \( 0.093^{\circ}C \). Calculate the concentration of the solution in molality. Given that molal depression constant for water is \( 1.86 \ \mathrm{K \ kg \ mol^{-1}} \).
-
-47. The vapour pressure of pure benzene \( (\mathrm{C_6H_6}) \) at a given temperature is \( 640 \ \mathrm{mm} \ \mathrm{Hg} \). \( 2.2 \ \mathrm{g} \) of non-volatile solute is added to \( 40 \ \mathrm{g} \) of benzene. The vapour pressure of the solution is \( 600 \ \mathrm{mm} \ \mathrm{Hg} \). Calculate the molar mass of the solute.
-
-## ICT Corner
-
-### Osmosis
-
-By using this tool, you will be able to visualise the process of osmosis which gives a clear understanding of this process.
-
-Please go to the URL https://pbslm-contrib.s3.amazonaws.com/WGBH/arct15/SimBucket/Simulations/osmosis/content/index.html (or) Scan the QR code on the right side.
-
-**Steps**
-
-- Open the Browser and type the URL given (or) Scan the QR Code.
-- Now you will see the webpage as shown below.
-- The two compartments were separated by a semipermeable membrane.
-- On the left side (Box 2) contains pure solvent (water) and right side contains solution (solute + water).
-- The number of solvent molecules (water) on each side is shown in the area designated by box 3 and 5.
-- Now you can see the water molecules moving from solvent side to solution side through the membrane. It reflects in the change in number of water molecules on either side.
-- You can restart the simulation by clicking the reset button in box 1.
