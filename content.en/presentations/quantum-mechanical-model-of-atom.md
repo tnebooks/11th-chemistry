@@ -6,3 +6,26 @@ summary: "This unit explains the quantum mechanical model of the atom and the li
 # Quantum Mechanical Model of Atom
 
 ---
+
+## Learning Objectives
+
+After studying this unit, students will be able to
+
+- Recognise various atomic models
+- Explain the dual behaviour of matter
+- Derive de Broglie equation and solve numerical problems
+- Explain Heisenberg's uncertainty principle and solve related problems
+- Appreciate the significance of quantum numbers
+- Summarise important features of quantum mechanical model of atom
+- Draw the shapes of various atomic orbitals
+- Explain the Aufbau principle
+- Describe Hund's rule and Pauli's exclusion principle
+- Apply the relevant rules for filling electrons in atoms and write the electronic configuration of various atoms
+
+---
+
+
+---
+
+
+---

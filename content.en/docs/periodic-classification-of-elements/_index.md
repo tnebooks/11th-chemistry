@@ -9,27 +9,13 @@ summary: "This unit explains the periodic classification of elements based on th
 
 # 3. Periodic Classification of Elements
 
-"An awareness of the periodic table is essential to anyone who wishes to disentangle the world and see how it is built up from the fundamental building blocks of the chemistry, the chemical elements" - Glenn T. Seaborg
+"An awareness of the periodic table is essential to anyone who wishes to disentangle the world and see how it is built up from the fundamental building blocks of the chemistry, the chemical elements" **- Glenn T. Seaborg**
+
+![](img3.png)
 
 <center>Glenn T. Seaborg </center>
 
 Glenn Theodore Seaborg received Nobel Prize in 1951 in chemistry for the discoveries of trans-uranium elements. He was the co-discoverer of plutonium and other trans-uranium elements. He along with his colleagues has discovered over a hundred isotopes of other elements. He demonstrated that actinide elements are analogues to rare earth series of lanthanide elements.
-
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- recognise the development of the periodic table
-- explain the work of Mosley's and modern periodic law
-- outline the concept of grouping elements
-- name the elements with atomic number greater than 100 using IUPAC nomenclature
-- classify the elements into s, p, d and f blocks
-- recognise the periodic trends and describe qualitatively the variation in periodic properties such as atomic radius, ionisation energy etc.
-- explain the anomalies in the expected trend in the periodic properties
-- calculate the effective nuclear charge using Slater's rule
-- calculate the ionic radius using Pauling's method
-- predict the probable position for a given element in the periodic table
-- explain the anomalous properties of second period elements and the diagonal relationship
 
 ## Introduction
 
@@ -89,6 +75,8 @@ During same period Dmitri Mendeleev independently proposed that "the properties 
 
 **3.4 Mendeleev's periodic table**
 
+![](imgtable.png)
+
 As shown in the periodic table, he left some blank spaces since there were no known elements with the appropriate properties at that time. He and others predicted the physical and chemical properties of the missing elements. Eventually these missing elements were discovered and found to have the predicted properties. For example, Gallium (Ga) of group III and germanium (Ge) of group IV were unknown at that time. But Mendeleev predicted their existence and properties. He referred the predicted elements as eka-aluminium and eka-silicon. After discovery of the actual elements, their properties were found to match closely to those predicted by Mendeleev (Table 3.4).
 
 **Table 3.5 Properties predicted for Eka-aluminium and Eka-silicon**
@@ -141,6 +129,8 @@ Each period starts with the element having general outer electronic configuratio
 ## Evaluate Yourself
 
 1. What is the basic difference in approach between Mendeleev's periodic table and modern periodic table?
+
+![](imgperiod.png)
 
 ### 3.3 Nomenclature of Elements with Atomic Number Greater than 100
 
@@ -260,13 +250,13 @@ Atomic radius of an atom is defined as the distance between the centre of its nu
 
 It is not possible to measure the radius of an isolated atom directly. Except for noble gases, usually atomic radius is referred to as covalent radius or metallic radius depending upon the nature of bonding between the concerned atoms.
 
-**Figure 3.1 (a) Atomic radius**
+![](imgatom.png)
 
 ##### Covalent radius
 
 It is one-half of the internuclear distance between two identical atoms linked together by a single covalent bond. Inter nuclear distance can be determined using x-ray diffraction studies.
 
-**Figure 3.1 (b) Atomic and covalent radius**
+![](imgcov.png)
 
 **Example:**
 
@@ -285,7 +275,7 @@ The experimental internuclear distance in \( \mathrm{Cl}_2 \) molecule is \( 1.9
 \Rightarrow \mathrm{r}_{\mathrm{Cl}} = \frac{1.98}{2} = 0.99\mathrm{\AA}
 \]
 
-**Figure 3.1 (c) Covalent radius of Cl**
+![](imgrad.png)
 
 The formation of covalent bond involves the overlapping of atomic orbitals and it reduces the expected internuclear distance. Therefore covalent radius is always shorter than the actual atomic radius.
 
@@ -434,6 +424,8 @@ In the periodic table, the atomic radius of elements increases down the group. A
 
 **Table 3.14 Variation of covalent radius of group 1 elements**
 
+![](imggraph.png)
+
 | Element | Outermost shell containing valence electron | Covalent radius (Å) |
 |---|---|---|
 | Li | L (n=2) | 1.34 |
@@ -483,38 +475,95 @@ On solving equation (1) and (4) the values of \( \mathrm{r}_{\mathrm{C}^{+}} \) 
 
 Let us explain this method by calculating the ionic radii of \( \mathrm{Na}^{+} \) and \( \mathrm{F}^{-} \) in NaF crystal whose interionic distance is equal to 231 pm.
 
-#### 3.5.3 Ionisation Energy
+$$
+d = r_{\text{Na}^+} + r_{\text{F}^-}
+$$
 
-It is defined as the minimum amount of energy required to remove the most loosely bound electron from the valence shell of the isolated neutral gaseous atom in its ground state. It is expressed in kJ mol\(^{-1}\).
+ie. \( r_{\text{Na}^+} + r_{\text{F}^-} = 231 \, \text{pm} \)
 
-For example,
+We know that
 
-\[
-\mathrm{Na}(g) \rightarrow \mathrm{Na}^{+}(g) + e^{-} \quad \Delta H = 496 \ \mathrm{kJ \ mol^{-1}}
-\]
+$$
+\frac{r_{\text{Na}^+}}{r_{\text{F}^-}} = \frac{(Z_{\text{eff}})_{r_{\text{F}^-}}}{(Z_{\text{eff}})_{r_{\text{Na}^+}}} = \frac{Z - S}{9 - 4.15} = 4.85
+$$
 
-The ionisation energy is a measure of the tendency of an atom to lose an electron. Lower the ionisation energy, easier to remove an electron and greater the tendency to form a cation.
+$$
+(Z_{\text{eff}})_{r_{\text{F}^-}} = 11 - 4.15 = 6.85
+$$
 
-##### Factors Affecting Ionisation Energy
+$$
+\therefore \frac{r_{\text{Na}^+}}{r_{\text{F}^-}} = \frac{4.85}{6.85} = 0.71
+$$
 
-1. **Atomic radius:** As the atomic radius increases, the distance between the nucleus and the valence electron increases and the attractive force between them decreases. Hence, ionisation energy decreases.
+$$
+\Rightarrow r_{\text{Na}^+} = 0.71 \times r_{\text{F}^-}
+$$
 
-2. **Nuclear charge:** As the nuclear charge increases, the electrostatic attractive force between the nucleus and the valence electron increases and thus the ionisation energy increases.
+Substituting \( r_{\text{Na}^+} \) in equation
 
-3. **Shielding effect:** The presence of inner electrons shields the valence electron from the nuclear attraction. As the shielding effect increases, the attractive force between the nucleus and valence electron decreases and thus ionisation energy decreases.
+$$
+0.71 \, r_{\text{F}^-} + r_{\text{F}^-} = 231 \, \text{pm}
+$$
 
-4. **Stability of electronic configuration:** The elements with half filled and fully filled electronic configuration have greater stability and thus require higher energy to remove an electron. Hence, they have higher ionisation energy.
+$$
+1.71 \, r_{\text{F}^-} = 231 \, \text{pm}
+$$
 
-##### Periodic variation in a period
+$$
+r_{\text{F}^-} = \frac{231}{1.71} = 135.1 \, \text{pm}
+$$
 
-Ionisation energy generally increases from left to right across a period. This is due to the decrease in atomic radius and the increase in nuclear charge which leads to a stronger attraction between the nucleus and the valence electrons.
+Substituting the value of \( r_{\text{F}^-} \) in equation
 
+$$
+r_{\text{Na}^+} + 135.1 = 231
+$$
+
+$$
+r_{\text{Na}^+} = 95.9 \, \text{pm}
+$$
+
+### Evaluate Yourself
+
+**5.** A student reported the ionic radii of isoelectronic species \( X^{3+} \), \( Y^{2+} \) and \( Z^{-} \) as 136 pm, 64 pm and 49 pm respectively. Is that order correct? Comment.
+
+## 3.5.3 Ionisation Energy
+
+It is defined as the minimum amount of energy required to remove the most loosely bound electron from the valence shell of the isolated neutral gaseous atom in its ground state. It is expressed in kJ mol\(^{-1}\) or in electron volts (eV).
+
+$$
+M_{\text{(g)}} + IE_1 \rightarrow M^{+}_{\text{(g)}} + 1 \, \text{e}^{-}
+$$
+
+Where \( IE_1 \) represents the first ionisation energy.
+
+### Successive Ionisation energies
+
+The minimum amount of energy required to remove an electron from a unipositive cation is called second ionisation energy. It is represented by the following equation.
+
+$$
+M^{+}_{\text{(g)}} + IE_2 \rightarrow M^{2+}_{\text{(g)}} + 1 \, \text{e}^{-}
+$$
+
+In this way we can define the successive ionisation energies such as third, fourth etc.
+
+The total number of electrons are less in the cation than the neutral atom while the nuclear charge remains the same. Therefore the effective nuclear charge of the cation is higher than the corresponding neutral atom. Thus the successive ionisation energies, always increase in the following order
+
+$$
+IE_1 < IE_2 < IE_3 < \ldots
+$$
+
+### Periodic Trends in Ionisation Energy
+
+The ionisation energy usually increases along a period with few exceptions. As discussed earlier, when we move from left to right along a period, the valence electrons are added to the same shell, at the same time protons are added to the nucleus. This successive increase of nuclear charge increases the electrostatic attractive force on the valence electron and more energy is required to remove the valence electron resulting in high ionisation energy.
+
+Let us consider the variation in ionisation energy of second period.
 The plot of atomic number vs ionisation energy is given below.
 
 In the following graph, there are two deviations in the trends of ionisation energy. It is expected that boron has higher ionisation energy than beryllium since it has higher nuclear charge. However, the actual ionisation energies of beryllium and boron are 899 and \( 800 \ \mathrm{kJ \ mol^{-1}} \) respectively contrary to the expectation. It is due to the fact that beryllium with completely filled 2s orbital, is more stable than partially filled valence shell electronic configuration of boron \( (2\mathrm{s}^2 2\mathrm{p}^1) \).
 
 **Figure 3.2 Variation of Ionisation energy along the II period**
-
+![](img3.2.png)
 The electronic configuration of beryllium \( (Z = 4) \) in its ground state is \( 1\mathrm{s}^2 2\mathrm{s}^2 \) and that of boron is \( (Z = 5) \ 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^1 \).
 
 Similarly, nitrogen with \( 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^3 \) electronic configuration has higher ionisation energy \( (1402 \ \mathrm{kJ \ mol^{-1}}) \) than oxygen \( (1314 \ \mathrm{kJ \ mol^{-1}}) \). Since the half filled electronic configuration is more stable, it requires higher energy to remove an electron from \( 2\mathrm{p} \) orbital of nitrogen. Whereas the removal of one \( 2\mathrm{p} \) electron from oxygen leads to a stable half filled configuration. This makes comparatively easier to remove \( 2\mathrm{p} \) electron from oxygen.
@@ -530,6 +579,7 @@ As we move down a group, the number of inner shell electrons increases which in 
 Let us understand this trend by considering the ionisation energy of alkali metals.
 
 **Figure 3.3 Variation of Ionisation energy down the I Group**
+![](img3.3.png)
 
 6. The first ionisation energy \( \mathrm{IE}_{1} \) and second ionisation energy \( \mathrm{IE}_{2} \) of elements X, Y and Z are given below.
 
@@ -554,6 +604,7 @@ A + e^{-} \rightarrow A^{-} + EA
 The variation of electron affinity is not as systematic as in the case of ionisation energy. As we move from alkali metals to halogens in a period, generally electron affinity increases, i.e. the amount of energy released will be more. This is due to an increase in the nuclear charge and decrease in size of the atoms. However, in case of elements such as beryllium \( (1\mathrm{s}^2 2s^2) \), nitrogen \( (1\mathrm{s}^2 2s^2 2\mathrm{p}^3) \) the addition of extra electron will disturb their stable electronic configuration and they have almost zero electron affinity.
 
 **Figure 3.4 Variation of electron affinity (electron gain energy) along II period**
+![](img3.4.png)
 
 Noble gases have stable \( \mathrm{ns}^2 \mathrm{np}^6 \) configuration, and the addition of further electron is unfavourable and requires energy. Halogens having the general electronic configuration of \( \mathrm{ns}^2 \mathrm{np}^5 \) readily accept an electron to get the stable noble gas electronic configuration \( (\mathrm{ns}^2 \mathrm{np}^6) \) and therefore in each period the halogen has high electron affinity (high negative values).
 
@@ -562,6 +613,7 @@ Noble gases have stable \( \mathrm{ns}^2 \mathrm{np}^6 \) configuration, and the
 As we move down a group, generally the electron affinity decreases. It is due to increase in atomic size and the shielding effect of inner shell electrons. However, oxygen and fluorine have lower affinity than sulphur and chlorine respectively. The sizes of oxygen and fluorine atoms are comparatively small and they have high electron density. Moreover, the extra electron added to oxygen and fluorine has to be accommodated in the 2p orbital which is relatively compact compared to the 3p orbital of sulphur and chlorine, so oxygen and fluorine have lower electron affinity than their respective group elements sulphur and chlorine.
 
 **Figure 3.5 Variation of Electron Affinity (electron gain energy) along \( 17^{\mathrm{th}} \) group**
+![](img3.5.png)
 
 ## Evaluate Yourself
 
@@ -586,14 +638,18 @@ The electronegativity of any given element is not a constant and its value depen
 The electronegativity generally increases across a period from left to right. As discussed earlier, the atomic radius decreases in a period, as the attraction between the valence electron and the nucleus increases. Hence the tendency to attract shared pair of electrons increases. Therefore, electronegativity also increases in a period.
 
 **Figure 3.6 Variation of Electronegativity along II period**
+![](img3.6.png)
 
-**Figure 3.7 Variation of electronegativity along I group**
+![](imgtable3.15.png)
 
 ##### Variation of Electronegativity in a group
 
 The electronegativity generally decreases down a group. As we move down a group the atomic radius increases and the nuclear attractive force on the valence electron decreases. Hence, the electronegativity decreases.
 
 Noble gases are assigned zero electronegativity. The electronegativity values of the elements of s-block show the expected decreasing order in a group. Except \( 13^{\mathrm{th}} \) and \( 14^{\mathrm{th}} \) group all other p-block elements follow the expected decreasing trend in electronegativity.
+
+**Figure 3.7 Variation of electronegativity along I group**
+![](img3.7.png)
 
 ### 3.6 Periodic Trends in Chemical Properties
 
@@ -638,7 +694,7 @@ As we know, the elements of the same group show similar physical and chemical pr
 
 On moving diagonally across the periodic table, the second and third period elements show certain similarities. Even though the similarity is not same as we see in a group, it is quite pronounced in the following pair of elements.
 
-Li - Mg, Be - Al, B - Si
+![](imgline.png)
 
 The similarity in properties existing between the diagonally placed elements is called diagonal relationship.
 
@@ -702,255 +758,3 @@ The elements in the same groups have similar properties because their valence sh
 The periodic properties such as atomic radius, ionic radius, ionization enthalpy, electron gain enthalpy, electronegativity are possessing periodic trends. The variations of these properties are described in the following scheme.
 
 The elements at the extreme left exhibit strong reducing property whereas the elements at extreme right strong oxidizing property. The reactivity of elements at the centre of the periodic table is low compared to elements at the extreme right and left. The similarity in chemical properties observed between the elements of second and third period which are diagonally related.
-
-## Evaluate Yourself
-
-1. What would be the IUPAC name for an element with atomic number 222?
-
-   a) bibibium
-   b) biddium
-   c) didibium
-   d) bibibium
-
-2. The electronic configuration of the elements A and B are \( 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^6 3\mathrm{s}^2 \) and \( 1\mathrm{s}^2 2\mathrm{s}^2 2\mathrm{p}^5 \) respectively. The formula of the ionic compound that can be formed between these elements is
-
-   a) AB
-   b) \( \mathrm{AB}_2 \)
-   c) \( \mathrm{A}_2\mathrm{B} \)
-   d) none of the above
-
-3. The group of elements in which the differentiating electron enters the anti penultimate shell of atoms are called
-
-   a) p-block elements
-   b) d-block elements
-   c) s-block elements
-   d) f-block elements
-
-4. In which of the following options the order of arrangement does not agree with the variation of property indicated against it? (NEET 2016 Phase 1)
-
-   a) \( \mathrm{I} < \mathrm{Br} < \mathrm{Cl} < \mathrm{F} \) (increasing electron gain enthalpy)
-   b) \( \mathrm{Li} < \mathrm{Na} < \mathrm{K} < \mathrm{Rb} \) (increasing metallic radius)
-   c) \( \mathrm{Al}^{3+} < \mathrm{Mg}^{2+} < \mathrm{Na}^{+} < \mathrm{F}^{-} \) (increasing ionic size)
-   d) \( \mathrm{B} < \mathrm{C} < \mathrm{O} < \mathrm{N} \) (increasing first ionisation enthalpy)
-
-5. Which of the following elements will have the highest electronegativity?
-
-   a) Chlorine
-   b) Nitrogen
-   c) Cesium
-   d) Fluorine
-
-6. Various successive ionisation enthalpies (in kJ mol\(^{-1}\)) of an element are given below.
-
-   | IE\(_1\) | IE\(_2\) | IE\(_3\) | IE\(_4\) | IE\(_5\) |
-   |---|---|---|---|---|
-   | 577.5 | 1,810 | 2,750 | 11,580 | 14,820 |
-
-   The element is
-
-   a) phosphorus
-   b) Sodium
-   c) Aluminium
-   d) Silicon
-
-7. In the third period the first ionization potential is of the order.
-
-   a) \( \mathrm{Na > Al > Mg > Si > P} \)
-   b) \( \mathrm{Na < Al < Mg < Si < P} \)
-   c) \( \mathrm{Mg > Na > Si > P > Al} \)
-   d) \( \mathrm{Na < Al < Mg < P < Si} \)
-
-8. Identify the wrong statement.
-
-   a) Amongst the isoelectronic species, smaller the positive charge on cation, smaller is the ionic radius
-   b) Amongst isoelectric species greater the negative charge on the anion, larger is the ionic radius
-   c) Atomic radius of the elements increases as one moves down the first group of the periodic table
-   d) Atomic radius of the elements decreases as one moves across from left to right in the \( 2^{\mathrm{nd}} \) period of the periodic table
-
-9. Which one of the following arrangements represent the correct order of least negative to most negative electron gain enthalpy
-
-   a) \( \mathrm{Al < O < C < Ca < F} \)
-   b) \( \mathrm{Al < Ca < O < C < F} \)
-   c) \( \mathrm{C < F < O < Al < Ca} \)
-   d) \( \mathrm{Ca < Al < C < O < F} \)
-
-10. The correct order of electron gain enthalpy with negative sign of F, Cl, Br and I having atomic number 9, 17, 35 and 53 respectively is
-
-    a) \( \mathrm{I > Br > Cl > F} \)
-    b) \( \mathrm{F > Cl > Br > I} \)
-    c) \( \mathrm{Cl > F > Br > I} \)
-    d) \( \mathrm{Br > I > Cl > F} \)
-
-11. Which one of the following is the least electronegative element?
-
-    a) Bromine
-    b) Chlorine
-    c) Iodine
-    d) Hydrogen
-
-12. The element with positive electron gain enthalpy is
-
-    a) Hydrogen
-    b) Sodium
-    c) Argon
-    d) Fluorine
-
-13. The correct order of decreasing electronegativity values among the elements X, Y, Z and A with atomic numbers 4, 8, 7 and 12 respectively
-
-    a) \( \mathrm{Y > Z > X > A} \)
-    b) \( \mathrm{Z > A > Y > X} \)
-    c) \( \mathrm{X > Y > Z > A} \)
-    d) \( \mathrm{X > Y > A > Z} \)
-
-14. Assertion: Helium has the highest value of ionisation energy among all the elements known
-    Reason: Helium has the highest value of electron affinity among all the elements known
-
-    a) Both assertion and reason are true and reason is correct explanation for the assertion
-    b) Both assertion and reason are true but the reason is not the correct explanation for the assertion
-    c) Assertion is true and the reason is false
-    d) Both assertion and the reason are false
-
-15. The electronic configuration of the atom having maximum difference in first and second ionisation energies is
-
-    a) \( 1s^2, 2s^2, 2p^6, 3s^1 \)
-    b) \( 1s^2, 2s^2, 2p^6, 3s^2 \)
-    c) \( 1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^1 \)
-
-16. Which of the following is second most electronegative element?
-
-    a) Chlorine
-    b) Fluorine
-    c) Oxygen
-    d) Sulphur
-
-17. \( \mathrm{IE}_{1} \) and \( \mathrm{IE}_{2} \) of \( \mathrm{Mg} \) are 179 and 348 kcal mol\(^{-1}\) respectively. The energy required for the reaction \( \mathrm{Mg} \rightarrow \mathrm{Mg}^{2+} + 2e^{-} \) is
-
-    a) \( +169 \ \mathrm{kcal \ mol^{-1}} \)
-    b) \( -169 \ \mathrm{kcal \ mol^{-1}} \)
-    c) \( +527 \ \mathrm{kcal \ mol^{-1}} \)
-    d) \( -527 \ \mathrm{kcal \ mol^{-1}} \)
-
-18. In a given shell the order of screening effect is
-
-    a) \( s > p > d > f \)
-    b) \( s > p > f > d \)
-    c) \( f > d > p > s \)
-    d) \( f > p > s > d \)
-
-19. Which of the following orders of ionic radii is correct?
-
-    a) \( \mathrm{H}^{-} > \mathrm{H}^{+} > \mathrm{H} \)
-    b) \( \mathrm{Na}^{+} > \mathrm{F}^{-} > \mathrm{O}^{2-} \)
-    c) \( \mathrm{F} > \mathrm{O}^{2-} > \mathrm{Na}^{+} \)
-    d) None of these
-
-20. The First ionisation potential of Na, Mg and Si are 496, 737 and 786 kJ mol\(^{-1}\) respectively. The ionisation potential of Al will be closer to
-
-    a) \( 760 \ \mathrm{kJ \ mol^{-1}} \)
-    b) \( 575 \ \mathrm{kJ \ mol^{-1}} \)
-    c) \( 801 \ \mathrm{kJ \ mol^{-1}} \)
-    d) \( 419 \ \mathrm{kJ \ mol^{-1}} \)
-
-21. Which one of the following is true about metallic character when we move from left to right in a period and top to bottom in a group?
-
-    a) Decreases in a period and increases along the group
-    b) Increases in a period and decreases in a group
-    c) Increases both in the period and the group
-    d) Decreases both in the period and in the group
-
-22. How does electron affinity change when we move from left to right in a period in the periodic table?
-
-    a) Generally increases
-    b) Generally decreases
-    c) Remains unchanged
-    d) First increases and then decreases
-
-23. Which of the following pairs of elements exhibit diagonal relationship?
-
-    a) Be and Mg
-    b) Li and Be
-    c) Be and B
-    d) Be and Al
-
-### II. Write brief answer to the following questions
-
-24. Define modern periodic law.
-
-25. What are isoelectronic ions? Give examples.
-
-26. What is effective nuclear charge?
-
-27. Is the definition given below for ionisation enthalpy is correct?
-
-    "Ionisation enthalpy is defined as the energy required to remove the most loosely bound electron from the valence shell of an atom"
-
-28. Magnesium loses electrons successively to form \( \mathrm{Mg}^{+} \), \( \mathrm{Mg}^{2+} \) and \( \mathrm{Mg}^{3+} \) ions. Which step will have the highest ionisation energy and why?
-
-29. Define electronegativity.
-
-30. How would you explain the fact that the second ionisation potential is always higher than first ionisation potential?
-
-31. Energy of an electron in the ground state of the hydrogen atom is \( -2.18 \times 10^{-18} \) J. Calculate the ionisation enthalpy of atomic hydrogen in terms of kJ mol\(^{-1}\).
-
-32. The electronic configuration of atom is one of the important factor which affects the value of ionisation potential and electron gain enthalpy. Explain
-
-33. In what period and group will an element with \( Z = 118 \) will be present?
-
-34. Justify that the fifth period of the periodic table should have 18 elements on the basis of quantum numbers.
-
-35. Elements a, b, c and d have the following electronic configurations:
-
-    \( \mathrm{a: 1s^2, 2s^2, 2p^6} \)
-    \( \mathrm{b: 1s^2, 2s^2, 2p^6, 3s^2, 3p^1} \)
-    \( \mathrm{c: 1s^2, 2s^2, 2p^6, 3s^2, 3p^6} \)
-    \( \mathrm{d: 1s^2, 2s^2, 2p^1} \)
-
-    Which elements among these will belong to the same group of periodic table?
-
-36. Give the general electronic configuration of lanthanides and actinides.
-
-37. Why halogens act as oxidising agents?
-
-38. Mention any two anomalous properties of second period elements.
-
-39. Explain the pauling method for the determination of ionic radius.
-
-40. Explain the periodic trend of ionisation potential.
-
-41. Explain the diagonal relationship.
-
-42. Why the first ionisation enthalpy of sodium is lower than that of magnesium while its second ionisation enthalpy is higher than that of magnesium?
-
-43. By using paulings method calculate the ionic radii of \( \mathrm{K}^{+} \) and \( \mathrm{Cl}^{-} \) ions in the potassium chloride crystal. Given that \( \mathrm{d}_{\mathrm{K}^{+} - \mathrm{Cl}^{-}} = 3.14 \mathrm{\AA} \)
-
-44. Explain the following, give appropriate reasons.
-
-    (i) Ionisation potential of N is greater than that of O
-    (ii) First ionisation potential of C-atom is greater than that of B atom, whereas the reverse is true for second ionisation potential.
-    (iii) The electron affinity values of Be and Mg are almost zero and those of N (0.02 eV) and P (0.80 eV) are very low
-    (iv) The formation of \( \mathrm{F}^{-} (g) \) from \( \mathrm{F}(g) \) is exothermic while that of \( \mathrm{O}^{2-} (g) \) from O(g) is endothermic.
-
-45. What is screening effect?
-
-46. Briefly give the basis for pauling's scale of electronegativity.
-
-47. State the trends in the variation of electronegativity in group and periods.
-
-## Properties of Elements
-
-By using this modern periodic table you will be able to visualise the elements belonging to a specific group, period and block and other properties of the elements.
-
-Please go to the URL http://www.rsc.org/periodic-table/ (or) Scan the QR code on the right side
-
-Open the Browser and type the URL given (or) Scan the QR Code. You can see an interactive modern periodic table of elements from atomic number 1 to 118.
-
-**Options:**
-
-1. You can hover over any element in the periodic table to get the basic information such as electronic configuration, ionisation energy, density etc. in the panel (3).
-2. If you click on any elements it shows the complete list of properties of the elements.
-3. Click the Visual Elements Image (1) to view the Images for each element. If you hover over any element additional information regarding the element will be displayed in the panel (3)
-4. You can view metals and non-metals present in the periodic table by choosing the appropriate choice (8)
-5. You can view the physical state of the elements at a given temperature by using the slider (7)
-6. You can view s, p, d or f block elements by selecting a specific block (6)
-7. You can view the elements of a specific group (2) or a period (5) by selecting the group or period
-8. You can clear the selections you have made by clicking the clear filters (4)

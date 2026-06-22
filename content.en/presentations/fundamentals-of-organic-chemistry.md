@@ -6,3 +6,20 @@ summary: "This unit introduces the basic principles of organic chemistry, includ
 # Fundamentals of Organic Chemistry
 
 ---
+
+## Learning Objectives
+
+After studying this unit students will be able to
+
+- understand the reason for the tetra valency of carbon and shapes of organic molecules
+- classify the organic compounds
+- name the organic compounds according to IUPAC nomenclature and derive the structure from the IUPAC name
+- describe various types of isomerism
+- explain the principles of detection and estimation of elements in organic compounds
+- describe various techniques used in the purification of organic compounds
+
+
+---
+
+
+---

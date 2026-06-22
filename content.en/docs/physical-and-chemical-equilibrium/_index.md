@@ -7,28 +7,13 @@ summary: "This unit explains the concepts of physical and chemical equilibrium a
 
 ---
 
-# Unit 8 - Chemical Equilibrium
+# Unit 8 - Physical and Chemical Equilibrium
 
+![](image.png)
 <div class="chemist-box">
   <strong>Claude Louis Berthollet, a Savoyard-French chemist</strong>
   <p>studied the mechanism of reversible chemical reaction and developed the theory of chemical equilibria. He also contributed to modern chemical nomenclature. He was the first to demonstrate the bleaching action of chlorine gas, and developed a solution of sodium hypochlorite that acts as a bleaching agent.</p>
 </div>
-
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- describe the meaning of equilibrium
-- explain the dynamic nature of equilibrium involved in physical and chemical processes
-- state the law of mass action
-- deduce the expression for equilibrium constants, \( \mathrm{K_c} \) and \( \mathrm{K_p} \)
-- establish the relationship between \( \mathrm{K_p} \) and \( \mathrm{K_c} \)
-- predict the extent of reaction using equilibrium constant
-- state Le-Chatelier's principle
-- explain the effect of various factors that affect a system at equilibrium
-- derive Van't Hoff equation
-
----
 
 ## 8.1 Introduction
 
@@ -45,11 +30,11 @@ It is desirable to know the three crucial aspects of chemical reactions namely t
 ## 8.2 Physical and Chemical Equilibrium
 
 There are different types of equilibrium. For example, if two persons with same weight sit on opposite sides of a see-saw at equal distance from the fulcrum, then the see-saw will be stationary and straight and it is said to be in equilibrium.
-
+<center>{{< figure src="1.png" width="200" >}}</center>
 <center><strong>Fig. 8.1 Illustration of equilibrium</strong></center>
 
 Another example of a state of equilibrium is the game of "tug-of-war." In this game a rope is pulled taut between two teams. There may be a situation when both the teams are pulling the rope with equal force and the rope is not moving in either direction. This state is said to be in equilibrium.
-
+<center>{{< figure src="2.png" width="200" >}}</center>
 <center><strong>Fig. 8.2 Tug-of War</strong></center>
 
 In reversible processes, the rate of two opposing reactions equals at a particular stage. At this stage the concentration of reactants and products do not change with time. This condition is not static and is **dynamic**, because both the forward and reverse reactions are still occurring with the same rate.
@@ -66,9 +51,7 @@ If some ice-cubes and water are placed in a thermos flask (at \( 273 \ \mathrm{K
 
 At equilibrium,
 
-\[
-\frac{\text{Rate of melting of ice}} = \frac{\text{Rate of freezing of water}}
-\]
+Rate of melting of ice = Rate of freezing of water
 
 \[
 \mathrm{H_2O(s) \rightleftharpoons H_2O(l)}
@@ -111,7 +94,9 @@ Consider a closed system in which the solid sublimes to vapour. In this process 
 #### Solid in Liquids
 
 When you add sugar to water at a particular temperature, it dissolves to form sugar solution. If you continue to add much sugar, you will reach a stage at which the added sugar remains as solid and the resulting solution is called a **saturated solution**. Here, as in the previous cases a dynamic equilibrium is established between the solute molecules in the solid phase and in the solution phase.
-
+\[
+\mathrm{Sugar(Solid) \rightleftharpoons Sugar(Solution)}
+\]
 In this process,
 
 \[
@@ -143,7 +128,7 @@ Similar to physical processes chemical reactions gradually attain a state of equ
 \]
 
 Initially only A and B are present. Soon, a few molecules of the products C and D are formed by the forward reaction. As the concentration of the products increases, more products collide and react in the backward direction. This leads to an increase in the rate of backward reaction. As the rate of reverse reaction increases, the rate of the forward reaction decreases. Eventually, the rate of both reactions becomes equal.
-
+<center>{{< figure src="3.png" width="200" >}}</center>
 <center><strong>Figure 8.3 Attainment of equilibrium state for the variation of the rates of forward and backward reactions with time.</strong></center>
 
 ---
@@ -178,6 +163,11 @@ In the above equilibrium, \( \mathrm{H_2} \), \( \mathrm{I_2} \) and HI are in t
 
 Similarly, for the following reaction, all the reactants and products are in homogeneous solution phase.
 
+
+\[
+\mathrm{CH_3COOCH_3(aq) + H_2O(aq) \rightleftharpoons CH_3COOH(aq) + CH_3OH(aq)}
+\]
+
 ### 8.5.2 Heterogeneous Equilibrium
 
 If the reactants and products of a reaction in equilibrium are in different phases, then it is called as **heterogeneous equilibrium**.
@@ -209,6 +199,8 @@ where \( x \) is the stoichiometric coefficient of the reactant and the square b
 \[
 \text{Active mass} = \left(\frac{n}{V}\right) \ \mathrm{mol \ dm^{-3}} \ \text{(or)} \ \mathrm{mol \ L^{-1}}
 \]
+
+where n is the number of moles and V is the volume of the container (dm3 or L)
 
 ### 8.6.1 Equilibrium Constants \( \mathrm{K_p} \) and \( \mathrm{K_c} \)
 
@@ -251,6 +243,7 @@ k_f [\mathrm{A}]^x [\mathrm{B}]^y = k_b [\mathrm{C}]^l [\mathrm{D}]^m
 where \( \mathbf{K_c} \) is the equilibrium constant in terms of concentration (active mass).
 
 At a given temperature, the ratio of the product of active masses of reaction products raised to the respective stoichiometric coefficients in the balanced chemical equation to that of the reactants is a constant, known as **equilibrium constant**.
+Later when we study chemical kinetics we will learn that this is only approximately true.
 
 If the reactants and products of the above reaction are in gas phase, then the equilibrium constant can be written in terms of partial pressures as indicated below,
 
@@ -280,64 +273,137 @@ and \( K_p \) is,
 K_p = \frac{P_C^l \times P_D^m}{P_A^x \times P_B^y}
 \]
 
-The ideal gas equation is \( PV = nRT \).
+The ideal gas equation is 
 
-Active mass \( = \) molar concentration \( = \frac{n}{V} \)
-
-Since \( \frac{n}{V} = \frac{P}{RT} \), the partial pressure can be expressed as,
 
 \[
-P_A = [A]RT, \quad P_B = [B]RT, \quad P_C = [C]RT, \quad P_D = [D]RT
+PV = nRT
 \]
 
-On substitution,
+or
 
 \[
-K_p = \frac{[C]^l (RT)^l [D]^m (RT)^m}{[A]^x (RT)^x [B]^y (RT)^y} = \frac{[C]^l [D]^m}{[A]^x [B]^y} (RT)^{(l+m)-(x+y)}
+P = \frac{n}{V}RT
 \]
+
+Since
+
+Active mass = molar concentration = \( n/V \)
+
+\[
+P = \text{active mass} \times (RT)
+\]
+
+Based on the above expression the partial pressure of the reactants and products can be expressed as,
+
+\[
+P_A^x = [A]^x (RT)^x
+\]
+
+\[
+P_B^y = [B]^y (RT)^y
+\]
+
+\[
+P_C^z = [C]^z (RT)^z
+\]
+
+\[
+P_D^m = [D]^m (RT)^m
+\]
+
+On substitution in Eqn. 2,
+
+\[
+K_p = \frac{[C]^i [RT]^j [D]^m (RT)^m}{[A]^x [RT]^y [B]^y (RT)^y} \tag{3}
+\]
+
+\[
+K_p = \frac{[C]^i [D]^m (RT)^{i+m}}{[A]^x [B]^y (RT)^{x+y}} \tag{4}
+\]
+
+By comparing equation (1) and (4), we get
 
 \[
 K_p = K_c (RT)^{\Delta n_g} \tag{5}
 \]
 
-where \( \Delta n_g \) is the difference between the sum of number of moles of products and the sum of number of moles of reactants in the gas phase.
+where, \( \Delta n_g \) is the difference between the sum of number of moles of products and the sum of number of moles of reactants in the gas phase.
+
+The following relations become immediately obvious.
+
+When \( \Delta n_g = 0 \)
 
 \[
-\Delta n_g = n_p - n_r
+K_p = K_c (RT)^0
 \]
-
-**When \( \Delta n_g = 0 \)**
 
 \[
 K_p = K_c
 \]
 
-**Examples:**
+### Examples:
 
 1. \( \mathrm{H_2(g) + I_2(g) \rightleftharpoons 2HI(g)} \)
+
 2. \( \mathrm{N_2(g) + O_2(g) \rightleftharpoons 2NO(g)} \)
 
-**When \( \Delta n_g = +ve \)**
+When \( \Delta n_g = +\text{ve} \)
 
 \[
-K_p = K_c (RT)^{+ve} \quad \Rightarrow \quad K_p > K_c
+K_p = K_c (RT)^{+\text{ve}}
 \]
 
-**Examples:**
+\[
+K_p > K_c
+\]
+
+### Examples:
 
 1. \( \mathrm{2NH_3(g) \rightleftharpoons N_2(g) + 3H_2(g)} \)
+
 2. \( \mathrm{PCl_5(g) \rightleftharpoons PCl_3(g) + Cl_2(g)} \)
 
-**When \( \Delta n_g = -ve \)**
+When \( \Delta n_g = -\text{ve} \)
 
 \[
-K_p = K_c (RT)^{-ve} \quad \Rightarrow \quad K_p < K_c
+K_p = K_c (RT)^{-\text{ve}}
 \]
 
-**Examples:**
+\[
+K_p < K_c
+\]
+
+### Examples:
 
 1. \( \mathrm{2H_2(g) + O_2(g) \rightleftharpoons 2H_2O(g)} \)
+
 2. \( \mathrm{2SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \)
+
+Thank you for the clarification. Now I understand that both images together form **a single table** showing the relationship between equilibrium constants for different types of reactions.
+
+Here is the correct combined table format with proper rows and columns:
+
+---
+
+**Table 8.1 Relation between equilibrium constants for some reversible reactions**
+
+| Reaction type | Equilibrium constant |
+|---|---|
+| For the forward reaction \( xA + yB \rightleftharpoons lC + mD \) | \( K_c \) |
+| If the reaction is reversed \( lC + mD \rightleftharpoons xA + yB \) | \( K_c' = \frac{1}{K_c} \) |
+| For the reaction \( A \rightleftharpoons C \) | \( K_1 \) |
+| For the reaction \( B \rightleftharpoons D \) | \( K_2 \) |
+| For the reaction \( B \rightleftharpoons A \) | \( K_3 \) |
+| For the reaction \( C \rightleftharpoons D \) | \( K_4 \) |
+
+\[
+K_4 = K_1 \times K_2 \times K_3
+\]
+
+---
+
+
 
 ### 8.6.3 Equilibrium Constants for Heterogeneous Equilibrium
 
@@ -373,12 +439,30 @@ Since \( \mathrm{H_2O(l)} \) is a pure liquid, the \( K_c \) can be expressed as
 K_c = \frac{[\mathrm{H^+}][\mathrm{HCO_3^-}]}{[\mathrm{CO_2}]}
 \]
 
-### Table 8.1 Relation between equilibrium constants for some reversible reactions
 
-| Reversible reactions | Equilibrium constant |
-|---------------------|---------------------|
-| 1. \( 2\mathrm{SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \) | \( K_c = \frac{[SO_3]^2}{[SO_2]^2[O_2]} \) and \( K_p = \frac{P_{SO_3}^2}{P_{SO_2}^2 \times P_{O_2}} \) |
-| 2. \( 2\mathrm{CO(g) \rightleftharpoons CO_2(g) + C(s)} \) | \( K_c = \frac{[CO_2]}{[CO]^2} \) and \( K_p = \frac{P_{CO_2}}{P_{CO}^2} \) |
+# Example
+
+Write the \( K_p \) and \( K_c \) for the following reactions
+
+1. \( \mathrm{2SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g)} \)
+
+2. \( \mathrm{2CO(g) \rightleftharpoons CO_2(g) + C(s)} \)
+
+**1)**
+
+\[
+K_c = \frac{[\mathrm{SO_3}]^2}{[\mathrm{SO_2}]^2 [\mathrm{O_2}]}
+\]
+
+\[
+K_p = \frac{P_{\mathrm{SO_3}}^2}{P_{\mathrm{SO_2}}^2 \times P_{\mathrm{O_2}}}
+\]
+
+**2)**
+
+\[
+K_c = \frac{[\mathrm{CO_2}]}{[\mathrm{CO}]^2} \quad \text{and} \quad K_p = \frac{P_{\mathrm{CO_2}}}{P_{\mathrm{CO}}}
+\]
 
 ### Evaluate Yourself
 
@@ -428,6 +512,39 @@ A large value of \( \mathrm{K_c} \) indicates that the reaction reaches equilibr
 | Prediction | Reverse reaction is favoured | Neither forward nor reverse reaction predominates | Forward reaction is favoured |
 | Examples | Decomposition of water at 500 K: \( 2\mathrm{H_2O(g)} \rightleftharpoons 2\mathrm{H_2(g)} + \mathrm{O_2(g)} \); \( K_c = 4.1 \times 10^{-48} \)<br>Oxidation of nitrogen at 1000 K: \( \mathrm{N_2(g)} + \mathrm{O_2(g)} \rightleftharpoons 2\mathrm{NO(g)} \); \( K_c = 1 \times 10^{-30} \) | Dissociation of bromine monochloride at 1000 K: \( 2\mathrm{BrCl(g)} \rightleftharpoons \mathrm{Br_2(g)} + \mathrm{Cl_2(g)} \); \( K_c = 5 \)<br>Formation of HI at 700 K: \( \mathrm{H_2(g)} + \mathrm{I_2(g)} \rightleftharpoons 2\mathrm{HI(g)} \); \( K_c = 57.0 \) | Formation of HCl at 300 K: \( \mathrm{H_2(g)} + \mathrm{Cl_2(g)} \rightleftharpoons 2\mathrm{HCl(g)} \); \( K_c = 4 \times 10^{31} \)<br>Oxidation of carbon monoxide at 1000 K: \( 2\mathrm{CO(g)} + \mathrm{O_2(g)} \rightleftharpoons 2\mathrm{CO_2(g)} \); \( K_c = 2.2 \times 10^{22} \) |
 
+
+# Example
+
+Consider the following equilibrium reactions and relate their equilibrium constants
+
+i) \( \mathrm{N_2 + O_2 \rightleftharpoons 2NO} \); \( K_1 \)
+
+ii) \( \mathrm{2NO + O_2 \rightleftharpoons 2NO_2} \); \( K_2 \)
+
+iii) \( \mathrm{N_2 + 2O_2 \rightleftharpoons 2NO_2} \); \( K_3 \)
+
+\[
+K_1 = \frac{[\mathrm{NO}]^2}{[\mathrm{N_2}][\mathrm{O_2}]}
+\]
+
+\[
+K_2 = \frac{[\mathrm{NO_2}]^2}{[\mathrm{NO}]^2[\mathrm{O_2}]}
+\]
+
+Now
+
+\[
+K_1 \times K_2 = \frac{[\mathrm{NO}]^2}{[\mathrm{N_2}][\mathrm{O_2}]} \times \frac{[\mathrm{NO_2}]^2}{[\mathrm{NO}]^2[\mathrm{O_2}]}
+\]
+
+\[
+= \frac{[\mathrm{NO_2}]^2}{[\mathrm{N_2}][\mathrm{O_2}]^2} = K_3
+\]
+
+\[
+\therefore K_3 = K_1 \times K_2
+\]
+
 ### 8.7.2 Predicting the Direction of a Reaction
 
 From the knowledge of equilibrium constant, it is possible to predict the direction in which the net reaction is taking place for a given concentration or partial pressure of reactants and products.
@@ -451,7 +568,7 @@ As the reaction proceeds, there is a continuous change in the concentration of r
 - If \( Q = K_c \), the reaction is in equilibrium state.
 - If \( Q > K_c \), the reaction will proceed in the reverse direction i.e., formation of reactants.
 - If \( Q < K_c \), the reaction will proceed in the forward direction i.e., formation of products.
-
+<center>{{< figure src="4.png" width="200" >}}</center>
 <center><strong>Fig 8.4 Predicting the direction of a reaction</strong></center>
 
 **Example 1**
@@ -621,21 +738,62 @@ K_c = \frac{[NH_3]^2}{[N_2][H_2]^3} = \frac{\left(\frac{2x}{V}\right)^2}{\left(\
 
 The equilibrium constant \( K_p \) can also be calculated as follows:
 
-\( \Delta n_g = n_p - n_r = 2 - 4 = -2 \)
-
 \[
-K_p = K_c (RT)^{-2}
+K_p = K_c(\text{RT})^{\Delta n_g}
 \]
 
-Total number of moles at equilibrium, \( n = a-x + b-3x + 2x = a + b - 2x \)
+\[
+\Delta n_g = n_p - n_r = 2 - 4 = -2
+\]
 
 \[
-K_p = K_c \times \left(\frac{PV}{n}\right)^{-2} = K_c \times \left(\frac{n}{PV}\right)^2
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \, (\text{RT})^{-2}
+\]
+
+Total number of moles at equilibrium,
+
+\[
+n = a-x + b-3x + 2x = a+b-2x
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{PV}{n} \right]^{-2}
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{n}{PV} \right]^2
+\]
+
+\[
+K_p = \frac{4x^2V^2}{(a-x)(b-3x)^3} \times \left[ \frac{a+b-2x}{PV} \right]^2
+\]
+
+\[
+K_p = \frac{4x^2(a+b-2x)^2}{P^2(a-x)(b-3x)^3}
 \]
 
 **Solved Problems:**
 
 1. The equilibrium concentrations of \( \mathrm{NH_3} \), \( \mathrm{N_2} \) and \( \mathrm{H_2} \) are \( 1.8 \times 10^{-2} \ \mathrm{M} \), \( 1.2 \times 10^{-2} \ \mathrm{M} \) and \( 3 \times 10^{-2} \ \mathrm{M} \) respectively. Calculate the equilibrium constant for the formation of \( \mathrm{NH_3} \) from \( \mathrm{N_2} \) and \( \mathrm{H_2} \). [Hint: M = mol \( \mathrm{L^{-1}} \)]
+
+
+**Given data:**
+
+\[
+[\mathrm{NH_3}] = 1.8 \times 10^{-2} \, \text{M}
+\]
+
+\[
+[\mathrm{N_2}] = 1.2 \times 10^{-2} \, \text{M}
+\]
+
+\[
+[\mathrm{H_2}] = 3 \times 10^{-2} \, \text{M}
+\]
+
+\[
+K_c = ?
+\]
 
 **Solution:**
 
@@ -743,15 +901,7 @@ K_c = \frac{[HI]^2}{[H_2][I_2]} = \frac{1 \times 1}{0.2 \times 0.1} = 50
 \]
 
 The equilibrium was disturbed by adding 0.1 M iodine to the reaction mixture. After sometime, the concentration of HI is found to be 1.092 M. Let us verify whether the system proceeds to re-establish the equilibrium according to Le Chatelier's principle.
-
-| | \( \mathrm{H_2} \) | \( \mathrm{I_2} \) | \( \mathrm{HI} \) |
-|---|---|---|---|
-| Concentration at equilibrium | 0.2 | 0.1 | 1 |
-| Disturbance (Addition of 0.1 M iodine) | | +0.1 | |
-| Concentration immediately after the addition of iodine | 0.2 | 0.2 | 1 |
-| Change in concentration | -x | -x | +2x |
-| New concentration | 0.2 - x | 0.2 - x | 1 + 2x |
-
+![](5.png)
 Now,
 
 Concentration of \( \mathrm{HI} = 1 + 2x = 1.092 \ \mathrm{M} \)
@@ -778,7 +928,10 @@ Q = \frac{[HI]^2}{[H_2][I_2]} = \frac{1.092 \times 1.092}{0.154 \times 0.154} \a
 
 The Q value is equal to K value. So, we can conclude that the system has re-established the equilibrium at this stage and the addition of iodine results in the increase in the HI concentration.
 
+<center>{{< figure src="6.png" width="200" >}}</center>
 <center><strong>Figure 8.5 Effect of addition of iodine on formation of HI</strong></center>
+
+**Do You Know**
 
 In the large scale production of CaO from \( \mathrm{CaCO_3} \), constant removal of \( \mathrm{CO_2} \) from the kiln drives the reaction to completion. As in the case of manufacture of \( \mathrm{NH_3} \) by the Haber's process, \( \mathrm{NH_3} \) is liquefied and removed so that the reaction keeps moving in forward direction.
 
@@ -794,6 +947,7 @@ Let us consider the synthesis of ammonia from nitrogen and hydrogen.
 
 Let the system be allowed to attain equilibrium in a cylinder with a piston. If we press the piston down to increase the pressure, the volume decreases. The system responds to this effect by reducing the number of gas molecules. i.e., it favours the formation of ammonia. If we pull the piston upwards to reduce the pressure, the volume increases. It favours the decomposition of ammonia.
 
+<center>{{< figure src="7.png" width="200" >}}</center>
 <center><strong>Figure 8.6 Effect of pressure on ammonia synthesis.</strong></center>
 
 However, when the total number of the moles of the gaseous reactants and the gaseous products are equal, the change in pressure has no effect on system at equilibrium.
@@ -971,20 +1125,7 @@ a) The reaction temperature is altered to \( 100^{\circ} \mathrm{C} \) keeping t
 
 ---
 
-## Clinical Correlate: Hemoglobin and Oxygen Transport
-
-In a pregnant woman, the oxygen supply for fetus is provided by the maternal blood in the placenta where the blood vessels of both mother and fetus are in close proximity. Both fetal and maternal hemoglobin binds to oxygen reversibly as follows.
-
-\[
-\mathrm{Hb(mother) + O_2 \rightleftharpoons HbO_2(mother)}
-\]
-
-\[
-\mathrm{Hb(fetus) + O_2 \rightleftharpoons HbO_2(fetus)}
-\]
-
-In the above two equilibria, the equilibrium constant value for the oxygenation of fetal hemoglobin is higher, which is due to its higher affinity for oxygen compared to the adult hemoglobin. Hence in placenta, the oxygen from the mother's blood is effectively transferred to the fetal hemoglobin.
-
+![](8.png)
 ---
 
 ## Summary
@@ -1001,318 +1142,3 @@ In the above two equilibria, the equilibrium constant value for the oxygenation 
 - Van't Hoff equation gives the quantitative temperature dependence of equilibrium constant (K).
 
 ---
-
-## Evaluation
-
-### I. Choose the best answer.
-
-1. If \( K_b \) and \( K_f \) for a reversible reaction are \( 0.8 \times 10^{-5} \) and \( 1.6 \times 10^{-4} \) respectively, the value of the equilibrium constant is,
-   a) 20
-   b) \( 0.2 \times 10^{-1} \)
-   c) 0.05
-   d) none of these
-
-2. At a given temperature and pressure, the equilibrium constant values for the equilibria
-   \[
-   3\mathrm{A_2} + \mathrm{B_2} + 2\mathrm{C} \xrightarrow{K_1} 2\mathrm{A_3BC}
-   \]
-   \[
-   \mathrm{A_3BC} \xrightarrow{K_2} \mathrm{A_2} + \frac{1}{2}\mathrm{B_2} + \mathrm{C}
-   \]
-   The relation between \( K_1 \) and \( K_2 \) is
-   a) \( K_1 = \frac{1}{\sqrt{K_2}} \)
-   b) \( K_2 = K_1^{-1/2} \)
-   c) \( K_1^2 = 2K_2 \)
-   d) \( K_2 = K_2 \)
-
-3. The equilibrium constant for a reaction at room temperature is \( K_1 \) and that at \( 700 \ \mathrm{K} \) is \( K_2 \). If \( K_1 > K_2 \), then
-   a) The forward reaction is exothermic
-
-4. The formation of ammonia from \( \mathrm{N_2(g)} \) and \( \mathrm{H_2(g)} \) is a reversible reaction
-   \[
-   \mathrm{N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g) + Heat}
-   \]
-   What is the effect of increase of temperature on this equilibrium reaction?
-   a) equilibrium is unaltered
-   b) formation of ammonia is favoured
-   c) equilibrium is shifted to the left
-   d) reaction rate does not change
-
-5. Solubility of carbon dioxide gas in cold water can be increased by
-   a) increase in pressure
-   b) decrease in pressure
-   c) increase in volume
-   d) none of these
-
-6. Which one of the following is incorrect statement?
-   a) for a system at equilibrium, Q is always less than the equilibrium constant
-   b) equilibrium can be attained from either side of the reaction
-   c) presence of catalyst affects both the forward reaction and reverse reaction to the same extent
-   d) Equilibrium constant varied with temperature
-
-7. \( K_1 \) and \( K_2 \) are the equilibrium constants for the reactions respectively.
-   \[
-   \mathrm{N_2(g) + O_2(g) \rightleftharpoons 2NO(g)}
-   \]
-   \[
-   2\mathrm{NO(g) + O_2(g) \rightleftharpoons 2NO_2(g)}
-   \]
-   What is the equilibrium constant for the reaction \( \mathrm{NO_2(g) \rightleftharpoons \frac{1}{2} N_2(g) + O_2(g)} \)
-   a) \( \frac{1}{\sqrt{K_1 K_2}} \)
-   b) \( (K_1 K_2)^{\frac{1}{2}} \)
-   c) \( \frac{1}{2K_1 K_2} \)
-   d) \( \left(\frac{1}{K_1 K_2}\right)^{\frac{1}{2}} \)
-
-8. In the equilibrium,
-   \[
-   2\mathrm{A(g) \rightleftharpoons 2B(g) + C_2(g)}
-   \]
-   the equilibrium concentrations of A, B and \( \mathrm{C_2} \) at \( 400 \ \mathrm{K} \) are \( 1 \times 10^{-4} \ \mathrm{M} \), \( 2.0 \times 10^{-3} \ \mathrm{M} \) and \( 1.5 \times 10^{-4} \ \mathrm{M} \) respectively. The value of \( K_c \) for the equilibrium at \( 400 \ \mathrm{K} \) is
-   a) 0.06
-   b) 0.09
-   c) 0.62
-   d) \( 3 \times 10^{-2} \)
-
-9. An equilibrium constant of \( 3.2 \times 10^{-6} \) for a reaction means, the equilibrium is
-   a) largely towards forward direction
-   b) largely towards reverse direction
-   c) never established
-   d) none of these
-
-10. \( \frac{K_c}{K_p} \) for the reaction,
-    \[
-    \mathrm{N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)} \ \text{is}
-    \]
-    a) \( \frac{1}{RT} \)
-    b) \( \sqrt{RT} \)
-    c) \( RT \)
-    d) \( (RT)^2 \)
-
-11. For the reaction \( \mathrm{AB(g) \rightleftharpoons A(g) + B(g)} \) at equilibrium, AB is 20% dissociated at a total pressure of P. The equilibrium constant \( K_p \) is related to the total pressure by the expression
-    a) \( P = 24K_p \)
-    b) \( P = 8K_p \)
-    c) \( 24P = K_p \)
-    d) none of these
-
-12. In which of the following equilibrium, \( K_p \) and \( K_c \) are not equal?
-    a) \( 2\mathrm{NO(g)} \rightleftharpoons \mathrm{N_2(g)} + \mathrm{O_2(g)} \)
-    b) \( \mathrm{SO_2(g)} + \mathrm{NO_2(g)} \rightleftharpoons \mathrm{SO_3(g)} + \mathrm{NO(g)} \)
-    c) \( \mathrm{H_2(g)} + \mathrm{I_2(g)} \rightleftharpoons 2\mathrm{HI(g)} \)
-    d) \( \mathrm{PCl_5(g)} \rightleftharpoons \mathrm{PCl_3(g)} + \mathrm{Cl_2(g)} \)
-
-13. If \( x \) is the fraction of \( \mathrm{PCl_5} \) dissociated at equilibrium in the reaction \( \mathrm{PCl_5} \rightleftharpoons \mathrm{PCl_3} + \mathrm{Cl_2} \), then starting with 0.5 mole of \( \mathrm{PCl_5} \), the total number of moles of reactants and products at equilibrium is
-    a) \( 0.5 - x \)
-    b) \( x + 0.5 \)
-    c) \( 2x + 0.5 \)
-    d) \( x + 1 \)
-
-14. The values of \( K_{p_1} \) and \( K_{p_2} \) for the reactions \( \mathrm{X} \rightleftharpoons \mathrm{Y} + \mathrm{Z} \) and \( \mathrm{A} \rightleftharpoons 2\mathrm{B} \) are in the ratio 9 : 1. If degree of dissociation and initial concentration of X and A be equal, then total pressure at equilibrium \( P_1 \) and \( P_2 \) are in the ratio
-    a) 36 : 1
-    b) 1 : 1
-    c) 3 : 1
-    d) 1 : 9
-
-15. In the reaction, \( \mathrm{Fe(OH)_3(s)} \rightleftharpoons \mathrm{Fe^{3+}(aq)} + 3\mathrm{OH^-(aq)} \), if the concentration of \( \mathrm{OH^-} \) ions is decreased by \( \frac{1}{4} \) times, then the equilibrium concentration of \( \mathrm{Fe^{3+}} \) will
-    a) not changed
-    b) also decreased by \( \frac{1}{4} \) times
-    c) increase by 4 times
-    d) increase by 64 times
-
-16. Consider the reaction where \( K_p = 0.5 \) at a particular temperature
-    \[
-    \mathrm{PCl_5(g) \rightleftharpoons PCl_3(g) + Cl_2(g)}
-    \]
-    If the three gases are mixed in a container so that the partial pressure of each gas is initially 1 atm, then which one of the following is true?
-    a) more \( \mathrm{PCl_5} \) will be produced
-    b) more \( \mathrm{Cl_2} \) will be produced
-    c) more \( \mathrm{PCl_3} \) will be produced
-    d) none of these
-
-17. Equimolar concentrations of \( \mathrm{H_2} \) and \( \mathrm{I_2} \) are heated to equilibrium in a 1 litre flask. What percentage of initial concentration of \( \mathrm{H_2} \) has reacted at equilibrium if rate constant for both forward and reverse reactions are equal?
-    a) 33%
-    b) 66%
-    c) \( (33)^2 \% \)
-    d) 16.5%
-
-18. In a chemical equilibrium, the rate constant for the forward reaction is \( 2.5 \times 10^2 \) and the equilibrium constant is 50. The rate constant for the reverse reaction is,
-    a) 11.5
-    b) 5
-    c) \( 2 \times 10^2 \)
-    d) \( 2 \times 10^{-3} \)
-
-19. Which of the following is not a general characteristic of equilibrium involving physical process?
-    a) Equilibrium is possible only in a closed system at a given temperature
-    b) The opposing processes occur at the same rate and there is a dynamic but stable condition
-    c) All the physical processes stop at equilibrium
-    d) All measurable properties of the system remains constant
-
-20. For the formation of two moles of \( \mathrm{SO_3(g)} \) from \( \mathrm{SO_2} \) and \( \mathrm{O_2} \), the equilibrium constant is \( K_1 \). The equilibrium constant for the dissociation of one mole of \( \mathrm{SO_3} \) into \( \mathrm{SO_2} \) and \( \mathrm{O_2} \) is
-    a) \( \left(\frac{K_1}{2}\right)^{\frac{1}{2}} \)
-    b) \( \left(\frac{1}{2K_1}\right)^{\frac{1}{2}} \)
-    c) \( \frac{1}{2K_1} \)
-    d) \( \left(\frac{1}{K_1}\right)^{\frac{1}{2}} \)
-
-21. Match the equilibria with the corresponding conditions,
-
-    | | Equilibrium | Condition |
-    |---|-------------|-----------|
-    | i | Liquid ⇌ Vapour | 1) melting point |
-    | ii | Solid ⇌ Liquid | 2) Saturated solution |
-    | iii | Solid ⇌ Vapour | 3) Boiling point |
-    | iv | Solute (s) ⇌ Solute (Solution) | 4) Sublimation point |
-    | | | 5) Unsaturated solution |
-
-    a) (i)-1, (ii)-2, (iii)-3, (iv)-4
-    b) (i)-3, (ii)-1, (iii)-4, (iv)-2
-    c) (i)-2, (ii)-1, (iii)-3, (iv)-4
-    d) (i)-3, (ii)-2, (iii)-4, (iv)-5
-
-22. Consider the following reversible reaction at equilibrium, \( \mathrm{A + B \rightleftharpoons C} \). If the concentration of the reactants A and B are doubled, then the equilibrium constant will
-    a) be doubled
-    b) become one fourth
-    c) be halved
-    d) remain the same
-
-23. \( \mathrm{[Co(H_2O)_6]^{2+}(aq)(pink) + 4Cl^- (aq) \rightleftharpoons [CoCl_4]^{2-}(aq)(blue) + 6H_2O(l)} \)
-    In the above reaction at equilibrium, the reaction mixture is blue in colour at room temperature. On cooling this mixture, it becomes pink in colour. On the basis of this information, which one of the following is true?
-    a) \( \Delta H > 0 \) for the forward reaction
-    b) \( \Delta H = 0 \) for the reverse reaction
-    c) \( \Delta H < 0 \) for the forward reaction
-    d) Sign of the \( \Delta H \) cannot be predicted based on this information.
-
-24. The equilibrium constants of the following reactions are:
-    \[
-    \mathrm{N_2 + 3H_2 \rightleftharpoons 2NH_3}; \quad K_1
-    \]
-    \[
-    \mathrm{N_2 + O_2 \rightleftharpoons 2NO}; \quad K_2
-    \]
-    \[
-    \mathrm{H_2 + \frac{1}{2}O_2 \rightleftharpoons H_2O}; \quad K_3
-    \]
-    The equilibrium constant (K) for the reaction
-    \[
-    2\mathrm{NH_3 + \frac{5}{2}O_2 \rightleftharpoons 2NO + 3H_2O}, \ \text{will be}
-    \]
-    a) \( \frac{K_2 K_3^3}{K_1} \)
-    b) \( \frac{K_1 K_3^3}{K_2} \)
-    c) \( \frac{K_1 K_2^2}{K_3} \)
-    d) \( \frac{K_2 K_3^2}{K_1} \)
-
-25. A 20 litre container at \( 400 \ \mathrm{K} \) contains \( \mathrm{CO_2(g)} \) at pressure 0.4 atm and an excess of SrO (neglect the volume of solid SrO). The volume of the container is now decreased by moving the movable piston fitted in the container. The maximum volume of the container, when pressure of \( \mathrm{CO_2} \) attains its maximum value will be:
-    Given that: \( \mathrm{SrCO_3(s) \rightleftharpoons SrO(s) + CO_2(g)} \), \( K_p = 1.6 \ \mathrm{atm} \) (NEET 2017)
-    a) 2 litre
-    b) 5 litre
-    c) 10 litre
-    d) 4 litre
-
----
-
-### II. Write brief answer to the following questions.
-
-26. If there is no change in concentration, why is the equilibrium state considered dynamic?
-
-27. For a given reaction at a particular temperature, the equilibrium constant has constant value. Is the value of Q also constant? Explain.
-
-28. What is the relation between \( K_p \) and \( K_c \)? Give one example for which \( K_p \) is equal to \( K_c \).
-
-29. For a gaseous homogeneous reaction at equilibrium, number of moles of products are greater than the number of moles of reactants. Is \( K_c \) larger or smaller than \( K_p \)?
-
-30. When the numerical value of the reaction quotient (Q) is greater than the equilibrium constant (K), in which direction does the reaction proceed to reach equilibrium?
-
-31. For the reaction,
-    \[
-    \mathrm{A_2(g) + B_2(g) \rightleftharpoons 2AB(g)}; \quad \Delta H \text{ is -ve.}
-    \]
-    the following molecular scenes represent different reaction mixture (A - green, B - blue)
-    i) Calculate the equilibrium constant \( K_p \) and \( (K_c) \).
-    ii) For the reaction mixture represented by scene (x), (y) the reaction proceed in which directions?
-    iii) What is the effect of increase in pressure for the mixture at equilibrium.
-
-32. State Le-Chatelier principle.
-
-33. Consider the following reactions,
-    a) \( \mathrm{H_2(g) + I_2(g) \rightleftharpoons 2HI(g)} \)
-    b) \( \mathrm{CaCO_3(s) \rightleftharpoons CaO(s) + CO_2(g)} \)
-    c) \( \mathrm{S(s) + 3F_2(g) \rightleftharpoons SF_6(g)} \)
-    In each of the above reaction find out whether you have to increase (or) decrease the volume to increase the yield of the product.
-
-34. State law of mass action.
-
-35. Explain how will you predict the direction of an equilibrium reaction.
-
-36. Derive a general expression for the equilibrium constant \( K_p \) and \( K_c \) for the reaction
-    \[
-    3\mathrm{H_2(g) + N_2(g) \rightleftharpoons 2NH_3(g)}
-    \]
-
-37. Write a balanced chemical equation for the equilibrium reaction for which the equilibrium constant is given by expression
-    \[
-    K_c = \frac{[NH_3]^4 [O_2]^5}{[NO]^4 [H_2O]^6}
-    \]
-
-38. What is the effect of added inert gas on the reaction at equilibrium at constant volume?
-
-39. Derive the relation between \( K_p \) and \( K_c \).
-
-40. One mole of \( \mathrm{PCl_5} \) is heated in one litre closed container. If 0.6 mole of chlorine is found at equilibrium, calculate the value of equilibrium constant.
-
-41. For the reaction
-    \[
-    \mathrm{SrCO_3(s) \rightleftharpoons SrO(s) + CO_2(g)},
-    \]
-    the value of equilibrium constant \( K_p = 2.2 \times 10^{-4} \) at \( 1002 \ \mathrm{K} \). Calculate \( K_c \) for the reaction.
-
-42. To study the decomposition of hydrogen iodide, a student fills an evacuated 3 litre flask with 0.3 mol of HI gas and allows the reaction to proceed at \( 500^{\circ} \mathrm{C} \). At equilibrium he found the concentration of HI which is equal to \( 0.05 \ \mathrm{M} \). Calculate \( K_c \) and \( K_p \) for this reaction.
-
-43. 1 mol of \( \mathrm{CH_4} \), 1 mole of \( \mathrm{CS_2} \) and 2 mol of \( \mathrm{H_2S} \) and 2 mol of \( \mathrm{H_2} \) are mixed in a 500 ml flask. The equilibrium constant for the reaction \( K_c = 4 \times 10^{-2} \ \mathrm{mol^2 \ lit^{-2}} \). In which direction will the reaction proceed to reach equilibrium?
-
-44. At particular temperature \( K_c = 4 \times 10^{-2} \) for the reaction
-    \[
-    \mathrm{H_2S(g) \rightleftharpoons H_2(g) + \frac{1}{2} S_2(g)}
-    \]
-    Calculate \( K_c \) for each of the following reaction
-    i) \( 2\mathrm{H_2S(g) \rightleftharpoons 2H_2(g) + S_2(g)} \)
-    ii) \( 3\mathrm{H_2S(g) \rightleftharpoons 3H_2(g) + \frac{3}{2}S_2(g)} \)
-
-45. 28 g of Nitrogen and 6 g of hydrogen were mixed in a 1 litre closed container. At equilibrium 17 g \( \mathrm{NH_3} \) was produced. Calculate the weight of nitrogen, hydrogen at equilibrium.
-
-46. The equilibrium for the dissociation of \( \mathrm{XY_2} \) is given as,
-    \[
-    2\mathrm{XY_2(g) \rightleftharpoons 2XY(g) + Y_2(g)}
-    \]
-    if the degree of dissociation \( x \) is so small compared to one. Show that
-    \( 2K_p = P x^3 \) where P is the total pressure and \( K_p \) is the dissociation equilibrium constant of \( \mathrm{XY_2} \).
-
-47. A sealed container was filled with 1 mol of \( \mathrm{A_2(g)} \), 1 mol \( \mathrm{B_2(g)} \) at \( 800 \ \mathrm{K} \) and total pressure 1.00 bar. Calculate the amounts of the components in the mixture at equilibrium given that \( K = 1 \) for the reaction
-    \[
-    \mathrm{A_2(g) + B_2(g) \rightleftharpoons 2AB(g)}
-    \]
-
-48. Deduce the Van't Hoff equation.
-
-49. The equilibrium constant \( K_p \) for the reaction
-
-50. The partial pressure of carbon dioxide in the reaction
-    \[
-    \mathrm{CaCO_3(s) \rightleftharpoons CaO(s) + CO_2(g)}
-    \]
-    is \( 1.017 \times 10^{-3} \) atm at \( 500^{\circ} \mathrm{C} \). Calculate \( K_p \) at \( 600^{\circ} \mathrm{C} \) for the reaction. \( \Delta H \) for the reaction is \( 181 \ \mathrm{kJ \ mol^{-1}} \) and does not change in the given range of temperature.
-
----
-
-## ICT Corner
-
-### Effect of temperature and pressure in an equilibrium process
-
-By using this tool, we can determine the effect of pressure and temperature in the equilibrium concentration of the components in ammonia synthesis (Haber process).
-
-Please go to the URL http://www.freezeray.com/flashFiles/ammoniaConditions.htm (or) Scan the QR code.
-
-**Steps:**
-
-- Open the Browser and type the URL given (or) Scan the QR Code.
-- The website will show the equilibrium reaction involved in ammonia synthesis and the relative concentration of the components. The visual representation and the actual concentration values are given in the box 1.
-- Now change the pressure or temperature using the corresponding slider indicated in the box 2.
-- As you move the slider you will be able to see the change in the equilibrium concentration of reactants and products.
-- Now you can understand that if a stress is applied on the system at equilibrium, the system will adjust itself to nullify the effect of the stress.

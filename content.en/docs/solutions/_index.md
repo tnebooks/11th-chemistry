@@ -9,24 +9,12 @@ summary: "This unit explains the formation, types, and properties of solutions a
 
 # 9. Solutions
 
-<center>Francois-Marie Raoult</center>
+![](image.png)
+**Francois-Marie Raoult**
 
 Francois-Marie Raoult was a French chemist who conducted research into the behaviour of solutions, especially their physical properties.
 
 In his first research paper, he described the action of solutes in depressing the freezing point of the solutions. He also gave a relation between the vapour pressure of the solution with the molecular weight of the solute.
-
-## Learning Objectives
-
-After studying this unit students will be able to
-
-- describe the formation of different types of solutions
-- express the concentration of a solution in different units
-- prepare solutions of required concentrations by diluting the stock solution
-- state Henry's and Raoult's Law
-- explain the deviation of real solutions from Raoult's Law
-- correlate colligative properties of solutions with the molar masses of their solutes
-- explain the abnormal colligative properties
-- define Van't Hoff factor and calculate degree of dissociation / association
 
 ### 9.1 INTRODUCTION
 
@@ -60,18 +48,13 @@ The following table illustrates the different types of solutions based on the ph
 
 ### 9.3 Expressing concentration of solutions
 
-In our life we have come across many solutions of varying strengths or concentrations. The concentration of a solution is defined as the amount of solute present in a given amount (mass or volume) of solution or solvent. The concentration of a solution can be expressed in different ways as listed below.
+In our life we have come across many solutions of varying strengths or concentrations such as mouthwash, antiseptic solutions, household disinfectants etc... Have you ever noticed the concentration of the ingredients present in those solutions? For example, chlorhexidine mouthwash solution contains 0.2% (w/v) chlorhexidine gluconate; The concentration of the commercially available hydrogen peroxide is 3% (w/v). Similarly, other terms such as ppm (TDS of water), molar and normal (laboratory reagents) are used to express the concentration of the solution. The concentration of a solution gives the amount of solute present in a given quantity of solvent. As we have seen, there are different ways of expressing the concentration of a solution. Let us learn the different concentration terms and to prepare a solution of a specific concentration.
 
 **Table 9.2 Different concentration terms with expressions and illustrations**
 
-| S. No. | Concentration term | Expression | Illustration |
-|---|---|---|---|
-| 1 | Molarity (M) | \( \frac{\text{Number of moles of solute}}{\text{Volume of solution in L}} \) | 5.85 g of sodium chloride is dissolved in water and the solution was made up to 500 mL using a standard flask. The strength of the solution in molarity is \( \frac{5.85}{58.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{M} \) |
-| 2 | Molality (m) | \( \frac{\text{Number of moles of solute}}{\text{Mass of solvent in kg}} \) | 5.85 g of NaCl is dissolved in 500 g of water. The strength of the solution in molality is \( \frac{5.85}{58.5 \times 0.5 \mathrm{kg}} = 0.2 \mathrm{m} \) |
-| 3 | Normality (N) | \( \frac{\text{Number of gram equivalents of solute}}{\text{Volume of solution in L}} \) | 3.65 g of HCl is dissolved in water and the solution was made up to 500 mL. The strength of the solution in normality is \( \frac{3.65}{36.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{N} \) |
-| 4 | Formality (F) | \( \frac{\text{Number of formula mass of solute}}{\text{Volume of solution in L}} \) | 5.85 g of sodium chloride is dissolved in water and the solution was made up to 500 mL using a standard flask. The strength of the solution in formality is \( \frac{5.85}{58.5 \times 0.5 \mathrm{L}} = 0.2 \mathrm{F} \) |
-| 5 | Mole fraction (of a component) (x) | \( \frac{\text{Number of moles of the component}}{\text{Total number of moles of all the components present in solution}} \) | Consider a solution containing two components A and B whose mole fractions are \( x_A \) and \( x_B \), respectively. Let the number of moles of the two components A and B be \( n_A \) and \( n_B \), respectively. \( x_A = \frac{n_A}{n_A + n_B} \) and \( x_B = \frac{n_B}{n_A + n_B} \). Now, \( x_A + x_B = \frac{n_A}{n_A + n_B} + \frac{n_B}{n_A + n_B} = 1 \). 0.5 mole of ethanol is mixed with 1.5 moles of water. The mole fraction of ethanol in the above solution is \( \frac{0.5}{0.5 + 1.5} = \frac{0.5}{2.0} = 0.25 \). The mole fraction of water in the above solution is \( \frac{1.5}{2.0} = 0.75 \). |
-| 6 | Mass percentage (% w/w) | \( \frac{\text{Mass of the solute (in g)}}{\text{Mass of solution (in g)}} \times 100 \) | Neomycin, aminoglycoside antibiotic cream contains 300 mg of neomycin sulphate the active ingredient, in 30 g of ointment base. The mass percentage of neomycin is \( \frac{0.3 \mathrm{g}}{30 \mathrm{g}} \times 100 = 1\% \ \mathrm{w/w} \) |
+![](img1.png)
+![](img2.png)
+![](img3.png)
 
 ## Evaluate Yourself
 
@@ -83,25 +66,27 @@ In our life we have come across many solutions of varying strengths or concentra
 
 4) A litre of sea water weighing about 1.05 kg contains 5 mg of dissolved oxygen \( (\mathrm{O}_{2}) \). Express the concentration of dissolved oxygen in ppm.
 
-The concentration of a solution is expressed in different units. The choice of unit depends on the type of measurement applied. For example, in complexometric titrations involving EDTA, the concentration of solution is expressed in formality because EDTA exists as \( \mathrm{H_4Y} \). In the case of redox titration involving \( \mathrm{KMnO_4} \) vs \( \mathrm{FeSO_4} \), the strength of \( \mathrm{KMnO_4} \) is expressed in normality. Similarly, for the osmotic pressure measurement, we use the molarity of the solution. Hence, we need to learn to convert one concentration unit into another, which we will practice at the end of this chapter.
+The concentration of a solution is expressed in different units. The choice of unit depends on the type of measurement applied. For example, in complexometric titrations involving, EDTA, the reaction between EDTA and the metal ions takes place in the 1:1 mole ratio and hence molar solutions are used in this titrations. In the redox and neutralisation titrations we use normal solutions. The mole fraction is used to calculate the partial pressure of gases and the vapour pressure of solutions. The percentage units are used to express the active ingredients present in therapeutics, and the ppm is used to express the quantity of solutes present in small amounts in solutions.
 
-#### 9.3.1 Dilution of solution
+### 9.3.1 Standard solutions and working standards
 
-The concentration of a solution can be reduced by adding more solvent. This process is called dilution. In the initial solution, the number of moles of solute is \( \mathrm{M_1V_1} \) and in the final solution after dilution it becomes \( \mathrm{M_2V_2} \). Since the number of moles of solute taken remains constant after dilution, we can write
+A standard solution or a stock solution is a solution whose concentration is accurately known. A standard solution of required concentration can be prepared by dissolving a required amount of a solute, in a suitable amount of solvent. It's done by
+
+(i) transferring a known amount of a solute to a standard flask of definite volume.
+
+(ii) a small amount of water is added to the flask and shaken well to dissolve the solute.
+
+(iii) then water is added to the flask to bring the solution level to the mark indicated at the top end of the flask.
+
+(iv) the flask is stoppered and shaken well to make concentration uniform.
+
+At the time of experiment, the solution with required concentration is prepared by diluting the stock solution. This diluted solution is usually called working standard. A known volume of stock solution is transferred to a new container and brought to the calculated volume. The necessary volumes of the stock solution and final volume can be calculated using the following expression.
 
 \[
-\mathrm{M_1V_1 = M_2V_2} \qquad (9.1)
+C_v V_s = C_w V_w \tag{9.1}
 \]
 
-Similarly, for dilution in terms of normality,
-
-\[
-\mathrm{N_1V_1 = N_2V_2} \qquad (9.2)
-\]
-
-This relation is used to prepare a less concentrated solution from a more concentrated solution.
-
-The concentration of the solution can be expressed in different units. The choice of unit depends on the requirement. For example, we express the strength of EDTA as formality because of its complex formula. For redox reactions, we use normality. In some cases, we need to convert one concentration unit to another.
+Where \( C_s \) and \( V_s \) are concentration and volume of the stock solution and \( C_w \) and \( V_w \) are concentration and volume of the working standard, respectively.
 
 #### 9.3.2 Advantages of using standard solutions
 
@@ -135,6 +120,9 @@ We know from the equation (9.1)
 \mathrm{x = \frac{250}{2} = 125 \ mL}
 \]
 
+Hence, volume of 4M HCl required = 125 mL
+Volume of 2M HCl required = (500 - 125) mL= 375 mL 
+
 ## Evaluate Yourself
 
 5) Describe how would you prepare the following solution from pure solute and solvent (a) 1 L of aqueous solution of 1.5 M \( \mathrm{CoCl_2} \). (b) \( 500 \ \mathrm{mL} \) of \( 6.0\% \) (V/V) aqueous methanol solution.
@@ -167,6 +155,7 @@ When a solid is added to a solvent, it begins to dissolve. i.e. the solute leave
 
 According to Le-Chatelier principle, if the dissolution process is endothermic, the increase in temperature will shift the equilibrium towards right i.e solubility increases. For an exothermic reaction, the increase in temperature decreases the solubility. The solubilities of ammonium nitrate, calcium chloride, ceric sulphate nano-hydrate and sodium chloride in water at different temperatures are given in the following graph.
 
+<center>{{< figure src="img4.png" width="200" >}}</center>
 <center>Figure 9.1 Plot of solubility versus temperature for selective compounds</center>
 
 The following conclusions are drawn from the above graph.
@@ -183,6 +172,8 @@ In the case of gaseous solute in liquid solvent, the solubility decreases with i
 ## Activity
 
 Open the soda bottle and put a balloon over it. The balloon will inflate with the released carbon dioxide from the soda. Carry out the same experiment by placing the soda bottle in a container of hot water. You will observe the balloon is inflated much faster now. This shows the decrease in solubility of gases in solution with increase in temperature. In the rivers where hot water is discharged from industrial plants, the aquatic lives are less sustained due to the decreased availability of dissolved oxygen.
+
+<center>{{< figure src="img5.png" width="200" >}}</center>
 
 <center>Figure 9.2 Effect of pressure on solubility</center>
 
@@ -213,11 +204,17 @@ Henry's law can be expressed as,
 
 Here, \( \mathrm{P_{solute}} \) represents the partial pressure of the gas in vapour state which is commonly called as vapour pressure. \( \mathbf{x}_{\mathrm{solute}} \) in solution represents the mole fraction of solute in the solution. \( \mathrm{K}_{\mathrm{H}} \) is an empirical constant with the dimensions of pressure. The value of \( \mathrm{K}_{\mathrm{H}} \) depends on the nature of the gaseous solute and solvent. The above equation is a straight-line in the form of \( \mathrm{y = mx} \). The plot of partial pressure of the gas against its mole fraction in a solution will give a straight line as shown in fig 9.3. The slope of the straight line gives the value of \( \mathrm{K}_{\mathrm{H}} \).
 
+<center>{{< figure src="img6.png" width="200" >}}</center>
+
 <center>Figure 9.3 Solubility of HCl gas in cyclohexane at 293 K.</center>
+
+**Do You Know**
 
 ## Why the carbonated drinks are stored in a pressurized container?
 
 We all know that the carbonated beverages contain carbon dioxide dissolved in them. To dissolve the carbon dioxide in these drinks, the \( \mathrm{CO}_{2} \) gas is bubbled through them under high pressure. These containers are sealed to maintain the pressure. When we open these containers at atmospheric pressure, the pressure of the \( \mathrm{CO}_{2} \) drops to the atmospheric level and hence bubbles of \( \mathrm{CO}_{2} \) rapidly escape from the solution and show effervescence. The burst of bubbles is even more noticeable, if the soda bottle is in warm condition.
+
+**Do You Know**
 
 ## Why deep-sea divers use air diluted with helium gas in their air tanks?
 
@@ -274,6 +271,8 @@ Generally, liquids have a tendency to evaporate. If the kinetic energy of molecu
 If evaporation is carried out in a closed container then the vapour remains in contact with the surface of the liquid. These vapour molecules are in continuous random motion during which they collide with each other and also with the walls of the container. As the collision is inelastic, they lose their energy and as result the vapour returns back to liquid state. This process is called as 'condensation'.
 
 Evaporation and condensation are continuous processes. If the process is carried out in a closed system, a stage is reached when the rate of evaporation becomes equal to the rate of condensation. Thus, an equilibrium is established between liquid and its vapour. The pressure of the vapour in equilibrium with its liquid is called vapour pressure of the liquid at the given temperature. The vapour pressure of a liquid depends on its nature, temperature and the surface area. The following simple apparatus demonstrates the measurement of vapour pressure of a liquid.
+
+<center>{{< figure src="img7.png" width="200" >}}</center>
 
 <center>Figure 9.4: a) A closed round bottomed flask in which ethanol is in equilibrium with its vapour. b) In the same setup the vapour is allowed to escape through a U tube filled with mercury. The escaped vapour pushes the mercury in the U tube and the difference in mercury level gives the vapour pressure of ethanol present in the RB flask.</center>
 
@@ -339,6 +338,8 @@ The above equation is of the straight-line equation form \( \mathrm{y = mx + c} 
 
 Let us consider the liquid solution containing toluene (solute) in benzene (solvent).
 
+<center>{{< figure src="img8.png" width="200" >}}</center>
+
 <center>Figure 9.5 Solution of benzene in toluene obeying Raoult's law.</center>
 
 The vapour pressures of pure toluene and pure benzene are 22.3 and \( 74.7 \ \mathrm{mmHg} \), respectively. The above graph shows, the partial vapour pressure of the pure components increases linearly with the increase in the mole fraction of the respective components. The total pressure at any composition of the solute and solvent is given by the following straight line (represented as red line) equation.
@@ -352,6 +353,8 @@ The vapour pressures of pure toluene and pure benzene are 22.3 and \( 74.7 \ \ma
 When a nonvolatile solute is dissolved in a pure solvent, the vapour pressure of the pure solvent will decrease. In such solutions, the vapour pressure of the solution will depend only on the solvent molecules as the solute is nonvolatile.
 
 For example, when sodium chloride is added to the water, the vapour pressure of the salt solution is lowered. The vapour pressure of the solution is determined by the number of molecules of the solvent present in the surface at any time and is proportional to the mole fraction of the solvent.
+
+<center>{{< figure src="img9.png" width="200" >}}</center>
 
 <center>Figure 9.6 Rate of vaporisation reduced by presence of nonvolatile solute.</center>
 
@@ -436,6 +439,8 @@ Let us understand the positive deviation by considering a solution of ethyl alco
 
 Examples for non-ideal solutions showing positive deviations: Ethyl alcohol & cyclohexane, Benzene & acetone, Carbon tetrachloride & chloroform, Acetone & ethyl alcohol, Ethyl alcohol & water.
 
+<center>{{< figure src="img10.png" width="200" >}}</center>
+
 <center>Figure 9.7 Positive deviations from Raoult's law. The dotted line (---) is ideal behavior and the solid lines ( ) is actual behaviour</center>
 
 ##### Non-ideal solutions - negative deviation from Raoult's Law
@@ -443,6 +448,8 @@ Examples for non-ideal solutions showing positive deviations: Ethyl alcohol & cy
 Let us consider a case where the attractive forces between solute (A) and solvent (B) are stronger than the intermolecular attractive forces between the individual components (A-A & B-B). Here, the escaping tendency of A and B will be lower when compared with an ideal solution formed by A and B. Hence, the vapour pressure of such solutions will be lower than the sum of the vapour pressure of A and B. This type of deviation is called negative deviation. For the negative deviation \( \mathrm{p_A < p_A^{\circ} x_A} \) and \( \mathrm{p_B < p_B^{\circ} x_B} \).
 
 Let us consider a solution of phenol and aniline. Both phenol and aniline form hydrogen bonding interactions amongst themselves. However, when mixed with aniline, the phenol molecule forms hydrogen bonding interactions with aniline, which are stronger than the hydrogen bonds formed amongst themselves. Formation of new hydrogen bonds considerably reduce the escaping tendency of phenol and aniline from the solution. As a result, the vapour pressure of the solution is less and there is a slight decrease in volume ( \( \Delta \mathrm{V_{mixing} < 0} \) ) on mixing. During this process evolution of heat takes place i.e. \( \Delta \mathrm{H_{mixing} < 0} \) (exothermic).
+
+<center>{{< figure src="img11.png" width="200" >}}</center>
 
 <center>Figure 9.8 Negative deviation from Raoult's law. The dotted line (---) is ideal behavior and the solid lines ( ) is actual behaviour</center>
 
@@ -463,6 +470,8 @@ For example, a solution of potassium chloride in water deviates from ideal behav
 ##### iii) Association of solute
 
 Association of solute molecules can also cause deviation from ideal behaviour. For example, in solution, acetic acid exists as a dimer by forming intermolecular hydrogen bonds, and hence deviates from Raoult's law.
+
+<center>{{< figure src="img12.png" width="200" >}}</center>
 
 <center>Figure 9.9 Acetic acid (dimer)</center>
 
@@ -491,6 +500,8 @@ Pure water is tasteless. When you add sugar it becomes sweet, while addition of 
 The vapour pressure of a solution containing a nonvolatile, non-electrolyte solute is always lower than the vapour pressure of the pure solvent. Consider a closed system in which a pure solvent is in equilibrium with its vapour. At equilibrium the molar Gibbs free energies of solvent in the liquid and gaseous phase are equal (\( \Delta G = 0 \)). When a solute is added to this solvent, the dissolution takes place and its free energy (G) decreases due to increase in entropy. In order to maintain the equilibrium, the free energy of the vapour phase must also decrease. At a given temperature, the only way to lower the free energy of the vapour is to reduce its pressure. Thus the vapour pressure of the solution must decrease to maintain the equilibrium.
 
 We know that from the Raoult's law the relative lowering of the vapour pressure is equal to the mole fraction of the solute (equation 9.16)
+
+<center>{{< figure src="img13.png" width="200" >}}</center>
 
 <center>Figure 9.10 Measuring relative lowering of vapour pressure</center>
 
@@ -541,7 +552,7 @@ From the equation (9.22) the molar mass of the solute \( \mathrm{(M_B)} \) can b
 
 ## Example Problem 3
 
-An aqueous solution of \( 2\% \) nonvolatile solute exerts a pressure of 1.004 bar at \( 100^{\circ}C \). What is the molar mass of the solute?
+An aqueous solution of \( 2\% \) nonvolatile solute exerts a pressure of 1.004 bar at the boiling point of the solvent. What is the molar mass of the solute when PA is 1.013 bar?
 
 \[
 \frac{\Delta P}{P_A^0} = \frac{W_B \times M_A}{M_B \times W_A}
@@ -567,7 +578,9 @@ M_B = \frac{2 \times 18 \times 1.013}{98 \times 0.009} = 41.3 \ \mathrm{g \ mol^
 
 #### Elevation of boiling point
 
-Boiling point is an important physical property of a liquid. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the atmospheric pressure (1 atm). When a nonvolatile solute is added to a pure solvent at its boiling point, the vapour pressure of the solution is lowered below 1 atm. To bring the vapour pressure again to 1 atm, the temperature of the solution has to be increased. As a result, the solution boils at a higher temperature \( \mathrm{T_b} \) than the boiling point of the pure solvent \( \mathrm{T_b^{\circ}} \). This increase in boiling point is known as elevation of boiling point.
+Boiling point is an important physical property of a liquid. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the atmospheric pressure (1 atm). When a nonvolatile solute is added to a pure solvent at its boiling point, the vapour pressure of the solution is lowered below 1 atm. To bring the vapour pressure again to 1 atm, the temperature of the solution has to be increased. As a result, the solution boils at a higher temperature \( \mathrm{T_b} \) than the boiling point of the pure solvent \( \mathrm{T_b^{\circ}} \). This increase in boiling point is known as elevation of boiling point.. A plot of vapour pressure versus temperature for water and an aqueous solution is given below 
+
+<center>{{< figure src="img14.png" width="200" >}}</center>
 
 <center>Figure 9.11 Elevation of boiling point and depression in freezing point</center>
 
@@ -746,6 +759,8 @@ The temperature at which ice will begin to separate is the freezing point of wat
 
 Many biological processes depend on osmosis, which is a spontaneous process by which the solvent molecules pass through a semi permeable membrane from a solution of lower concentration to a solution of higher concentration. The name osmosis is derived from the Greek word 'osmós' which means 'to push'. It is also important to know that the semipermeable membrane selectively allows certain molecules in the solution to pass through it but not others.
 
+<center>{{< figure src="img15.png" width="200" >}}</center>
+
 <center>Figure 9.12 Osmosis and osmotic pressure</center>
 
 Let us consider a simple apparatus as shown in the above figure. A semipermeable membrane separates a chamber into two compartments. Water (pure solvent) is added to the first compartment and the aqueous NaCl (solution) is added to the second compartment such that the liquid levels on the both sides are equal. Since there is a difference in concentration between the liquids present in the two compartments, the water molecules move from first compartment to second compartment through the semipermeable membrane. The membrane allows only water molecules to pass through it in either direction but not NaCl. The net flow of water is into the sodium chloride solution and hence increases its volume. This decreases its concentration and also creates a pressure difference between the compartments. This pressure difference pushes some of the water molecules back to the solvent side through the semipermeable membrane until an equilibrium is established. At the equilibrium, the rate of movement of solvent molecules in both directions are equal. The pressure difference at the equilibrium is called osmotic pressure \( (\pi) \). Thus, osmotic pressure can be defined as "the pressure that must be applied to the solution to stop the influx of the solvent (to stop osmosis) through the semipermeable membrane".
@@ -805,6 +820,7 @@ From the equation 9.33, molar mass of the solute can be calculated.
 ##### Isotonic solutions
 
 Two solutions having same osmotic pressure at a given temperature are called isotonic solutions. When such solutions are separated by a semipermeable membrane, solvent flow between one to the other on either direction is same, i.e. the net solvent flow between the two isotonic solutions is zero.
+<center>{{< figure src="img16.png" width="200" >}}</center>
 
 <center>Figure 9.13 Isotonic solutions</center>
 
@@ -813,6 +829,8 @@ The osmotic pressure of the blood cells is approximately equal to 7 atm at \( 37
 ### 9.10 Reverse osmosis (RO)
 
 Let us consider the experimental setup discussed in the osmosis. The pure water moves through the semipermeable membrane to the NaCl solution due to osmosis. This process can be reversed by applying pressure greater than the osmotic pressure to the solution side. Now the pure water moves from the solution side to the solvent side and this process is called reverse osmosis. It can be defined as a process in which a solvent passes through a semipermeable membrane in the opposite direction of osmosis, when subjected to a hydrostatic pressure greater than the osmotic pressure.
+
+<center>{{< figure src="img17.png" width="200" >}}</center>
 
 <center>Figure 9.14 Osmosis & Reverse osmosis</center>
 
@@ -972,246 +990,3 @@ Osmotic pressure \( (\pi) \) is the pressure which must be applied to the soluti
 #### Abnormal colligative properties
 
 If solutes undergo any association or dissociation in a solution, they exhibit abnormal colligative properties. Van't Hoff factor explains quantitatively the extent of association or dissociation of solutes in solvent.
-
-## Evaluation
-
-### I. Choose the best answer.
-
-1. The molality of a solution containing \( 1.8 \ \mathrm{g} \) of glucose dissolved in \( 250 \ \mathrm{g} \) of water is
-   a) \( 0.2 \ \mathrm{M} \)
-   b) \( 0.01 \ \mathrm{M} \)
-   c) \( 0.02 \ \mathrm{M} \)
-   d) \( 0.04 \ \mathrm{M} \)
-
-2. Which of the following concentration terms is / are independent of temperature
-   a) molality
-   b) molarity
-   c) mole fraction
-   d) (a) and (c)
-
-3. Stomach acid, a dilute solution of HCl can be neutralised by reaction with Aluminium hydroxide
-   \[
-   \mathrm{Al(OH)_3 + 3HCl(aq) \rightarrow AlCl_3 + 3H_2O}
-   \]
-   How many millilitres of \( 0.1 \ \mathrm{M} \ \mathrm{Al(OH)_3} \) solution are needed to neutralise \( 21 \ \mathrm{mL} \) of \( 0.1 \ \mathrm{M} \ \mathrm{HCl} \)?
-   a) \( 14 \ \mathrm{mL} \)
-   b) \( 7 \ \mathrm{mL} \)
-   c) \( 21 \ \mathrm{mL} \)
-   d) none of these
-
-4. The partial pressure of nitrogen in air is 0.76 atm and its Henry's law constant is \( 7.6 \times 10^{4} \) atm at \( 300 \ \mathrm{K} \). What is the mole fraction of nitrogen gas in the solution obtained when air is bubbled through water at \( 300 \ \mathrm{K} \)?
-   a) \( 1 \times 10^{-4} \)
-   b) \( 1 \times 10^{-6} \)
-   c) \( 2 \times 10^{-5} \)
-   d) \( 1 \times 10^{-5} \)
-
-5. The Henry's law constant for the solubility of Nitrogen gas in water at \( 350 \ \mathrm{K} \) is \( 8 \times 10^{4} \) atm. The mole fraction of nitrogen in air is 0.5. The number of moles of Nitrogen from air dissolved in 10 moles of water at \( 350 \ \mathrm{K} \) and 4 atm pressure is
-   a) \( 4 \times 10^{-4} \)
-   b) \( 4 \times 10^{4} \)
-   c) \( 2 \times 10^{-2} \)
-   d) \( 2.5 \times 10^{-4} \)
-
-6. Which one of the following is incorrect for ideal solution?
-   a) \( \Delta \mathrm{H_{mix}} = 0 \)
-   b) \( \Delta \mathrm{U_{mix}} = 0 \)
-   c) \( \Delta \mathrm{P} = \mathrm{P_{observed}} - \mathrm{P_{calculated \ by \ Raoults \ law}} = 0 \)
-   d) \( \Delta \mathrm{G_{mix}} = 0 \)
-
-7. Which one of the following gases has the lowest value of Henry's law constant?
-   a) \( \mathrm{N_2} \)
-   b) \( \mathrm{He} \)
-   c) \( \mathrm{CO_2} \)
-   d) \( \mathrm{H_2} \)
-
-8. \( \mathrm{P_1} \) and \( \mathrm{P_2} \) are the vapour pressures of pure liquid components, 1 and 2 respectively of an ideal binary solution if \( \mathbf{x_1} \) represents the mole fraction of component 1, the total pressure of the solution formed by 1 and 2 will be
-   a) \( \mathrm{P_1 + x_1(P_2 - P_1)} \)
-   b) \( \mathrm{P_2 - x_1(P_2 + P_1)} \)
-   c) \( \mathrm{P_1 - x_2(P_1 - P_2)} \)
-   d) \( \mathrm{P_1 + x_2(P_1 - P_2)} \)
-
-9. Osmotic pressure \( (\pi) \) of a solution is given by the relation
-   a) \( \pi = \mathrm{nRT} \)
-   b) \( \pi \mathrm{V} = \mathrm{nRT} \)
-   c) \( \pi \mathrm{RT} = \mathrm{n} \)
-   d) none of these
-
-10. Which one of the following binary liquid mixtures exhibits positive deviation from Raoults law?
-    a) Acetone + chloroform
-    b) Water + nitric acid
-    c) HCl + water
-    d) ethanol + water
-
-11. The Henry's law constants for two gases A and B are \( \mathbf{x} \) and \( \mathbf{y} \) respectively. The ratio of mole fractions of A to B is 0.2. The ratio of mole fraction of B and A dissolved in water will be
-    a) \( \frac{2x}{y} \)
-    b) \( \frac{y}{0.2x} \)
-    c) \( \frac{0.2x}{y} \)
-    d) \( \frac{5x}{y} \)
-
-12. At \( 100^{\circ}C \) the vapour pressure of a solution containing \( 6.5 \ \mathrm{g} \) a solute in \( 100 \ \mathrm{g} \) water is \( 732 \ \mathrm{mm} \). If \( \mathrm{K_b} = 0.52 \), the boiling point of this solution will be
-    a) \( 102^{\circ}C \)
-    b) \( 100^{\circ}C \)
-    c) \( 101^{\circ}C \)
-    d) \( 100.52^{\circ}C \)
-
-13. According to Raoults law, the relative lowering of vapour pressure for a solution is equal to
-    a) mole fraction of solvent
-    b) mole fraction of solute
-    c) number of moles of solute
-    d) number of moles of solvent
-
-14. At same temperature, which pair of the following solutions are isotonic?
-    a) \( 0.2 \ \mathrm{M} \ \mathrm{BaCl_2} \) and \( 0.2 \ \mathrm{M} \) urea
-    b) \( 0.1 \ \mathrm{M} \) glucose and \( 0.2 \ \mathrm{M} \) urea
-    c) \( 0.1 \ \mathrm{M} \) NaCl and \( 0.1 \ \mathrm{M} \ \mathrm{K_2SO_4} \)
-    d) \( 0.1 \ \mathrm{M} \ \mathrm{Ba(NO_3)_2} \) and \( 0.1 \ \mathrm{M} \ \mathrm{Na_2SO_4} \)
-
-15. The empirical formula of a non-electrolyte(X) is \( \mathrm{CH_2O} \). A solution containing six gram of X exerts the same osmotic pressure as that of \( 0.025 \ \mathrm{M} \) glucose solution at the same temperature. The molecular formula of X is
-    a) \( \mathrm{C_2H_4O_2} \)
-    b) \( \mathrm{C_8H_{16}O_8} \)
-    c) \( \mathrm{C_4H_8O_4} \)
-    d) \( \mathrm{CH_2O} \)
-
-16. The \( \mathrm{K_H} \) for the solution of oxygen dissolved in water is \( 4 \times 10^{4} \) atm at a given temperature. If the partial pressure of oxygen in air is 0.4 atm, the mole fraction of oxygen in solution is
-    a) \( 4.6 \times 10^{3} \)
-    b) \( 1.6 \times 10^{4} \)
-    c) \( 1 \times 10^{-5} \)
-    d) \( 1 \times 10^{5} \)
-
-17. Normality of \( 1.25 \ \mathrm{M} \) sulphuric acid is
-    a) \( 1.25 \ \mathrm{N} \)
-    b) \( 3.75 \ \mathrm{N} \)
-    c) \( 2.5 \ \mathrm{N} \)
-    d) \( 2.25 \ \mathrm{N} \)
-
-18. Two liquids X and Y on mixing gives a warm solution. The solution is
-    a) ideal
-    b) non-ideal and shows positive deviation from Raoults law
-    c) ideal and shows negative deviation from Raoults Law
-    d) non-ideal and shows negative deviation from Raoults Law
-
-19. The relative lowering of vapour pressure of a sugar solution in water is \( 3.5 \times 10^{-3} \). The mole fraction of water in that solution is
-    a) \( 0.0035 \)
-    b) \( 0.35 \)
-    c) \( 0.0035 / 18 \)
-    d) \( 0.9965 \)
-
-20. The mass of a non-volatile solute (molar mass \( 80 \ \mathrm{g \ mol^{-1}} \)) which should be dissolved in \( 92 \ \mathrm{g} \) of toluene to reduce its vapour pressure to \( 90\% \)
-    a) \( 10 \ \mathrm{g} \)
-    b) \( 20 \ \mathrm{g} \)
-    c) \( 9.2 \ \mathrm{g} \)
-    d) \( 8.89 \ \mathrm{g} \)
-
-21. For a solution, the plot of osmotic pressure \( (\pi) \) verses the concentration (c in mol \( \mathrm{L^{-1}} \)) gives a straight line with slope \( 310 \mathrm{R} \) where 'R' is the gas constant. The temperature at which osmotic pressure measured is
-    a) \( 310 \times 0.082 \ \mathrm{K} \)
-    b) \( 310^{\circ}C \)
-    c) \( 37^{\circ}C \)
-    d) \( \frac{310}{0.082} \ \mathrm{K} \)
-
-22. \( 200 \ \mathrm{ml} \) of an aqueous solution of a protein contains \( 1.26 \ \mathrm{g} \) of protein. At \( 300 \ \mathrm{K} \), the osmotic pressure of this solution is found to be \( 2.52 \times 10^{-3} \) bar. The molar mass of protein will be \( (\mathrm{R} = 0.083 \ \mathrm{L \ bar \ mol^{-1} \ K^{-1}}) \)
-    a) \( 62.22 \ \mathrm{Kg \ mol^{-1}} \)
-    b) \( 12444 \ \mathrm{g \ mol^{-1}} \)
-    c) \( 300 \ \mathrm{g \ mol^{-1}} \)
-    d) none of these
-
-23. The Van't Hoff factor (i) for a dilute aqueous solution of the strong electrolyte barium hydroxide is (NEET)
-    a) 0
-    b) 1
-    c) 2
-    d) 3
-
-24. What is the molality of a \( 10\% \ \mathrm{W/W} \) aqueous sodium hydroxide solution?
-    a) 2.778
-    b) 2.5
-    c) 10
-    d) 0.4
-
-25. The correct equation for the degree of an associating solute, 'n' molecules of which undergoes association in solution, is
-    a) \( \alpha = \frac{n(i - 1)}{n - 1} \)
-    b) \( \alpha^2 = \frac{n(i - 1)}{(n - 1)} \)
-    c) \( \alpha = \frac{n(i - 1)}{1 - n} \)
-    d) \( \alpha = \frac{n(1 - i)}{n(1 - i)} \)
-
-26. Which of the following aqueous solutions has the highest boiling point?
-    a) \( 0.1 \ \mathrm{M} \ \mathrm{KNO_3} \)
-    b) \( 0.1 \ \mathrm{M} \ \mathrm{Na_3PO_4} \)
-    c) \( 0.1 \ \mathrm{M} \ \mathrm{BaCl_2} \)
-    d) \( 0.1 \ \mathrm{M} \ \mathrm{K_2SO_4} \)
-
-27. The freezing point depression constant for water is \( 1.86^{\circ} \mathrm{K \ kg \ mol^{-1}} \). If \( 5 \ \mathrm{g} \ \mathrm{Na_2SO_4} \) is dissolved in \( 45 \ \mathrm{g} \) water, the depression in freezing point is \( 3.64^{\circ}C \). The Van't Hoff factor for \( \mathrm{Na_2SO_4} \) is
-    a) 2.50
-    b) 2.63
-    c) 3.64
-    d) 5.50
-
-28. Equimolal aqueous solutions of NaCl and KCl are prepared. If the freezing point of NaCl is \( -2^{\circ}C \), the freezing point of KCl solution is expected to be
-    a) \( -2^{\circ}C \)
-    b) \( -4^{\circ}C \)
-    c) \( -1^{\circ}C \)
-    d) \( 0^{\circ}C \)
-
-29. Phenol dimerises in benzene having van't Hoff factor 0.54. What is the degree of association?
-    a) 0.46
-    b) 92
-    c) 46
-    d) 0.92
-
-30. Assertion: An ideal solution obeys Raoults Law
-    Reason: In an ideal solution, solvent-solvent as well as solute-solute interactions are similar to solute-solvent interactions.
-    a) both assertion and reason are true and reason is the correct explanation of assertion
-    b) both assertion and reason are true but reason is not the correct explanation of assertion
-    c) assertion is true but reason is false
-    d) both assertion and reason are false
-
-### II. Write brief answer to the following questions
-
-31. Define (i) molality (ii) Normality
-
-32. What is a vapour pressure of liquid? What is relative lowering of vapour pressure?
-
-33. State and explain Henry's law
-
-34. State Raoult law and obtain expression for lowering of vapour pressure when nonvolatile solute is dissolved in solvent.
-
-35. What is molal depression constant? Does it depend on nature of the solute?
-
-36. What is osmosis?
-
-37. Define the term 'isotonic solution'.
-
-38. You are provided with a solid 'A' and three solutions of A dissolved in water - one saturated, one unsaturated, and one super saturated. How would you determine which solution is which?
-
-39. Explain the effect of pressure on the solubility.
-
-40. A sample of 12 M Concentrated hydrochloric acid has a density 1.2 g L\(^{-1}\). Calculate the molality.
-
-41. A 0.25 M glucose solution at 370.28 K has approximately the same osmotic pressure as blood does. What is the osmotic pressure of blood?
-
-42. Calculate the molality of a solution containing \( 7.5 \ \mathrm{g} \) of glycine \( (\mathrm{NH_2 - CH_2 - COOH}) \) dissolved in \( 500 \ \mathrm{g} \) of water.
-
-43. Which solution has the lower freezing point? \( 10 \ \mathrm{g} \) of methanol \( (\mathrm{CH_3OH}) \) in \( 100 \ \mathrm{g} \) of water (or) \( 20 \ \mathrm{g} \) of ethanol \( (\mathrm{C_2H_5OH}) \) in \( 200 \ \mathrm{g} \) of water.
-
-44. How many moles of solute particles are present in one litre of \( 10^{-4} \ \mathrm{M} \) potassium sulphate?
-
-45. Henry's law constant for solubility of methane in benzene is \( 4.2 \times 10^{-5} \ \mathrm{mm} \ \mathrm{Hg} \) at a particular constant temperature. At this temperature, calculate the solubility of methane at i) \( 750 \ \mathrm{mm} \ \mathrm{Hg} \) ii) \( 840 \ \mathrm{mm} \ \mathrm{Hg} \)
-
-46. The observed depression in freezing point of water for a particular solution is \( 0.093^{\circ}C \). Calculate the concentration of the solution in molality. Given that molal depression constant for water is \( 1.86 \ \mathrm{K \ kg \ mol^{-1}} \).
-
-47. The vapour pressure of pure benzene \( (\mathrm{C_6H_6}) \) at a given temperature is \( 640 \ \mathrm{mm} \ \mathrm{Hg} \). \( 2.2 \ \mathrm{g} \) of non-volatile solute is added to \( 40 \ \mathrm{g} \) of benzene. The vapour pressure of the solution is \( 600 \ \mathrm{mm} \ \mathrm{Hg} \). Calculate the molar mass of the solute.
-
-## ICT Corner
-
-### Osmosis
-
-By using this tool, you will be able to visualise the process of osmosis which gives a clear understanding of this process.
-
-Please go to the URL https://pbslm-contrib.s3.amazonaws.com/WGBH/arct15/SimBucket/Simulations/osmosis/content/index.html (or) Scan the QR code on the right side.
-
-**Steps**
-
-- Open the Browser and type the URL given (or) Scan the QR Code.
-- Now you will see the webpage as shown below.
-- The two compartments were separated by a semipermeable membrane.
-- On the left side (Box 2) contains pure solvent (water) and right side contains solution (solute + water).
-- The number of solvent molecules (water) on each side is shown in the area designated by box 3 and 5.
-- Now you can see the water molecules moving from solvent side to solution side through the membrane. It reflects in the change in number of water molecules on either side.
-- You can restart the simulation by clicking the reset button in box 1.

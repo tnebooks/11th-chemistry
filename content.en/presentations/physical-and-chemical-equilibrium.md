@@ -6,3 +6,25 @@ summary: "This unit explains the concepts of physical and chemical equilibrium a
 # Physical and Chemical Equilibrium
 
 ---
+
+## Learning Objectives
+
+After studying this unit, the students will be able to
+
+- describe the meaning of equilibrium
+- explain the dynamic nature of equilibrium involved in physical and chemical processes
+- state the law of mass action
+- deduce the expression for equilibrium constants, \( \mathrm{K_c} \) and \( \mathrm{K_p} \)
+- establish the relationship between \( \mathrm{K_p} \) and \( \mathrm{K_c} \)
+- predict the extent of reaction using equilibrium constant
+- state Le-Chatelier's principle
+- explain the effect of various factors that affect a system at equilibrium
+- derive Van't Hoff equation
+
+---
+
+
+---
+
+
+---

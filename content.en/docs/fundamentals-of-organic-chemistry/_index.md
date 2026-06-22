@@ -9,17 +9,6 @@ summary: "This unit introduces the basic principles of organic chemistry, includ
 
 # 11. Fundamentals of Organic Chemistry
 
-## Learning Objectives
-
-After studying this unit students will be able to
-
-- understand the reason for the tetra valency of carbon and shapes of organic molecules
-- classify the organic compounds
-- name the organic compounds according to IUPAC nomenclature and derive the structure from the IUPAC name
-- describe various types of isomerism
-- explain the principles of detection and estimation of elements in organic compounds
-- describe various techniques used in the purification of organic compounds
-
 ## 11.1 Introduction
 
 Organic chemistry is the study of compounds of carbon. Carbon has a tendency to form more compounds with itself and other atoms (H, O, N, S and halogens) than any other elements. The tendency of an atom to form a chain of bonds with the atoms of the same element is called catenation. The high strength of C-C bond is responsible for its catenation property.
@@ -58,11 +47,17 @@ The existing large number of organic compounds and ever-increasing number have m
 
 ### 11.2.1 Classification based on the structure:
 
+<center>{{< figure src="Classification.png" width="200" >}}</center>
+
+Based on the above classification let us classify the following compounds. 
+
 1. Classify the following compounds based on the structure
 
 i) \( \mathrm{CH \equiv C - CH_2 - C \equiv CH} \)
 
 ii) \( \mathrm{CH_3 - CH_2 - CH_2 - CH_2 - CH} \)
+
+<center>{{< figure src="11.2.1(D).png" width="200" >}}</center>
 
 **Solutions:**
 
@@ -95,6 +90,20 @@ ii) \( \mathrm{CH_3 - CH_2 - CH_2 - CH_2 - CH} \)
 | 13 | Nitro alkane | \( \mathrm{-NO_2} \) | \( \mathrm{R-NO_2} \) |
 | 14 | Amine | \( \mathrm{-NH_2} \) | \( \mathrm{R-NH_2} \) |
 | 15 | Amide | \( \mathrm{-CONH_2} \) | \( \mathrm{R-CONH_2} \) |
+| 16 | Cyanide (Nitrile) | \( -\mathrm{C \equiv N} \) | \( \mathrm{R-CN} \) |
+| 17 | Isocyanide | \( -\mathrm{NC} \) | \( \mathrm{R-NC} \) |
+| 18 | Cyanate | \( -\mathrm{OCN} \) | \( \mathrm{R-OCN} \) |
+| 19 | Isocyanate | \( -\mathrm{NCO} \) | \( \mathrm{R-NCO} \) |
+| 20 | Thiocyanate | \( -\mathrm{SCN} \) | \( \mathrm{R-SCN} \) |
+| 21 | Isothiocyanate | \( -\mathrm{NCS} \) | \( \mathrm{R-NCS} \) |
+| 23 | Thioalcohols or thiols | \( -\mathrm{SH} \) | \( \mathrm{R-SH} \) |
+| 24 | Thioethers | \( -\mathrm{S-R} \) | \( \mathrm{R-S-R'} \) |
+| 25 | Imines | \( -\mathrm{NH} \) | \( \mathrm{R-CH=NH} \) |
+| 26 | Nitroso compounds | \( -\mathrm{NO} \) | \( \mathrm{R-NO} \) |
+| 27 | Hydrazines | \( -\mathrm{NH-NH_2} \) | \( \mathrm{R-NH-NH_2} \) |
+| 28 | Hydrazo compounds | \( -\mathrm{NH-NH} \) | \( \mathrm{R-NH-NH-R} \) |
+| 29 | Phenols | \( -\mathrm{OH} \) | \( \mathrm{C_6H_5OH} \) |
+| 30 | Imide | \( -\mathrm{O-R-C-N-C} \) | \( \mathrm{RCON(R')COR'} \) |
 
 ## 11.3 Nomenclature of organic compounds:
 
@@ -202,7 +211,11 @@ The following steps should be followed for naming an organic compound as per IUP
 
 **"prefix \( + \) root word \( + \) primary suffix \( + \) secondary suffix"**
 
-**IUPAC Naming Conventions:**
+<center>{{< figure src="11.3.1(1).png" width="200" >}}</center>
+<center>{{< figure src="11.3.1(2).png" width="200" >}}</center>
+<center>{{< figure src="11.3.1(3).png" width="200" >}}</center>
+
+The following are guide lines for writing IUPAC of the organic compound.
 
 1. The IUPAC names are always written as single word, with notable exception of organic salts, acids and acid derivatives.
 
@@ -216,20 +229,9 @@ The following steps should be followed for naming an organic compound as per IUP
 
 **Table 11.6 Rules for naming of alicyclic compounds:**
 
-| Rule | Illustration |
-|---|---|
-| In the naming of such compounds a prefix cyclo is added to the word root | cyclobutane cyclopentane cyclobutene cyclooctane |
-| If only one substituent is present on the ring, then it is not required to give its position | ethylcyclopentane methylcyclohexane |
-| If two or more substituents are present on the ring, the numbering of ring is done according to lowest set of locant rule. Alicyclic compounds also follow the numbering rules of acyclic compounds | 1-ethyl-2-methylcyclopentane 1-ethyl-2,3-dimethylcyclohexane |
-| If the ring contains lesser number of carbon atoms than that of alkyl group attached to it, the compound is named as derivative of alkane and the ring is considered as a substituent group to the alkane, otherwise it is named as derivative of cycloalkane | 2-Cyclopropylbutane (derivative of alkane) Propan-2-ylcyclobutane (derivative of cycloalkane) |
-| If the side chain contains a multiple bond or a functional group, then the alicyclic ring is treated as the substituent irrespective of the size of the ring | 2-cyclobutylpropanal 3-cyclohexylpentan-2-one |
-| If the alicyclic ring contains a multiple bond and the side chain contains a functional group the compound is named as derivative of the side chain and the ring is treated as substituent | 2-(cyclobut-2-en-1-yl)-propanal 4-(cyclopent-3-en-1-yl)-3-methylbutanoic acid |
-| If both ring as well as the side chain contain the functional group, then parent hydrocarbon is decided on the basis of principal group which is further based on preferential order of functional groups | 3-(3-nitrocyclopentyl)-prop-2-enoic acid |
-| If both alicyclic ring and the side chain contain same functional group, the parent hydrocarbon is selected on the basis of number of carbon-atoms in the ring and side chain | 2-(2-hydroxypropyl)cyclohexan-1-ol |
-| If more than one alicyclic rings are attached to the single chain of carbon atoms, the compound is named as a derivative of alkane and alicyclic rings are treated as substituent irrespective of the number of atom in the ring or chain | 1-(cyclobutyl)-2-(cyclopropyl)-ethane |
-| If the alicyclic ring is directly attached to the benzene ring the compound is named as a derivative of benzene | cyclopentylbenzene |
-| If the alicyclic ring has a functional group along with some substituent on the ring, then the appropriate prefixes and suffixes are used to represent such groups, and numbering is done in such a way that the functional group is not counted for word root rather appropriate suffixes are used to represent such groups | cyclohexanecarboxylic acid 2-carbamoylcyclobutane-1-carboxylic acid |
-
+<center>{{< figure src="11.6(1).png" width="200" >}}</center>
+<center>{{< figure src="C11.6(2).png" width="200" >}}</center>
+<center>{{< figure src="11.6(3).png" width="200" >}}</center>
 ### Evaluate Yourself
 
 2) Write structural formula for the following compounds (i) Cyclohexa-1,4-diene (ii) Ethynyl cyclohexane
@@ -240,11 +242,17 @@ An aromatic compound consists of two parts nucleus and side chain
 
 (A) Nucleus: The benzene ring present in aromatic compound is called nucleus. It is represented as follows
 
+<center>{{< figure src="Nucleus.png" width="200" >}}</center>
+
 (B) Side chain: Alkyl or any other aliphatic group attached to the benzene nucleus by replacing one or more hydrogen atom is called the side chain
+
+<center>{{< figure src="side chain.png" width="200" >}}</center>
 
 If one hydrogen atom, (or) two hydrogen atoms or three hydrogen atoms are replaced in the benzene ring by some other groups, they are termed as mono substituted, di substituted or tri substituted derivative respectively.
 
 **Example**
+
+<center>{{< figure src="sc(ex).png" width="200" >}}</center>
 
 If more than one hydrogen atom of benzene ring is replaced by some other atom or group, then their position is mentioned by Arabic numerals 1,2,3 .... In case of disubstitution, respective position of two groups can also be mentioned as follows.
 
@@ -258,11 +266,19 @@ Para - opposite; represented as - p
 
 Example: 1-chloro-3-methylbenzene (m-chlorotoluene)
 
+<center>{{< figure src="Aromatic compounds.png" width="200" >}}</center>
+
+<center>{{< figure src="Halogen derivatives compounds.png" width="200" >}}</center>
+
 2. Side chain substituted aromatic compounds: These are the compounds in which the functional group is present in the side chain of the benzene ring. These are named as phenyl derivatives of the corresponding aliphatic compounds.
 
 **Side chain substituted**
 
+<center>{{< figure src="Side chain substituted.png" width="200" >}}</center>
+
 **Aryl groups**
+
+<center>{{< figure src="Aryl groups.png" width="200" >}}</center>
 
 Selection of parent hydrocarbon out of side chain and benzene ring is based on (more or less) some rule as for the alicyclic compounds.
 
@@ -272,30 +288,13 @@ Selection of parent hydrocarbon out of side chain and benzene ring is based on (
 
 **Table 11.3.1.2 Examples of IUPAC Nomenclature**
 
-| Compound Structure | IUPAC Name |
-|---|---|
-| \( \mathrm{CH_3-CH_2-CH-CH_2-CH_3} \) with \( \mathrm{CH_3} \) on carbon 3 | 3-methylpentane |
-| \( \mathrm{CH_3-C-CH_2-CH-CH} \) with \( \mathrm{CH_3} \) groups on carbons 2,2,5 | 2,2,5-trimethylheptane |
-| \( \mathrm{CH_3-CH-CH-CH-CH_3} \) with \( \mathrm{CH_3} \) and \( \mathrm{CH_2CH_3} \) groups | 3-methyl-2-methylpentane |
-| \( \mathrm{CH_3-CH-CH-CH_3} \) with \( \mathrm{CHO} \) group | 2-methylbutanal |
-| \( \mathrm{CH_3-CH_2-CH-CH=CH_2} \) with \( \mathrm{COOH} \) group | 2-ethylbut-3-enoic acid |
-| \( \mathrm{HOOC-C-CH_2-CH_2-CH_2} \) with \( \mathrm{CH_3} \) and \( \mathrm{CH_2} \) groups | 2-formyl-2-methylheptanoic acid |
-| \( \mathrm{HOOC-C-CH_2-CH_2-CH-OH} \) with \( \mathrm{CH_2} \) and \( \mathrm{CH_3} \) groups | 5-hydroxy-2,2-dimethylheptanoic acid |
-| \( \mathrm{H_3C-CH_2-CH-CH-CH-CH-CH-CH_3} \) with two COOH groups | 2-ethyl-4-propylpentanedioic acid |
 
-**More examples:**
+<center>{{< figure src="11.3.1.2(1).png" width="200" >}}</center>
+<center>{{< figure src="11.3.1.2(2).png" width="200" >}}</center>
+<center>{{< figure src="11.3.1.2(3).png" width="200" >}}</center>
+<center>{{< figure src="11.3.1.2(4).png" width="200" >}}</center>
 
-| Compound Structure | IUPAC Name |
-|---|---|
-| \( \mathrm{CH_3C=CH_2} \) with \( \mathrm{CH_3} \) group | 4-methylpent-3-en-2-one |
-| \( \mathrm{CH_3-CH_2-C≡C-C=O} \) | pent-1-yn-3-one |
-| \( \mathrm{CH=CH-COOH} \) with phenyl group | 3-phenylprop-2-enoic acid |
-| \( \mathrm{CH_3-CH_2-CH_2-NH-CH_3} \) | N-methylpropan-1-amine |
-| \( \mathrm{CH_3-CH-NH-CH_3} \) | N-methylpropan-2-amine |
-| \( \mathrm{CH_3-CH_2-CH_2-N-CH_3} \) | N,N-dimethylpropan-1-amine |
-| \( \mathrm{CH_3-CH_2-CH_2-N-CH_2-CH_3} \) | N-ethyl-N-methylpropan-1-amine |
-| \( \mathrm{N(CH_3)_2} \) on benzene | N,N-dimethylbenzenamine |
-| \( \mathrm{CH_3-CH_2-CH-CH-CH-CH-CH-CH} \) with OH and CH\(_2\)CH\(_2\)OH groups | 4-hydroxy-3-(2-hydroxyethyl)hexanoic acid |
+
 
 ## 11.4 Structural representation of organic compounds
 
@@ -312,12 +311,15 @@ This structural formula can be further abbreviated by omitting some or all of th
 
 For further simplification, organic chemists use another way of representing the structures in which only lines are used. In this type of representation of organic compounds, carbon and hydrogen atoms are not shown and the lines representing carbon-carbon bonds are shown in a zigzag fashion. The only atoms specifically written are oxygen, chlorine, nitrogen etc. These representations can be easily understood by the following illustration.
 
-| Compound | Molecular formula | Complete structural formula (dash line structure) | Condensed Structure | Bond line Structure |
-|---|---|---|---|---|
-| n-propanol | \( \mathrm{C_3H_8O} \) | \( \mathrm{H-C-C-C-O-H} \) | \( \mathrm{CH_3-CH_2-CH_2-OH} \) | |
-| 1,3-butadiene | \( \mathrm{C_4H_6} \) | \( \mathrm{H-C=C-C=C-H} \) | \( \mathrm{CH_2=CH-CH=CH_2} \) | |
-| t-butyl chloride | \( \mathrm{C_4H_9Cl} \) | \( \mathrm{H-C-C-C-Cl} \) | \( \mathrm{CH_3-CCl-CH_3} \) | |
-| 1,3-dimethyl cyclopentane | \( \mathrm{C_7H_{14}} \) | | | |
+
+<center>{{< figure src="11.4(1).png" width="200" >}}</center>
+<center>{{< figure src="11.4(2).png" width="200" >}}</center>
+
+
+
+#### Molecular models
+
+<center>{{< figure src="11.3.png" width="200" >}}</center>
 
 **Fig 11.3 Methane - Molecular Models**
 
@@ -327,21 +329,31 @@ Molecular models are physical devices that are used for a better visualisation a
 
 The simplest convention is solid and dashed wedge formula in which 3-D image of a molecule can be perceived from two dimensional picture. In this representation a tetrahedral molecule with four atoms or group a,b,c and d bonded to it can be represented by a wedge formula as follows. A solid wedge ( \( \rightarrow \) ) (or a heavy line) is used to indicate a bond projecting above the plane of the paper and the dashed wedge (or a dashed line) is used to depict the bond below the plane. The bonds lying in the plane of the paper are shown by normal lines.
 
+<center>{{< figure src="Three dimensional representation.png" width="200" >}}</center>
+
 ### Fisher projection formula:
 
 This is a method of representing three dimensional structures in two dimension. In this method, the chiral atom(s) lies in the plane of paper. The horizontal substituents are pointing towards the observer and the vertical substituents are away from the observer. Fisher projection formula for tartaric acid is given below.
+
+<center>{{< figure src="Fisher projection formula.png" width="200" >}}</center>
 
 ### Sawhorse projection formula:
 
 Here the bond between two carbon atoms is drawn diagonally and slightly elongated. The lower left hand carbon is considered lying towards the front and the upper right hand carbon towards the back. The Fischer projection inadequately portrays the spatial relationship between ligands attached to adjacent atoms. The sawhorse projection attempts to clarify the relative location of the groups.
 
+<center>{{< figure src="Sawhorse projection formula.png" width="200" >}}</center>
+
 ### Newman projection formula:
 
 In this method the molecules are viewed from the front along the carboncarbon bond axis. The two carbon atom forming the \( \sigma \) bond is represented by two circles. One behind the other so that only the front carbon is seen. The front carbon atom is shown by a point where as the carbon lying further from the eye is represented by the origin of the circle. Therefore, the C-H bonds of the front carbon are depicted from the circle while C-H bonds of the back carbon are drawn from the circumference of the circle with an angle of \( 120^{\circ} \) to each other.
 
+<center>{{< figure src="Newman projection formula.png" width="200" >}}</center>
+
 ## 11.5 Isomerism in organic compounds:
 
 The term 'isomerism' was given by Berzelius, and its represents of existence of two or more compounds with the same molecular formula but different structure and properties (physical, chemical, or both). Compounds exhibiting this isomerism are called isomers. The difference in properties of two isomers is due to difference in (bond connectivity or spatial arrangement) the arrangement of atoms within their molecules. Isomerism is broadly divided into two types. i. Constitutional isomerism, ii. stereoisomerism.
+
+<center>{{< figure src="f11.5.png" width="200" >}}</center>
 
 ### 11.5.1 Constitutional isomers (Formerly structural isomers):
 
@@ -351,21 +363,24 @@ This type of isomers have same molecular formula but differ in their bonding seq
 
 These isomers differ in the way in which the carbon atoms are bonded to each other in a carbon chain or in other words isomers have similar molecular formula but differ in the nature of the carbon skeleton (ie. Straight or branched)
 
+<center>{{< figure src="skeletal isomerism.png" width="200" >}}</center>
+
 #### (b) Position isomerism:
 
 If different compounds belonging to same homologous series with the same molecular formula and carbon skeleton, but differ in the position of substituent or functional group or an unsaturated linkage are said to exhibit position isomerism.
 
 **Example:**
 
-(i) Molecular formula \( \mathrm{C_5H_{10}} \): \( \mathrm{CH_3-CH_2-CH_2-CH=CH_2} \) Pent-1-ene and \( \mathrm{CH_3-CH_2-CH=CH-CH_3} \) Pent-2-ene
+<center>{{< figure src="Position isomerism(1).png" width="200" >}}</center>
+<center>{{< figure src="Position isomerism(1).png" width="200" >}}</center>
 
-(ii) Mol. formula \( \mathrm{C_4H_9Cl} \): \( \mathrm{CH_3-CH_2-CH_2-CH_2Cl} \) 1-chlorobutane and \( \mathrm{CH_3-CH_2-CHCl-CH_3} \) 2-chlorobutane
 
-(iii) Mol. formula \( \mathrm{C_5H_{10}O} \): \( \mathrm{CH_3-CO-CH_2-CH_2-CH_3} \) Pent-2-one and \( \mathrm{CH_3-CH_2-CO-CH_2-CH_3} \) Pent-3-one
 
 #### (c) Functional isomerism:
 
 Different compounds having same molecular formula but different functional groups are said to exhibit functional isomerism.
+
+<center>{{< figure src="Functional isomerism.png" width="200" >}}</center>
 
 #### (d) Metamerism:
 
@@ -373,11 +388,15 @@ This type of isomerism is a special kind of structural isomerism arises due to t
 
 **Example:**
 
+<center>{{< figure src="Metamerism.png" width="200" >}}</center>
+
 #### (e) Tautomerism:
 
 It is a special type of functional isomerism in which a single compound exists in two readily inter convertible structures that differ markedly in the relative position of atleast one atomic nucleus, generally hydrogen. The two different structures are known as tautomers. There are several types of tautomerism and the two important types are dyad and triad systems.
 
 (i) Dyad system: In this system hydrogen atom oscillates between two directly linked polyvalent atoms. Eg:
+
+<center>{{< figure src="Dyad system.png" width="200" >}}</center>
 
 In this example hydrogen atom oscillates between carbon & nitrogen atom
 
@@ -389,25 +408,51 @@ In this example hydrogen atom oscillates between carbon & nitrogen atom
 
 **Example:**
 
+<center>{{< figure src="Triad system.png" width="200" >}}</center>
+
 Nitro-aci tautomerism.
 
 #### (f) Ring chain isomerism:
 
 In this type of isomerism, compounds having same molecular formula but differ in terms of bonding of carbon atom to form open chain and cyclic structures for eg:
 
+<center>{{< figure src="Ring chain isomerism.png" width="200" >}}</center>
+
 ### 11.5.2 Stereoisomerism:
 
 The isomers which have same bond connectivity but different arrangement of groups or atoms in space are known as stereoisomers. This branch of chemistry dealing with the study of three-dimensional nature (spatial arrangement) of molecules is known as stereo chemistry. The metabolic activities in living organisms, natural synthesis and drug synthesis involve various stereoisomers.
 
-**Geometrical isomerism (Cis-Trans isomerism):**
+## Steroisomerism:
 
-Generally the trans isomer is more stable than the corresponding cis isomers. This is because in the cis isomer, the bulky groups are on the same side of the double bond. The steric repulsion of the groups makes the cis isomers less stable than the trans isomers in which bulky groups are on the opposite side. These cis and trans isomers have different chemical property is. They can be separated by fractional distillation, gas chromatography etc., All alkenes with identical substrate do not show geometrical isomerism. Geometrical isomerism is possible only when each double bonded C atom is attached to two different atoms or groups eg. In propene no geometrical isomers are possible because one of the double bonded carbon has two identical H atoms.
+### 11.5.3 Geometrical isomerism:
 
-Cis-trans isomerism is also seen around single bond. For eg: 1,3-butadiene has two double bonds in conjugation. \( \mathrm{CH_2 = CH - CH = CH_2} \). It can exist in infinite number of conformations, but the following two extreme conformations are important.
+Geometrical isomers are the stereoisomers which have different arrangement of groups or atoms around a rigid framework of double bonds. This type of isomerism occurs due to restricted rotation of double bonds, or about single bonds in cyclic compounds.
+
+In alkenes, the carbon-carbon double bond is \( sp^2 \) hybridized. The carbon-carbon double bond consists of a \( \sigma \) bond and a \( \pi \) bond. The \( \sigma \) bond is formed by the head on overlap of \( sp^2 \) hybrid orbitals. The \( \pi \) bond is formed by the side wise overlap of \( p \) orbitals. The presence of the \( \pi \) bond locks the molecule in one position. Hence, rotation around C-C bond is not possible. This restriction of rotation about C-C double bond is responsible for geometrical isomerism in alkenes.
+
+<center>{{< figure src="Geometrical isomerism.png" width="200" >}}</center>
+
+These two compounds are termed as geometrical isomers and are distinguished from each other by the terms cis and trans. The cis isomer is one in which two similar groups are on the same side of the double bond. The trans isomer is that in which the two similar groups are on the opposite side of the double bond, hence this type of isomerism is often called cis-trans isomerism.
+
+The cis-isomer can be converted to trans isomer or vice versa only if either isomer is heated to a high temperature or absorbs light. The heat supplies the energy (about 62 kcal/mol) to break the \( \pi \) bond so that rotation about \( \sigma \) bond becomes possible. Upon cooling, the reformation of the \( \pi \) bond can take place in two ways giving a mixture of both cis and trans forms of trans-2-butene and cis-2-butene.
+
+<center>{{< figure src="Geometrical isomerism(1).png" width="200" >}}</center>
+
+Generally the trans isomer is more stable than the corresponding cis isomers. This is because in the cis isomer, the bulky groups are on the same side of the double bond. The steric repulsion of the groups makes the cis isomers less stable than the trans isomers in which bulky groups are on the opposite side. These cis and trans isomers have different chemical properties. They can be separated by fractional distillation, gas chromatography etc. All alkenes with identical substituents do not show geometrical isomerism. Geometrical isomerism is possible only when each double bonded C atom is attached to two different atoms or groups. For example, in propene no geometrical isomers are possible because one of the double bonded carbon has two identical H atoms.
+
+Cis-trans isomerism is also seen around single bond. For example: 1,3-butadiene has two double bonds in conjugation.
+
+\[
+\mathrm{CH_2=CH-CH=CH_2}
+\]
+
+It can exist in infinite number of conformations, but the following two extreme conformations are important.
 
 #### ii) Oximes and azo compounds:
 
 Restricted rotation around \( \mathrm{C = N} \) (oximes) gives rise to geometrical isomerism in oximes. Here 'syn' and 'anti' are used instead of cis and trans respectively. In the syn isomer the H atom of a doubly bonded carbon and -OH group of doubly bonded nitrogen lie on the same side of the double bond, while in the anti isomer, they lie on the opposite side of the double bond. For eg:
+
+<center>{{< figure src="Oximes and azo compounds.png" width="200" >}}</center>
 
 ### 11.5.4 Optical Isomerism
 
@@ -422,6 +467,8 @@ An optically active substance may exist in two or more isomeric forms which have
 #### Conditions for enantiomerism or optical isomerism
 
 A carbon atom whose tetra valency is satisfied by four different substituents (atoms or groups) is called asymmetric carbon or chiral carbon. It is indicated by an asterisk as \( \mathrm{C}^* \). A molecule possessing chiral carbon atom and non-super imposable to its own mirror image is said to be a chiral molecule or asymmetric, and the property is called chirality or dissymmetry.
+
+<center>{{< figure src="optical isomerism.png" width="200" >}}</center>
 
 ## 11.6 Detection of elements in organic compounds
 
@@ -451,6 +498,8 @@ This method involves the conversion of covalently bonded N, S or halogen present
 When it melts to a shining globule, put a pinch of the organic compound on it. Heat the tube till reaction ceases and becomes red hot. Plunge it in about \( 50~\mathrm{mL} \) of distilled water taken in a china dish and break the bottom of the tube by striking against the dish. Boil the contents of the dish for about 10 minutes and filter. This filtrate is known as Lassaigne's extract or sodium fusion extract and it used for detection of nitrogen, sulfur and halogens present in organic compounds.
 
 **ii) Test for Nitrogen:** If nitrogen is present it gets converted to sodium cyanide which reacts with freshly prepared ferrous sulphate and ferric ion followed by conc. HCl and gives a Prussian blue color or green colour or precipitate. It confirms the presence of nitrogen. HCl is added to dissolve the greenish precipitate of ferrous hydroxide produced by the excess of NaOH on \( \mathrm{FeSO_4} \) which would otherwise mark the Prussian blue precipitate. The following reaction takes part in the formation of Prussian blue.
+
+<center>{{< figure src="Test for Nitrogen.png" width="200" >}}</center>
 
 Incase if both N & S are present, a blood red colour is obtained due to the following reactions.
 
@@ -535,6 +584,8 @@ The apparatus employed for the purpose consists of three units (i) oxygen supply
 (2) Combustion tube: A hard glass tube open at both ends is used for the combustion of the organic substance. It contains (i) an oxidized copper gauze to prevent the backward diffusion of the products of combustion (ii) a porcelain boat containing a known weight of the organic substance (iii) coarse copper oxide on either side and (iv) an oxidized copper gauze placed towards the end of the combustion tube. The combustion tube is heated by a gas burner.
 
 (3) Absorption Apparatus: The combustion products containing moisture and carbon-dioxide are then passed through the absorption apparatus which consists of (1) a weighed U-tube packed with pumice soaked in Conc. \( \mathrm{H_2SO_4} \) to absorb water (ii) a set of bulbs containing a strong solution of KOH to absorb \( \mathrm{CO_2} \) and finally (iii) a guard tube filled with anhydrous \( \mathrm{CaCl_2} \) to prevent the entry of moisture from atmosphere.
+
+<center>{{< figure src="11.2.png" width="200" >}}</center>
 
 **Procedure:** The combustion tube is heated strongly to dry its content. It is then cooled slightly and connected to the absorption apparatus. The other end of the combustion tube is open for a while and the boat containing weighed organic substance is introduced. The tube is again heated strongly till the substance in the boat is burnt away. This takes about 2 hours. Finally, a strong current of oxygen is passed through the combustion tube to swap away any traces of carbon dioxide or moisture which may be left in it. The U-tube and the potash bulbs are then detached and the increase in weight of each of them is determined.
 
@@ -717,6 +768,8 @@ This method is based upon the fact that nitrogenous compound when heated with cu
 
 Traces of oxide of nitrogen, which may be formed in some cases, are reduced to elemental nitrogen by passing over heated copper spiral.
 
+<center>{{< figure src="11.4.png" width="200" >}}</center>
+
 **Fig 11.4 Dumas Method**
 
 The apparatus used in Dumas method consists of \( \mathrm{CO_2} \) generator, combustion tube, Schiff's nitrometer. (See Fig. 11.4)
@@ -727,31 +780,103 @@ The apparatus used in Dumas method consists of \( \mathrm{CO_2} \) generator, co
 
 **Schiff's nitrometer:** The nitrogen gas obtained by the decomposition of the substance in the combustion tube is mixed with considerable excess of \( \mathrm{CO_2} \). It is estimated by passing through nitrometer when \( \mathrm{CO_2} \) is absorbed by KOH and the nitrogen gets collected in the upper part of graduated tube.
 
-**Procedure:** To start with the tap of nitrometer is left open. \( \mathrm{CO_2} \) is passed through the combustion tube to expel the air in it. When the gas bubbles rising through, the KOH solution become very slow, the flow of \( \mathrm{CO_2} \) is stopped and the tap of nitrometer is closed. The combustion tube is heated strongly. The substance gets decomposed and the products are swept away by the stream of \( \mathrm{CO_2} \). The volume of nitrogen collected in the nitrometer is noted. The aqueous tension is subtracted to get the volume of dry nitrogen at room temperature and pressure. The volume is converted into volume at STP. From the volume of nitrogen at STP, the percentage of nitrogen is calculated.
+**Procedure:** To start with the tap of nitrometer is left open. \( \mathrm{CO_2} \) is passed through the combustion tube to expel the air in it. When the gas bubbles rising through, the potash solution fails to reach the top of it and is completely absorbed it shows that only \( \mathrm{CO_2} \) is coming and that all air has been expelled from the combustion tube. The nitrometer is then filled with KOH solution by lowering the reservoir and the tap is closed. The combustion tube is now heated in the furnace and the temperature rises gradually. The nitrogen set free from the compound collects in the nitrometer. When the combustion is complete a strong current of \( \mathrm{CO_2} \) is sent through the apparatus in order to sweep the last trace of nitrogen from it. The volume of the gas collected is noted after adjusting the reservoir so that the solution in it and the graduated tube is the same. The atmospheric pressure and the temperature are also recorded.
 
-Percentage of nitrogen \( = \left(\frac{28}{22.4}\times \frac{V_0}{W}\right)\times 100 \)
+**Calculations:**
 
-where \( V_0 \) = volume of nitrogen at STP in litres and W = weight of the organic substance.
+Weight of the substance taken = \( w \) g
 
-**Example 3:** In Dumas method 0.1688 g of an organic compound gave 29.58 mL of nitrogen at 303 K and 754 mm of Hg pressure. Calculate the percentage of nitrogen in the compound (Aqueous tension at 303 K is 12 mm)
+Volume of nitrogen = \( V_1 \) L
 
-Given:
+Room Temperature = \( T_1 \) K
 
-Weight of Organic compound \( \mathrm{W} = 0.1688 \mathrm{g} \)
-Volume of moist nitrogen \( \mathrm{V} = 29.58 \mathrm{mL} \)
-Room temperature \( \mathrm{T} = 303 \mathrm{K} \)
-Atmospheric Pressure \( \mathrm{P} = 754 \mathrm{mm} \)
-Aqueous tension at \( 303\mathrm{K} \) \( \mathrm{p} = 12 \mathrm{mm} \)
+Atmospheric Pressure = \( P \) mm of Hg
 
-Pressure of dry nitrogen \( \mathrm{P_1} = 754 - 12 = 742 \mathrm{mm} \)
-\( \mathrm{V_0} = \frac{P_1 \times V \times 273}{760 \times T} = \frac{742 \times 29.58 \times 273}{760 \times 303} = 26.29 \mathrm{mL} = 26.29 \times 10^{-3} \mathrm{L} \)
+Aqueous tension at room temperature = \( P' \) mm of Hg
 
-Percentage of nitrogen \( = \left(\frac{28}{22.4}\times \frac{V_0}{W}\right)\times 100 \)
-\( = \frac{28}{22.4}\times \frac{29.58\times 10^{-3}}{0.1688}\times 100 = 21.90\% \)
+Pressure of dry nitrogen = \( (P - P') = P_1 \) mm of Hg.
+
+Let \( P_0 \), \( V_0 \) and \( T_0 \) be the pressure, volume and temperature respectively of dry nitrogen at STP,
+
+\[
+\text{Then, } \frac{P_0 V_0}{T_0} = \frac{P_1 V_1}{T_1}
+\]
+
+\[
+V_0 = \left( \frac{P_1 V_1}{T_1} \times \frac{273}{760} \right) \text{ L}
+\]
+
+Calculation of percentage of nitrogen. 22.4 L of \( \mathrm{N_2} \) at STP weigh 28 g of \( \mathrm{N_2} \)
+
+\[
+V_0 \text{ L of } \mathrm{N_2} \text{ at STP weigh } \frac{28}{22.4} \times V_0 \text{ g}
+\]
+
+\( w \) g of Organic compound contains
+
+\[
+\frac{28}{22.4} \times \frac{V_0}{w} \text{ g of nitrogen}
+\]
+
+Percentage of nitrogen =
+
+\[
+\left( \frac{28}{22.4} \times \frac{V_0}{w} \right) \times 100
+\]
+
+**Problem:** 0.1688 g when analyzed by the Dumas method yields 31.7 mL of moist nitrogen measured at 14°C and 758 mm mercury pressure. Determine the % of N in the substance (Aqueous tension at 14°C = 12 mm)
+
+Weight of Organic compound = 0.1688 g
+
+Volume of moist nitrogen \( (V_1) \) = 31.7 mL
+
+\[
+= 31.7 \times 10^{-3} \text{ L}
+\]
+
+Temperature \( (T_1) \) = 14°C
+
+\[
+= 14 + 273 = 287 \text{ K}
+\]
+
+Pressure of moist nitrogen \( (P) \) = 758 mm Hg
+
+Aqueous tension at 14°C = 12 mm Hg
+
+Pressure of dry nitrogen = \( (P - P') = 758 - 12 = 746 \) mm Hg
+
+\[
+\frac{P_0 V_0}{T_0} = \frac{P_1 V_1}{T_1}
+\]
+
+\[
+V_0 = \frac{746 \times 31.7 \times 10^{-3}}{287} \times \frac{273}{760}
+\]
+
+\[
+V_0 = 29.58 \times 10^{-3} \text{ L}
+\]
+
+Percentage of nitrogen =
+
+\[
+\left( \frac{28}{22.4} \times \frac{V_0}{W} \right) \times 100
+\]
+
+\[
+= \frac{28}{22.4} \times \frac{29.58 \times 10^{-3}}{0.1688} \times 100
+\]
+
+\[
+= 21.90\%
+\]
 
 #### Kjeldahl's method:
 
 This method is carried much more easily than the Dumas method. It is used largely in the analysis of foods and fertilizers. Kjeldahl's method is based on the fact that when an organic compound containing nitrogen is heated with Conc. \( \mathrm{H_2SO_4} \) the nitrogen in it is quantitatively converted to ammonium sulphate. The resultant liquid is then treated with excess of alkali and then liberated ammonia gas absorbed in excess of standard acid. The amount of ammonia (and hence nitrogen) is determined by finding the amount of acid neutralized by back titration with same standard alkali.
+
+<center>{{< figure src="fig(11.3).png" width="200" >}}</center>
 
 **Procedure:**
 
@@ -847,6 +972,8 @@ This method is to purify liquids from non-volatile impurities, and used for sepa
 
 This method is applicable for solids and liquids. If the compound to be steam distilled then it should not decompose at the steam temperature, should have a fairly high vapour pressure at \( 373\mathrm{K} \); it should be insoluble in water and the impurities present should be non-volatile.
 
+<center>{{< figure src="fig(11.4).png" width="200" >}}</center>
+
 **Fig 11.4 Steam distillation**
 
 The impure liquid along with little water is taken in a round-bottom flask which is connected to a boiler on one side and water condenser on the other side, the flask is kept in a slanting position so that no droplets of the mixture will enter into the condenser on the brisk boiling and bubbling of steam. The mixture in the flask is heated and then a current of steam passed in to it. The vapours of the compound mix up with steam and escape into the condenser. The condensate obtained is a mixture of water and organic compound which can be separated. This method is used to recover essential oils from plants and flowers, also in the manufacture of aniline and turpentine oil. (see Fig. 11.4)
@@ -878,6 +1005,8 @@ The principle behind chromatography is selective distribution of the mixture of 
 **Adsorption chromatography:** The principle involved is different compounds are adsorbed on an adsorbent to different degree. Silica gel and alumina are the commonly used adsorbent. The components of the mixture move by varying distances over the stationary phase. Column chromatography and thin layer chromatography are the techniques based on the principle of differential adsorption.
 
 **Column chromatography:** This is the simplest chromatographic method carried out in long glass column having a stop cock near the lower end. This method involves separation of a mixture over a column of adsorbent (Stationery phase) packed in a column. In the column a plug of cotton or glass wool is placed at the lower end of the column to support the adsorbent powder. The tube is uniformly packed with suitable absorbent constitute the stationary phase (Activated aluminum oxides (alumina), Magnesium oxide, starch are also used as absorbers).
+
+<center>{{< figure src="fig(11.5).png" width="200" >}}</center>
 
 **Fig 11.5 Column Chromatography**
 
@@ -918,8 +1047,10 @@ A strip of chromatographic paper spotted at the base with the solution of the mi
    d) \( \mathrm{C_nH_{2n-2}} \)
 
 4. Structure of the compound whose IUPAC name is 5,6-dimethylhept-2-ene is
+<center>{{< figure src="Q(4).png" width="200" >}}</center>
 
 5. The IUPAC name of the Compound is
+<center>{{< figure src="Q(5).png" width="200" >}}</center>
    a) 2,3-Diethylheptane
    b) 3-Methyl-4-ethyloctane
    c) 5-ethyl-6-methyloctane
@@ -1104,6 +1235,8 @@ A strip of chromatographic paper spotted at the base with the solution of the mi
     (v) \( \mathrm{CH_3 - CH_2 - CH - CH - CHO} \) with OH group
     (vi) \( \mathrm{CH_2 = CH - CH = CH_2} \)
     (vii) \( \mathrm{CH_3 - C = C - CH - CH_3} \) with Cl
+    <center>{{< figure src="Q(8).png" width="200" >}}</center>
+    <center>{{< figure src="Q(8-1).png" width="200" >}}</center>
 
 39) Give the structure for the following compound.
     (i) 3-ethyl-2-methyl-1-pentene
