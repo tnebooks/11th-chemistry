@@ -9,6 +9,22 @@ summary: "This unit explains the structure, classification, and nomenclature of 
 
 # 14. Haloalkanes and Haloarenes
 
+![](image.png)
+**Francois Auguste Victor Grignard**
+
+He a French chemist
+was awarded the noble
+prize for chemistry in 1912.
+He prepared and realised
+the usefulness of organo
+magnesium compounds.
+He took maths degree and
+eventually switched over
+organic chemistry while
+attempting to find the
+catalyst for the process of
+Methylation.
+
 ## 14.1 INTRODUCTION
 
 In the previous unit we learnt about the chemistry of hydrocarbons. In this unit us learn about organic compounds containing halogens. When one or more hydrogen atoms of aliphatic or aromatic hydrocarbons are replaced by the corresponding number of halogens like fluorine, chlorine, bromine or iodine, the resultant compounds are called either haloalkanes or halo arenes. They serve as starting materials for many organic synthesis.
@@ -27,15 +43,15 @@ Mono halogen derivatives of alkanes are called haloalkanes. Haloalkanes are repr
 
 ### Examples:
 
-<center>{{< figure src="1.png" width="200" >}}</center>
+![](1.png)
 
 ### Secondary haloalkane
 
-<center>{{< figure src="2.png" width="200" >}}</center>
+![](2.png)
 
 ### Tertiary haloalkane
 
-<center>{{< figure src="3.png" width="200" >}}</center>
+![](3.png)
 
 #### 14.3.1 Nomenclature
 
@@ -51,6 +67,8 @@ Let us write the IUPAC name for the below mentioned haloalkanes by applying the 
 
 ![](4.png)
 ![](5.png)
+
+![](image-1.png)
 
 ### Evaluate Yourself
 
@@ -364,6 +382,7 @@ Hydrolysis of optically active 2-bromo butane gives racemic mixture of \( \pm \)
 
 The order of reactivity of haloalkanes towards \( \mathrm{S}_{\mathrm{N}}1 \) and \( \mathrm{S}_{\mathrm{N}}2 \) reaction is given below.
 
+![](image-2.png)
 ### 2) Elimination reactions
 
 When a haloalkane containing a hydrogen on \( \beta \) carbon is treated with an ethanolic solution of potassium hydroxide, an alkene is formed. In this reaction a double bond between a and \( \beta \) carbon is formed by releasing a halogen attached to a \( \alpha \) carbon and a hydrogen to a \( \beta \) carbon of halo alkane. This reaction is called \( \beta \) elimination reaction (dehydrohalogenation).
@@ -380,6 +399,8 @@ Elimination reactions may proceed through two different mechanisms namely \( \ma
 
 ### \( \mathbf{E}_{2} \) reaction mechanism
 
+![](image-3.png)
+
 The rate of \( \mathrm{E}_{2} \) reaction depends on the concentration of alkyl halide and base
 
 \[
@@ -390,7 +411,9 @@ It is therefore, a second order reaction. Generally primary alkyl halide undergo
 
 <center>{{< figure src="35.png" width="200" >}}</center>
 
- \( \mathrm{E}_{1} \) reaction mechanism
+ \( \mathrm{E}_{1} \) reaction
+
+ ![](image-4.png)
 
 Generally, tertiary alkyl halide which undergoes elimination reaction by this mechanism in the presence of alcoholic KOH. It follows first order kinetics. Let us consider the following elimination reaction.
 
@@ -498,6 +521,7 @@ Ketone reacts with Grignard reagent to give an addition product which on hydroly
 
 ### Example
 <center>{{< figure src="46.png" width="200" >}}</center>
+
 ### (4) Preparation of aldehyde
 
 Ethyl formate reacts with Grignard reagent to form aldehyde. However, with excess of Grignard reagent it forms secondary alcohol.
@@ -749,6 +773,10 @@ ii) Action of \( \mathrm{PCl}_5 \) (or HCl) on ethylene glycol
 #### Physical Properties
 
 i) They are sweet smelling, colourless liquids having relatively high boiling points.
+
+ii) The boiling point of ethylidene
+chloride is less than that of ethylene
+dichloride.
 
 ### Chemical Properties
 
@@ -1008,246 +1036,3 @@ Iodoform is used as an antiseptic, due to the liberation of free iodine. But it 
 Carbon tetrachloride is used in fire extinguishers. Freons are used as refrigerant. But both these compounds lead to adverse environmental effect.
 
 DDT is used an effective insecticide. Now a days it is banned because of its long term toxic effect.
-
-## Evaluation
-
-### I. Choose the best answer.
-
-1. The IUPAC name of \( \mathrm{CH_3CH=CHCH_2Cl} \) is
-   a) 2-Bromo pent-3-ene
-   b) 4-Bromo pent-2-ene
-   c) 2-Bromo pent-4-ene
-   d) 4-Bromo pent-1-ene
-
-2. Of the following compounds, which has the highest boiling point?
-   a) n-Butyl chloride
-   b) Isobutyl chloride
-   c) t-Butyl chloride
-   d) n-propyl chloride
-
-3. Arrange the following compounds in increasing order of their density
-   A) \( \mathrm{CCl_4} \) B) \( \mathrm{CHCl_3} \) C) \( \mathrm{CH_2Cl_2} \) D) \( \mathrm{CH_3Cl} \)
-   a) \( \mathrm{D < C < B < A} \)
-   b) \( \mathrm{C > B > A > D} \)
-   c) \( \mathrm{A < B < C < D} \)
-   d) \( \mathrm{C > A > B > D} \)
-
-4. With respect to the position of -Cl in the compound \( \mathrm{CH_3 - CH = CH - CH_2 - Cl} \) it is classified as
-   a) Vinyl
-   b) Allyl
-   c) Secondary
-   d) Aralyl
-
-5. What should be the correct IUPAC name of diethyl chloromethane?
-   a) 3-Chloro pentane
-   b) 1-Chloropentane
-   c) 1-Chloro-1,1,diethyl methane
-   d) 1-Chloro-1-ethyl propane
-
-6. C-X bond is strongest in
-   a) Chloromethane
-   b) Iodomethane
-   c) Bromomethane
-   d) Fluoromethane
-
-7. In the reaction X is
-{{< figure src="93.png" width="200" >}}
-{{< figure src="94.png" width="200" >}}
-
-8. Which of the following compounds will give racemic mixture on nucleophilic substitution by OH\(^{-}\) ion?
-
-{{< figure src="95.png" width="200" >}}
-
-9. The treatment of ethyl formate with excess of RMgX gives
-{{< figure src="96.png" width="200" >}}
-{{< figure src="97.png" width="200" >}}
-
-10. Benzene reacts with \( \mathrm{Cl}_2 \) in the presence of \( \mathrm{FeCl}_3 \) and in absence of sunlight to form
-    a) Chlorobenzene
-    b) Benzyl chloride
-    c) Benzal chloride
-    d) Benzene hexachloride
-
-11. The name of \( \mathrm{C}_2\mathrm{F}_4\mathrm{Cl}_2 \) is
-    a) Freon-112
-    b) Freon-113
-    c) Freon-114
-    d) Freon-115
-
-12. Which of the following reagent is helpful to differentiate ethylene dichloride and ethylidene chloride?
-    a) Zn / methanol
-    b) KOH / ethanol
-    c) aqueous KOH
-    d) \( \mathrm{ZnCl}_2 \) / Con HCl
-
-13. Match the compounds given in Column I with suitable items given in Column II
-
-{{< figure src="98.png" width="200" >}}
-
-14. Assertion: In mono haloarenes, electrophilic substitution occurs at ortho and para positions.
-    Reason: Halogen atom is a ring deactivator
-    (i) If both assertion and reason are true and reason is the correct explanation of assertion.
-    (ii) If both assertion and reason are true but reason is not the correct explanation of assertion.
-    (iii) If assertion is true but reason is false.
-    (iv) If both assertion and reason are false.
-
-15. Consider the reaction,
-    \[
-    \mathrm{CH_3CH_2CH_2Br + NaCN \rightarrow CH_3CH_2CH_2CN + NaBr}
-    \]
-    This reaction will be the fastest in
-    a) ethanol
-    b) methanol
-    c) DMF (N,N'-dimethyl formaldehyde)
-    d) water
-
-16. Freon-12 is manufactured from tetrachloro methane by
-    a) Wurtz reaction
-    b) Swarts reaction
-    c) Haloform reaction
-    d) Gattermann reaction
-
-17. The most easily hydrolysed molecule under \( \mathrm{SN}^{1} \) condition is
-    a) allyl chloride
-    b) ethyl chloride
-    c) isopropyl chloride
-    d) benzyl chloride
-
-18. The carbocation formed in \( \mathrm{SN}^{1} \) reaction of alkyl halide in the slow step is
-    a) \( \mathrm{sp}^{3} \) hybridised
-    b) \( \mathrm{sp}^{2} \) hybridised
-    c) sp hybridised
-    d) none of these
-
-19. The major products obtained when chlorobenzene is nitrated with \( \mathrm{HNO}_{3} \) and con \( \mathrm{H}_{2}\mathrm{SO}_{4} \)
-    a) 1-chloro-4-nitrobenzene
-    b) 1-chloro-2-nitrobenzene
-    c) 1-chloro-3-nitrobenzene
-    d) 1-chloro-1-nitrobenzene
-
-20. Which one of the following is most reactive towards nucleophilic substitution reaction?
-
-{{< figure src="99.png" width="200" >}}
-
-21. Ethylidene chloride on treatment with aqueous KOH gives
-    a) acetaldehyde
-    b) ethylene glycol
-    c) formaldehyde
-    d) glyoxal
-
-22. The raw material for Raschig process
-    a) chloro benzene
-    b) phenol
-    c) benzene
-    d) anisole
-
-23. Chloroform reacts with nitric acid to produce
-    a) nitro toluene
-    b) nitro glycerine
-    c) chloropicrin
-    d) chloropicric acid
-
-24. Acetone \( \xrightarrow{\mathrm{CH_3MgI}} \) X, X is \( \xrightarrow{\mathrm{ii) H_2O/H^+}} \)
-    a) 2-propanol
-    b) 2-methyl-2-propanol
-    c) 1-propanol
-    d) acetonol
-
-25. Silver propionate when refluxed with Bromine in carbon tetrachloride gives
-    a) propionic acid
-    b) chloro ethane
-    c) bromo ethane
-    d) chloro propane
-
-26. Classify the following compounds in the form of alkyl, allylic, vinyl, benzylic halides
-{{< figure src="100.png" width="200" >}}
-
-### II. Write brief answer to the following questions.
-
-27. Why chlorination of methane is not possible in dark?
-
-28. How will you prepare n propyl iodide from n-propyl bromide?
-
-29. Which alkyl halide from the following pair is i) chiral ii) undergoes faster \( \mathrm{S}_{\mathrm{N}}2 \) reaction?
-
-{{< figure src="101.png" width="200" >}}
-
-30. How does chlorobenzene react with sodium in the presence of ether? What is the name of the reaction?
-
-31. Give reasons for polarity of C-X bond in halo alkane.
-
-32. Why is it necessary to avoid even traces of moisture during the use of Grignard reagent?
-
-33. What happens when acetyl chloride is treated with excess of \( \mathrm{CH}_3\mathrm{MgI} \)?
-
-34. Arrange the following alkyl halide in increasing order of bond enthalpy of RX
-    \[
-    \mathrm{CH}_3\mathrm{Br}, \mathrm{CH}_3\mathrm{F}, \mathrm{CH}_3\mathrm{Cl}, \mathrm{CH}_3\mathrm{I}
-    \]
-
-35. What happens when chloroform reacts with oxygen in the presence of sunlight?
-
-36. Write down the possible isomers of \( \mathrm{C_5H_{11}Br} \) and give their IUPAC and common names.
-
-37. Mention any three methods of preparation of haloalkanes from alcohols.
-
-38. Compare \( \mathrm{S}_{\mathrm{N}}1 \) and \( \mathrm{S}_{\mathrm{N}}2 \) reaction mechanisms.
-
-39. Reagents and the conditions used in the reactions are given below. Complete the table by writing down the product and the name of the reaction.
-
-{{< figure src="102.png" width="200" >}}
-
-40. Discuss the aromatic nucleophilic substitutions reaction of chlorobenzene.
-
-41. Account for the following
-    (i) t-butyl chloride reacts with aqueous KOH by \( \mathrm{S}_{\mathrm{N}}1 \) mechanism while n-butyl chloride reacts with \( \mathrm{S}_{\mathrm{N}}2 \) mechanism.
-    (ii) p-dichloro benzene has higher melting point than those of o- and m-dichloro benzene.
-
-42. In an experiment ethyl iodide in ether is allowed to stand over magnesium pieces. Magnesium dissolves and product is formed
-    a) Name the product and write the equation for the reaction.
-    b) Why all the reagents used in the reaction should be dry? Explain
-    c) How is acetone prepared from the product obtained in the experiment.
-
-43. Write a chemical reaction useful to prepare the following:
-    i) Freon-12 from Carbon tetrachloride
-    ii) Carbon tetrachloride from carbon disulphide
-
-44. What are Freons? Discuss their uses and environmental effects
-
-45. Predict the products when bromoethane is treated with the following
-    i) \( \mathrm{KNO}_2 \)
-    ii) \( \mathrm{AgNO}_2 \)
-
-46. Explain the mechanism of \( \mathrm{S}_{\mathrm{N}}1 \) reaction by highlighting the stereochemistry behind it
-
-47. Write short notes on the following
-    i) Raschig process
-    ii) Dow's Process
-    iii) Darzens process
-
-48. Starting from \( \mathrm{CH}_3\mathrm{MgI} \), How will you prepare the following?
-    i) Acetic acid
-    ii) Acetone
-    iii) Ethyl acetate
-    iv) Iso propyl alcohol
-    v) Methyl cyanide
-
-49. Complete the following reactions
-
-{{< figure src="103.png" width="200" >}}
-
-50. Explain the preparation of the following compounds
-    i) DDT
-    ii) Chloroform
-
-51. An organic compound (A) with molecular formula \( \mathrm{C_2H_5Cl} \) reacts with KOH gives compounds (B) and with alcoholic KOH gives compound (C). Identify (A), (B), and (C)
-
-52. Simplest alkene (A) reacts with HCl to form compound (B). Compound (B) reacts with ammonia to form compound (C) of molecular formula \( \mathrm{C_2H_7N} \). Compound (C) undergoes carbylamine test. Identify (A), (B), and (C).
-
-53. A hydrocarbon \( \mathrm{C_3H_6} \) (A) reacts with HBr to form compound (B). Compound (B) reacts with aqueous potassium hydroxide to give (C) of molecular formula \( \mathrm{C_3H_8O} \). What are (A), (B) and (C). Explain the reactions.
-
-54. Two isomers (A) and (B) have the same molecular formula \( \mathrm{C_2H_4Cl_2} \). Compound (A) reacts with aqueous KOH gives compound (C) of molecular formula \( \mathrm{C_2H_4O} \). Compound (B) reacts with aqueous KOH gives compound (D) of molecular formula \( \mathrm{C_2H_6O_2} \). Identify (A), (B), (C) and (D).
-
-## Flow Chart
-
-Haloalkane
