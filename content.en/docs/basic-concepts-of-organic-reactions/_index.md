@@ -9,6 +9,21 @@ summary: "This unit explains the fundamental principles of organic reactions, in
 
 # 12 Basic concepts of organic reactions
 
+![](image.png)
+
+**Otto diels and kurt alder**
+
+describes an important
+reaction mechanism for
+the reaction between a
+conjucated diene and a
+substituted alkene. For this
+work they were awarded
+nobel prize in chemistry in
+1950 Diels - Alder reaction
+isa powerful tool in synthetic
+organic chemistry. 
+
 ## 12.1 Introduction
 
 A chemical reaction can be treated as a process by which some existing bonds in the reacting molecules are broken and new bonds are formed. i.e., in a chemical reaction, a reactant is converted into a product. This conversion involves one or more steps. In general an organic reaction can be represented as
@@ -70,8 +85,6 @@ The carbanions are generally pyramidal in shape and the lone pair occupies one o
 
 **Fig 12.1(c) Shape of Carbon radical**
 
-### 12.1.3 Nucleophiles and electrophiles
-
 The relative stability of the alkyl carbocations and carbanions are given below.
 
 Relative stability of carbocations:
@@ -88,6 +101,8 @@ Relative stability of carbanions:
 
 The energy required to bring about homolytic splitting is greater than that of heterolytic splitting.
 
+### 12.1.3 Nucleophiles and electrophiles
+
 Nucleophiles are reagents that has high affinity for electro positive centers. They possess an atom which has an unshared pair of electrons, and hence it is in search for an electro positive centre where it can have an opportunity to share its electrons to form a covalent bond, and gets stabilised. They are usually negatively charged ions or electron rich neutral molecules (contains one or more lone pair of electrons). All Lewis bases act as nucleophiles.
 
 <center>{{< figure src="7.png" width="200" >}}</center>
@@ -96,6 +111,25 @@ Nucleophiles are reagents that has high affinity for electro positive centers. T
 Electrophiles are reagents that are attracted towards negative charge or electron rich center. They are either positively charged ions or electron deficient neutral molecules. All Lewis acids act as electrophiles. Neutral molecules like \( \mathrm{SnCl_4} \) can also act as an electrophile, as it has vacant d-orbitals which can accommodate the electrons from others.
 
 <center>{{< figure src="8.png" width="200" >}}</center>
+
+**Do You Know**
+
+Human body produces
+free radicals when it
+is exposed to x-rays,
+cigarette smoke,
+industrial chemicals
+and air pollutants. Free radicals
+can disrupt cell membranes,
+increase the risk of many forms
+of cancer, damage the interior
+lining of blood vessels and lead
+to a high risk of heart disease and
+stroke. Body uses vitamins and
+minerals to counter the effects
+of free radicals. Fruits contains
+antioxidants which decrease the
+effects of free radicals.
 
 ### 12.1.4 Electron movement in organic reactions
 
@@ -376,6 +410,8 @@ Many oxidation and reduction reactions of organic compounds fall into one of the
 
 <center>{{< figure src="40.png" width="200" >}}</center>
 
+**Do You Know**
+
 Apples contain an enzyme called polyphenol oxidase (PPO), also known as tyrosinase. Cutting an apple exposes its cells to the atmospheric oxygen and oxidizes the phenolic compounds present in apples. This is called the enzymatic browning that turns a cut apple brown. In addition to apples, enzymatic browning is also evident in bananas, pears, avocados and even potatoes.
 
 ## 12.3 Functional Group inter conversion
@@ -386,144 +422,3 @@ Some of the important functional group interconversions of Organic compounds are
 
 <center>{{< figure src="41.png" width="200" >}}</center>
 ---
-
-## I. Choose the best answer.
-
-1. For the following reactions
-
-(A) \( \mathrm{CH_3CH_2CH_2Br + KOH \rightarrow CH_3-CH=CH_2 + KBr + H_2O} \)
-
-(B) \( \mathrm{(CH_3)_3CBr + KOH \rightarrow (CH_3)_3COH + KBr} \)
-
-<center>{{< figure src="42.png" width="200" >}}</center>
-
-Which of the following statement is correct?
-
-(a) A is elimination, (B) and (C) are substitution
-(b) A is substitution, (B) and (C) are elimination
-(c) A and (B) are elimination and (C) is addition reaction
-(d) A is elimination, B is substitution and (C) is addition reaction.
-
-2. What is the hybridisation state of benzyl carbonium ion?
-
-(a) \( \mathrm{sp^2} \)
-(b) \( \mathrm{spd^2} \)
-(c) \( \mathrm{sp^3} \)
-(d) \( \mathrm{sp^2d} \)
-
-3. Decreasing order of nucleophilicity is
-
-(a) \( \mathrm{OH^- > NH_2^- > OCH_3^- > RNH_2} \)
-(b) \( \mathrm{NH_2^- > OH^- > OCH_3^- > RNH_2} \)
-(c) \( \mathrm{NH_2^- > CH_3O^- > OH^- > RNH_2} \)
-(d) \( \mathrm{CH_3O^- > NH_2^- > OH^- > RNH_2} \)
-
-4. Which of the following species is not electrophilic in nature?
-
-(a) \( \mathrm{Cl^+} \)
-(b) \( \mathrm{BH_3} \)
-(c) \( \mathrm{H_3O^+} \)
-(d) \( \mathrm{NO_2^+} \)
-
-5. Homolytic fission of covalent bond leads to the formation of
-
-(a) electrophile
-(b) nucleophile
-(c) Carbocation
-(d) free radical
-
-6. Hyper Conjugation is also known as
-
-(a) no bond resonance
-(b) Baker-Nathan effect
-(c) both (a) and (b)
-(d) none of these
-
-7. Which of the group has highest +I effect?
-
-(a) \( \mathrm{CH_3^-} \)
-(b) \( \mathrm{CH_3CH_2^-} \)
-(c) \( \mathrm{(CH_3)_2CH^-} \)
-(d) \( \mathrm{(CH_3)_3C^-} \)
-
-8. Which of the following species does not exert a resonance effect?
-
-(a) \( \mathrm{C_6H_5OH} \)
-(b) \( \mathrm{C_6H_5Cl} \)
-(c) \( \mathrm{C_6H_5NH_2} \)
-(d) \( \mathrm{C_6H_5NH_3} \)
-
-9. -I effect is shown by
-
-(a) -Cl
-(b) -Br
-(c) both (a) and (b)
-(d) -\( \mathrm{CH_3} \)
-
-10. Which of the following carbocation will be most stable?
-
-(a) \( \mathrm{Ph_3C^+} \)
-(b) \( \mathrm{CH_3CH_2^+} \)
-(c) \( \mathrm{(CH_3)_2CH^+} \)
-(d) \( \mathrm{CH_2=CH-CH_2^+} \)
-
-11. Assertion: Tertiary Carbocations are generally formed more easily than primary Carbocations.
-
-Reason: Hyper conjugation as well as inductive effect due to additional alkyl groups stabilize tertiary carbonium ions.
-
-(a) both assertion and reason are true and reason is the correct explanation of assertion.
-(b) both assertion and reason are true but reason is not the correct explanation of assertion.
-(c) Assertion is true but reason is false
-(d) Both assertion and reason are false
-
-12. Heterolytic fission of C-C bond results in the formation of
-
-(a) free radical
-(b) Carbanion
-(c) Carbocation
-(d) Carbanion and Carbocation
-
-13. Which of the following represent a set of nucleophiles?
-
-(a) \( \mathrm{BF_3, H_2O, NH_2^-} \)
-(b) \( \mathrm{AlCl_3, BF_3, NH_3} \)
-(c) \( \mathrm{CN^-, RCH_2^-, ROH} \)
-(d) \( \mathrm{H^+, RNH_3^+, Cl_2} \)
-
-14. Which of the following species does not act as a nucleophile?
-
-(a) ROH
-(b) ROR
-(c) \( \mathrm{PCl_3} \)
-(d) \( \mathrm{BF_3} \)
-
-15. The geometrical shape of carbocation is
-
-(a) Linear
-(b) tetrahedral
-(c) Planar
-(d) Pyramidal
-
-## II. Write brief answer to the following questions.
-
-16. Write short notes on
-
-(a) Resonance
-(b) Hyperconjugation
-
-17. What are electrophiles and nucleophiles? Give suitable examples for each.
-
-18. Show the heterolysis of covalent bond by using curved arrow notation and complete the following equations. Identify the nucleophile in each case.
-
-(i) \( \mathrm{CH_3-Br + KOH \rightarrow} \)
-
-(ii) \( \mathrm{CH_3-OCH_3 + HI \rightarrow} \)
-
-19. Explain inductive effect with suitable example.
-
-20. Explain electromeric effect.
-
-21. Give examples for the following types of organic reactions
-
-(i) β-elimination
-(ii) electrophilic substitution.

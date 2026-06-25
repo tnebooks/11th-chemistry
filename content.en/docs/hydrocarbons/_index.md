@@ -9,9 +9,21 @@ summary: "This unit explains the classification, structure, and properties of hy
 
 # 13. Hydrocarbons
 
+![](image-7.png)
+
 **CHARLES ADOLPHE WURTZ**
 
 He is a French organic Chemist. He discovered phosphoryl chlorides. He showed that alkyl halides react with sodium to produce higher alkanes. This reaction was later named as Wurtz reaction. He is also known for his discoveries of ethylamine glycol and aldol condensation reactions.
+
+## Introduction
+
+he hydrocarbons are compounds composed entirely of Carbon and Hydrogen. They
+occur widely in nature. The crude oil consists of complex mixtures of hydrocarbons, mangoes
+contain cyclohexane, a cyclic hydrocarbon, cockroaches secretes a hydrocarbon, undecane
+which attract opposite gender of its species. Hydrocarbons are primarily used as fuel. For
+example, Liquefied mixture of propane and butane is used as Liquefied petrolium gas (LPG).
+They also finds many applications in industries such as solvents etc. In this unit we will study
+the classification, preparation, properties and uses of aliphatic and aromatic hydrocarbons. 
 
 ## 13.1 Introduction and classification of alkanes
 
@@ -29,6 +41,8 @@ Aromatic hydrocarbons are cyclic compounds which contain characteristic benzene 
 
 Alkanes are saturated hydrocarbons represented by the general formula \( \mathrm{C_{n}H_{2n + 2}} \) where 'n' is the number of carbon atoms in the molecule. Methane \( \mathrm{CH_4} \) is the first member of alkane family. The successive members are ethane \( \mathrm{C_2H_6} \), propane \( \mathrm{C_3H_8} \), butane \( \mathrm{C_4H_{10}} \), pentane \( \mathrm{C_5H_{12}} \) and so on. It is evident that each member differs from its proceeding or succeeding member by a \( \mathrm{-CH_2} \) group.
 ![](2.png)
+
+**Do You Know**
 
 ### "FLAMMABLE ICE"
 
@@ -54,6 +68,12 @@ Let us understand the chain isomerism by writing the isomers of pentane \( \math
 
 **Solution:**
 ![](6.png)
+
+**Evaluate Yourself** 
+
+1) Write the structural formula and carbon skeleton formula for all possible chain
+isomers of C6
+H14 (Hexane)
 
 #### IUPAC name for some branched alkanes
 
@@ -411,6 +431,8 @@ When an alcohol is heated at 430-440 K with excess of concentrated sulphuric aci
 
 Ethene can also be prepared in laboratory by catalytic dehydration of alcohol.
 
+![](image-8.png)
+
 **(2) Preparation of alkenes from alkynes:**
 
 Alkynes can be reduced to cis-alkenes using Lindlar's catalyst (\( \mathrm{CaCO_3} \) supported in palladium partially deactivated with sulphur or gasoline). This reaction is stereospecific giving only the cis-alkene.
@@ -457,8 +479,6 @@ Hydrogen adds on to alkenes in the presence of a metal catalyst (Ni, Pd or Pt) t
 When alkene is treated with halogens like chlorine or bromine, addition takes place rapidly and forms 1,2-dihalo alkane (or) vicinal dihalide.
 
 ![](48.png)
-
-1,2 dichloroethane
 
 Iodine reacts very slowly to form 1,2-diiodo alkane which are unstable and regenerate the original alkene by elimination of iodine.
 
@@ -509,7 +529,13 @@ In H-Br, Br is more electronegative than H. When bonded electron moves toward Br
 
 Consider addition of HBr to 3-methyl-1-butene. Here the expected product according to Markovnikov's rule is 2-bromo-3-methyl butane but the actual major product is 2-bromo-2-methyl butane. This is because the secondary carbocation formed during the reaction rearranges to a more stable tertiary carbocation. Attack of \( \mathrm{Br^-} \) on this tertiary carbocation gives the major product 2-bromo-2-methyl butane.
 ![](55.png)
+
+**Carbocation rearrangement**
+
 ![](56.png)
+
+**Anti-Markovnikoff ’s Rule (Or) Peroxide Effect (Or) KharaschAddition**
+
 The addition of HBr to an alkene in the presence of organic peroxide gives the anti Markovnikov's product. This effect is called peroxide effect.
 
 ![](57.png)
@@ -536,6 +562,8 @@ The radical abstracts a hydrogen from HBr thus generating bromine radical.
 The bromine radical adds to the double bond in the way to form more stable allyl free radical.
 ![](60.png)
 #### Step 4:
+Addition of HBr to secondary free
+radical
 ![](61.png)
 The H-Cl bond is stronger (430.5 kJ/mol) than H-Br bond (363.7 kJ/mol), thus H-Cl is not cleaved by the free radical. The H-I bond is weaker (296.8 kJ/mol) than H-Cl bond. Thus H-I bond breaks easily but iodine free radicals combine to form iodine molecules instead of adding to the double bond and hence peroxide effect is not observed in HCl and HI.
 
@@ -562,7 +590,7 @@ Alkenes react with acidified \( \mathrm{KMnO_4} \) solution and are oxidised to 
 
 Ozonolysis is a method of oxidative cleavage of alkenes or alkynes using ozone and forms two carbonyl compounds. Alkenes react with ozone to form ozonide and it is cleaved by \( \mathrm{Zn/H_2O} \) to form smaller molecules. This reaction is often used to identify the structure of unknown alkene or alkyne by detecting the position of double or triple bond.
 ![](65.png)
-![alt text](image.png)
+
 ### Evaluate Yourself
 
 15) How does ozone react with 2-methyl propene?
@@ -582,7 +610,9 @@ For example:
 
 Extensive use of polymers clogs up landfills and pollutes the environment. Because of diversity of polymers in consumer products, recycling requires sorting the polymers into various sub-types, labels with codes and symbols, which are then recycled separately.
 
-Table shows the codes and symbols used in recycling of ethene-based addition polymers. (Lower the number, greater the ease of recycling the material)
+**Table shows the codes and symbols used in recycling of ethene-based addition polymers.**
+
+ (Lower the number, greater the ease of recycling the material)
 
 ![](67.png)
 #### 13.3.4 Uses of Alkenes
@@ -634,7 +664,7 @@ Calcium carbide required for this reaction is prepared by heating quick lime and
 18) Prepare propyne from its corresponding alkene.
 
 19) Write the products A & B for the following reaction.
-![alt text](image-2.png)
+![](image-2.png)
 #### 13.4.2 Physical properties of alkynes
 
 1. The first three members are gases, next eight are liquids and the higher alkynes are solids. They are all colourless and odourless except acetylene which has a garlic odour.
@@ -686,6 +716,8 @@ Ethyne undergoes cyclic polymerization on passing through red hot iron tube. Thr
 
 1) Acetylene is used in oxyacetylene torch used for welding and cutting metals.
 2) It is used for manufacture of PVC, polyvinyl acetate, polyvinyl ether, orlon and neoprene rubbers.
+
+![](image-9.png)
 
 ## 13.5 Aromatic Hydrocarbons
 
@@ -751,13 +783,13 @@ Benzene could be constructed as a straight chain or ring compound but it is not 
 **I) Substitution of benzene:**
 
 Benzene reacts with bromine in the presence of \( \mathrm{AlCl_3} \) to form monobromo benzene.
-![alt text](image-3.png)
+![](image-3.png)
 Formation of only one monobromo compound indicates that all the six hydrogen atoms in benzene are identical. This is possible only if it has a cyclic structure of six carbons each containing one hydrogen.
 
 **II) Addition of hydrogen:**
 
 Benzene can add on to three moles of hydrogen in the presence of nickel catalyst to give cyclohexane.
-![alt text](image-4.png)
+![](image-4.png)
 This confirms cyclic structure of benzene and the presence of three carbon-carbon double bonds.
 
 **4. Kekulé's structure of benzene:**
@@ -900,7 +932,7 @@ Benzene undergoes electrophilic substitution reaction because it is an electron-
 **Mechanism:**
 
 **Step 1:** Formation of the electrophile
-![alt text](image-5.png)
+![](image-5.png)
 **Step 2:** The electrophile attacks the aromatic ring to form a carbocation intermediate which is stabilized by resonance.
 ![](99.png)
 **Step 3:** Loss of proton gives the substitution product.
@@ -908,6 +940,8 @@ Benzene undergoes electrophilic substitution reaction because it is an electron-
 ### Evaluate Yourself
 
 25) Why does benzene undergo electrophilic substitution reaction whereas alkenes undergo addition reaction?
+
+![](image-10.png)
 
 ### (ii) Addition Reaction
 
@@ -970,257 +1004,3 @@ Flowchart and reaction summary of hydrocarbon
 ![](109.png)
 ![](110.png)
 ![](111.png)
-## I. Choose the best answer.
-
-1. The correct statement regarding the comparison of staggered and eclipsed conformations of ethane, is (NEET)
-
-a) the eclipsed conformation of ethane is more stable than staggered conformation even though the eclipsed conformation has torsional strain.
-
-b) the staggered conformation of ethane is more stable than eclipsed conformation, because staggered conformation has no torsional strain.
-
-c) the staggered conformation of ethane is less stable than eclipsed conformation, because staggered conformation has torsional strain.
-
-d) the staggered conformation of ethane is less stable than eclipsed conformation, because staggered conformation has no torsional strain.
-
-2. \( \mathrm{C_2H_5Br} + 2\mathrm{Na} \xrightarrow{\text{dry ether}} \mathrm{C_4H_{10}} + 2\mathrm{NaBr} \) The above reaction is an example of which of the following
-
-a) Reimer Tiemann reaction
-b) Wurtz reaction
-c) Aldol condensation
-d) Hoffmann reaction
-
-3. An alkyl bromide (A) reacts with sodium in ether to form 4,5-diethyloctane, the compound (A) is
-
-a) \( \mathrm{CH_3(CH_2)_3Br} \)
-b) \( \mathrm{CH_3(CH_2)_5Br} \)
-c) \( \mathrm{CH_3(CH_2)_3CH(Br)CH_3} \)
-d) \( \mathrm{CH_3-(CH_2)_2-CH(Br)-CH_3} \)
-
-4. The C-H bond and C-C bond in ethane are formed by which of the following types of overlap
-
-a) \( \mathrm{sp^3 - s} \) and \( \mathrm{sp^3 - sp^3} \)
-b) \( \mathrm{sp^2 - s} \) and \( \mathrm{sp^2 - sp^2} \)
-c) \( \mathrm{sp - sp} \) and \( \mathrm{sp - sp} \)
-d) \( \mathrm{p - s} \) and \( \mathrm{p - p} \)
-
-5. In the following reaction, the major product obtained is
-
-6. Which of the following is optically active
-
-a) 2-methyl pentane
-b) citric acid
-c) Glycerol
-d) none of these
-
-7. The compounds formed at anode in the electrolysis of an aqueous solution of potassium acetate are
-
-a) \( \mathrm{CH_4} \) and \( \mathrm{H_2} \)
-b) \( \mathrm{CH_4} \) and \( \mathrm{CO_2} \)
-c) \( \mathrm{C_2H_6} \) and \( \mathrm{CO_2} \)
-d) \( \mathrm{C_2H_4} \) and \( \mathrm{Cl_2} \)
-
-8. The general formula for cycloalkanes
-
-a) \( \mathrm{C_nH_n} \)
-b) \( \mathrm{C_nH_{2n}} \)
-c) \( \mathrm{C_nH_{2n-2}} \)
-d) \( \mathrm{C_nH_{2n+2}} \)
-
-9. The compound that will react most readily with gaseous bromine has the formula (NEET)
-
-a) \( \mathrm{C_3H_6} \)
-b) \( \mathrm{C_2H_2} \)
-c) \( \mathrm{C_4H_{10}} \)
-d) \( \mathrm{C_2H_4} \)
-
-10. Which of the following compounds shall not produce propene by reaction with HBr followed by elimination (or) only direct elimination reaction (NEET)
-
-a) \( \mathrm{CH_3-CH_2-CH_2-Br} \)
-b) \( \mathrm{CH_3-CH_2-CH_2-OH} \)
-c) \( \mathrm{H_2C=C=O} \)
-d) \( \mathrm{CH_3-CH_2-CH_2Br} \)
-
-11. Which among the following alkenes on reductive ozonolysis produces only propanone?
-
-a) 2-Methyl propene
-b) 2-Methyl but-2-ene
-c) 2,3-Dimethyl but-1-ene
-d) 2,3-Dimethyl but-2-ene
-
-12. The major product formed when 2-bromo-2-methyl butane is refluxed with ethanolic KOH is
-
-a) 2-methylbut-2-ene
-b) 2-methyl butan-1-ol
-c) 2-methyl but-1-ene
-d) 2-methyl butan-2-ol
-
-13. Major product of the below mentioned reaction is,
-
-\( \mathrm{(CH_3)_2C=CH_2 + ICl \rightarrow} \)
-
-a) 2-chloro-1-iodo-2-methyl propane
-b) 1-chloro-2-iodo-2-methylpropane
-c) 1,2-dichloro-2-methyl propane
-d) 1,2-diiodo-2-methyl propane
-
-14. The IUPAC name of the following compound is
-
-a) trans-2-chloro-3-iodo-2-pentene
-b) cis-3-iodo-4-chloro-3-pentene
-c) trans-3-iodo-4-chloro-3-pentene
-d) cis-2-chloro-3-iodo-2-pentene
-
-15. Cis-2-butene and trans-2-butene are
-
-a) conformational isomers
-b) structural isomers
-c) configurational isomers
-d) optical isomers
-
-16. Identify the compound (A) in the following reaction
-
-17. \( \mathrm{CH_2Br-CH_2Br \xrightarrow{(A)} CH \equiv CH} \), where A is,
-
-a) Zn
-b) Conc. \( \mathrm{H_2SO_4} \)
-c) alc. KOH
-d) dil. \( \mathrm{H_2SO_4} \)
-
-18. Consider the nitration of benzene using mixed conc. \( \mathrm{H_2SO_4} \) and \( \mathrm{HNO_3} \). If a large quantity of \( \mathrm{KHSO_4} \) is added to the mixture, the rate of nitration will be
-
-a) unchanged
-b) doubled
-c) faster
-d) slower
-
-19. In which of the following molecules, all atoms are co-planar
-
-d) both (a) and (b)
-
-20. Propyne on passing through red hot iron tube gives
-
-d) none of these
-
-22. Which one of the following is non aromatic?
-
-23. Which of the following compounds will not undergo Friedel-Crafts reaction easily? (NEET)
-
-a) Nitrobenzene
-b) Toluene
-c) Cumene
-d) Xylene
-
-24. Some meta-directing substituents in aromatic substitution are given. Which one is most deactivating?
-
-a) -COOH
-b) -\( \mathrm{NO_2} \)
-c) -C≡N
-d) -\( \mathrm{SO_3H} \)
-
-25. Which of the following can be used as the halide component for Friedel-Crafts reaction?
-
-a) Chlorobenzene
-b) Bromobenzene
-c) Chloroethene
-d) Isopropyl chloride
-
-26. An alkane is obtained by decarboxylation of sodium propionate. Same alkane can be prepared by
-
-a) Catalytic hydrogenation of propene
-b) action of sodium metal on iodomethane
-c) reduction of 1-chloropropane
-d) reduction of bromomethane
-
-27. Which of the following is aliphatic saturated hydrocarbon
-
-a) \( \mathrm{C_8H_{18}} \)
-b) \( \mathrm{C_9H_{18}} \)
-c) \( \mathrm{C_8H_{14}} \)
-d) All of these
-
-28. Identify the compound 'Z' in the following reaction
-
-\[
-\mathrm{C_2H_6O \xrightarrow{Al_2O_3} X \xrightarrow{O_3} Y \xrightarrow{Zn/H_2O} (Z)}
-\]
-
-a) Formaldehyde
-b) Acetaldehyde
-c) Formic acid
-d) none of these
-
-29. Peroxide effect (Kharasch effect) can be studied in case of
-
-a) Oct-4-ene
-b) hex-3-ene
-c) pent-1-ene
-d) but-2-ene
-
-30. 2-butyne on chlorination gives
-
-a) 1-chloro butane
-b) 1,2-dichloro butane
-c) 1,1,2,2-tetrachlorobutane
-d) 2,2,3,3-tetrachlorobutane
-
-## II. Write brief answer to the following questions.
-
-31. Give IUPAC names for the following compounds
-
-1) \( \mathrm{CH_3-CH=CH-CH=CH-C \equiv C-CH_3} \)
-
-2) \( \mathrm{CH_3-C \equiv C-C=CH_2} \) with \( \mathrm{CH_3} \) and \( \mathrm{C_2H_5} \)
-
-3) ethyl isopropyl acetylene
-
-4) \( \mathrm{CH \equiv C-C \equiv C-C \equiv CH} \)
-
-32. Identify the compounds A, B, C and D in the following series of reactions.
-
-33. Write short notes on ortho, para directors in aromatic electrophilic substitution reactions.
-
-34. How is propyne prepared from an alkyne dihalide?
-
-35. An alkyl halide with molecular formula \( \mathrm{C_6H_{13}Br} \) on dehydrohalogenation gave two isomeric alkenes X and Y with molecular formula \( \mathrm{C_6H_{12}} \). On reductive ozonolysis, X and Y gave four compounds \( \mathrm{CH_3COCH_3} \), \( \mathrm{CH_3CHO} \), \( \mathrm{CH_3CH_2CHO} \) and \( \mathrm{(CH_3)_2CHCHO} \). Find the alkyl halide.
-
-36. Describe the mechanism of Nitration of benzene.
-
-37. How does Hückel rule help to decide the aromatic character of a compound?
-
-38. Suggest the route for the preparation of the following from benzene.
-
-1) 3-chloronitrobenzene
-2) 4-chlorotoluene
-3) Bromobenzene
-4) m-dinitrobenzene
-
-39. Suggest a simple chemical test to distinguish propane and propene.
-
-40. What happens when isobutylene is treated with acidified potassium permanganate?
-
-41. How will you convert ethyl chloride into
-
-i) ethane
-ii) n-butane
-
-42. Describe the conformers of n-butane.
-
-43. Write the chemical equations for combustion of propane.
-
-44. Explain Markovnikov's rule with suitable example.
-
-45. What happens when ethylene is passed through cold dilute alkaline potassium permanganate?
-
-46. Write the structures of following alkanes.
-
-1) 2,3-Dimethyl-6-(2-methyl propyl) decane
-2) 5-(2-Ethyl butyl)-3-dimethyldecane
-3) 5-(1,2-Dimethyl propyl)-2-methylnonane
-
-47. How will you prepare propane from a sodium salt of fatty acid?
-
-48. \( \mathrm{CH_3-CH(CH_3)-CH(OH)-CH_3} \)
-
-49. Complete the following reactions.
-
-50. How will you distinguish 1-butyne and 2-butyne?

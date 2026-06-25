@@ -9,6 +9,28 @@ summary: "This unit introduces the basic principles of organic chemistry, includ
 
 # 11. Fundamentals of Organic Chemistry
 
+![](image.png)
+**Friedrich Wöhler** , was a
+German pioneer in organic
+chemistry. He is best known
+for his synthesis of urea an
+the organic compound from
+the inorganic compound,
+ammonium cyanate. This
+finding went against the
+mainstream theory of that
+time called vitalism which
+stated that organic matter
+possessed a special force
+or vital force inherent to
+all living things. He is also
+the first to isolate several
+chemical elements. He is the
+discoverer of the element
+aluminum and also the
+co-discoverer of yttrium,
+beryllium, and titanium. 
+
 ## 11.1 Introduction
 
 Organic chemistry is the study of compounds of carbon. Carbon has a tendency to form more compounds with itself and other atoms (H, O, N, S and halogens) than any other elements. The tendency of an atom to form a chain of bonds with the atoms of the same element is called catenation. The high strength of C-C bond is responsible for its catenation property.
@@ -61,13 +83,25 @@ ii) \( \mathrm{CH_3 - CH_2 - CH_2 - CH_2 - CH} \)
 
 **Solutions:**
 
-(i) Unsaturated open chain compound (ii) saturated open chain compound (iii) aromatic benzenoid compound (iv) alicyclic compound
+(i) Unsaturated open chain compound
+
+(ii) saturated open chain compound
+ 
+(iii) aromatic benzenoid compound 
+  
+(iv) alicyclic compound
 
 ### Evaluate Yourself
 
 1) Give two examples for each of the following type of organic compounds.
 
-(i) non-benzonoid aromatic, (ii) aromatic heterocyclic, (iii) alicyclic and (iv) aliphatic open chain.
+(i) non-benzonoid aromatic,
+
+(ii) aromatic heterocyclic,
+
+(iii) alicyclic 
+
+(iv) aliphatic open chain.
 
 ### 11.2.2 Classification based on functional groups:
 
@@ -229,9 +263,10 @@ The following are guide lines for writing IUPAC of the organic compound.
 
 **Table 11.6 Rules for naming of alicyclic compounds:**
 
-<center>{{< figure src="11.6(1).png" width="200" >}}</center>
-<center>{{< figure src="C11.6(2).png" width="200" >}}</center>
-<center>{{< figure src="11.6(3).png" width="200" >}}</center>
+<center>{{< figure src="11.6(1).png" width="300" >}}</center>
+<center>{{< figure src="11.6(2).png" width="300" >}}</center>
+<center>{{< figure src="11.6(3).png" width="300" >}}</center>
+
 ### Evaluate Yourself
 
 2) Write structural formula for the following compounds (i) Cyclohexa-1,4-diene (ii) Ethynyl cyclohexane
@@ -263,8 +298,6 @@ Para - opposite; represented as - p
 **Aromatic compounds are basically of two types:**
 
 1. Nuclear substituted aromatic compounds: These are the compounds in which the functional group is directly attached to the benzene ring. They are named as derivatives of benzene.
-
-Example: 1-chloro-3-methylbenzene (m-chlorotoluene)
 
 <center>{{< figure src="Aromatic compounds.png" width="200" >}}</center>
 
@@ -353,7 +386,7 @@ In this method the molecules are viewed from the front along the carboncarbon bo
 
 The term 'isomerism' was given by Berzelius, and its represents of existence of two or more compounds with the same molecular formula but different structure and properties (physical, chemical, or both). Compounds exhibiting this isomerism are called isomers. The difference in properties of two isomers is due to difference in (bond connectivity or spatial arrangement) the arrangement of atoms within their molecules. Isomerism is broadly divided into two types. i. Constitutional isomerism, ii. stereoisomerism.
 
-<center>{{< figure src="f11.5.png" width="200" >}}</center>
+<center>{{< figure src="11.5.png" width="200" >}}</center>
 
 ### 11.5.1 Constitutional isomers (Formerly structural isomers):
 
@@ -503,6 +536,8 @@ When it melts to a shining globule, put a pinch of the organic compound on it. H
 
 Incase if both N & S are present, a blood red colour is obtained due to the following reactions.
 
+![](image-1.png)
+
 **Test for Sulphur:**
 
 a) To a portion of the Lassaigne's extract, add freshly prepared sodium nitro prusside solution. A deep violet or purple colouration is obtained. This test is also used to detect \( \mathrm{S^{2-}} \) in inorganic salt analysis.
@@ -641,6 +676,8 @@ Weight of \( \mathrm{CO_2} \) \( = 0.245\mathrm{g} \)
 
 **Carius method:** A known mass of the organic substance is heated strongly with fuming \( \mathrm{HNO_3} \). C & H get oxidized to \( \mathrm{CO_2} \) & \( \mathrm{H_2O} \) while sulphur is oxidized to sulphuric acid as per the following reaction.
 
+![](image-2.png)
+
 The resulting solution is treated with excess of \( \mathrm{BaCl_2} \) solution. \( \mathrm{H_2SO_4} \) present in the solution is quantitatively converted into \( \mathrm{BaSO_4} \). From the mass of \( \mathrm{BaSO_4} \), the mass of sulphur and hence the percentage of sulphur in the compound can be calculated.
 
 **Procedure:**
@@ -663,6 +700,18 @@ Weight of \( \mathrm{BaSO_4} \) 0.5825 g
 \( 0.5825\mathrm{g} \) of \( \mathrm{BaSO_4} \) contains \( \frac{32}{233}\times 0.5825 \)
 Percentage of \( \mathrm{S} = \frac{32}{233}\times \frac{0.5825}{0.2175}\times 100 \)
 \( = 36.78\% \)
+
+**Evaluate Yourself**
+
+ 6) 0.16 g of an organic compound was
+heated in a carius tube and H2
+SO4
+ acid
+formed was precipitated with BaCl2
+.
+The mass of BaSO4
+ was 0.35g. Find the
+percentage of sulphur 
 
 **Estimation of halogens: Carius method:** A known mass of the organic compound is heated with fuming \( \mathrm{HNO_3} \) and \( \mathrm{AgNO_3} \). C, H & S get oxidized to \( \mathrm{CO_2} \), \( \mathrm{H_2O} \) & \( \mathrm{SO_2} \) and halogen combines with \( \mathrm{AgNO_3} \) to form a precipitate of silver halide.
 
@@ -702,6 +751,19 @@ Weight of \( \mathrm{AgCl} \) is \( = 0.287\mathrm{g} \)
 \( 143.5 \) g of \( \mathrm{AgCl} \) contains \( 35.5 \) g of chlorine
 \( 0.287 \) g of \( \mathrm{AgCl} \) contains \( \frac{35.5}{143.5}\times 0.287 \)
 % of chlorine is \( \frac{35.5}{143.5}\times \frac{0.287}{0.284}\times 100 = 24.98\% \)
+
+**Evaluate Yourself**
+
+7) 0.185 g of an organic compound when
+treated with Conc. HNO3 and silver nitrate
+gave 0.320 g of silver bromide. Calculate
+the % of bromine in the compound. (Ag
+=108, Br = 80) Ans: 73.6
+8) 0.40 g of an iodo-substituted organic
+compound gave 0.235 g of AgI by carius
+method. Calculate the percentage of
+iodine in the compound. (Ag = 108,
+I = 127) (Ans = 31.75)
 
 ### Estimation of phosphorus:
 
@@ -872,6 +934,13 @@ Percentage of nitrogen =
 = 21.90\%
 \]
 
+**Do You Know**
+
+Dumas method is a high
+precision method and is
+generally preferred over
+Kjeldahl's method.
+
 #### Kjeldahl's method:
 
 This method is carried much more easily than the Dumas method. It is used largely in the analysis of foods and fertilizers. Kjeldahl's method is based on the fact that when an organic compound containing nitrogen is heated with Conc. \( \mathrm{H_2SO_4} \) the nitrogen in it is quantitatively converted to ammonium sulphate. The resultant liquid is then treated with excess of alkali and then liberated ammonia gas absorbed in excess of standard acid. The amount of ammonia (and hence nitrogen) is determined by finding the amount of acid neutralized by back titration with same standard alkali.
@@ -941,6 +1010,8 @@ Percentage of Nitrogen \( = \frac{0.166}{0.6}\times 100 = 27.66\% \)
 ### Need for purification:
 
 In order to study the structure, physical properties, chemical properties and biological properties of organic compounds they must be in the pure state. There are several methods by which organic compounds can be purified. The methods employed for purification depend upon the nature of impurity and the nature of organic compound. The most widely used technique for the separation and purification of organic compounds are: (a) Crystallisation, (b) Sublimation (c) Distillation (d) Fractional distillation (e) Steam distillation (f) Azeotropic distillation (g) Differential extraction and (h) Chromatography.
+
+![](image-3.png)
 
 ### 11.8.1 Sublimation:
 
@@ -1023,257 +1094,3 @@ The spots of colored compounds are visible on TLC plate due to their original co
 **Partition chromatography:** Paper chromatography (PC) is an example of partition chromatography. The same procedure is followed as in thin layer chromatography except that a strip of paper acts as an adsorbent. This method involves continues differential portioning of components of a mixture between stationary and mobile phase. In paper chromatography, a special quality paper known as chromatography paper is used. This paper act as a stationary phase.
 
 A strip of chromatographic paper spotted at the base with the solution of the mixture is suspended in a suitable solvent which act as the mobile phase. The solvent rises up and flows over the spot. The paper selectively retains different components according to their different partition in the two phases where a chromatogram is developed. The spots of the separated colored compounds are visible at different heights from the position of initial spots on the chromatogram. The spots of the separated colorless compounds may be observed either under ultraviolet light or by the use of an appropriate spray reagent.
-
-## Evaluation
-
-### I. Choose the best answer.
-
-1. Select the molecule which has only one \( \pi \) bond.
-   a) \( \mathrm{CH_3 - CH = CH - CH_3} \)
-   b) \( \mathrm{CH_3 - CH = CH - CHO} \)
-   c) \( \mathrm{CH_3 - CH = CH - COOH} \)
-   d) All of these
-
-2. In the hydrocarbon \( \mathrm{CH_3 - CH_2 - CH = CH - CH_2 - CH_2 - CH} \) the state of hybridisation of carbon 1,2,3,4 and 7 are in the following sequence.
-   a) sp, sp, sp, sp, sp
-   b) sp, sp, sp, sp, sp
-   c) sp, sp, sp, sp, sp
-   d) none of these
-
-3. The general formula for alkadiene is
-   a) \( \mathrm{C_nH_{2n}} \)
-   b) \( \mathrm{C_nH_{2n-1}} \)
-   c) \( \mathrm{C_nH_{2n-2}} \)
-   d) \( \mathrm{C_nH_{2n-2}} \)
-
-4. Structure of the compound whose IUPAC name is 5,6-dimethylhept-2-ene is
-<center>{{< figure src="Q(4).png" width="200" >}}</center>
-
-5. The IUPAC name of the Compound is
-<center>{{< figure src="Q(5).png" width="200" >}}</center>
-   a) 2,3-Diethylheptane
-   b) 3-Methyl-4-ethyloctane
-   c) 5-ethyl-6-methyloctane
-   d) 4-Ethyl-3-methyloctane.
-
-6. Which one of the following names does not fit a real name?
-   a) 3-Methyl-3-hexane
-   b) 4-Methyl-3-hexane
-   c) 3-Methyl-3-hexanol
-   d) 2-Methyl cyclohexane.
-
-7. The IUPAC name of the compound \( \mathrm{CH_3 - CH = CH - C \equiv CH} \) is
-   a) Pent-4-yn-2-ene
-   b) Pent-3-en-1-yne
-   c) Pent-2-en-4-yne
-   d) Pent-1-yn-3-ene
-
-8. IUPAC name of \( \mathrm{CH_3 - C - C - CH_3} \) is
-   a) 3,4,4-Trimethylheptane
-   b) 2-Ethyl-3,3-dimethyl heptane
-   c) 3,4,4-Trimethyloctane
-   d) 2-Butyl-2-methyl-3-ethyl-butane.
-
-9. The IUPAC name of \( \mathrm{CH_3C - C - CH = CH(CH_3)_2} \) is
-   a) 2,4,4-Trimethylpent-2-ene
-   b) 2,4,4-Trimethylpent-3-ene
-   c) 2,2,4-Trimethylpent-3-ene
-   d) 2,2,4-Trimethylpent-2-ene
-
-10. The IUPAC name of the compound \( \mathrm{CH_3 - CH = C - CH_2 - CH_3} \) is
-    a) 3-Ethyl-2-hexene
-    b) 3-Propyl-3-hexene
-    c) 4-Ethyl-4-hexene
-    d) 3-Propyl-2-hexene
-
-11. The IUPAC name of the compound \( \mathrm{CH_3 - CH = CH - CH} \) with OH group is
-    a) 2-Hydroxypropionic acid
-    b) 2-Hydroxy Propanoic acid
-    c) Propan-2-ol-1-oic acid
-    d) 1-Carboxyethanol.
-
-12. The IUPAC name of the compound \( \mathrm{CH_3 - CH - CH - COOH} \) with Br and CH\(_3\) groups is
-    a) 2-Bromo-3-methyl butanoic acid
-    b) 2-methyl-3-bromobutanoic acid
-    c) 3-Bromo-2-methylbutanoic acid
-    d) 3-Bromo-2,3-dimethyl propanoic acid.
-
-13. The structure of isobutyl group in an organic compound is
-    a) \( \mathrm{CH_3 - CH_2 - CH_2 - CH_2 -} \)
-
-14. The number of stereoisomers of 1,2-dihydroxycyclopentane
-    a) 1
-    b) 2
-    c) 3
-    d) 4
-
-15. Which of the following is optically active?
-    a) 3-Chloropentane
-    b) 2-Chloropropane
-    c) Meso-tartaric acid
-    d) Glucose
-
-16. The isomer of ethanol is
-    a) acetaldehyde
-    b) dimethylether
-    c) acetone
-    d) methyl carblinol
-
-17. How many cyclic and acyclic isomers are possible for the molecular formula \( \mathrm{C_3H_6O} \)?
-    a) 4
-    b) 5
-    c) 9
-    d) 10
-
-18. Which one of the following shows functional isomerism?
-    a) ethylene
-    b) Propane
-    c) ethanol
-    d) \( \mathrm{CH_2Cl_2} \)
-
-19. \( \mathrm{CH_2 - C - CH_3} \) and \( \mathrm{CH_2 = C - CH_3} \) are
-    a) resonating structure
-    b) tautomers
-    c) Optical isomers
-    d) Conformers.
-
-20. Nitrogen detection in an organic compound is carried out by Lassaigne's test. The blue colour formed is due to the formation of.
-    a) \( \mathrm{Fe_3[Fe(CN)_6]_2} \)
-    b) \( \mathrm{Fe_4[Fe(CN)_6]_3} \)
-    c) \( \mathrm{Fe_4[Fe(CN)_6]_2} \)
-    d) \( \mathrm{Fe_3[Fe(CN)_6]_3} \)
-
-21. Lassaigne's test for the detection of nitrogen fails in
-    a) \( \mathrm{H_2N - CO - NH_2NH_2HCl} \)
-    b) \( \mathrm{NH_2 - NH_2HCl} \)
-    c) \( \mathrm{C_6H_5 - NH - NH_2HCl} \)
-    d) \( \mathrm{C_6H_5} \)
-
-22. Connect pair of compounds which give blue colouration/precipitate and white precipitate respectively, when their Lassaigne's test is separately done.
-    a) \( \mathrm{NH_2NH_2HCl} \) and \( \mathrm{ClCH_2 - CHO} \)
-    b) \( \mathrm{NH_2CSNH_2} \) and \( \mathrm{CH_3 - CH_2Cl} \)
-    c) \( \mathrm{NH_2CH_2COOH} \) and \( \mathrm{NH_2CONH_2} \)
-    d) \( \mathrm{C_6H_5NH_2} \) and \( \mathrm{ClCH_2 - CHO} \)
-
-23. Sodium nitropruside reacts with sulphide ion to give a purple colour due to the formation of
-    a) \( \mathrm{[Fe(CN)_5NO]^{3-}} \)
-    b) \( \mathrm{[Fe(NO)_5CN]^+} \)
-    c) \( \mathrm{[Fe(CN)_5NOS]^{4-}} \)
-    d) \( \mathrm{[Fe(CN)_5NOS]^{3-}} \)
-
-24. An organic Compound weighing \( 0.15\mathrm{g} \) gave on carius estimation, \( 0.12\mathrm{g} \) of silver bromide. The percentage of bromine in the Compound will be close to
-    a) \( 46\% \)
-    b) \( 34\% \)
-    c) \( 3.4\% \)
-    d) \( 4.6\% \)
-
-25. A sample of \( 0.5\mathrm{g} \) of an organic compound was treated according to Kjeldahl's method. The ammonia evolved was absorbed in \( 50\mathrm{mL} \) of \( 0.5\mathrm{M} \mathrm{H_2SO_4} \). The remaining acid after neutralisation by ammonia consumed \( 80\mathrm{mL} \) of \( 0.5\mathrm{M} \mathrm{NaOH} \). The percentage of nitrogen in the organic compound is.
-    a) \( 14\% \)
-    b) \( 28\% \)
-    c) \( 42\% \)
-    d) \( 56\% \)
-
-26. In an organic compound, phosphorus is estimated as
-    a) \( \mathrm{Mg_2P_2O_7} \)
-    b) \( \mathrm{Mg_3(PO_4)_2} \)
-    c) \( \mathrm{H_3PO_4} \)
-    d) \( \mathrm{P_2O_5} \)
-
-27. Ortho and para-nitrophenol can be separated by
-    a) azeotropic distillation
-    b) destructive distillation
-    c) steam distillation
-    d) cannot be separated
-
-28. The purity of an organic compound is determined by
-    a) Chromatography
-    b) Crystallisation
-    c) melting or boiling point
-    d) both (a) and (c)
-
-29. A liquid which decomposes at its boiling point can be purified by
-    a) distillation at atmospheric pressure
-    b) distillation under reduced pressure
-    c) fractional distillation
-    d) steam distillation.
-
-30. Assertion: \( \mathrm{CH_3 - C = CH - COOH} \) is \( \mathrm{COOC_2H_5} \) 3-carbethoxy-2-butenoic acid.
-    Reason: The principal functional group gets lowest number followed by double bond (or) triple bond.
-    a) both the assertion and reason are true and the reason is the correct explanation of assertion.
-    b) both assertion and reason are true and the reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false
-    d) both the assertion and reason are false.
-
-### II. Write brief answer to the following questions.
-
-31. Give the general characteristics of organic compounds?
-
-32. Describe the classification of organic compounds based on their structure.
-
-33. Write a note on homologous series.
-
-34. What is meant by a functional group? Identify the functional group in the following compounds.
-    (a) acetaldehyde
-    (b) oxalic acid
-    (c) di methyl ether
-    (d) methylamine
-
-35. Give the general formula for the following classes of organic compounds
-    (a) Aliphatic monohydric alcohol
-    (b) Aliphatic ketones.
-    (c) Aliphatic amines.
-
-36. Write the molecular formula of the first six members of homologous series of nitro alkanes.
-
-37. Write the molecular and possible structural formula of the first four members of homologous series of carboxylic acids.
-
-38. Give the IUPAC names of the following compounds.
-    (i) \( \mathrm{(CH_3)_2CH - CH_2 - CH(CH_3) - CH(CH_3)_2} \)
-    (ii) \( \mathrm{CH_3 - CH - CH - CH_3} \)
-    (iii) \( \mathrm{CH_3Br} \)
-    (iv) \( \mathrm{CH_3 - O - CH_3} \)
-    (v) \( \mathrm{CH_3 - CH_2 - CH - CH - CHO} \) with OH group
-    (vi) \( \mathrm{CH_2 = CH - CH = CH_2} \)
-    (vii) \( \mathrm{CH_3 - C = C - CH - CH_3} \) with Cl
-    <center>{{< figure src="Q(8).png" width="200" >}}</center>
-    <center>{{< figure src="Q(8-1).png" width="200" >}}</center>
-
-39) Give the structure for the following compound.
-    (i) 3-ethyl-2-methyl-1-pentene
-    (ii) 1,3,5-Trimethyl cyclohex-1-ene
-    (iii) tertiary butyl iodide
-    (iv) 3-Chlorobutanal
-    (v) 3-Chlorobutanol
-    (vi) 2-Chloro-2-methyl propane
-    (vii) 2,2-dimethyl-1-chloropropane
-    (viii) 3-methylbut-1-ene
-    (ix) Butan-2,2-diol
-    (x) Octane-1,3-diene
-    (xi) 1,3-Dimethylcyclohexane
-    (xii) 3-Chlorobut-1-ene
-    (xiii) 3-methylbutan-2-ol
-    (xiv) acetaldehyde
-
-40) Describe the reactions involved in the detection of nitrogen in an organic compound by Lassaigne method.
-
-41) Give the principle involved in the estimation of halogen in an organic compound by carius method.
-
-42) Give a brief description of the principles of i) Fractional distillation ii) Column Chromatography
-
-43) Explain paper chromatography
-
-44) Explain various types of constitutional isomerism (structural isomerism) in organic compounds
-
-45) Describe optical isomerism with suitable example.
-
-46) Briefly explain geometrical isomerism in alkene by considering 2-butene as an example.
-
-47) 0.30 g of a substance gives 0.88 g of carbon dioxide and 0.54 g of water calculate the percentage of carbon and hydrogen in it.
-
-48) The ammonia evolved form 0.20 g of an organic compound by kjeldahl method neutralised 15ml of N/20 sulphate acid solution. Calculate the percentage of Nitrogen.
-
-49) 0.32 g of an organic compound, after heating with fuming nitric acid and barium nitrate crystals in a sealed tube gave 0.466 g of barium sulphate. Determine the percentage of sulphur in the compound.
-
-50) 0.24g of an organic compound gave 0.287 g of silver chloride in the carius method. Calculate the percentage of chlorine in the compound.
-
-51) In the estimation of nitrogen present in an organic compound by Dumas method 0.35 g yielded 20.7 mL of nitrogen at 150°C and 760 mm pressure. Calculate the percentage of nitrogen in the compound

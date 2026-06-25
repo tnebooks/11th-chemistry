@@ -9,6 +9,8 @@ summary: "This unit explains the composition of the environment and the impact o
 
 # 15. Environmental Chemistry
 
+![](image.png)
+
 The Nobel Prize in chemistry 2005 was awarded jointly to Yves Chauvin, Robert H. Grubbs and Richard R. Schrock for the development of new chemicals based on Green chemistry.
 
 In 1971 Yves Chauvin explained the types of metal compound that act as catalysts in the reactions. Richard Schrock was the first to produce efficient metal compound catalysts for metathesis in 1990. Two years later Robert Grubbs developed better catalysts, stable in air that was highlighted in many applications.
@@ -64,6 +66,8 @@ Lithosphere includes soil, rocks and mountains which are solid components of ear
 **iii) Biosphere:**
 
 It includes the lithosphere, hydrosphere and atmosphere integrating the living organism present in the lithosphere, hydrosphere and atmosphere.
+
+![](image-1.png)
 
 ### 15.3 Types of environmental pollution
 
@@ -282,8 +286,12 @@ Chemically it is reducing in nature because of high concentration of \( \mathrm{
 **Effects of classical smog:**
 
 a. Smog is primarily responsible for acid rain.
+
 b. Smog results in poor visibility and it affects air and road transport.
+
 c. It also causes bronchial irritation.
+
+**Do You Know**
 
 **Great London Smog**
 
@@ -685,193 +693,3 @@ The strategies for controlling environmental pollution are called waste manageme
 **Green chemistry**
 
 Efforts to control environmental pollution resulted in development of science for synthesis of chemicals favorable to environment which is called green chemistry. Green chemistry means science of environmentally favorable chemical synthesis.
-
-### Evaluation
-
-#### I. Choose the best answer.
-
-1. The gaseous envelope around the earth is known as atmosphere. The region lying between altitudes of 11-50 km is
-
-a) Troposphere
-b) Mesosphere
-c) Thermosphere
-d) Stratosphere
-
-2. Which of the following is natural and human disturbance in ecology?
-
-a) Forest fire
-b) Floods
-c) Acid rain
-d) Green house effect
-
-3. Bhopal Gas Tragedy is a case of
-
-a) thermal pollution
-b) air pollution
-c) nuclear pollution
-d) land pollution
-
-4. Haemoglobin of the blood forms carboxy haemoglobin with
-
-a) Carbon dioxide
-b) Carbon tetrachloride
-c) Carbon monoxide
-d) Carbonic acid
-
-5. Which sequence for greenhouse gases is based on GWP?
-
-a) \( \mathrm{CFC} > \mathrm{N}_2\mathrm{O} > \mathrm{CO}_2 > \mathrm{CH}_4 \)
-b) \( \mathrm{CFC} > \mathrm{CO}_2 > \mathrm{N}_2\mathrm{O} > \mathrm{CH}_4 \)
-c) \( \mathrm{CFC} > \mathrm{N}_2\mathrm{O} > \mathrm{CH}_4 > \mathrm{CO}_2 \)
-d) \( \mathrm{CFC} > \mathrm{CH}_4 > \mathrm{N}_2\mathrm{O} > \mathrm{CO}_2 \)
-
-6. Photochemical smog formed in congested metropolitan cities mainly consists of
-
-a) Ozone, \( \mathrm{SO}_2 \) and hydrocarbons
-b) Ozone, PAN and \( \mathrm{NO}_2 \)
-c) PAN, smoke and \( \mathrm{SO}_2 \)
-d) Hydrocarbons, \( \mathrm{SO}_2 \) and \( \mathrm{CO}_2 \)
-
-7. The pH of normal rain water is
-
-a) 6.5
-b) 7.5
-c) 5.6
-d) 4.6
-
-8. Ozone depletion will cause
-
-a) forest fires
-b) eutrophication
-c) biomagnification
-d) global warming
-
-9. Identify the wrong statement in the following
-
-a) The clean water would have a BOD value of more than 5 ppm
-b) Greenhouse effect is also called as Global warming
-c) Minute solid particles in air is known as particulate pollutants
-d) Biosphere is the protective blanket of gases surrounding the earth
-
-10. Living in the atmosphere of CO is dangerous because it
-
-a) Combines with \( \mathrm{O}_2 \) present inside to form \( \mathrm{CO}_2 \)
-b) Reduces organic matter of tissues
-c) Combines with haemoglobin and makes it incapable to absorb oxygen
-d) Dilutes the blood
-
-11. Release of oxides of nitrogen and hydrocarbons into the atmosphere by motor vehicles is prevented by using
-
-a) grit chamber
-b) scrubbers
-c) trickling filters
-d) catalytic converters
-
-12. Biochemical Oxygen Demand value less than \(5\mathrm{ppm}\) indicates a water sample to be
-
-a) highly polluted
-b) poor in dissolved oxygen
-c) rich in dissolved oxygen
-d) low COD
-
-13. Match the List I with List II and select the correct answer using the code given below the lists
-
-| List I | List II |
-|---|---|
-| A. Depletion of ozone layer | 1. \( \mathrm{CO}_2 \) |
-| B. Acid rain | 2. NO |
-| C. Photochemical smog | 3. \( \mathrm{SO}_2 \) |
-| D. Greenhouse effect | 4. CFC |
-
-Code:
-A B C D
-a) 3 4 1 2
-b) 2 1 4 3
-c) 4 3 2 1
-d) 2 4 1 3
-
-14. Match the List I with List II
-
-| List I | List II |
-|---|---|
-| A. Stone leprosy | 1. CO |
-| B. Biological magnification | 2. Greenhouse gases |
-| C. Global warming | 3. Acid rain |
-| D. Combination with haemoglobin | 4. DDT |
-
-**Questions 15-17: The questions given below consist of an assertion and a reason. Choose the correct option out of the choices given below each question**
-
-i) Both (A) and (R) are correct and (R) is the correct explanation of (A)
-ii) Both (A) and (R) are correct and (R) is not the correct explanation of (A)
-iii) Both (A) and (R) are not correct
-iv) (A) is correct but (R) is not correct
-
-15. Assertion (A): If BOD level of water in a reservoir is more than \(5\mathrm{ppm}\) it is highly polluted.
-    Reason (R): High biological oxygen demand means high activity of bacteria in water.
-
-a) i
-b) ii
-c) iii
-d) iv
-
-16. Assertion (A): Excessive use of chlorinated pesticide causes soil and water pollution.
-    Reason (R): Such pesticides are non-biodegradable.
-
-a) i
-b) ii
-c) iii
-d) iv
-
-17. Assertion (A): Oxygen plays a key role in the troposphere.
-    Reason (R): Troposphere is not responsible for all biological activities.
-
-a) i
-b) ii
-c) iii
-d) iv
-
-#### II. Write brief answer to the following questions.
-
-18. Dissolved oxygen in water is responsible for aquatic life. What processes are responsible for the reduction in dissolved oxygen in water?
-
-19. What would happen, if the greenhouse gases were totally missing in the earth's atmosphere?
-
-20. Define smog.
-
-21. Which is considered to be earth's protective umbrella? Why?
-
-22. What are degradable and non-degradable pollutants?
-
-23. From where does ozone come in the photochemical smog?
-
-24. A person was using water supplied by corporation. Due to shortage of water he started using underground water. He felt laxative effect. What could be the cause?
-
-25. What is green chemistry?
-
-26. Explain how does greenhouse effect cause global warming.
-
-27. Mention the standards prescribed by BIS for quality of drinking water.
-
-28. How does classical smog differ from photochemical smog?
-
-29. What are particulate pollutants? Explain any three.
-
-30. Even though the use of pesticides increases the crop production, they adversely affect the living organisms. Explain the function and the adverse effects of the pesticides.
-
-31. Ethane burns completely in air to give \( \mathrm{CO}_2 \), while in a limited supply of air gives CO. The same gases are found in automobile exhaust. Both CO and \( \mathrm{CO}_2 \) are atmospheric pollutants.
-
-i) What is the danger associated with these gases?
-ii) How do the pollutants affect the human body?
-
-32. On the basis of chemical reactions involved, explain how do CFC's cause depletion of ozone layer in stratosphere?
-
-33. How is acid rain formed? Explain its effect.
-
-34. Differentiate the following
-
-(i) BOD and COD
-(ii) Viable and non-viable particulate pollutants
-
-35. Explain how oxygen deficiency is caused by carbon monoxide in our blood. Give its effect.
-
-36. What are the various methods you suggest to protect our environment from pollution?
