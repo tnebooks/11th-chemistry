@@ -1,8 +1,9 @@
 ---
-title: 'அறிவியல்'
+title: 'வேதியியல்'
 categories:
     - science
+    - chemistry
 weight: 1
 --- 
 
-அறிவியல்
+வேதியியல்

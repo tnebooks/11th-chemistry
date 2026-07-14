@@ -1,7 +1,6 @@
 ---
 choices:
   - "R-CHO"
-  - "R-CHO"
   - "R-O-R"
 answers:
   - "R-OH"
