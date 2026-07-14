@@ -1,8 +1,9 @@
 ---
-title: 'Science'
+title: 'Chemistry'
 categories:
     - science
+    - chemistry
 weight: 1
 --- 
 
-Science
+Chemistry
