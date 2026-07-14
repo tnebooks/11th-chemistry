@@ -2,7 +2,6 @@
 choices:
   - "CₙH₂ₙ"
   - "CₙH₂ₙ₋₁"
-  - "CₙH₂ₙ₋₂"
 answers:
   - "CₙH₂ₙ₋₂"
 ---
